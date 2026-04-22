@@ -52,8 +52,8 @@ namespace Content.Client._OpenSpace.Administration
     public sealed class ToggleDoorsCommand : IConsoleCommand
     {
         public string Command => "toggledoors";
-        public string Description => "Делает стены и двери прозрачными (30%).";
-        public string Help => "toggledoors";
+        public string Description => Loc.GetString("cmd-toggledoors-desc");
+        public string Help => Loc.GetString("cmd-toggledoors-help");
 
         public void Execute(IConsoleShell shell, string argStr, string[] args)
         {
