@@ -1,5 +1,6 @@
 using System.Numerics;
 using Content.Shared._Starfall.Particles;
+using Content.Client._Starfall.Particles;
 using Content.Shared.CCVar;
 using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
