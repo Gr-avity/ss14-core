@@ -10,13 +10,10 @@ using Robust.Shared.Prototypes;
 
 namespace Content.Client._Starfall.Particles;
 
-/// <summary>
-/// Client-side system that listens for events and spawns particles based on <see cref="ParticleOnEventComponent"/>
-/// </summary>
 public sealed class ParticleOnEventSystem : EntitySystem
 {
     [Dependency] private readonly ParticleSystem _particles = default!;
-    // [Dependency] private readonly SharedTransformSystem _transform = default!; // open space-edit
+    // [Dependency] private readonly SharedTransformSystem _transform = default!; open space-edit
     [Dependency] private readonly IPrototypeManager _proto = default!;
 
     // Track emitters spawned by OnThrown so we can stop them when the entity lands
@@ -108,6 +105,15 @@ public sealed class ParticleOnEventSystem : EntitySystem
     private void OnGunShotProjectile(Entity<ParticleOnGunShotProjectileComponent> ent, ref AmmoShotEvent args)
     {
         // Infinite-duration allowed: the emitter is cleaned up when the projectile is destroyed.
+
+        // open space-edit start
+        if (!_proto.HasIndex(ent.Comp.Effect))
+        {
+            Log.Error($"ParticleOnGunShotProjectile references unknown effect '{ent.Comp.Effect}'");
+            return;
+        }
+        // open space-edit stop
+
         foreach (var projectile in args.FiredProjectiles)
         {
             _particles.CreateParticle(ent.Comp.Effect, projectile, ent.Comp.ColorOverride);
@@ -118,10 +124,17 @@ public sealed class ParticleOnEventSystem : EntitySystem
         => Spawn(ent.Comp, ent.Owner);
 
     private void OnProjectileHitOther(Entity<ParticleOnProjectileHitOtherComponent> ent, ref ProjectileHitEvent args)
-        => Spawn(ent.Comp, args.Target);
+    {
+        if (!args.Target.Valid) // open space-edit
+            return;
+        Spawn(ent.Comp, args.Target);
+    }
 
     private void Spawn(ParticleOnEventBase comp, EntityUid target)
     {
+        if (!target.Valid) // open space-edit
+            return;
+
         if (!_proto.TryIndex(comp.Effect, out var proto))
         {
             Log.Error($"ParticleOnEvent references unknown effect '{comp.Effect}'");
