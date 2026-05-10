@@ -1,81 +1,4 @@
 Entries:
-- author: Caws
-  changes:
-  - message: (Saltern) Duplicate air sensor in the TEG chamber.
-    type: Fix
-  id: 404466
-  time: '2026-04-21T11:18:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4220
-- author: Caws
-  changes:
-  - message: '(Saltern) Fixed AI Vision across the entire station. Some new camera include: Arrivals, Cryosleep, Evac, and actually being able to see the Main Engine chamber, and more.'
-    type: Fix
-  id: 404467
-  time: '2026-04-21T11:18:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4220
-- author: Caws
-  changes:
-  - message: (Saltern) Added an Entertainment Server so that TVs and cameras actually work.
-    type: Fix
-  id: 404468
-  time: '2026-04-21T11:18:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4220
-- author: Caws
-  changes:
-  - message: Chemmaster and chemical dispenser from Brigmed.
-    type: Remove
-  id: 404469
-  time: '2026-04-21T11:18:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4220
-- author: Caws
-  changes:
-  - message: Extra forensic scanner from Security.
-    type: Remove
-  id: 404470
-  time: '2026-04-21T11:18:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4220
-- author: Conflee
-  changes:
-  - message: Changed sprites for the Nuclear Centrifuge for licensing, and added new sprites for the Nuclear Fabricator so it doesn't look like a generic protolathe anymore.
-    type: Tweak
-  id: 404471
-  time: '2026-04-21T11:18:09.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4221
-- author: Conflee
-  changes:
-  - message: Fixed typo in Syndicate Dead Drop announcement.
-    type: Fix
-  id: 404472
-  time: '2026-04-21T11:54:15.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4213
-- author: Caws
-  changes:
-  - message: Arachnids now have their 2 extra web pockets back.
-    type: Fix
-  id: 404473
-  time: '2026-04-21T12:17:23.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4212
-- author: redmushie, Roro
-  changes:
-  - message: All hardsuit and helmet lights now have 5 or more tiles of range. See PR for full list.
-    type: Tweak
-  id: 404474
-  time: '2026-04-21T16:41:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/3786
-- author: redmushie, Roro
-  changes:
-  - message: A lot of hardsuits have had their light color tweaks to better fit their style and/or to be more distinct among their department.
-    type: Tweak
-  id: 404475
-  time: '2026-04-21T16:41:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/3786
-- author: redmushie, Roro
-  changes:
-  - message: Basic mining hardsuit light is now actually inferior to the advanced variant.
-    type: Tweak
-  id: 404476
-  time: '2026-04-21T16:41:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/3786
 - author: redmushie, Roro
   changes:
   - message: The security helmet uses a battery now.
@@ -2799,4 +2722,81 @@ Entries:
   id: 404865
   time: '2026-05-10T09:08:54.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4409
+- author: Conflee
+  changes:
+  - message: Added 11 tiles; 3x3 (black, brown, steel, white), ornate, steel grate, old concrete bricks, old concrete tiles, rough metal, rusty metal, and techmaints.
+    type: Add
+  id: 404866
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
+- author: Conflee
+  changes:
+  - message: Added decal sets to match the new 3x3 tiles (half-tiles, overlays, etc), as well as the techmaints floor.
+    type: Add
+  id: 404867
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
+- author: Conflee
+  changes:
+  - message: Added drain trim, steel trim steel step, and 3 steel hatch decals for decorating industrial areas.
+    type: Add
+  id: 404868
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
+- author: Conflee
+  changes:
+  - message: Added several alternate dresser types; Box, Round, and Wardrobe. They contain fills for the generic dresser contents, but before fill variants for command dressers can be made, the entire setup for those needs refactored.
+    type: Add
+  id: 404869
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
+- author: Conflee
+  changes:
+  - message: Added wood racks and snowman, as decorations.
+    type: Add
+  id: 404870
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
+- author: Conflee
+  changes:
+  - message: Added Small Stairs (Steel and Wood), for use where previously stage stairs would have been used. 1 wide, step up.
+    type: Add
+  id: 404871
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
+- author: Conflee
+  changes:
+  - message: Added Gramophone and Vinyl Player, reskins of the Jukebox that sit on top of tables, opening up more decorating options.
+    type: Add
+  id: 404872
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
+- author: Conflee
+  changes:
+  - message: Added Bars. They sit on top of windows, are solid but let air through, and can be broken. Intended to replace the use of Reinforced Plasma Windows in some stations Genpops as a more thematic way to reinforce Reinforced Windows further without giving the station hypothetical access to tons of free Plasma round start.
+    type: Add
+  id: 404873
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
+- author: Conflee
+  changes:
+  - message: Added the Coffee Dispenser. Works like a Soda or Booze Dispenser but for Coffee and Teas. Can be mapped in the Bar and in dept break rooms.
+    type: Add
+  id: 404874
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
+- author: Conflee
+  changes:
+  - message: Added the Wall Fan, it goes ON TOP of walls, and is an aimated fan.
+    type: Add
+  id: 404875
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
+- author: Conflee
+  changes:
+  - message: Restored original Xeno posters and description of the TV Head item. Originally censored to 'conform to rule 10', rule 10 has since been adjusted to be less puritan in wording, and these items no longer violate the rules.
+    type: Tweak
+  id: 404876
+  time: '2026-05-10T10:03:36.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4364
 Order: -1
