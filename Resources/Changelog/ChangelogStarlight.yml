@@ -1,123 +1,4 @@
 Entries:
-- author: NULLLINK TEAM
-  changes:
-  - message: Added cross-project or/and cross-server sync for any types of bans(role or server).
-    type: Add
-  id: 404638
-  time: '2026-04-27T04:57:56.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/3950
-- author: NULLLINK TEAM
-  changes:
-  - message: Fixed admin notes window.
-    type: Fix
-  id: 404639
-  time: '2026-04-27T04:57:56.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/3950
-- author: SevenShades
-  changes:
-  - message: Added back loadout options for medical gloves and eyewear.
-    type: Add
-  id: 404640
-  time: '2026-04-27T05:50:50.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4268
-- author: SevenShades
-  changes:
-  - message: Returned emergency medipens to doctor and EMT belts.
-    type: Add
-  id: 404641
-  time: '2026-04-27T05:50:50.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4268
-- author: SevenShades
-  changes:
-  - message: Reverted changes made to the NanoMed Plus inventory.
-    type: Tweak
-  id: 404642
-  time: '2026-04-27T05:50:50.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4268
-- author: SevenShades
-  changes:
-  - message: Added gauze back to NanoMed civilian and band aid inventories.
-    type: Add
-  id: 404643
-  time: '2026-04-27T05:50:50.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4268
-- author: SevenShades
-  changes:
-  - message: Added back belts to roundstart medical loadouts and other small loadout changes.
-    type: Tweak
-  id: 404644
-  time: '2026-04-27T05:50:50.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4268
-- author: Bigfoot Bravo
-  changes:
-  - message: IPCs have new radiation warning text.
-    type: Tweak
-  id: 404645
-  time: '2026-04-27T05:50:52.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4266
-- author: wonderfulnewworld
-  changes:
-  - message: Subgamemode/Midround Wizards actually spawn again.
-    type: Fix
-  id: 404646
-  time: '2026-04-27T06:42:09.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4261
-- author: Wizard Federation (scarlet lightweaver).
-  changes:
-  - message: Fixed wizards wands.
-    type: Fix
-  id: 404647
-  time: '2026-04-27T06:42:11.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4246
-- author: neurovermi
-  changes:
-  - message: No slip clown shoes, available in the uplink.
-    type: Add
-  id: 404648
-  time: '2026-04-27T07:17:01.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4250
-- author: neurovermi
-  changes:
-  - message: Banana energy sword, available in the uplink.
-    type: Add
-  id: 404649
-  time: '2026-04-27T07:17:01.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4250
-- author: neurovermi
-  changes:
-  - message: Stealthy Mimana Peel, available in the uplink.
-    type: Add
-  id: 404650
-  time: '2026-04-27T07:17:01.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4250
-- author: Cvlancer
-  changes:
-  - message: Added Referee and whistle to boxing ring.
-    type: Add
-  id: 404651
-  time: '2026-04-27T07:17:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4219
-- author: Cvlancer
-  changes:
-  - message: Some turn stiles in gen pop that would softlock prisoners from getting their items.
-    type: Remove
-  id: 404652
-  time: '2026-04-27T07:17:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4219
-- author: Cvlancer
-  changes:
-  - message: The spare breaching hammer in armory.
-    type: Remove
-  id: 404653
-  time: '2026-04-27T07:17:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4219
-- author: Cvlancer
-  changes:
-  - message: Some cameras in virology.
-    type: Remove
-  id: 404654
-  time: '2026-04-27T07:17:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4219
 - author: Cvlancer
   changes:
   - message: Removed ai core being fed by a random maints wire and also removed the 3 RTG'S making ai completely self sufficient.
@@ -2799,4 +2680,123 @@ Entries:
   id: 405037
   time: '2026-05-17T15:07:35.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4471
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added gas turbine monitor and reactor monitor to nuclear office room.
+    type: Add
+  id: 405038
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added fax machine and docupritner for nuclear office room.
+    type: Add
+  id: 405039
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added decaling to nuclear office room.
+    type: Add
+  id: 405040
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added a pair of insulated gloves to nuclear reactor.
+    type: Add
+  id: 405041
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added shipyard console to captains room. This device requires captains access and spends cargos money to purchase shuttles.
+    type: Add
+  id: 405042
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added one more security jetpack to armory. 4 to 5.
+    type: Add
+  id: 405043
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added coffee dispenser and mugs to sec,science, sepia room.
+    type: Add
+  id: 405044
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added a lot of televisions all over the station.
+    type: Add
+  id: 405045
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added a Nct dispatch machine to nuclear reactor chamber although they most likely down know it yet.
+    type: Add
+  id: 405046
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added a dim light and a light switch to interrogation room.
+    type: Add
+  id: 405047
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added lawyer and IAA beacons to their rooms respectively.
+    type: Add
+  id: 405048
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Removed one of the Cerekite fuel rods from nuclear reactor going from 3 to 2 total.
+    type: Remove
+  id: 405049
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Removed some of the steel and plasteel located inside nuclear reactor. From 30 of each to 10 of each.
+    type: Remove
+  id: 405050
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Removed centrifuge and vial box inside brigmedic.
+    type: Remove
+  id: 405051
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Added more room for nuclear office room.
+    type: Tweak
+  id: 405052
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Changed the reporter camera names to "CK News" short for the popular up and coming Cindykate news group.
+    type: Tweak
+  id: 405053
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
+- author: Cvlancer
+  changes:
+  - message: (SPACEMALL) Fixed fuel dispenser being mapped the wrong direction in drugstore.
+    type: Fix
+  id: 405054
+  time: '2026-05-17T15:33:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4447
 Order: -1
