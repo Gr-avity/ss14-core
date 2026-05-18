@@ -1,18 +1,4 @@
 Entries:
-- author: Cvlancer.
-  changes:
-  - message: (ORWELL) Fixed dispo piping exit at disposals.
-    type: Fix
-  id: 404695
-  time: '2026-04-28T09:18:07.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4269
-- author: Cvlancer.
-  changes:
-  - message: (ORWELL) Fixed a gen pop window grille that could be broken by punching due to a bug.
-    type: Fix
-  id: 404696
-  time: '2026-04-28T09:18:07.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4269
 - author: Citrea
   changes:
   - message: Towels with colours exist again.
@@ -2799,4 +2785,18 @@ Entries:
   id: 405094
   time: '2026-05-18T04:33:38.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/3860
+- author: Cringe_Cursed
+  changes:
+  - message: 'Added lightgrid system for gameplay-side light exposure checks (pros: perfomance, cons: brain death).'
+    type: Add
+  id: 405095
+  time: '2026-05-18T04:52:04.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/3968
+- author: Cringe_Cursed
+  changes:
+  - message: Added light debug overlay.
+    type: Add
+  id: 405096
+  time: '2026-05-18T04:52:04.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/3968
 Order: -1
