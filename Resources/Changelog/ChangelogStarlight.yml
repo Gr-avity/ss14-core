@@ -1,132 +1,6 @@
 Entries:
 - author: Caws
   changes:
-  - message: IPC health alarm now loops seamlessly.
-    type: Tweak
-  id: 404738
-  time: '2026-04-29T12:40:25.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4292
-- author: redmushie
-  changes:
-  - message: Startup crash affecting some players who also play on other NullLink-enabled servers.
-    type: Fix
-  id: 404739
-  time: '2026-04-29T14:57:51.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4294
-- author: Bigfoot Bravo
-  changes:
-  - message: Oil packs are now craftable at your local exosuit fabricator. Help out those IPCs, scientists!
-    type: Add
-  id: 404740
-  time: '2026-04-29T15:16:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4285
-- author: wonderfulnewworld
-  changes:
-  - message: Fixed bug when you can insert any item as ammo in heavy capacity mk58.
-    type: Fix
-  id: 404741
-  time: '2026-04-30T13:15:34.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4302
-- author: Checkraze,
-  changes:
-  - message: The Shipyard Market has arrived to sell some (mostly) New Ships to successful crews.
-    type: Add
-  id: 404742
-  time: '2026-04-30T17:27:23.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4245
-- author: Checkraze,
-  changes:
-  - message: Some Shipyard fixes.
-    type: Fix
-  id: 404743
-  time: '2026-04-30T17:27:23.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4245
-- author: Checkraze,
-  changes:
-  - message: 3 Ships available in the Shipyard, The barge, The Private Transport Shuttle and NT-7 Prospector!
-    type: Add
-  id: 404744
-  time: '2026-04-30T17:27:23.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4245
-- author: Rane
-  changes:
-  - message: The shipyard console now uses Captain access. Shuttles are a huge purchase and require agreement between multiple departments.
-    type: Tweak
-  id: 404745
-  time: '2026-04-30T17:27:23.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4245
-- author: CrazyPhantom
-  changes:
-  - message: Ported the Shipyard!
-    type: Add
-  id: 404746
-  time: '2026-04-30T17:27:23.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4245
-- author: CrazyPhantom
-  changes:
-  - message: Updated the Shipyard to work with Modern SS14 along with various miscellaneous fixes.
-    type: Fix
-  id: 404747
-  time: '2026-04-30T17:27:23.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4245
-- author: CrazyPhantom
-  changes:
-  - message: Updated The barge, PTS and Prospector to Modern SS14.
-    type: Fix
-  id: 404748
-  time: '2026-04-30T17:27:23.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4245
-- author: CommanderAlex365
-  changes:
-  - message: Added recipes for plain and meat donuts.
-    type: Add
-  id: 404749
-  time: '2026-05-01T06:35:32.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4311
-- author: Caws
-  changes:
-  - message: Chav accent's word replacement for 'borg/borgs' has been changed to 'tin man/tin men' instead of 'toaster/toasters'.
-    type: Tweak
-  id: 404750
-  time: '2026-05-01T07:21:52.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4309
-- author: Bigfoot Bravo
-  changes:
-  - message: IPCs can change their screen color via the eye color sliders.
-    type: Fix
-  id: 404751
-  time: '2026-05-01T07:21:54.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4297
-- author: "- fix: Fixed handheld translators behaving differently when toggled with the E or Z keys, fixed activating a handheld translator with Z not switching your active spoken language to the translator's language, and fixed handheld translators sometimes immediately turning off after being turned on."
-  changes:
-  - message: Fixed swapping charged batteries on a handheld translator unselecting the translator's language.
-    type: Fix
-  id: 404752
-  time: '2026-05-01T09:48:44.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4242
-- author: "- fix: Fixed handheld translators behaving differently when toggled with the E or Z keys, fixed activating a handheld translator with Z not switching your active spoken language to the translator's language, and fixed handheld translators sometimes immediately turning off after being turned on."
-  changes:
-  - message: Fixed the handheld translator examine tooltip and interactions being delayed by your ping, which made the examine tooltip bounce.
-    type: Fix
-  id: 404753
-  time: '2026-05-01T09:48:44.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4242
-- author: "- fix: Fixed handheld translators behaving differently when toggled with the E or Z keys, fixed activating a handheld translator with Z not switching your active spoken language to the translator's language, and fixed handheld translators sometimes immediately turning off after being turned on."
-  changes:
-  - message: Fixed some instances of a handheld translator looking activated but not actually being activated.
-    type: Fix
-  id: 404754
-  time: '2026-05-01T09:48:44.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4242
-- author: Caws
-  changes:
-  - message: The detective's trenchcoats have been renamed "detective armored trenchcoat" and "noir armored trenchcoat" respectively.
-    type: Tweak
-  id: 404755
-  time: '2026-05-01T10:16:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4314
-- author: Caws
-  changes:
   - message: The detective armored trenchcoat and noir armored trenchcoat now correctly provide armor again.
     type: Fix
   id: 404756
@@ -2799,4 +2673,130 @@ Entries:
   id: 405137
   time: '2026-05-21T13:07:42.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4476
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added protection anchors to vault & armoury.
+    type: Add
+  id: 405138
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added performer spawns.
+    type: Add
+  id: 405139
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added lawyer spawns.
+    type: Add
+  id: 405140
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added deep fryer to kitchen.
+    type: Add
+  id: 405141
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added communication consoles to all head offices.
+    type: Add
+  id: 405142
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added NCT dispatch computers around the station.
+    type: Add
+  id: 405143
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added a 2nd N2O can and a 2nd plasma can to atmos.
+    type: Add
+  id: 405144
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added shuttle console board to tech vault.
+    type: Add
+  id: 405145
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added storage shelves to maints (more places to hide items out of sight).
+    type: Add
+  id: 405146
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added a new hidden easter egg.
+    type: Add
+  id: 405147
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) added emergency supplies to the sec shuttle for bail-outs.
+    type: Add
+  id: 405148
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) robotics is now equipped for IPC repair.
+    type: Tweak
+  id: 405149
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) intended distro and waste line in atmos made more obvious for first time setups.
+    type: Tweak
+  id: 405150
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) stairs replaced with new sprites.
+    type: Tweak
+  id: 405151
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) buttons in dorm now tint exterior windows, lock the door and turn off the lights (goodnight).
+    type: Tweak
+  id: 405152
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) swapped hop locker and bed for easier access.
+    type: Fix
+  id: 405153
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) moved exosuit fab away from the wall so endoskeletons have room to be printed.
+    type: Fix
+  id: 405154
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: MaxAlpine
+  changes:
+  - message: (Prism) removed duplicate firelock from security hallway.
+    type: Fix
+  id: 405155
+  time: '2026-05-21T13:07:45.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4492
 Order: -1
