@@ -1,11 +1,4 @@
 Entries:
-- author: Scarlet Lightweaver, Shades
-  changes:
-  - message: Fixed NCT Terminal being able to store pAI and visual bugs.
-    type: Fix
-  id: 404737
-  time: '2026-04-29T12:21:12.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4170
 - author: Caws
   changes:
   - message: IPC health alarm now loops seamlessly.
@@ -2799,4 +2792,11 @@ Entries:
   id: 405136
   time: '2026-05-21T13:07:40.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4422
+- author: CrazyPhantom
+  changes:
+  - message: Playtime Commands Can now target Offline Individuals.
+    type: Fix
+  id: 405137
+  time: '2026-05-21T13:07:42.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4476
 Order: -1
