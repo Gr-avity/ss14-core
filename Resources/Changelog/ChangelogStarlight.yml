@@ -1,11 +1,4 @@
 Entries:
-- author: Citrea
-  changes:
-  - message: Blueshield Officers' glasses and HUDs have been upgraded to include diagnostic readouts of IPC integrity.
-    type: Tweak
-  id: 404727
-  time: '2026-04-29T11:38:14.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4290
 - author: Caws
   changes:
   - message: Shift Time on paperwork when using the [datetime] tag should now be accurate.
@@ -2799,4 +2792,11 @@ Entries:
   id: 405126
   time: '2026-05-20T11:15:48.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4495
+- author: teapoterror
+  changes:
+  - message: ERT Ships spawned via the Secure Terminal now are in their full, admin-spawn glory, rather than the current nerfed versions.
+    type: Tweak
+  id: 405127
+  time: '2026-05-21T12:33:38.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4496
 Order: -1
