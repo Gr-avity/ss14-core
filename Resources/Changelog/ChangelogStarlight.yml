@@ -1,13 +1,6 @@
 Entries:
 - author: bynddark8
   changes:
-  - message: Adds new sprites for the Captain's command tablet.
-    type: Add
-  id: 404853
-  time: '2026-05-09T10:23:05.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4296
-- author: bynddark8
-  changes:
   - message: Adds an admeme only command tablet for Centcomm operators.
     type: Add
   id: 404854
@@ -2799,4 +2792,11 @@ Entries:
   id: 405252
   time: '2026-05-22T13:35:57.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4499
+- author: CringeCursed
+  changes:
+  - message: Fixed some of vampire abilities were immediately canceled.
+    type: Fix
+  id: 405253
+  time: '2026-05-22T14:03:06.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4510
 Order: -1
