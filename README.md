@@ -1,60 +1,99 @@
-<p align="center">
-  <img alt="Space Station 14" width="600" src="Resources/Textures/Logo/logo.png" />
-</p>
+<div align="center">
 
-<div class="header" align="center">
+<h1 align="center"> <img alt="Space Station 14" width="600" src="Resources/Textures/Logo/logo.png" /> </h1>
 
-[![Discord](https://img.shields.io/discord/1272545509562777621?label=Discord&logo=discord&logoColor=white)](https://discord.gg/ssJTANEa)
-[![Steam](https://img.shields.io/badge/Steam-SS14%20-blue)](https://store.steampowered.com/app/1255460/Space_Station_14/)
-[![Client](https://img.shields.io/badge/Client-Download-blue)](https://spacestation14.io/about/nightlies/)
-[![GitHub](https://img.shields.io/github/stars/ss14Starlight/space-station-14?style=social)]([https://github.com/ss14Starlight/space-station-14])
+**Форк STARLIGHT с уникальным контентом и геймплеем**
 
-# STARLIGHT
-<sub>Space-Station 14</sub>
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ss14Starlight/space-station-14)
-![GitHub Issues](https://img.shields.io/github/issues/ss14Starlight/space-station-14)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed/ss14Starlight/space-station-14)
+[![Discord](https://img.shields.io/discord/1444702050335195216?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=%237289da)](https://discord.gg/uREMRzDRc3)
+[![Steam](https://img.shields.io/badge/Steam-SS14%20-003459?style=for-the-badge)](https://store.steampowered.com/app/1255460/Space_Station_14/)
+[![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge)](https://dotnet.microsoft.com/)
 
 </div>
 
-STARLIGHT is an open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14,
-
-a game about survival on a space station where there are constant confrontations between the crew and antagonists created to prevent the crew from achieving their goals.
-
-## Space-Station 14 Documentation/Wiki
-
-Space-Station 14 has [docs site](https://docs.spacestation14.io/) documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.
-
-## Project Activity
-![Alt](https://repobeats.axiom.co/api/embed/675a7780b2c40805e5266935fe9329cd0177aba3.svg "Repobeats analytics image")
-
 ---
 
-## License
+## 📋 О проекте
 
+**project-octo** — это форк [Starlight](https://github.com/ss14Starlight/space-station-14), который в свою очередь основан на [Space Station 14](https://github.com/space-wizards/space-station-14). Проект сочетает классический хаос SS13 с экспериментальными механиками, возможными только на новом движке.
 
+Space Station 14 — это remake SS13, работающий на [Robust Toolbox](https://github.com/space-wizards/RobustToolbox) — собственном движке, написанном на C#.
+
+## 📚 Документация
+
+- **[Официальная документация SS14](https://docs.spacestation14.io/)** — движок, контент, геймдизайн
+- **[Robust Generic Attribution](https://docs.spacestation14.com/en/specifications/robust-generic-attribution.html)** — информация об атрибуции
+- **[Robust Station Image](https://docs.spacestation14.com/en/specifications/robust-station-image.html)** — правила использования изображений
+
+## 🤝 Контрибуция
+
+Мы всегда рады помощи от всех желающих! Присоединяйтесь к [Discord](https://discord.gg/qcK4ZKFNUb), если хотите внести свой вклад.
+
+У нас есть [список задач](https://github.com/ss14-art/shine/issues), которые нужно решить. Не стесняйтесь спрашивать помощь!
+
+## 🚀 Сборка проекта
+
+### Требования
+
+- **Git** — [скачать](https://git-scm.com/downloads)
+- **.NET SDK 10.0 или выше** — [скачать](https://dotnet.microsoft.com/download/dotnet/10.0)
+- **Python 3.11+** — [скачать](https://www.python.org/downloads/)
+
+### Инструкция
+
+> [!IMPORTANT]
+> Убедитесь, что путь к папке проекта не содержит кириллицу или пробелы!
+
+#### Windows
+
+```bash
+# 1. Клонируйте репозиторий
+git clone https://github.com/ss14-art/project-octo.git
+cd project-octo
+
+# 2. Загрузите движок
+git submodule update --init --recursive
+
+# 3. Соберите проект
+Scripts\bat\buildAllRelease.bat
+
+# 4. Запустите клиент и сервер
+Scripts\bat\runQuickAll.bat
+```
+
+#### Linux / macOS
+
+```bash
+# 1. Клонируйте репозиторий
+git clone https://github.com/ss14-art/project-octo.git
+cd project-octo
+
+# 2. Загрузите движок
+git submodule update --init --recursive
+
+# 3. Соберите проект
+chmod +x Scripts/sh/buildAllRelease.sh
+Scripts/sh/buildAllRelease.sh
+
+# 4. Запустите клиент и сервер
+chmod +x Scripts/sh/runQuickAll.sh
+Scripts/sh/runQuickAll.sh
+```
+
+После запуска подключитесь к **localhost** в окне клиента.
+
+> **Более подробная инструкция**: [официальное руководство по сборке SS14](https://docs.spacestation14.com/en/general-development/setup.html)
+
+## 📜 Лицензия
+
+Подробную информацию о лицензиях смотрите в файле **[LEGAL.md](./LEGAL.md)**.
+
+### Код
+
+Код проекта распространяется под лицензией **GNU AGPLv3** (если не указано иное). Информация о лицензии каждого файла представлена в формате REUSE (в заголовке файла) или в отдельном файле `.license`.
+
+### Ассеты (графика, звуки, спрайты)
+
+Большинство ассетов лицензированы под **[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)**, если не указано иное. Лицензия и информация об авторских правах содержатся в metadata файлах. [Пример](https://github.com/ss14-art/project-octo/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
 > [!NOTE]
-> **Relicensing in progress.** The Starlight Fork License (`LICENSE-Starlight.TXT`) was applied to Starlight contributions
-> from **2024-11-04** (commit `84205e38`) through **2026-02-28** (commit `01eff0f7`).
-> This license **remains in effect** for contributions made during that period until explicit relicensing
-> consent is received from the respective authors. Once consent is given, those contributions are relicensed under MIT.
-> All contributions outside of that range are licensed under MIT (`LICENSE.TXT`).
-> Relicensing requests are tracked in [issue #3499](https://github.com/ss14Starlight/space-station-14/issues/3499).
-
-### Click each banner for further information
-
----
-
-<details>
-<summary><a href="#"><img src="https://img.shields.io/badge/licence-MIT-green?style=for-the-badge" alt="MIT license"></a></summary>
-
->Some files are licensed under [MIT license](https://opensource.org/license/MIT), these files are Space Wizards Federation code.
-</details>
-
-<details>
-<summary><a href="#"><img src="https://img.shields.io/badge/licence-CC_3.0_BY--SA-lightblue?style=for-the-badge" alt="Creative Commons 3.0 BY-SA"></a></summary>
-
->All other non-code STARLIGHT Assets, including icons and sound files, are licensed under the [Creative Commons 3.0 BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) license unless otherwise noted in the folder or file.
-</details>
+> Некоторые ассеты имеют некоммерческую лицензию **[CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)**. Они будут удалены, если вы планируете использовать проект в коммерческих целях.

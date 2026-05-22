@@ -1,8 +1,5 @@
-# Reporting a security vulnerability
-You can report a security vulnerability through Discord.
+**RUS:**  
+Если вы обнаружили уязвимость или нарушение лицензионного соглашения, сообщите на **support@stopco.ru**. Автор обращения остаётся анонимным — **ss14.art** гарантирует полную конфиденциальность.
 
-If you want to contact us through Discord, you can join [our server]([https://discord.gg/MwDDf6t](https://discord.gg/HyDhPwAmUq))
-and then **privately** message anyone with the `@Owner` or `@Staff Managers` role.
-
-In either case, **do not publicly disclose the vulnerability until we explicitly give
-you permission to do so**.
+**ENG:**  
+If you discover a security vulnerability or a license violation, please report it to **support@stopco.ru**. Your report will remain anonymous — **ss14.art** guarantees your confidentiality.
