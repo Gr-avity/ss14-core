@@ -1,13 +1,6 @@
 Entries:
 - author: Caws
   changes:
-  - message: (Serpentcrest) IAA and Magistrate signs.
-    type: Add
-  id: 404803
-  time: '2026-05-05T07:11:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4350
-- author: Caws
-  changes:
   - message: (Serpentcrest) NTR signs.
     type: Add
   id: 404804
@@ -2799,4 +2792,11 @@ Entries:
   id: 405202
   time: '2026-05-22T10:29:29.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4442
+- author: Caws
+  changes:
+  - message: Dev textures for mappers, useful for visually blocking out rooms when mapping.
+    type: Add
+  id: 405203
+  time: '2026-05-22T10:29:31.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4459
 Order: -1
