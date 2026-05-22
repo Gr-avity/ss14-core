@@ -1,67 +1,4 @@
 Entries:
-- author: Conf & Caws
-  changes:
-  - message: New IAA, Law, Lawyer, Magistrate, and NTR signage.
-    type: Add
-  id: 404793
-  time: '2026-05-04T05:49:58.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4339
-- author: CrazyPhantom
-  changes:
-  - message: The rules have been changed to match the wiki. Just about every rule has been changed in some capacity, Too many changes to mention each one so it is suggested that players re-read them all.
-    type: Tweak
-  id: 404794
-  time: '2026-05-04T05:50:01.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4328
-- author: CrazyPhantom
-  changes:
-  - message: Silicon memory loss clause has been added to metashield.
-    type: Add
-  id: 404795
-  time: '2026-05-04T05:50:01.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4328
-- author: CrazyPhantom
-  changes:
-  - message: Rule 15, "Separation of Character from Player".
-    type: Add
-  id: 404796
-  time: '2026-05-04T05:50:01.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4328
-- author: Magwitch
-  changes:
-  - message: Changed `wth` replacement from `what the heck` to `what the hell`.
-    type: Tweak
-  id: 404797
-  time: '2026-05-04T06:14:46.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4343
-- author: neurovermi
-  changes:
-  - message: Mech thrusters now turn off correctly when entering a grid.
-    type: Fix
-  id: 404798
-  time: '2026-05-04T06:14:47.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4331
-- author: Caws
-  changes:
-  - message: Salvage Lead's locker now starts with a nitrogen tank and a cooling unit inside of it.
-    type: Tweak
-  id: 404799
-  time: '2026-05-05T07:11:02.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4358
-- author: Ohelig
-  changes:
-  - message: Fixes mining being able to crash the server by queueing up too many ore processor recipes.
-    type: Fix
-  id: 404800
-  time: '2026-05-05T07:11:04.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4344
-- author: Caws
-  changes:
-  - message: (Serpentcrest) Lawyers.
-    type: Add
-  id: 404801
-  time: '2026-05-05T07:11:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4350
 - author: Caws
   changes:
   - message: (Serpentcrest) Lawyer Office.
@@ -2799,4 +2736,67 @@ Entries:
   id: 405192
   time: '2026-05-22T09:11:03.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4506
+- author: Caws
+  changes:
+  - message: (Lobster) Added protection anchors for Armory and Vault.
+    type: Add
+  id: 405193
+  time: '2026-05-22T09:45:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4504
+- author: Caws
+  changes:
+  - message: (Lobster) Added Lawyers - no office, their vending machine is accessible in the Courtroom.
+    type: Add
+  id: 405194
+  time: '2026-05-22T09:45:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4504
+- author: Caws
+  changes:
+  - message: (Lobster) Added signs for IAA, NTR, and Magistrate.
+    type: Add
+  id: 405195
+  time: '2026-05-22T09:45:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4504
+- author: Caws
+  changes:
+  - message: (Lobster) Added a station beacon for IAA.
+    type: Add
+  id: 405196
+  time: '2026-05-22T09:45:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4504
+- author: Caws
+  changes:
+  - message: (Lobster) Electrolyzer to Atmos.
+    type: Add
+  id: 405197
+  time: '2026-05-22T09:45:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4504
+- author: Caws
+  changes:
+  - message: (Lobster) Good Clean Fun vending machines to GenPop and Park.
+    type: Add
+  id: 405198
+  time: '2026-05-22T09:45:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4504
+- author: Caws
+  changes:
+  - message: (Lobster) Small visual update for the Courtroom.
+    type: Tweak
+  id: 405199
+  time: '2026-05-22T09:45:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4504
+- author: Caws
+  changes:
+  - message: (Lobster) Captain's Hardsuit removed from the dummy in Captain's room, now available in a suit storage locker (because that comes with nitrogen and cooling units).
+    type: Fix
+  id: 405200
+  time: '2026-05-22T09:45:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4504
+- author: Caws
+  changes:
+  - message: (Lobster) CMO's office now has a suit storage locker for their hardsuit (instead of having their suit be in their locker).
+    type: Fix
+  id: 405201
+  time: '2026-05-22T09:45:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4504
 Order: -1
