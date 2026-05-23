@@ -23,9 +23,6 @@ chat-manager-sender-announcement = Центральное Командовани
 
 # THE() is not used here because the entity and its name can technically be disconnected if a nameOverride is passed...
 chat-manager-entity-me-wrap-message = [italic]{ CAPITALIZE($entityName) } { $message }[/italic]
-    *[false] The {$entityName} {$message}[/italic]
-     [true] {CAPITALIZE($entityName)} {$message}[/italic]
-    }
 
 chat-manager-entity-looc-wrap-message = LOOC: [bold]{ $entityName }:[/bold] { $message }
 chat-manager-send-ooc-patron-wrap-message = OOC: [bold][color={ $patronColor }]{ $playerName }[/color]:[/bold] { $message }

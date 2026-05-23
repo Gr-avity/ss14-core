@@ -79,10 +79,6 @@ ent-DisposalRouterFlippedClinic = { ent-DisposalRouterFlipped }
 ent-DisposalRouterFlippedScience = { ent-DisposalRouterFlipped }
     .suffix = Flipped, Science
     .desc = { ent-DisposalRouterFlipped.desc }
-ent-DisposalRouterFlippedR&D = { ent-DisposalRouterFlipped }
-
-  .suffix = Flipped, R&D
-  .desc = { ent-DisposalRouterFlipped.desc }
 ent-DisposalRouterFlippedRD = { ent-DisposalRouterFlipped }
     .suffix = Flipped, RD
     .desc = { ent-DisposalRouterFlipped.desc }

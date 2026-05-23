@@ -32,23 +32,23 @@ ion-storm-law-having-harmful = ИМЕТЬ {$adjective} {$objects} ВРЕДНО �
 ion-storm-law-not-having-harmful = НЕ ИМЕТЬ {$adjective} {$objects} ВРЕДНО ДЛЯ ЗДОРОВЬЯ ЭКИПАЖА.
 
 # thing is a concept or require
-ion-storm-law-requires = {$who} ТРЕБУЮТ {$thing}.
+ion-storm-law-requires = {$who} { $plural ->
     [true] REQUIRE
     *[false] REQUIRES
 } {$thing}
-ion-storm-law-requires-subjects = {$who} ТРЕБУЮТ {$adjective} {$subjects} В КОЛИЧЕСТВЕ {$number} ЕДИНИЦ.
+ion-storm-law-requires-subjects = {$who} { $plural ->
     [true] REQUIRE
     *[false] REQUIRES
-} {$joined} {$subjects}
+} {$adjective} {$subjects} в количестве {$number} единиц
 
-ion-storm-law-allergic = {$who} ИМЕЮТ {$severity} АЛЛЕРГИЮ НА {$allergy}.
+ion-storm-law-allergic = {$who} { $plural ->
     [true] ARE
     *[false] IS
-} {$severity} ALLERGIC TO {$allergy}
-ion-storm-law-allergic-subjects = {$who} ИМЕЮТ {$severity} АЛЛЕРГИЮ НА {$adjective} {$subjects}.
+} {$severity} allergic to {$allergy}
+ion-storm-law-allergic-subjects = {$who} { $plural ->
     [true] ARE
     *[false] IS
-} {$severity} ALLERGIC TO {$adjective} {$subjects}
+} {$severity} allergic to {$adjective} {$subjects}
 
 ion-storm-law-feeling = { $who } { $feeling } { $concept }
 ion-storm-law-feeling-subjects = {$who} {$feelingPlural} {$adjective} {$subjects} В КОЛИЧЕСТВЕ {$number} ЕДИНИЦ.

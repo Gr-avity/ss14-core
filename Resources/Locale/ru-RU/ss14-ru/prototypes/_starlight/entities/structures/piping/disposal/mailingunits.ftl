@@ -79,10 +79,6 @@ ent-MailingUnitClinic = { ent-MailingUnit }
 ent-MailingUnitScience = { ent-MailingUnit }
     .suffix = Science
     .desc = { ent-MailingUnit.desc }
-ent-MailingUnitR&D = { ent-MailingUnit }
-
-  .suffix = R&D
-  .desc = { ent-MailingUnit.desc }
 ent-MailingUnitRD = { ent-MailingUnit }
     .suffix = RD
     .desc = { ent-MailingUnit.desc }

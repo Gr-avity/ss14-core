@@ -10,6 +10,6 @@ Deep-Fryer-Message-Broken = { $fryer } сломан и нуждается в р�
 Deep-Fryer-Message-Toggle-On = Вы включаете { $fryer }.
 Deep-Fryer-Message-Toggle-Off = Вы выключаете { $fryer }.
 
-Deep-Fryer-Message-Grabbed-Item-Others = { $player } { GENDER($player) ->
+Deep-Fryer-Message-Grabbed-Item-Others = { $player } берёт что-то из { $fryer }.
 Deep-Fryer-Message-Toggle-On-Others = { $player } включает { $fryer }.
 Deep-Fryer-Message-Toggle-Off-Others = { $player } выключает { $fryer }.

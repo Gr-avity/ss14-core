@@ -16,11 +16,11 @@ xenobiology-console-stabilizer-potion-inserted = Thanks for inserting a stabiliz
     *[other] potions
     }.
 
-xenobiology-console-slime-picked-up = { GENDER($user) ->
+xenobiology-console-slime-picked-up = Вы подобрали слайма.
 xenobiology-console-slime-picked-up-fail-full = Не удалось подобрать { $name }. Попробуйте выложить немного слаймов.
 xenobiology-console-slime-picked-up-fail-none-found = Слаймы не найдены. Попробуйте подойти ближе к одному.
 
-xenobiology-console-slime-placed-down = { GENDER($user) ->
+xenobiology-console-slime-placed-down = Вы положили слайма.
 xenobiology-console-slime-placed-down-fail-none-stored = Нет сохранённых слаймов. Попробуйте подобрать одного.
 
 xenobiology-console-monkey-placed = Placed down a monkey. You now have {$cubes} {$cubes ->

@@ -8,10 +8,7 @@ ent-PowerComputerCircuitboard = консоль контроля питания (
     .desc = A computer printed circuit board for a power monitoring computer.
 ent-MedicalRecordsComputerCircuitboard = консоль медицинских карт (машинная плата)
     .desc = A computer printed circuit board for a medical records computer.
-ent-CriminalRecordsComputerCircuitboard = criminal records computer board
-    .desc = A computer printed circuit board for a criminal records computer.
-ent-StationRecordsComputerCircuitboard = station records computer board
-    .desc = A computer printed circuit board for a station records computer.
+
 ent-CargoRequestComputerCircuitboard = консоль заказа грузов (машинная плата)
     .desc = A computer printed circuit board for a cargo request computer.
 ent-CargoRequestEngineeringComputerCircuitboard = плата компьютера инженерных заказов

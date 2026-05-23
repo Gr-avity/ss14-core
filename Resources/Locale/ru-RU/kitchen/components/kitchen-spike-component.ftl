@@ -34,4 +34,4 @@ comp-kitchen-spike-hooked = [color=red]На крюке { CAPITALIZE($victim) }![
 
 comp-kitchen-spike-meat-name = мясо { $victim }
 
-comp-kitchen-spike-victim-examine = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-BASIC($target, "выглядят", "выглядит") } довольно { GENDER($target) ->
+comp-kitchen-spike-victim-examine = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-BASIC($target, "выглядят", "выглядит") } довольно.

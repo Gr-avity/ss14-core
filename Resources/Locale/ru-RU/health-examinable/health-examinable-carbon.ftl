@@ -10,7 +10,7 @@ health-examinable-carbon-Slash-200 = [color=crimson]{ CAPITALIZE(POSS-ADJ($targe
 
 health-examinable-carbon-Blunt-8 = [color=yellow]У { GENITIVE($target) } лёгкий ушиб.[/color]
 health-examinable-carbon-Blunt-15 = [color=yellow]У { GENITIVE($target) } несколько ушибов.[/color]
-health-examinable-carbon-Blunt-30 = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { GENDER($target) ->
+health-examinable-carbon-Blunt-30 = [color=orange]{ CAPITALIZE(SUBJECT($target)) } имеет средние ушибы.[/color]
 health-examinable-carbon-Blunt-50 = [color=crimson]{ CAPITALIZE($target) } имеет серьёзные ушибы на теле![/color]
 health-examinable-carbon-Blunt-75 = [color=crimson]{ CAPITALIZE($target) } имеет сильные ушибы по всему телу![/color]
 health-examinable-carbon-Blunt-100 = [color=red]{ CAPITALIZE(POSS-ADJ($target)) } тело обезображено и сильно избито.[/color]

@@ -79,10 +79,6 @@ ent-DisposalTaggerClinic = { ent-DisposalTagger }
 ent-DisposalTaggerScience = { ent-DisposalTagger }
     .suffix = Science
     .desc = { ent-DisposalTagger.desc }
-ent-DisposalTaggerR&D = { ent-DisposalTagger }
-
-  .suffix = R&D
-  .desc = { ent-DisposalTagger.desc }
 ent-DisposalTaggerRD = { ent-DisposalTagger }
     .suffix = RD
     .desc = { ent-DisposalTagger.desc }

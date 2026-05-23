@@ -12,4 +12,4 @@ power-sensor-switch = Переключено на проверку { $output ->
     [true] output
     *[false] input
 } battery.
-power-sensor-voltage-switch = Сеть переключена на { $voltage ->
+power-sensor-voltage-switch = Сеть переключена на нормальный режим.

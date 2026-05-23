@@ -19,4 +19,4 @@ power-charge-window-power-label = { $draw } / { $max } Вт
 ## UI ETA label
 
 power-charge-window-eta-none = Н/Д
-power-charge-window-eta-value = { TOSTRING($left, "m\:ss") }
+power-charge-window-eta-value = { TOSTRING($left, "m:ss") }

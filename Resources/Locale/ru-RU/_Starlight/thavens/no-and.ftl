@@ -75,15 +75,7 @@ thaven-mood-happy-bad-desc = Весёлый человек — подозрит�
 
 # trypanophilia is the enjoyment of needles
 thaven-mood-only-pills-name = Страх игл
-  *[Pills] Needles Are Scary
-  [Patches] Choking Hazard
-  [Syringes] Trypanophilia
-}
 thaven-mood-only-pills-desc = Вы принимаете лекарства только в виде таблеток или мазей. Шприцы — нет, никогда.
-  *[Pills] You only accept medication in the form of pills.
-  [Patches] You only accept medication from patches.
-  [Syringes] You only accept medication through syringes.
-}
 
 thaven-mood-avoid-puddles-name = Не мочите лапки
 thaven-mood-avoid-puddles-desc = Наступить в лужу? Это позорно и антисанитарно. Избегайте любой ценой.

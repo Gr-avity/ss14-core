@@ -1,7 +1,4 @@
 shared-solution-container-component-on-examine-main-text = Содержит { $wordedAmount } [color={ $color }]{ $desc }[/color] на вид.
-    [1] chemical.
-   *[other] mixture of chemicals.
-    }
 
 examinable-solution-has-recognizable-chemicals = Вы можете узнать { $recognizedString } в растворе.
 examinable-solution-recognized = [color={ $color }]{ $chemical }[/color]
