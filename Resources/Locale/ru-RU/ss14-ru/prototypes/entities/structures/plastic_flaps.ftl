@@ -1,0 +1,14 @@
+ent-PlasticFlapsBase = { ent-BaseStructureDynamic }
+    .desc = { ent-BaseStructureDynamic.desc }
+ent-PlasticFlapsClear = пластиковые шторки
+    .desc = Heavy duty, plastic flaps. Definitely can't get past those. No way.
+    .suffix = Clear
+ent-PlasticFlapsOpaque = пластиковые шторки
+    .desc = Heavy duty, plastic flaps. Definitely can't get past those. No way.
+    .suffix = Opaque
+ent-PlasticFlapsAirtightClear = герметичные пластиковые шторки
+    .desc = Heavy duty, slightly stronger, airtight plastic flaps. Definitely can't get past those. No way.
+    .suffix = Airtight, Clear
+ent-PlasticFlapsAirtightOpaque = герметичные пластиковые шторки
+    .desc = Heavy duty, slightly stronger, airtight plastic flaps. Definitely can't get past those. No way.
+    .suffix = Airtight, Opaque

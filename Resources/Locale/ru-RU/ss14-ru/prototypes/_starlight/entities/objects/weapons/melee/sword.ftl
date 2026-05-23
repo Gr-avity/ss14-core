@@ -1,0 +1,14 @@
+ent-SwordMakeshift = самодельный меч
+    .desc = Some sharp steel affixed to a metal rod, it can hardly be called a sword.
+ent-SwordImprovised = кустарный меч
+    .desc = Not too sharp, but it does the job just fine.
+ent-SwordForged = кованый меч
+    .desc = Made with plasteel, a single touch of the blade is enough to draw blood.
+ent-SwordFlaming = сияние рассвета
+    .desc = How do you perfect upon perfection? Why, use fire of course! Be the shining light through maints and fight valiantly!
+ent-ClaymoreForged = разрушитель приливов
+    .desc = The perfect weapon for an aspiring maints knight!
+ent-ManaBlade = спектральный клинок
+    .desc = A sword formed from hardened mana.
+ent-ChainsawSword = sacred chainsaw sword
+    .desc = Suffer not a heretic to live.

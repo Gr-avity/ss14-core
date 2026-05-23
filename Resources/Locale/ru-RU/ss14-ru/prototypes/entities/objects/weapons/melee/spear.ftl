@@ -1,0 +1,12 @@
+ent-Spear = копье
+    .desc = Definition of a Classic. Keeping murder affordable since 200,000 BCE.
+ent-SpearReinforced = усиленноё копьё
+    .desc = A spear with a reinforced glass shard as a tip.
+ent-SpearPlasma = плазменное копьё
+    .desc = A spear with a plasma shard as a tip.
+ent-SpearUranium = урановое копьё
+    .desc = A spear with a uranium shard as a tip.
+ent-SpearBone = костяное копьё
+    .desc = A spear made of bones.
+ent-SpearSharkMinnow = копье из зуба акулы-гольяна
+    .desc = A spear with a sharkminnow tooth as a tip.

@@ -1,0 +1,12 @@
+ent-ClothingHeadHatCargoFormalsoft = формальная кепка карго
+    .desc = A baseball cap colored to match cargo's formal uniforms.
+ent-ClothingHeadHatCargoFormalsoftFlipped = формальная кепка карго
+    .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
+ent-ClothingHeadHatMailsoftVisor = mail visor
+    .desc = A lightweight sun visor for every aspiring mail technician.
+ent-ClothingHeadHatMailsoftVisorFlipped = mail visor
+    .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
+ent-ClothingHeadHatMailsoftVisorSenior = senior mail visor
+    .desc = A lightweight sun visor for the most devoted of mail technicians.
+ent-ClothingHeadHatMailsoftVisorSeniorFlipped = senior mail visor
+    .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }

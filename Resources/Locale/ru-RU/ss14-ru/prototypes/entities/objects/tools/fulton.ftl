@@ -1,0 +1,10 @@
+ent-FultonBeacon = маяк фултона
+    .desc = Beacon to receive fulton extractions.
+ent-Fulton = фултон
+    .desc = Used to extract containers, items, or forcibly recruit people into your base of operations.
+    .suffix = Full
+ent-Fulton1 = фултон
+    .suffix = One
+    .desc = { ent-Fulton.desc }
+ent-FultonEffect = эффект фултона
+    .desc = { "" }

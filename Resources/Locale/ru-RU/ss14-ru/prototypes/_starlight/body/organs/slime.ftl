@@ -1,0 +1,10 @@
+ent-SentientSlimeCore = разумное ядро слайма
+    .desc = The source of incredible, unending gooeyness.
+ent-OrganSlimeLungs = газовые мешки слайма
+    .desc = Collects nitrogen, which slime cells use for maintenance.
+ent-OrganSlimeHeart = циркулятор слизи
+    .desc = A little circulator what makes the fluid move through the slime body.
+ent-OrganSlimePeepoids = peepoids
+    .desc = Primitive and goopy, but more or less just as good as the human equivalent.
+ent-OrganSlimeSlurpoid = slurpoid
+    .desc = It has all the consistency of gelatin.

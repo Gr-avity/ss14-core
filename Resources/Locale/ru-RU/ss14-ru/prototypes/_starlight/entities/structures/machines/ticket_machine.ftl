@@ -1,0 +1,11 @@
+ent-BaseTicketMachine = { ent-BaseWallmountMachine }
+    .desc = { ent-BaseWallmountMachine.desc }
+ent-TicketMachine = ticket machine
+    .desc = It prints out numbered tickets for queue management.
+    .suffix = No Access, Empty
+ent-TicketMachineFilled = { ent-TicketMachine }
+    .suffix = Filled
+    .desc = { ent-TicketMachine.desc }
+ent-TicketMachineHOP = { ent-TicketMachineFilled }
+    .suffix = HOP, Filled
+    .desc = { ent-TicketMachineFilled.desc }

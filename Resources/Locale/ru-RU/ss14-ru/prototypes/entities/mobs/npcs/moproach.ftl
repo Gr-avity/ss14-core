@@ -1,0 +1,13 @@
+ent-MobMoproach = швабротаракан
+    .desc = This little mothroach has mopshoes on its feet! How adorable!
+ent-MobMoproachHat = { ent-MobMoproach }
+    .suffix = hat
+    .desc = { ent-MobMoproach.desc }
+ent-MoproachBox = набор швабротараканов
+    .desc = A kit to quickly get two moproaches ready to work.
+ent-MoproachCubeWrapped = куб швабротаракана
+    .desc = Unwrap this to get a moproach cube.
+    .suffix = Wrapped
+ent-PaperMoproachManual = { ent-Paper }
+    .suffix = moproach manual
+    .desc = { ent-Paper.desc }

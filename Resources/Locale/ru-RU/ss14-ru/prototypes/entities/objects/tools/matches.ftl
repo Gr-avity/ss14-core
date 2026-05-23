@@ -1,0 +1,13 @@
+ent-SmallboxItem = { ent-BaseStorageItem }
+    .desc = { ent-BaseStorageItem.desc }
+ent-Matchstick = спичка
+    .desc = A simple match stick, used for lighting fine smokables.
+ent-MatchstickSpent = { ent-Matchstick }
+    .suffix = spent
+    .desc = { ent-Matchstick.desc }
+ent-Matchbox = спичечный коробок
+    .desc = A small box of Almost But Not Quite Plasma Premium Matches.
+ent-GorlexMatchbox = коробок спичек Мародеров Горлекса
+    .desc = A pneumatic match box styled after the Gorlex Marauders' equipment. Contains 24 matches.
+ent-GorlexMatchstick = спичка
+    .desc = A military grade match stick, used for lighting fine smokables and noncombatants alike.

@@ -1,0 +1,16 @@
+ent-BaseCartridgeLightRifleSP = патрон (.30 винтовочный)
+    .desc = { ent-BaseCartridge.desc }
+ent-CartridgeLightRifleSP = патрон (.30 винтовочный)
+    .desc = { ent-BaseCartridgeLightRifleSP.desc }
+ent-CartridgeLightRifleHP = патрон (.30 винтовочный экспансивный)
+    .desc = { ent-BaseCartridgeLightRifleSP.desc }
+ent-CartridgeLightRifleFMJ = патрон (.30 винтовочный оболочечный)
+    .desc = { ent-BaseCartridgeLightRifleSP.desc }
+ent-CartridgeLightRifleAP = патрон (.30 винтовочный бронебойный)
+    .desc = { ent-BaseCartridgeLightRifleSP.desc }
+ent-CartridgeLightRiflePractice = патрон (.30 винтовочный учебный)
+    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Practice ammunition fires a chalk projectile that stings a little, but otherwise causes no lasting damage.
+ent-CartridgeLightRifleIncendiary = патрон (.30 винтовочный зажигательный)
+    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Incendiary ammunition contains a self-igniting compound that sets targets ablaze.
+ent-CartridgeLightRifleUranium = патрон (.30 винтовочный урановый)
+    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Uranium ammunition replaces the lead core of the bullet with fissile material, irradiating targets from the inside.

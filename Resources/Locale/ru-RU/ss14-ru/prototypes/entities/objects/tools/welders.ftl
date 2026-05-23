@@ -1,0 +1,12 @@
+ent-Welder = сварочный аппарат
+    .desc = Melts anything as long as it's fueled, don't forget your eye protection!
+ent-WelderIndustrial = промышленный сварочный аппарат
+    .desc = An industrial welder with over double the fuel capacity.
+ent-WelderIndustrialAdvanced = продвинутый промышленный сварочный аппарат
+    .desc = An advanced industrial welder with over double the fuel capacity and hotter flame.
+ent-WelderExperimental = экспериментальный сварочный аппарат
+    .desc = An experimental welder capable of self-fuel generation and less harmful to the eyes.
+ent-WelderMini = аварийный сварочный аппарат
+    .desc = A miniature welder used during emergencies.
+ent-RefuelingWelder = дозаправляющийся сварочный аппарат
+    .desc = A slow welder that can refuel itself over time.

@@ -1,0 +1,12 @@
+ent-ClothingUniformJumpsuitRecruitNT = комбинезон новобранца
+    .desc = A classy grey jumpsuit with blue trims. Perfect for the dignified helper.
+ent-ClothingUniformJumpsuitRecruitSyndie = комбинезон новобранца синдиката
+    .desc = A dubious, dark-grey jumpsuit. As if assistants weren't dubious enough already.
+ent-ClothingUniformJumpsuitRepairmanNT = комбинезон ремонтника
+    .desc = A jumpsuit that reminds you of a certain crew-sector work position. Hopefully, you won't have to do the same job as THOSE freaks.
+ent-ClothingUniformJumpsuitRepairmanSyndie = комбинезон ремонтника синдиката
+    .desc = Functional, fashionable, and badass. NanoTrasen's engineers wish they could look as good as this.
+ent-ClothingUniformJumpsuitParamedicSyndie = комбинезон парамедика синдиката
+    .desc = For some reason, wearing this makes you feel like you're awfully close to violating the Geneva Convention.
+ent-ClothingUniformJumpsuitChiefEngineerSyndie = комбинезон старшего инженера синдиката
+    .desc = An evil-looking jumpsuit with a reflective vest & red undershirt.

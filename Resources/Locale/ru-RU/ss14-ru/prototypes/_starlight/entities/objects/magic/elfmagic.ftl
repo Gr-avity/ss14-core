@@ -1,0 +1,10 @@
+ent-ElfLuminousOrb = светящаяся сфера
+    .desc = Destined to burn out and fade away.
+ent-ElfMagicEmber = уголёк
+    .desc = Careful! It's hot. Cannot be dropped. Will decay soon.
+ent-ElfAntidoteSeed = семя омоложения
+    .desc = A bundle of radiant life magic, useful for restoring vitality to plants. Will evaporate soon if not used.
+ent-ElfCleanseSmoke = очищающая аура
+    .desc = { ent-BaseFoam.desc }
+ent-ElfRuneHaemostatic = гемостатическая руна
+    .desc = A magic rune that stops bleeding when applied. Will fade if not used quickly.

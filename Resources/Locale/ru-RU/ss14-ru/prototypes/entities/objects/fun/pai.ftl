@@ -1,0 +1,16 @@
+ent-PersonalAI = персональный ИИ
+    .desc = Your electronic pal who's fun to be with!
+ent-SyndicatePersonalAI = персональный ИИ Синдиката
+    .desc = Your Syndicate pal who's fun to be with!
+ent-GoldenPersonalAI = золотой персональный ИИ
+    .desc = Your electronic pal who's fun to be with! Special golden edition!
+ent-PotatoAI = картофельный ИИ
+    .desc = It's a potato. You forced it to be sentient, you monster.
+ent-ActionPAIOpenShop = Каталог ПО
+    .desc = Install new software to assist your owner.
+ent-ActionPAIMassScanner = Сканер массы
+    .desc = View a mass scanner interface.
+ent-ActionPAIPlayMidi = Воспроизвести MIDI
+    .desc = Open your portable MIDI interface to soothe your owner.
+ent-ActionPAIOpenMap = Открыть карту
+    .desc = Open your map interface and guide your owner.

@@ -1,0 +1,16 @@
+ent-ClothingShoesBootsMagBase = магнитные ботинки
+    .desc = Magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.
+ent-ClothingShoesBootsMag = магнитные сапоги
+    .desc = { ent-ClothingShoesBootsMagBase.desc }
+ent-ClothingShoesBootsMagAdv = продвинутые магнитные сапоги
+    .desc = State-of-the-art magnetic boots that do not slow down their wearer.
+ent-ClothingShoesBootsMagSci = { ent-ClothingShoesBootsMagBase }
+    .desc = { ent-ClothingShoesBootsMagBase.desc }
+ent-ClothingShoesBootsMagBlinding = магнитные сапоги ослепляющей скорости
+    .desc = These would look fetching on a fetcher like you.
+ent-ClothingShoesBootsMagSyndie = кроваво-красные магнитные сапоги
+    .desc = Reverse-engineered from ERT magboots, they have a heavy magnetic pull, integrated thrusters, and are designed for combat. It can hold 0.75 L of gas.
+ent-ClothingShoesBootsMagERT = ERT magboots
+    .desc = Upgraded magnetic boots utilized by NanoTrasen's Emergency Response Teams, they have a heavy magnetic pull and integrated thrusters. It can hold 0.75 L of gas.
+ent-ActionToggleMagboots = Включить/Выключить магботы
+    .desc = Toggles the magboots on and off.

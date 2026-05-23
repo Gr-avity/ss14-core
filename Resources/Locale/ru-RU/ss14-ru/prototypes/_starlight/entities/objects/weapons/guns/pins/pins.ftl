@@ -1,0 +1,14 @@
+ent-FiringPin = ударник
+    .desc = Somebody probably really needs this right now...
+ent-FiringPinPistol = пистолетный ударник
+    .desc = { ent-FiringPin.desc }
+ent-FiringPinMakeshift = самодельный ударник
+    .desc = It's a nail. Welded to a bottle cap.
+ent-FiringPinSmartLMG = затворный узел умной пушки
+    .desc = One of a kind, unreplaceable. Includes a round counter.
+ent-FiringPinLaser = лазерный кристалл
+    .desc = Fragile, not unlike the assistants killed by it.
+ent-FiringPinAdvancedLaser = прототип лазерного кристалла
+    .desc = DO NOT DROP is inscribed on the side. whatever.
+ent-FiringPinExpedition = экспедиционный ударник
+    .desc = This universal pin prevents the gun from firing when on station, useful for managing weaponry used on offstation exploration.

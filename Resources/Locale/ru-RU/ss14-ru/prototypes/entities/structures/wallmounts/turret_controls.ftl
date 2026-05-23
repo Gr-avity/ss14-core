@@ -1,0 +1,13 @@
+ent-WeaponEnergyTurretControlPanelFrame = каркас панели управления турелью
+    .desc = An incomplete wall-mounted assembly for a sentry turret control panel.
+ent-WeaponEnergyTurretStationControlPanelBase = панель управления турелью
+    .desc = A wall-mounted interface for remotely configuring the operational parameters of linked sentry turrets.
+ent-WeaponEnergyTurretAIControlPanel = ИИ-панель управления турелью
+    .suffix = AI
+    .desc = { ent-WeaponEnergyTurretStationControlPanelBase.desc }
+ent-WeaponEnergyTurretSecurityControlPanel = { ent-WeaponEnergyTurretStationControlPanelBase }
+    .suffix = Security
+    .desc = { ent-WeaponEnergyTurretStationControlPanelBase.desc }
+ent-WeaponEnergyTurretCommandControlPanel = { ent-WeaponEnergyTurretStationControlPanelBase }
+    .suffix = Command
+    .desc = { ent-WeaponEnergyTurretStationControlPanelBase.desc }

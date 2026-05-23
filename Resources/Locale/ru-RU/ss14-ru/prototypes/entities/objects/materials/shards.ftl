@@ -1,0 +1,12 @@
+ent-ShardBase = { ent-BaseItem }
+    .desc = It's a shard of some unknown material.
+ent-ShardGlass = осколок стекла
+    .desc = A small piece of glass.
+ent-ShardGlassReinforced = осколок армированного стекла
+    .desc = A small piece of reinforced glass.
+ent-ShardGlassPlasma = осколок плазменного стекла
+    .desc = A small piece of plasma glass.
+ent-ShardGlassUranium = осколок уранового стекла
+    .desc = A small piece of uranium glass.
+ent-ShardGlassClockwork = осколок часового стекла
+    .desc = A small piece of brass-infused glass.

@@ -1,0 +1,13 @@
+ent-BaseSportsBall = { "" }
+    .desc = { "" }
+ent-Basketball = баскетбольный мяч
+    .desc = Where dah courts at?
+ent-Football = мяч для регби
+    .desc = Otherwise known as a handegg.
+ent-TennisBall = теннисный мячик
+    .desc = A fuzzy orb of endless betrayal.
+ent-BeachBall = пляжный мяч
+    .desc = The simple beach ball is one of NanoTrasen's most popular products. 'Why do we make beach balls? Because we can! (TM)' - NanoTrasen
+ent-EvilBeachBall = { ent-BeachBall }
+    .desc = Someone's drawn ">:3c" on the side of this beach ball in indelible ink.
+    .suffix = EVIL/ADMEME

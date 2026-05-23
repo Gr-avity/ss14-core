@@ -1,0 +1,12 @@
+ent-HydroponicsToolMiniHoe = маленькая тяпка
+    .desc = It's used for removing weeds or scratching your back.
+ent-HydroponicsToolClippers = кусачки для растений
+    .desc = A tool used to take samples from plants.
+ent-HydroponicsToolScythe = коса
+    .desc = A sharp and curved blade on a long fibremetal handle, this tool makes it easy to reap what you sow.
+ent-HydroponicsToolHatchet = топорик
+    .desc = A very sharp axe blade upon a short fibremetal handle. It has a long history of chopping things, but now it is used for chopping wood.
+ent-HydroponicsToolSpade = лопатка
+    .desc = A small tool for digging and moving dirt.
+ent-PlantBag = сумка для растений
+    .desc = A bag for botanists to easily move their huge harvests.

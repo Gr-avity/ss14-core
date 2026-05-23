@@ -1,0 +1,15 @@
+ent-WeaponImprovisedPneumaticCannon = импровизированная пневматическая пушка
+    .desc = Improvised using nothing but a pipe, some zipties, and a pneumatic cannon. Doesn't accept tanks without enough gas.
+ent-LauncherCreamPie = «Пирогомёт»
+    .desc = Load cream pie for optimal results.
+    .suffix = Empty
+ent-BorgLauncherCreamPie = экспериментальный пирогомет
+    .desc = Deliver a generous portion of cream directly to the crew! Automatically bakes pies over time.
+ent-LauncherSyringe = шприцемет
+    .desc = Load full of poisoned syringes for optimal fun.
+ent-WeaponImprovisedPneumaticCannonGun = { ent-WeaponImprovisedPneumaticCannon }
+    .suffix = Gun
+    .desc = { ent-WeaponImprovisedPneumaticCannon.desc }
+ent-WeaponImprovisedPneumaticCannonAdmeme = { ent-WeaponImprovisedPneumaticCannonGun }
+    .suffix = Admeme
+    .desc = { ent-WeaponImprovisedPneumaticCannonGun.desc }

@@ -1,0 +1,17 @@
+ent-BorgChassisSyndicateStealth = стелс-борг синдиката
+    .desc = { ent-BaseBorgChassisSyndicate.desc }
+ent-BorgChassisSecurity = борг безопасности
+    .desc = { ent-BorgChassisSelectable.desc }
+ent-BorgChassisSecurityPowered = security cyborg
+    .suffix = Powered
+    .desc = { ent-BorgChassisSecurity.desc }
+ent-BorgChassisPurrfus = мур-борг
+    .desc = { ent-BorgChassisSelectable.desc }
+ent-PurrfusBorgChassisDerelict = derelict purrfus cyborg
+    .desc = A man-machine hybrid of the purrfus variety. This one is in a state of great disrepair.
+ent-BorgChassisCargo = грузовой борг
+    .desc = { ent-BorgChassisSelectable.desc }
+ent-BorgChassisTSF = TSMC assault cyborg
+    .desc = A purpose built assault silicon used by the TSMC.
+ent-BorgChassisMedTak = MedTak silicon
+    .desc = A multirole heavy silicon chassis designed to support MedTak units.

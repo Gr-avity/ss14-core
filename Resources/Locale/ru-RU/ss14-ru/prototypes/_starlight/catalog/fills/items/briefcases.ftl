@@ -1,0 +1,11 @@
+ent-BriefcaseIAAFilled = { ent-BriefcaseBrown }
+    .suffix = IAA
+    .desc = { ent-BriefcaseBrown.desc }
+ent-BriefcaseLawyerFilled = { ent-BriefcaseBrown }
+    .suffix = Lawyer
+    .desc = { ent-BriefcaseBrown.desc }
+ent-SyndieDeadDropSpawner = Syndicate High Command
+    .desc = { ent-MarkerBase.desc }
+ent-BriefcaseSyndieDeadDrop = syndicate briefcase
+    .suffix = Dead Drop, Do Not Map
+    .desc = { ent-BaseSubfloorAnchorStorageAnchored.desc }

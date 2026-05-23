@@ -1,0 +1,16 @@
+ent-CrateInternalsO2N2 = emergency crate
+    .desc = { ent-CrateInternals.desc }
+ent-CrateSoviet = ящик морпехов ОССП
+    .desc = A sturdy crate adorned with the insignia of the USSP marine forces.
+ent-CrateRDSecure = ящик НР
+    .desc = { ent-CrateBaseSecure.desc }
+ent-CrateRoboticsSecure = защищённый ящик робототехники
+    .desc = { ent-CrateBaseSecure.desc }
+ent-CrateSalvageContrabandStorageSecure = ящик хранения утилизаторов
+    .desc = A security and salvage access locked crate for storing contraband.
+    .suffix = Salvage, Secure
+ent-CrateCentralCommandSecure = ящик центрального командования
+    .desc = { ent-CrateBaseSecure.desc }
+ent-CrateCentralCommandSecureStrong = ящик центрального командования
+    .desc = A large container for items. Made with plastitanium to drastically improve durability.
+    .suffix = Secure, Strong

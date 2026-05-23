@@ -1,0 +1,16 @@
+ent-BaseSoap = мыло
+    .desc = { ent-BaseItem.desc }
+ent-Soap = мыло
+    .desc = A cheap bar of soap. Doesn't smell.
+ent-SoapNT = мыло
+    .desc = A NanoTrasen brand bar of soap. Smells of plasma.
+ent-SoapDeluxe = мыло
+    .desc = A deluxe Waffle Co. brand bar of soap. Smells of strawberries.
+ent-SoapSyndie = мыло
+    .desc = An untrustworthy bar of soap. Smells of fear.
+ent-SoapletSyndie = мылок
+    .desc = A tiny piece of syndicate soap.
+ent-SoapHomemade = мыло
+    .desc = A homemade bar of soap. Smells of... well....
+ent-SoapOmega = омега мыло
+    .desc = The most advanced soap known to mankind. Smells of bluespace.

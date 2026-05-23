@@ -1,0 +1,16 @@
+ent-BaseSword = меч
+    .desc = { ent-BaseItem.desc }
+ent-Cutlass = абордажная сабля
+    .desc = A wickedly curved blade, often seen in the hands of space pirates.
+ent-Machete = мачете
+    .desc = A large, vicious looking blade.
+ent-CaptainSabre = капитанская сабля
+    .desc = A ceremonial weapon belonging to the captain of the station.
+ent-Katana = катана
+    .desc = Ancient craftwork made with not so ancient plasteel.
+ent-EnergyKatana = энергокатана
+    .desc = A katana infused with strong energy.
+ent-Claymore = клеймор
+    .desc = An ancient war blade.
+ent-Throngler = Нагибатор
+    .desc = If Security dares take it from you, just remind them that they are indeed mortal.

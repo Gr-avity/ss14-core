@@ -1,0 +1,11 @@
+ent-LightPostSmall = фонарный столб
+    .desc = An always powered light.
+    .suffix = Always Powered
+ent-PoweredLightPostSmallEmpty = фонарный столб
+    .desc = A small light post.
+    .suffix = Empty
+ent-PoweredLightPostSmall = фонарный столб
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
+ent-PoweredLEDLightPostSmall = LED-световой столбик
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
+    .suffix = LED

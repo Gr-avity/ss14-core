@@ -1,0 +1,16 @@
+ent-BaseArrow = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-ArrowRegular = стрела
+    .desc = You can feel the power of the steppe within you.
+ent-ArrowImprovised = стрела из осколка стекла
+    .desc = The greyshirt's preferred projectile.
+ent-ArrowImprovisedPlasma = плазменная стрела
+    .desc = The greyshirt's preferred projectile. Now with extra lethality!
+ent-ArrowImprovisedUranium = урановая стрела
+    .desc = The greyshirt's preferred projectile. Now with added radiation!
+ent-CorgiArrow = корги-стрела
+    .desc = Polymorphs someone into a corgi.  Permanently.
+ent-ArrowImprovisedCarp = стрела из зуба карпа
+    .desc = The salvager's preferred arrow. Kill your enemies with the teeth of their families.
+ent-ArrowCard = картонная стрела
+    .desc = Careful, you'll poke an eye out!

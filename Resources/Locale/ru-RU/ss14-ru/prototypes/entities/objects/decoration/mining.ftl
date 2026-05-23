@@ -1,0 +1,12 @@
+ent-WoodenSign = деревянный указатель
+    .desc = He's pointing somewhere.
+ent-WoodenSignRight = { ent-WoodenSign }
+    .desc = { ent-WoodenSign.desc }
+ent-WoodenSupport = деревянная подпорка
+    .desc = Increases your confidence that a rock won't fall on your head.
+ent-WoodenSupportBeam = деревянная балка
+    .desc = { ent-WoodenSupport.desc }
+ent-WoodenSupportWall = деревянная стена
+    .desc = An old, rotten wall.
+ent-WoodenSupportWallBroken = { ent-WoodenSupportWall }
+    .desc = { ent-WoodenSupportWall.desc }

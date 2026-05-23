@@ -1,0 +1,16 @@
+ent-FoodNoodlesBase = { ent-FoodInjectableBase }
+    .desc = Now that's a nice pasta!
+ent-FoodNoodlesBoiled = отварные спагетти
+    .desc = A plain dish of noodles, this needs more ingredients.
+ent-FoodNoodles = спагетти
+    .desc = Spaghetti and crushed tomatoes. Just like your abusive father used to make!
+ent-FoodNoodlesCopy = копипаста
+    .desc = You probably shouldn't try this, you always hear people talking about how bad it is...
+ent-FoodNoodlesMeatball = спагетти с фрикадельками
+    .desc = Now that's a nice-a meatball!
+ent-FoodNoodlesSpesslaw = законпаста
+    .desc = A lawyer's favourite.
+ent-FoodNoodlesChowmein = чоу мейн
+    .desc = A nice mix of noodles and fried vegetables.
+ent-FoodNoodlesButter = сливочная лапша
+    .desc = Noodles covered in savory butter. Simple and slippery, but delicious.

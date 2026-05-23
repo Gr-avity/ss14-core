@@ -1,0 +1,14 @@
+ent-GasTrinaryBase = { ent-GasPipeBase }
+    .desc = { ent-GasPipeBase.desc }
+ent-GasFilter = газовый фильтр
+    .desc = Very useful for filtering gases.
+ent-GasFilterFlipped = газовый фильтр
+    .suffix = Flipped
+    .desc = { ent-GasFilter.desc }
+ent-GasMixer = газовый смеситель
+    .desc = Very useful for mixing gases.
+ent-GasMixerFlipped = газовый смеситель
+    .suffix = Flipped
+    .desc = { ent-GasMixer.desc }
+ent-PressureControlledValve = пневматический клапан
+    .desc = A bidirectional valve controlled by pressure. Opens if the output pipe is lower than the pressure of the control pipe by 101.325 kPa.

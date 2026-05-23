@@ -1,0 +1,16 @@
+ent-BoxSyringe = коробка шприцов
+    .desc = A box full of syringes.
+ent-BoxPillCanister = коробка баночек для таблеток
+    .desc = A box full of pill canisters.
+ent-BoxBottle = коробка бутылочек
+    .desc = A box full of bottles.
+ent-BoxSterileMask = коробка медицинских масок
+    .desc = This box contains sterile medical masks.
+ent-BoxLatexGloves = коробка латексных перчаток
+    .desc = Contains sterile latex gloves.
+ent-BoxNitrileGloves = коробка нитриловых перчаток
+    .desc = Contains sterile nitrile gloves. Better than latex.
+ent-BoxBodyBag = коробка мешков для тел
+    .desc = Contains body bags.
+ent-BoxVial = коробка пробирок
+    .desc = A box full of vials.

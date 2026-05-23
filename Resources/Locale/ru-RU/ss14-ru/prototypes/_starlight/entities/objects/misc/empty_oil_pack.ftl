@@ -1,0 +1,9 @@
+ent-EmptyOilPack = Empty Oil Pack
+    .desc = Contains nothing.
+    .suffix = Full
+ent-EmptyOilPack5 = { ent-EmptyOilPack }
+    .suffix = 5
+    .desc = { ent-EmptyOilPack.desc }
+ent-EmptyOilPack1 = { ent-EmptyOilPack }
+    .suffix = Single
+    .desc = { ent-EmptyOilPack.desc }

@@ -1,0 +1,16 @@
+ent-PrinterDocFlatpack = плоский пакет принтера документов
+    .desc = A flatpack used for constructing a document printer.
+ent-KitchenOvenFlatpack = плоский пакет печи
+    .desc = A flatpack used for constructing an oven.
+ent-MailTrolleyFlatpack = плоский пакет почтовой тележки
+    .desc = A flatpack used for constructing an mail trolley.
+ent-GoldenMailTrolleyFlatpack = golden mail trolley flatpack
+    .desc = A flatpack used for constructing a brilliant golden mail trolley.
+ent-KitchenStoveFlatpack = плоский пакет плиты
+    .desc = A flatpack used for constructing an stove.
+ent-SlopDispenserFlatpack = плоский пакет раздатчика питательной пасты
+    .desc = A flatpack used for constructing a nutrient paste dispenser.
+ent-FloraTreeChristmas02Flatpack = плоский пакет рождественской ёлки
+    .desc = A flatpack used for constructing a christmas tree.
+ent-SyndieDrobeFlatpack = SyndieDrobe flatpack
+    .desc = Looks like Syndieland's back in business.

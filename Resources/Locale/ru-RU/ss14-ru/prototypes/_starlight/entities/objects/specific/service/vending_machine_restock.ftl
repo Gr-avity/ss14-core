@@ -1,0 +1,12 @@
+ent-VendingMachineRestockSustenance = коробка пополнения автомата с едой
+    .desc = A box full of what is legally food. Load it into a Sustenance Vendor for a refill.
+ent-VendingMachineRestockSyndicate = коробка пополнения автомата синдиката
+    .desc = A box of illicit supplies that coincidentally looks a lot like a donksoft restock...
+ent-VendingMachineRestockCentComm = коробка пополнения автомата Центкома
+    .desc = Fine wares for fine tastes.
+ent-VendingMachineRestockMagical = коробка пополнения магического автомата
+    .desc = Restock to recast.
+ent-VendingMachineRestockDonk = коробка пополнения автомата «донк на ходу»
+    .desc = A box full of what is legally food. Load it into a Donk on the Go Vendor for a refill.
+ent-VendingMachineRestockIceCream = коробка пополнения запасов мороженого
+    .desc = A box full of ice-cream and near-liquid nitrogen.

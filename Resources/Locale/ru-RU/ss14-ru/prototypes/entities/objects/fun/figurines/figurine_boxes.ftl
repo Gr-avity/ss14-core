@@ -1,0 +1,10 @@
+ent-MysteryFigureBoxTrash = разложенная картонная коробка
+    .desc = A small, unfolded cardboard toy box.
+ent-MysteryFigureBox = коробка с минифигурками таинственных космонавтов
+    .desc = A box containing a mystery minifigure. The side of the box depicts a few blacked-out 'rare' figures, including one with a large, non-humanoid shilouette.
+ent-MysteryLighterBox = сувенирная коробка с зажигалкой
+    .desc = A box of discontinued promotional lighters. A faded and scratched label on the side reads, "May contain contraband."
+    .suffix = Filled
+ent-UplinkLighterBox = { ent-MysteryLighterBox }
+    .suffix = Uplink
+    .desc = { ent-MysteryLighterBox.desc }

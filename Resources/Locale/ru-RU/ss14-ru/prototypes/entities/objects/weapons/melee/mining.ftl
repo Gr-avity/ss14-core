@@ -1,0 +1,14 @@
+ent-Pickaxe = кирка
+    .desc = Notched to perfection, for jamming it into rocks.
+ent-MiningDrill = шахтёрский бур
+    .desc = Powerful tool used to quickly drill through rocks.
+ent-MiningDrillDiamond = шахтёрский бур с алмазным наконечником
+    .desc = A significantly more efficient mining drill tipped with diamond.
+ent-BaseWeaponCrusher = крушитель
+    .desc = An early design of the proto-kinetic accelerator.
+ent-WeaponCrusher = { ent-BaseWeaponCrusher }
+    .desc = { ent-BaseWeaponCrusher.desc }
+ent-WeaponCrusherDagger = кинжал-крушитель
+    .desc = A scaled down version of a proto-kinetic crusher. Uses kinetic energy to vibrate the blade at high speeds.
+ent-WeaponCrusherGlaive = глефа-крушитель
+    .desc = An early design of the proto-kinetic accelerator, in glaive form.

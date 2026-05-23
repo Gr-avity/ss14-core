@@ -1,0 +1,16 @@
+ent-CrateSecurityArmor = ящик с бронёй
+    .desc = Contains three bulletproof vests. Requires Security access to open.
+ent-CrateSecurityHelmet = ящик со шлемами
+    .desc = Contains three standard-issue brain buckets. Requires Security access to open.
+ent-CrateSecurityNonlethal = ящик нелетального снаряжения
+    .desc = Contains a mix of disablers, stun batons, and flashes. Requires Security access to open.
+ent-CrateSecuritySupplies = ящик припасов СБ
+    .desc = Contains various supplies for the station's Security team. Requires Security access to open.
+ent-CrateRestraints = ящик наручников
+    .desc = Contains two boxes each of handcuffs and zipties. Requires Security access to open.
+ent-CrateSecurityBiosuit = ящик с биокостюмами службы безопасности
+    .desc = Contains 2 biohazard suits to ensure that no disease will distract you from your duties. Requires Security access to open.
+ent-CrateSecurityTrackingMindshieldImplants = Ящик с имплантами
+    .desc = Contains 4 MindShield implants and 4 tracking implant. Requires Security access to open.
+ent-CrateSecNonlethalThrowables = ящик с нелетальным метательным оружием
+    .desc = Contains one box each of flashbangs, stingers, tear gas grenades, and four bolas. Requires Security access to open.

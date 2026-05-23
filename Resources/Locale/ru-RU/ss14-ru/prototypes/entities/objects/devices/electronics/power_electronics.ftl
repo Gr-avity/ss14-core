@@ -1,0 +1,10 @@
+ent-APCElectronics = микросхема АПЦ
+    .desc = Circuit used in APC construction.
+ent-WallmountSubstationElectronics = микросхема настенной подстанции
+    .desc = Circuit used to construct a wallmount substation.
+ent-WallmountGeneratorElectronics = микросхема настенного генератора
+    .desc = Circuit used to construct a wallmount generator.
+ent-WallmountGeneratorAPUElectronics = микросхема настенной ВСУ
+    .desc = Circuit used to construct a wallmount APU.
+ent-SolarTrackerElectronics = микросхема солнечного трекера
+    .desc = Advanced circuit board used to track the nearest star.

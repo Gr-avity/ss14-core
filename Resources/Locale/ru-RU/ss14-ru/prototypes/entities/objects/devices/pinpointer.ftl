@@ -1,0 +1,17 @@
+ent-PinpointerBase = поисковый навигатор
+    .desc = A handheld tracking device. While typically far more capable, this one has been configured to lock onto certain signals. Keep upright to retain accuracy.
+ent-PinpointerNuclear = поисковый навигатор
+    .desc = { ent-PinpointerBase.desc }
+ent-PinpointerSyndicateNuclear = синдикатовский пеленгатор
+    .desc = Produced specifically for nuclear operative missions, get that disk!
+ent-PinpointerUniversal = универсальный пинпоинтер
+    .desc = A handheld tracking device that locks onto any physical entity while off. Keep upright to retain accuracy.
+ent-PinpointerStation = станционный пеленгатор
+    .desc = A handheld tracking device that leads to the direction of any nearby station.
+    .suffix = Station
+ent-PinpointerMothership = пинпоинтер ядра
+    .desc = A handheld tracking device that leads to the direction of the Mothership core.
+ent-PinpointerMothershipPiece = фрагмент пинпоинтера ядра
+    .desc = A piece of a core pinpointer. You need four pieces to repair it.
+ent-PinpointerMothershipRepaired = восстановленный пинпоинтер ядра
+    .desc = A handheld tracking device that leads to the direction of the Mothership core. This one has seen better days.

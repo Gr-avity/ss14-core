@@ -1,0 +1,13 @@
+ent-SinkEmpty = раковина
+    .desc = The faucets have been tightened to the maximum possible torque but are still known to drip.
+    .suffix = Empty
+ent-Sink = раковина
+    .suffix = Water
+    .desc = { ent-SinkEmpty.desc }
+ent-SinkWide = широкая раковина
+    .desc = { ent-Sink.desc }
+ent-SinkStemless = раковина
+    .desc = { ent-SinkEmpty.desc }
+ent-SinkStemlessWater = раковина
+    .suffix = Water
+    .desc = { ent-SinkStemless.desc }

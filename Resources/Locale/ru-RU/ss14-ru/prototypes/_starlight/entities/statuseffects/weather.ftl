@@ -1,0 +1,10 @@
+ent-WeatherRadStorm = radstorm
+    .desc = { ent-WeatherBase.desc }
+ent-WeatherSolarFlare = solar flare
+    .desc = { ent-WeatherBase.desc }
+ent-WeatherAuroraCaelus = aurora caelus
+    .desc = { ent-WeatherBase.desc }
+ent-WeatherSpaceWhale = space whale
+    .desc = { ent-WeatherBase.desc }
+ent-WeatherCosmic = cosmic
+    .desc = { ent-WeatherBase.desc }

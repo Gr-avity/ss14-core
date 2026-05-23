@@ -1,0 +1,10 @@
+ent-Joint = косяк
+    .desc = A roll of dried plant matter wrapped in thin paper.
+ent-JointRainbow = радужный косяк
+    .desc = A roll of dried plant matter wrapped in thin paper. Seems to be colorful inside.
+    .suffix = Rainbow
+ent-Blunt = блант
+    .desc = A roll of dried plant matter wrapped in a dried tobacco leaf.
+ent-BluntRainbow = радужный блант
+    .desc = A roll of dried plant matter wrapped in a dried tobacco leaf. Seems to be colorful inside.
+    .suffix = Rainbow

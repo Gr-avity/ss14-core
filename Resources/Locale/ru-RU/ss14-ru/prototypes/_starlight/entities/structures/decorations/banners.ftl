@@ -1,0 +1,16 @@
+ent-BannerBaseAlt = базовое знамя
+    .desc = It's the concept of a banner, you shouldn't be seeing this.
+ent-BaseWallBanner = { ent-BaseSign }
+    .desc = { ent-BaseSign.desc }
+ent-BannerWallHammer = революционное настенное знамя
+    .desc = Gone are the days of oppression and the unfair treatment of contractors! URAA!
+ent-BannerWallSoviet = настенное знамя ОССП
+    .desc = Banner of the United Soviet Socialist Planets. Hang it up. Obey it. Try not to salute by reflex.
+ent-BannerSovietRegular = знамя ОССП
+    .desc = Banner of the United Soviet Socialist Planets. Features the glorious hammer and wrench. Symbols of industry, progress, fraternity and fixing what you broke.
+ent-BannerSovietHammer = революционное знамя
+    .desc = Gone are the days of oppression and the unfair treatment of contractors! URAA!
+ent-BannerSNKVD = советское знамя СНКВД
+    .desc = One wrong move and you're dead comrade. For good.
+ent-BannerSGKB = советское знамя СГКБ
+    .desc = Implementing workers rights. Yeah, we do that in your stations. You're welcome.

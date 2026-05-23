@@ -1,0 +1,14 @@
+ent-BoxMagazineCaselessRifleRubber = коробка магазинов .25 безгильзовых (резиновых)
+    .desc = A box full of
+ent-BoxMagazineLightRifleRubber = коробка магазинов .30 винтовочных (резиновых)
+    .desc = A box full of .30 rifle (practice) magazines.
+ent-BoxMagazineMagnumSubMachineGunRubber = коробка магазинов Vector (резиновых)
+    .desc = A box full of Vector (rubber) magazines.
+ent-BoxMagazinePistolRubber = коробка магазинов пистолетных .35 авто (резиновых)
+    .desc = A box full of pistol .35 auto (rubber) magazines.
+ent-BoxMagazinePistolHighCapacityRubber = коробка магазинов машинного пистолета .35 авто (резиновых)
+    .desc = A box full of machine pistol .35 auto (rubber) magazines.
+ent-BoxMagazinePistolSubMachineGunRubber = коробка магазинов ПП .35 авто (резиновых)
+    .desc = A box full of SMG .35 auto (rubber) magazines.
+ent-BoxMagazineRifleRubber = коробка магазинов .20 винтовочных (резиновых)
+    .desc = A box full of .20 rifle (rubber) magazines.

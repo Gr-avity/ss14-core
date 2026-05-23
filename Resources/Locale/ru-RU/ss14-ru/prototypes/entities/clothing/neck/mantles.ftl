@@ -1,0 +1,16 @@
+ent-ClothingNeckMantleCap = мантия капитана
+    .desc = A comfortable and chique mantle befitting of only the most experienced captain.
+ent-ClothingNeckMantleCE = мантия старшего инженера
+    .desc = High visibility, check. RIG system, check. High capacity cell, check. Everything a chief engineer could need in a stylish mantle.
+ent-ClothingNeckMantleCMO = мантия главного врача
+    .desc = For a CMO that has been in enough medbays to know that more PPE means less central command dry cleaning visits when the shift is over.
+ent-ClothingNeckMantleHOP = мантия главы персонала
+    .desc = A good HOP knows that paper pushing is only half the job... petting your dog and looking fashionable is the other half.
+ent-ClothingNeckMantleHOS = мантия главы службы безопасности
+    .desc = Shootouts with syndicate agents are just another Tuesday for this HoS. This mantle is a symbol of commitment to the station.
+ent-ClothingNeckMantleRD = мантия научного руководителя
+    .desc = For when long days in the office consist of explosives, poisonous gas, murder robots, and a fresh pizza from cargo; this mantle will keep you comfy.
+ent-ClothingNeckMantleQM = мантия квартирмейстера
+    .desc = For the master of goods and materials to rule over the department, a befitting mantle to show off superiority!
+ent-ClothingNeckMantle = обычная мантия
+    .desc = A soft mantle, made with the same 'synthetic' animal furs of the iconic winter coat.

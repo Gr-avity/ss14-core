@@ -1,0 +1,14 @@
+ent-FoodCookedLizardPlate = вулканический взрыв
+    .desc = An art piece showing the demise of a forest
+ent-FoodFriedfelionoid = кентуккийский жареный фелионоид
+    .desc = An old dish modernized to fit new trends
+ent-FoodThaSlop = питательная паста
+    .desc = A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.
+ent-FoodCharcuterie = доска мясных деликатесов
+    .desc = A heaping of bite-sized meats, cheeses, and breads.
+ent-FoodMealKhlavKalash = хлав калаш
+    .desc = No pizza, only khlav kalash.
+ent-FoodSoupStewBlinding = одноминутное ослепляющее рагу
+    .desc = My daughter is eating hair! Best way to tell her this is not ok with out being too harsh?
+ent-FoodCookedShadekinCore = корневые спагетти
+    .desc = An edible representation of your victory

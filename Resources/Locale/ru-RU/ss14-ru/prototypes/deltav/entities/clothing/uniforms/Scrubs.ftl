@@ -1,0 +1,12 @@
+ent-UniformScrubsColorBlack = чёрная роба
+    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+ent-UniformScrubsColorCyan = бирюзовая роба
+    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+ent-UniformScrubsColorCybersun = роба киберсан
+    .desc = The official uniform of Cybersun's biotechnology division
+ent-UniformScrubsColorPink = розовая роба
+    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+ent-UniformScrubsColorRainbow = радужная роба
+    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+ent-UniformScrubsColorWhite = белая роба
+    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.

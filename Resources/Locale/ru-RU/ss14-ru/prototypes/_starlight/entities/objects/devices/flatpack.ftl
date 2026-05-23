@@ -1,0 +1,16 @@
+ent-BaseStructureFlatpack = базовый плоский пакет конструкции
+    .desc = A flatpack used for constructing something.
+ent-SupermatterFlatpack = плоский пакет суперматерии
+    .desc = A flatpack used for constructing a Supermatter Crystal.
+ent-TEGCenterFlatpack = плоский пакет центра TEG
+    .desc = A flatpack used for constructing the main component of a Thermo-Electric Generator.
+ent-TEGCirculatorFlatpack = плоский пакет циркулятора TEG
+    .desc = A flatpack used for constructing a Circulator for a Thermo-Electric Generator.
+ent-ReflectorFlatpack = плоский пакет рефлектора
+    .desc = A flatpack used for constructing a Reflector.
+ent-ShuttleGunKineticFlatpack = плоский пакет PTK-800 «Дематериализатор материи»
+    .desc = A flatpack used for constructing a PTK-800 "Matter Dematerializer".
+ent-NuclearReactorSmallFlatpack = Small Nuclear Reactor Flatpack
+    .desc = A flatpack used for constructing a small nuclear reactor. Parts sold separately.
+ent-GasTurbineSmallFlatpack = Small Gas Turbine Flatpack
+    .desc = A flatpack used for constructing a small gas turbine. Parts sold separately.

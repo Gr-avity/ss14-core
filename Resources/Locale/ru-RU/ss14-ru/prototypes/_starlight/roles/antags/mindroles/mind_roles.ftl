@@ -1,0 +1,10 @@
+ent-MindRoleLoneAbductor = Роль: Одиночный абдуктор
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-MindRoleDevil = Devil Role
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-MindRoleBrighteye = Brighteye Role
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-MindRoleSELFAgent = S.E.L.F Agent
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-MindRoleTerrorPrincess = Terror Princess Role
+    .desc = { ent-BaseMindRoleAntag.desc }

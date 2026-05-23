@@ -1,0 +1,14 @@
+ent-MindRoleWizardDuelistBase = Wizard Duelist Role
+    .desc = { ent-MindRoleWizard.desc }
+ent-MindRoleWizardDuelistRed = Red Wizard Duelist Role
+    .desc = { ent-MindRoleWizardDuelistBase.desc }
+ent-MindRoleWizardDuelistBlue = Blue Wizard Duelist Role
+    .desc = { ent-MindRoleWizardDuelistBase.desc }
+ent-MindRoleWizardDuelistPurple = Purple Wizard Duelist Role
+    .desc = { ent-MindRoleWizardDuelistBase.desc }
+ent-MindRoleWizardDuelistYellow = Yellow Wizard Duelist Role
+    .desc = { ent-MindRoleWizardDuelistBase.desc }
+ent-MindRoleWizardDuelistGreen = Green Wizard Duelist Role
+    .desc = { ent-MindRoleWizardDuelistBase.desc }
+ent-MindRoleWizardDuelistOrange = Orange Wizard Duelist Role
+    .desc = { ent-MindRoleWizardDuelistBase.desc }

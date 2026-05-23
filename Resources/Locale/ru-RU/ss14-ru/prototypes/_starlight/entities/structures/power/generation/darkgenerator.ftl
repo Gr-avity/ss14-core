@@ -1,0 +1,3 @@
+ent-DarkGenerator = тёмный генератор
+    .desc = Somehow... this generate power... but only in the dark...
+    .suffix = 10kW

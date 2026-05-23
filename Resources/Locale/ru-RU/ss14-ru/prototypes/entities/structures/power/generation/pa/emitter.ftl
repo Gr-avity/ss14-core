@@ -1,0 +1,15 @@
+ent-ParticleAcceleratorEmitterPort = правый эмиттер УЧ
+    .desc = This launchs the Alpha particles, might not want to stand near this end.
+ent-ParticleAcceleratorEmitterFore = центральный эммитер УЧ
+    .desc = This launchs the Alpha particles, might not want to stand near this end.
+ent-ParticleAcceleratorEmitterStarboard = левый эммитер УЧ
+    .desc = This launchs the Alpha particles, might not want to stand near this end.
+ent-ParticleAcceleratorEmitterPortUnfinished = левый излучатель УЧ
+    .desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
+    .suffix = Unfinished, Port
+ent-ParticleAcceleratorEmitterForeUnfinished = передний излучатель УЧ
+    .desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
+    .suffix = Unfinished, Fore
+ent-ParticleAcceleratorEmitterStarboardUnfinished = правый излучатель УЧ
+    .desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
+    .suffix = Unfinished, Starboard

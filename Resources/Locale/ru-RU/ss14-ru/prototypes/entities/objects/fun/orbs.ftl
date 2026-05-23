@@ -1,0 +1,11 @@
+ent-SingularityToy = игрушечная сингулярность
+    .desc = Mass-produced by a sadistic corporate conglomerate!
+ent-TeslaToy = плюшевый Тесла
+    .desc = The favorite toy of the great engineer Nikola Tesla.
+ent-PonderingOrb = шар размышлений
+    .desc = Ponderous, man... Really ponderous.
+ent-PonderingOrbWizard = шар для раздумий
+    .desc = Ponderous, man... Really ponderous. Magically shows the station's camera network.
+    .suffix = Wizard
+ent-Magic9Ball = magic 9 ball
+    .desc = An endless source of wisdom... Now with a speaker included!

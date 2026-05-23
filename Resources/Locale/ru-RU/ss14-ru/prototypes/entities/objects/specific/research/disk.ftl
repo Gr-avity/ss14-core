@@ -1,0 +1,14 @@
+ent-ResearchDisk = диск исследовательских очков (1000)
+    .desc = A disk for the R&D server containing 1000 points.
+ent-ResearchDisk5000 = диск исследовательских очков (5000)
+    .desc = A disk for the R&D server containing 5000 points.
+ent-ResearchDisk10000 = диск исследовательских очков (10000)
+    .desc = A disk for the R&D server containing 10000 points.
+ent-ResearchDiskDebug = диск исследовательских очков
+    .desc = A disk for the R&D server containing all the points you could ever need.
+    .suffix = DEBUG, DO NOT MAP
+ent-TechnologyDisk = технологический диск
+    .desc = A disk for the R&D server containing research technology.
+ent-TechnologyDiskRare = { ent-TechnologyDisk }
+    .suffix = rare.
+    .desc = { ent-TechnologyDisk.desc }

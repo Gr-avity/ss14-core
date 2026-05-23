@@ -1,0 +1,16 @@
+ent-BaseArachnidOrgan = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-OrganArachnidStomach = желудок
+    .desc = Gross. This is hard to stomach.
+ent-OrganArachnidLungs = лёгкие
+    .desc = Filters oxygen from an atmosphere... just more greedily.
+ent-OrganArachnidHeart = сердце
+    .desc = A disgustingly persistent little biological pump made for spiders.
+ent-OrganArachnidLiver = печень
+    .desc = Pairing suggestion: chianti and fava beans.
+ent-OrganArachnidKidneys = почки
+    .desc = Filters toxins from the bloodstream.
+ent-OrganArachnidEyes = глаза
+    .desc = Two was already too many.
+ent-OrganArachnidTongue = язык
+    .desc = A fleshy muscle mostly used for lying.
