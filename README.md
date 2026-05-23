@@ -14,7 +14,7 @@
 
 ## 📋 О проекте
 
-**project-octo** — это форк [Starlight](https://github.com/ss14Starlight/space-station-14), который в свою очередь основан на [Space Station 14](https://github.com/space-wizards/space-station-14). Проект сочетает классический хаос SS13 с экспериментальными механиками, возможными только на новом движке.
+**SS14-ART-CORE** — это форк [Starlight](https://github.com/ss14Starlight/space-station-14), который в свою очередь основан на [Space Station 14](https://github.com/space-wizards/space-station-14). Проект сочетает классический хаос SS13 с экспериментальными механиками, возможными только на новом движке.
 
 Space Station 14 — это remake SS13, работающий на [Robust Toolbox](https://github.com/space-wizards/RobustToolbox) — собственном движке, написанном на C#.
 
@@ -47,8 +47,8 @@ Space Station 14 — это remake SS13, работающий на [Robust Toolb
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/ss14-art/project-octo.git
-cd project-octo
+git clone https://github.com/ss14-art/ss14-core.git
+cd ss14-core
 
 # 2. Загрузите движок
 git submodule update --init --recursive
@@ -64,8 +64,8 @@ Scripts\bat\runQuickAll.bat
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/ss14-art/project-octo.git
-cd project-octo
+git clone https://github.com/ss14-art/ss14-core.git
+cd ss14-core
 
 # 2. Загрузите движок
 git submodule update --init --recursive
@@ -93,7 +93,7 @@ Scripts/sh/runQuickAll.sh
 
 ### Ассеты (графика, звуки, спрайты)
 
-Большинство ассетов лицензированы под **[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)**, если не указано иное. Лицензия и информация об авторских правах содержатся в metadata файлах. [Пример](https://github.com/ss14-art/project-octo/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
+Большинство ассетов лицензированы под **[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)**, если не указано иное. Лицензия и информация об авторских правах содержатся в metadata файлах. [Пример](https://github.com/ss14-art/ss14-core/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
 > [!NOTE]
 > Некоторые ассеты имеют некоммерческую лицензию **[CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)**. Они будут удалены, если вы планируете использовать проект в коммерческих целях.
