@@ -1,4 +1,4 @@
-﻿// This file is completely Art-change
+﻿// This file is completely ss14-art-edit
 using Content.Shared.Administration;
 
 namespace Content.Client.Administration.UI.AdminAnnounce;
