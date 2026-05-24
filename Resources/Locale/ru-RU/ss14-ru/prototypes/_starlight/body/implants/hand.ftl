@@ -1,0 +1,10 @@
+ent-BaseEntityHandImplant = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-HandImplantInsulated = Изоляционный имплант
+    .desc = Protects your hands from electric currents!
+ent-HandImplantForensics = Криминалистический имплант
+    .desc = Removes your fingerprints! Great for forensics, at the cost of your mail.
+ent-HandImplantClaws = Имплант когтей
+    .desc = Gives you retractable claws!
+ent-HandImplantThrusters = Имплант ускорителей
+    .desc = Wrist-mounted micro-thrusters to help you maneuver in space.

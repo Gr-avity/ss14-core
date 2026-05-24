@@ -1,0 +1,12 @@
+ent-BaseFlag = { ent-BaseSign }
+    .desc = { ent-BaseSign.desc }
+ent-BlankFlag = пустой флаг
+    .desc = Some piece of white cloth. Definitely not the flag of France.
+ent-NTFlag = флаг НаноТрейзен
+    .desc = Glory to NT! Wait, they really made a flag for a corporation?
+ent-SyndieFlag = флаг Синдиката
+    .desc = Smells bloody. Death to NT!
+ent-LGBTQFlag = флаг ЛГБТК+
+    .desc = "Be gay do crime" flag.
+ent-PirateFlag = пиратский флаг
+    .desc = Raise the jolly roger, scallywags!

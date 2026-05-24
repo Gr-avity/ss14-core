@@ -1,0 +1,12 @@
+ent-RandomHumanoidSpawnerBlackstarOperative = Blackstar Dreadwalker
+    .suffix = Admeme
+    .desc = { "" }
+ent-RandomHumanoidSpawnerBlackstarLegionnaire = Blackstar Legionnaire
+    .suffix = Admeme
+    .desc = { "" }
+ent-RandomHumanoidSpawnerBlackstarBlackguard = Blackstar Blackguard
+    .suffix = Admeme
+    .desc = { "" }
+ent-RandomHumanoidSpawnerBlackstarInitiate = Blackstar Initiate
+    .suffix = Admeme
+    .desc = { "" }

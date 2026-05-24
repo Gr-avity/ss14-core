@@ -1,0 +1,2 @@
+ent-Vape = вейп
+    .desc = Like a cigar, but for tough teens. (WARNING:Pour only water into the vape)

@@ -1,0 +1,15 @@
+ent-TP14FoodMothSticks = сырные палочки мотылька
+    .desc = A fried snack for moths everywhere! They prefer it with honey.
+    .suffix = Trieste, Food
+ent-TP14FoodCheeseSticks = палочки моцареллы
+    .desc = Also known as 'Cheese Sticks'. Goes good with salsa.
+    .suffix = Trieste, Food
+ent-TP14FoodCorndog = корн-дог
+    .desc = Tasty carnival food, but has an after-taste of dogfood.
+    .suffix = Trieste, Food
+ent-TP14FoodFriedIceCream = жареное мороженое
+    .desc = Disgustingly sweet and the crunch doesn't help.
+    .suffix = Trieste, Food
+ent-TP14FoodFunnelCake = хворост
+    .desc = A sweet treat! Not really a cake, though.
+    .suffix = Trieste, Food

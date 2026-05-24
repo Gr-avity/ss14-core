@@ -1,0 +1,13 @@
+ent-PaladinShield = щит паладина
+    .desc = A shield for a true paladin! Good at deflecting hits with swords and absorbing the impact from bats, but not much else.
+ent-PaladinShieldGreat = большой щит паладина
+    .desc = You're up against the wall and I! AM! THE! FUCKING! WALL!
+ent-ForgedShieldBuckler = кованый баклерный щит
+    .desc = Made from the best plasteel the tidersmiths could offer. Decent all-arounder, however being made out of solid metal makes it get hot real fast.
+ent-ForgedShieldTower = кованый башенный щит
+    .desc = Tall and menacing. A bit on the heavy side, however.
+ent-ImprovisedShield = импровизированный щит
+    .desc = Steel welded together in a interlocking pattern to hold up better to various kinds of blows. Don't expect it to do well in a gunfight, however.
+ent-EnergyShieldUnbreakable = energy shield
+    .desc = Exotic energy shield, when folded, can even fit in your pocket.
+    .suffix = Unbreakable, Less Reflect, Weaker

@@ -1,0 +1,15 @@
+ent-BaseStarlightAdmemePaper = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-BaseUnburnablePaper = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-BasePaperQuietChaos = конец Q
+    .desc = dreadful paper that cant be faxed. but has it's own ways of getting around.
+ent-PaperTooQuietNeedChaos = конец Q
+    .desc = dreadful paper that cant fit in a fax machine.
+ent-PaperTooQuietNeedChaosFew = { ent-BasePaperQuietChaos }
+    .suffix = Lowpop
+    .desc = { ent-BasePaperQuietChaos.desc }
+ent-PaperIonstormBorgs = роботы слишком упорядочены?
+    .desc = A paper. it seems to feel slightly electric in your hands. would probally destroy a fax if you insered it.
+ent-PaperEndGreenshift = перезапустить часы.
+    .desc = A paper that seems to "start the clock" again? the countdown causes it to be too big to fix into a fax.

@@ -1,0 +1,15 @@
+ent-BaseMagazineShotgun = барабан (.50 дробь)
+    .desc = { ent-BaseItem.desc }
+ent-MagazineShotgunEmpty = барабан (.50 дробь, любой)
+    .desc = A large drum magazine used by some military-grade automatic shotguns.
+    .suffix = empty
+ent-MagazineShotgun = барабан (.50 дробь)
+    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold general-purpose kinetic ammunition.
+ent-MagazineShotgunBeanbag = барабан (.50 травматические)
+    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold less-than-lethal beanbag ammunition.
+ent-MagazineShotgunSlug = барабан (.50 пуля)
+    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold long-ranged slug ammunition.
+ent-MagazineShotgunIncendiary = барабан (.50 зажигательные)
+    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold self-igniting incendiary ammunition.
+ent-MagazineShotgunBreach = барабан (.50 противотанковый)
+    .desc = { ent-BaseMagazineShotgun.desc }

@@ -1,0 +1,9 @@
+ent-TurnstileCommand = { ent-Turnstile }
+    .suffix = Command
+    .desc = { ent-Turnstile.desc }
+ent-TurnstileCentComm = central command turnstile
+    .suffix = Command
+    .desc = { ent-Turnstile.desc }
+ent-TurnstileCentCommDebrief = central command turnstile
+    .suffix = Debrief
+    .desc = { ent-TurnstileCentComm.desc }

@@ -1,0 +1,10 @@
+ent-BaseBrassInstrument = { ent-BaseHandheldInstrument }
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-TrumpetInstrument = труба
+    .desc = The favorite instrument of jazz musicians and egotistical middle schoolers.
+ent-TromboneInstrument = тромбон
+    .desc = Everyone's favorite sliding brass instrument.
+ent-FrenchHornInstrument = валторна
+    .desc = The fact that holding it involves using your hand to muffle it may suggest something about its sound.
+ent-EuphoniumInstrument = эуфониум
+    .desc = A baby tuba? A Baritone? Whatever it is, it's a pretty cool mess of pipes.

@@ -1,0 +1,16 @@
+ent-CrateArmorySMG = ящик пистолетов-пулемётов
+    .desc = Contains two SMGs with four mags. Requires Armory access to open.
+ent-CrateArmoryShotgun = ящик дробовиков
+    .desc = For when the enemy absolutely needs to be replaced with lead. Contains two Enforcer Combat Shotguns, and some standard shotgun shells. Requires Armory access to open.
+ent-CrateTrackingImplants = ящик с имплантами Трекер
+    .desc = Contains a handful of tracking implanters. Good for prisoners you'd like to release but still keep track of.
+ent-CrateTrainingBombs = учебные бомбы
+    .desc = Contains three low-yield training bombs for security to learn defusal and safe ordnance disposal, EOD suit not included. Requires Armory access to open.
+ent-CrateArmoryLaser = ящик лазерных винтовок
+    .desc = Contains two standard-issue laser rifles and two energy gun's. Requires Armory access to open.
+ent-CrateArmoryPistols = ящик пистолетов
+    .desc = Contains two standard NT pistols with four mags. Requires Armory access to open.
+ent-CrateSecurityRiot = ящик снаряжения против беспорядков
+    .desc = Contains two sets of riot armor, helmets, shields, and enforcers loaded with beanbags. Extra ammo is included. Requires Armory access to open.
+ent-CrateArmoryRifle = ящик с винтовками
+    .desc = Contains two high-powered assault rifles with four mags. Requires Armory access to open.

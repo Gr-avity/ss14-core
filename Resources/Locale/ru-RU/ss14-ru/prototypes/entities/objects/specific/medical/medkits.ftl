@@ -1,0 +1,16 @@
+ent-Medkit = аптечка первой помощи
+    .desc = It's an emergency medical kit for those serious boo-boos.
+ent-MedkitBurn = набор для лечения физических травм
+    .desc = A specialized medical kit for when somone wants to smoke in the plasma flood.
+ent-MedkitToxin = набор для лечения токсинов
+    .desc = Used to treat toxic blood content.
+ent-MedkitO2 = набор для лечения кислородного голодания
+    .desc = A box full of oxygen goodies.
+ent-MedkitBrute = набор для лечения механических травм
+    .desc = A first aid kit for when you get toolboxed.
+ent-MedkitAdvanced = продвинутая аптечка первой помощи
+    .desc = An advanced kit to help deal with advanced wounds.
+ent-MedkitRadiation = набор для выведения радиации
+    .desc = If you took your Rad-X you wouldn't need this.
+ent-MedkitCombat = боевая аптечка
+    .desc = For the big weapons among us.

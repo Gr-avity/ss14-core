@@ -1,0 +1,16 @@
+ent-AdminObserver = админ наблюдатель
+    .desc = { ent-MobObserverBase.desc }
+ent-BaseAGhostAction = { ent-BaseAction }
+    .desc = { ent-BaseAction.desc }
+ent-ActionAGhostShowSolar = Интерфейс солнечной панели
+    .desc = View a Solar Control Interface.
+ent-ActionAGhostShowCommunications = Интерфейс связи
+    .desc = View a Communications Interface.
+ent-ActionAGhostShowRadar = Интерфейс масс-сканера
+    .desc = View a Mass Scanner Interface.
+ent-ActionAGhostShowCargo = Интерфейс карго-заказов
+    .desc = View a Cargo Ordering Interface.
+ent-ActionAGhostShowCrewMonitoring = Интерфейс отслеживания экипажа
+    .desc = View a Crew Monitoring Interface.
+ent-ActionAGhostShowStationRecords = Архив станции
+    .desc = View a Station Records Interface.

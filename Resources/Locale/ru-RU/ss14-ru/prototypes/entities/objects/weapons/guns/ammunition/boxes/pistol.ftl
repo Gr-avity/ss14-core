@@ -1,0 +1,16 @@
+ent-BaseMagazineBoxPistol = коробка патронов (.35 авто)
+    .desc = { ent-BaseItem.desc }
+ent-MagazineBoxPistolSP = коробка патронов (.35 авто)
+    .desc = { ent-BaseMagazineBoxPistol.desc }
+ent-MagazineBoxPistolHP = коробка патронов (.35 авто экспансивные)
+    .desc = { ent-BaseMagazineBoxPistol.desc }
+ent-MagazineBoxPistolFMJ = коробка патронов (.35 авто оболочечные)
+    .desc = { ent-BaseMagazineBoxPistol.desc }
+ent-MagazineBoxPistolAP = коробка патронов (.35 авто бронебойные)
+    .desc = { ent-BaseMagazineBoxPistol.desc }
+ent-MagazineBoxPistolPractice = коробка патронов (.35 авто учебные)
+    .desc = A cardboard box of .35 auto rounds. Intended to hold harmless practice ammunition.
+ent-MagazineBoxPistolIncendiary = коробка патронов (.35 авто зажигательные)
+    .desc = A cardboard box of .35 auto rounds. Intended to hold self-igniting incendiary ammunition.
+ent-MagazineBoxPistolUranium = коробка патронов (.35 авто урановые)
+    .desc = A cardboard box of .35 auto rounds. Intended to hold exotic uranium-core ammunition.

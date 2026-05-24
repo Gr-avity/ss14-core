@@ -1,0 +1,10 @@
+ent-CrateHydroponicsSeedsExotic = ящик экзотических семян
+    .desc = Any entrepreneuring botanist's dream. Contains many different exotic seeds. Requires Hydroponics access to open.
+ent-CrateHydroponicsSeedsMedicinal = ящик лекарственных семян
+    .desc = The wannabe chemist's dream. The power of medicine is at your fingertips! Requires Hydroponics access to open.
+ent-CrateHydroponicsTools = ящик снаряжения для гидропоники
+    .desc = Supplies for growing a great garden! Contains some spray bottles of plant chemicals, a hatchet, a mini-hoe, scythe, as well as a pair of leather gloves and a botanist's apron.
+ent-CrateHydroponicsSeeds = ящик семян
+    .desc = Big things have small beginnings. Contains twenty-four different seeds.
+ent-CrateHydroponicsTray = ящик с лотками для гидропоники
+    .desc = Contains a hydroponics tray flatpack.

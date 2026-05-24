@@ -1,0 +1,12 @@
+ent-GasPipeSensorTEGFuel = { ent-GasPipeSensor }
+    .suffix = TEG fuel
+    .desc = { ent-GasPipeSensor.desc }
+ent-GasPipeSensorVoxAir = { ent-GasPipeSensor }
+    .suffix = Vox air
+    .desc = { ent-GasPipeSensor.desc }
+ent-GasPipeSensorNuclearHot = { ent-GasPipeSensor }
+    .suffix = Nuclear hot
+    .desc = { ent-GasPipeSensor.desc }
+ent-GasPipeSensorNuclearCold = { ent-GasPipeSensor }
+    .suffix = Nuclear cold
+    .desc = { ent-GasPipeSensor.desc }

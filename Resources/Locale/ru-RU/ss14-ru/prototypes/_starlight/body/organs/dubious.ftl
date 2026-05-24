@@ -1,0 +1,14 @@
+ent-OrganDubiousHealth = таинственная железа
+    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousNitrousOxide = железа
+    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousGravity = железа
+    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousEgg = железа
+    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousSpider = железа
+    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousVent = железа
+    .desc = Suspicious alien gland, replaces the heart.
+ent-RandomOrganDubious = случайная железа
+    .desc = a random abductor gland

@@ -1,0 +1,10 @@
+ent-MobGuardianBase = базовый страж
+    .desc = guardian
+ent-MobHoloparasiteGuardian = голопаразит
+    .desc = A mesmerising whirl of hard-light patterns weaves a marvelous, yet oddly familiar visage. It stands proud, tuning into its owner's life to sustain itself.
+ent-MobIfritGuardian = ифрит
+    .desc = A corrupted jinn, ripped from fitra to serve the wizard's petty needs. It stands wicked, tuning into its owner's life to sustain itself.
+ent-MobHoloClownGuardian = голографический Клоун
+    .desc = A mesmerising whirl of hard-light patterns weaves a blue colored clown of dubious origin.
+ent-ActionToggleGuardian = Призвать или отозвать стража
+    .desc = Either manifests the guardian or recalls it back into your body

@@ -1,0 +1,16 @@
+ent-ClothingNeckBronzeheart = медаль бронзовое сердце
+    .desc = Given to crewmates for exemplary bravery in the face of danger.
+ent-ClothingNeckGoldmedal = золотая медаль мастерства экипажа
+    .desc = Given to crewmates who display excellent crewmanship.
+ent-ClothingNeckCargomedal = медаль снабжения
+    .desc = Given for the best work in the cargo department.
+ent-ClothingNeckEngineermedal = медаль инженера
+    .desc = Given for the best work in the engineering department.
+ent-ClothingNeckMedicalmedal = медицинская медаль
+    .desc = Given for the best work in the medical department.
+ent-ClothingNeckSciencemedal = медаль эпистемики
+    .desc = Given for the best work in the science department.
+ent-ClothingNeckSecuritymedal = медаль безопасности
+    .desc = Given for the best work in the security department.
+ent-ClothingNeckClownmedal = медаль отваги
+    .desc = Given for the best joke in the universe. HONK!

@@ -1,0 +1,10 @@
+ent-ClothingHeadHatAnimalCat = серая кошко-шапка
+    .desc = A cute and fluffy head of a grey cat.
+ent-ClothingHeadHatAnimalCatBrown = коричневая кошко-шапка
+    .desc = A cute and fluffy head of a brown cat.
+ent-ClothingHeadHatAnimalCatBlack = чёрная кошко-шапка
+    .desc = A cute and fluffy head of a black cat.
+ent-ClothingHeadHatAnimalHeadslime = слаймо-шапка
+    .desc = A green, sticky headslime, you put it on your head.
+ent-ClothingHeadHatAnimalMonkey = обезьянья шапка
+    .desc = That's a monkey head. It has a hole on a mouth to eat bananas.

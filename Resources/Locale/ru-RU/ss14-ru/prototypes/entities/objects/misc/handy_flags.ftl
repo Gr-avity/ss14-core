@@ -1,0 +1,10 @@
+ent-BlankHandyFlag = пустой флажок
+    .desc = Some piece of white cloth wound on a stick.
+ent-NTHandyFlag = ручной флаг НаноТрейзен
+    .desc = Glory to NT! Wait, they really made a handheld flag for a corporation?
+ent-SyndieHandyFlag = ручной флаг Синдиката
+    .desc = For truly rebellious patriots. Death to NT!
+ent-LGBTQHandyFlag = ЛГБТ-флажок
+    .desc = The be gay do crime handy flag.
+ent-PirateHandyFlag = пиратский флажок
+    .desc = Holding it in your hands, show these carp that you're not kidding.

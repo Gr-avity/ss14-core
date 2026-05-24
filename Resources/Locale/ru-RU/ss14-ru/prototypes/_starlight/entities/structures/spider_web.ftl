@@ -1,0 +1,12 @@
+ent-SpiderWebStrong = прочная паутина
+    .desc = It's stringy, sticky and strong.
+ent-SpiderWebStrongOpaque = прочная непрозрачная паутина
+    .desc = It's stringy, sticky, opaque and strong.
+ent-SpiderWebSlime = слизистая паутина
+    .desc = It's stringy and sticky.
+ent-SpiderWebPoison = ядовитая паутина
+    .desc = It's stringy and sticky.
+ent-SpiderWebStealth = скрытая паутина
+    .desc = It's stringy, sticky.
+ent-SpiderWebSpiderlings = паутина паучат
+    .desc = It's stringy, sticky. Contains a solution that keeps spiderlings away.

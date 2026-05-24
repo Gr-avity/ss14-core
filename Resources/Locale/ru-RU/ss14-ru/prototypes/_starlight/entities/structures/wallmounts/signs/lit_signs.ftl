@@ -1,0 +1,15 @@
+ent-BarSignLights = bar sign
+    .suffix = light
+    .desc = { ent-BaseWallmountGlass.desc }
+ent-ClinicSignLights = clinic sign
+    .suffix = light
+    .desc = { ent-BarSignLights.desc }
+ent-OnAirSignLights = on air sign
+    .suffix = light
+    .desc = { ent-BarSignLights.desc }
+ent-OpenSignLights = open sign
+    .suffix = light
+    .desc = { ent-BarSignLights.desc }
+ent-OpenBarSignLights = open bar sign
+    .suffix = light
+    .desc = { ent-BarSignLights.desc }

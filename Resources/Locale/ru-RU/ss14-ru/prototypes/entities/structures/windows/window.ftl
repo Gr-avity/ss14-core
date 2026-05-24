@@ -1,0 +1,15 @@
+ent-Window = окно
+    .desc = Don't smudge up the glass down there.
+ent-TintedWindow = тонированное окно
+    .desc = Smart tinted window with state switching option.
+ent-WindowRCDResistant = { ent-Window }
+    .desc = { ent-Window.desc }
+ent-WindowDirectional = направленное окно
+    .desc = Don't smudge up the glass down there.
+ent-WindowDirectionalRCDResistant = { ent-WindowDirectional }
+    .desc = { ent-WindowDirectional.desc }
+ent-WindowFrostedDirectional = направленное матовое окно
+    .desc = Don't smudge up the glass down there.
+ent-WindowDiagonal = { ent-Window }
+    .suffix = diagonal
+    .desc = { ent-Window.desc }

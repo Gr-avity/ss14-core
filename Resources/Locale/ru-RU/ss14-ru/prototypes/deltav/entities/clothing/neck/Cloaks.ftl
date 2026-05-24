@@ -1,0 +1,16 @@
+ent-ClothingNeckCloakBoat = капитанский плащ NanoTrasen
+    .desc = A regal blue durathread boat cloak with a red felt lining and gold trim. Somehow, it's even more expensive than it looks.
+ent-ClothingNeckCloakBoatCC = central command boat cloak
+    .desc = A emerald green durathread boat cloak with a red felt lining and gold trim. Somehow, it's even more expensive than it looks.
+ent-ClothingNeckCloakBoatHos = head of security's boat cloak
+    .desc = A light gray durathread boat cloak with a red felt lining and gold trim. Somehow, it's even more expensive than it looks.
+ent-ClothingNeckCloakNtr = nt representative's cloak
+    .desc = A hefty cloak adorned with a modest insignia and grand fur trim.
+ent-ClothingNeckHosRobe = head of security's decadent robe
+    .desc = A comfy formal robe given to veteran heads of security
+ent-ClothingNeckCmoOverShoulder = cmo's over the shoulder coat
+    .desc = A coat for chief medical officers who know how to wear a coat but choose to otherwise as a power move.
+ent-ClothingNeckCmoShawl = chief medical officer's shawl
+    .desc = A shawl with a shoulder epaulette fitting of a chief medical officer who wants to stay warm yet professional.
+ent-ClothingNeckCloakHopFormal = head of personnel's formal cloak
+    .desc = A fancier looking version of the regular cloak, bound to marginally increase the crew's admiration towards you.

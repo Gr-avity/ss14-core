@@ -1,0 +1,13 @@
+ent-CrateSyndicateSurplusBundle = ящик припасов синдиката
+    .desc = Contains 50 telecrystals worth of completely random Syndicate items. It can be useless junk or really good.
+ent-CrateCybersunJuggernautBundle = комплект «кибер-берсерка»
+    .desc = Contains everything except a big gun to go postal.
+    .suffix = Filled
+ent-CrateSyndicateSuperSurplusBundle = ящик суперприпасов синдиката
+    .desc = Contains 125 telecrystals worth of completely random Syndicate items.
+ent-CrateCybersunDarkGygaxBundle = комплект Гигакса Киберсан
+    .desc = Contains a set of Cybersan light armored mechs.
+    .suffix = Filled
+ent-CrateCybersunMaulerBundle = комплект Маулера Киберсан
+    .desc = Contains a set of Cybersan heavy armored mechs.
+    .suffix = Filled

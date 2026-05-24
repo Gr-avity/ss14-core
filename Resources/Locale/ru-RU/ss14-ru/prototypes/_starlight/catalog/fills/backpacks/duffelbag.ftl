@@ -1,0 +1,17 @@
+ent-ClothingBackpackDuffelAbductorFilled = инопланетный хирургический вещмешок
+    .suffix = Filled
+    .desc = { ent-ClothingBackpackDuffelAbductorBundle.desc }
+ent-ClothingBackpackDuffelSyndicateFilledMinotaurShotgun = набор Минотавра
+    .desc = Lean and mean: Contains smooth, powerful, highly illegal Shotgun, a 5 12g buckshot drums.
+ent-ClothingBackpackDuffelSyndicateFilledDeagle = набор Desert Eagle
+    .desc = Contains high damage Desert Eagle, a 3 magnum magazines.
+ent-ClothingBackpackDufelSyndicateFilledMantisBladeArms = набор клинков богомола
+    .desc = Contains a pair of cybernetic arms, watch out. You got a psycho on the loose.
+ent-ClothingBackpackDuffelSyndicateFilledBullpup = набор питбуля
+    .desc = Contains the Pitbull Rifle and 3 additional magazines.
+ent-ClothingBackpackDuffelSyndicateFilledUzi = набор type u3 uzi
+    .desc = Contains a sleek, dangerous uzi, and 3 additional magazines.
+ent-ClothingBackpackDuffelSyndicateFilledInfiltration = набор скафандра инфильтрации
+    .desc = Contains the latest in Syndicate chameleon technology, the infiltration hardsuit.
+ent-ClothingBackpackDuffelSyndicateX4tBundle = syndicate X-4 bundle
+    .desc = Contains a lot of X-4 charges.

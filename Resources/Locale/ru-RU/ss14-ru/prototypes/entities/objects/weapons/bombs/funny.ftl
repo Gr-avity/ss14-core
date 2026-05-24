@@ -1,0 +1,13 @@
+ent-HotPotato = горячая картошка
+    .desc = Once activated, you can't drop this time bomb - hit someone else with it to save yourself! Don't burn your hands!
+ent-HotPotatoEffect = { "" }
+    .desc = { "" }
+ent-TrashBananaPeelExplosive = банановая кожура
+    .suffix = Explosive
+    .desc = { ent-TrashBananaPeel.desc }
+ent-TrashBananaPeelExplosiveUnarmed = банан
+    .desc = There's something unusual about this banana.
+    .suffix = Unarmed
+ent-SnapPopExplosive = { ent-SnapPop }
+    .suffix = explosive
+    .desc = { ent-SnapPop.desc }

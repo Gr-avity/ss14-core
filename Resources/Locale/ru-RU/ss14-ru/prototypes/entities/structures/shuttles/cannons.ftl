@@ -1,0 +1,16 @@
+ent-ShuttleGunBase = орудие шаттла
+    .desc = { ent-BaseStructure.desc }
+ent-ShuttleGunSvalinnMachineGun = ЛСЕ-400с «Свалинн»
+    .desc = Basic stationary laser unit. Effective against live targets and electronics. Uses regular power cells to fire, and has an extremely high rate of fire.
+ent-ShuttleGunPerforator = ЛСЕ-1200с «Перфоратор»
+    .desc = Advanced stationary laser unit. Annihilates electronics and is extremely dangerous to health! Uses the power cage to fire.
+ent-ShuttleGunFriendship = ЭКСП-320г «Дружба»
+    .desc = A small stationary grenade launcher that holds 2 grenades.
+ent-ShuttleGunDuster = ЭКСП-2100г «Дастер»
+    .desc = A powerful stationary grenade launcher. A cartridge is required for use.
+ent-ShuttleGunPirateCannon = пиратская пушка
+    .desc = Kaboom!
+ent-ShuttleGunKinetic = РТК-800 «Дематериализатор материи»
+    .desc = Salvage stationary mining turret. Gradually accumulates charges on its own, extremely effective for asteroid excavation.
+ent-ShuttleGunKineticOld = экзоморфный дематериализатор
+    .desc = An ancient ship gun, utilizing biomechanical systems to store and release energy. While unique in its design, it has been rendered obsolete due to its inferior charging and firing speed compared to mechanical constructions.

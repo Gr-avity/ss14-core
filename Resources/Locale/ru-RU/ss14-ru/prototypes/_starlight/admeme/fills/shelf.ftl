@@ -1,0 +1,9 @@
+ent-ShelfMedTakSecureFilledChems = { ent-ShelfMedTakSecure }
+    .suffix = Secure, Filled, Chems
+    .desc = { ent-ShelfMedTakSecure.desc }
+ent-ShelfMedTakSecureFilledTopicals = { ent-ShelfMedTakSecure }
+    .suffix = Secure, Filled, Topicals
+    .desc = { ent-ShelfMedTakSecure.desc }
+ent-ShelfMedTakSecureFilledCryo = { ent-ShelfMedTakSecure }
+    .suffix = Secure, Filled, Cryo Chems
+    .desc = { ent-ShelfMedTakSecure.desc }

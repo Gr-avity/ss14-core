@@ -1,0 +1,15 @@
+ent-BottleCaseMedicalFilled = { ent-BottleCaseMedical }
+    .suffix = Medical, Filled
+    .desc = { ent-BottleCaseMedical.desc }
+ent-BottleCaseSecurityFilled = { ent-BottleCaseSecurity }
+    .suffix = Security, Filled
+    .desc = { ent-BottleCaseSecurity.desc }
+ent-BottleCaseParamedicFilled = { ent-BottleCaseMedical }
+    .suffix = Paramedic, Filled
+    .desc = { ent-BottleCaseMedical.desc }
+ent-PenPackMedicalFilled = { ent-PenPackMedical }
+    .suffix = Medical, Filled
+    .desc = { ent-PenPackMedical.desc }
+ent-PenPackSecurityFilled = { ent-PenPackSecurity }
+    .suffix = Security, Filled
+    .desc = { ent-PenPackSecurity.desc }

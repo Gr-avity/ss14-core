@@ -1,0 +1,10 @@
+ent-ClothingHeadSoftsuitCBURN = шлем CBURN
+    .desc = A pressure resistant and fireproof hood worn by special cleanup units.
+ent-ClothingHeadHelmetTSF = боевой шлем морпеха Федерации
+    .desc = A powered combat helmet used by the Trans-Solar Marine Corps. Provides excellent protection in all areas, while a modern OCULUS array augments the wearer's vision.
+ent-ClothingHeadHelmetTSFLeader = боевой шлем офицера морпеха Федерации
+    .desc = A powered combat helmet used by officers of the Trans-Solar Marine Corps. Provides excellent protection in all areas, while a next-gen OCULUS array augments the wearer's vision.
+ent-ClothingHeadBowlHelmet = шлем аквариум
+    .desc = It looks like a fish bowl, but somehow it functions as an EVA helmet.
+ent-ClothingHeadHelmetsoftsuitWizard = капюшон пустоты волшебника
+    .desc = A bizarre gem-encrusted hood that radiates magical energies.

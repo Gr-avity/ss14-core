@@ -1,0 +1,10 @@
+ent-FoodHaggis = хаггис
+    .desc = A delicacy among Dwarves, the Scottish, and precisely no one else. Inexplicably nutritious.
+ent-FoodBlackPudding = чёрный пудинг
+    .desc = Just when you thought English cuisine couldn't get any worse...
+ent-FoodSausage = сырая колбаса
+    .desc = Don't undercook it.
+ent-FoodSausageCooked = колбаса
+    .desc = If you don't know how they're made, they're delicious. After that, it's a different story.
+ent-FoodSausageBun = колбаса в булочке
+    .desc = Don't forget the condiments!

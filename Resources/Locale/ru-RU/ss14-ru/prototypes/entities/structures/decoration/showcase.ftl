@@ -1,0 +1,10 @@
+ent-BaseShowcaseRobot = макет охранного робота
+    .desc = A non-functional replica of an old security robot.
+ent-ShowcaseRobot = макет охранного робота
+    .desc = A non-functional replica of an old security robot.
+ent-ShowcaseRobotWhite = макет белого робота
+    .desc = A non-functional replica of an old robot.
+ent-ShowcaseRobotAntique = макет робота-грузчика
+    .desc = A non-functional replica of an old cargo robot.
+ent-ShowcaseRobotMarauder = макет Мародёра
+    .desc = A non-functional replica of a marauder, painted green.

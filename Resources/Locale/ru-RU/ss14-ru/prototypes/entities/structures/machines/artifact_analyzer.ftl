@@ -1,0 +1,6 @@
+ent-MachineArtifactAnalyzer = анализатор артефактов
+    .desc = A platform capable of performing analysis on various types of artifacts.
+ent-MachineArtifactCrusher = дробитель артефактов
+    .desc = Best not to let your fingers get stuck...
+ent-MachineArtifactCrusherXenoborg = дробилка тел
+    .desc = Best not to let your head get stuck...

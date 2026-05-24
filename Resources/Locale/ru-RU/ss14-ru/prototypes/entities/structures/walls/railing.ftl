@@ -1,0 +1,14 @@
+ent-BaseRailing = перила
+    .desc = Basic railing meant to protect idiots like you from falling.
+ent-Railing = перила
+    .suffix = Steel
+    .desc = { ent-BaseRailing.desc }
+ent-RailingCorner = перила
+    .suffix = Steel, Corner
+    .desc = { ent-BaseRailing.desc }
+ent-RailingCornerSmall = перила
+    .suffix = Steel, Corner Small
+    .desc = { ent-BaseRailing.desc }
+ent-RailingRound = перила
+    .suffix = Steel, Round
+    .desc = { ent-BaseRailing.desc }

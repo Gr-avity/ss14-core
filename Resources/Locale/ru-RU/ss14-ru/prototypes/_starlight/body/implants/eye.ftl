@@ -1,0 +1,14 @@
+ent-BaseEntityEyeImplant = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-EyeImplantWelding = Имплант сварки
+    .desc = Protects eyes from welding flashes.
+ent-EyeImplantDiagnostic = Диагностический имплант
+    .desc = Enables you to see information about mechanisms without diagnostic glasses.
+ent-EyeImplantMedical = Медицинский имплант
+    .desc = Enables you to see information about humanoids without medical glasses.
+ent-EyeImplantChemistry = Химический имплант
+    .desc = Enables you to see information about solutions without chemical analysis goggles.
+ent-EyeImplantSecurity = Имплант безопасности
+    .desc = Enables you to see information about station crew without security glasses.
+ent-EyeImplantSyndie = Имплант Синдиката
+    .desc = Enables you to see information about station crew, humanoids and syndie without any glasses.

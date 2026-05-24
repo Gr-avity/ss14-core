@@ -1,0 +1,12 @@
+ent-ClothingHeadHelmetEVA = шлем EVA
+    .desc = An old-but-gold helmet designed for extravehicular activites. Infamous for making security officers paranoid.
+ent-ClothingHeadHelmetEVALarge = шлема ЕВА
+    .desc = An old-but-gold helmet designed for extravehicular activites.
+ent-ClothingHeadHelmetSyndicate = шлем EVA синдиката
+    .desc = A simple, stylish EVA helmet. Designed for maximum humble space-badassery.
+ent-ClothingHeadHelmetCosmonaut = шлем космонавта
+    .desc = Ancient design, but advanced manufacturing.
+ent-ClothingHeadHelmetAncient = Пустотный шлем NTSRA
+    .desc = An ancient space helmet, designed by the NTSRA branch of CentComm.
+ent-ClothingHeadHelmetVoidParamed = пустотный шлем парамедика
+    .desc = A void helmet made for paramedics.

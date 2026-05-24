@@ -1,0 +1,9 @@
+ent-NuclearBomb = ядерная боеголовка
+    .desc = You probably shouldn't stick around to see if this is armed.
+    .suffix = ROUND ENDING
+ent-NuclearBombUnanchored = { ent-NuclearBomb }
+    .suffix = ROUND ENDING, unanchored
+    .desc = { ent-NuclearBomb.desc }
+ent-NuclearBombKeg = ядерная боеголовка
+    .desc = You probably shouldn't stick around to see if this is armed. It has a tap on the side.
+    .suffix = keg

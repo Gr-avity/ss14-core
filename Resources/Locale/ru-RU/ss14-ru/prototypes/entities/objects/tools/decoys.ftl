@@ -1,0 +1,12 @@
+ent-BaseDecoy = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-BalloonOperative = шарик оперативника
+    .desc = Upon closer inspection, this Syndicate operative is actually a balloon.
+ent-BalloonAgent = шарик агента
+    .desc = Upon closer inspection, this Syndicate corpsman is actually a balloon.
+ent-BalloonElite = шарик элитного оперативника
+    .desc = Upon closer inspection, this Syndicate elite operative is actually a balloon.
+ent-BalloonJuggernaut = шарик джаггернаута
+    .desc = Upon closer inspection, this Syndicate juggernaut is actually a balloon.
+ent-BalloonCommander = шарик командира
+    .desc = Upon closer inspection, this Syndicate commander is actually a balloon.

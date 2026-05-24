@@ -1,0 +1,15 @@
+ent-GuidebookPlumbingDuctStraight = жидкостный канал
+    .suffix = Straight, Guidebook
+    .desc = { "" }
+ent-GuidebookPlumbingDuctBend = жидкостный канал
+    .suffix = Bend, Guidebook
+    .desc = { "" }
+ent-GuidebookPlumbingDuctTJunction = жидкостный канал
+    .suffix = T-Junction, Guidebook
+    .desc = { "" }
+ent-GuidebookPlumbingDuctFourway = жидкостный канал
+    .suffix = Fourway, Guidebook
+    .desc = { "" }
+ent-GuidebookPlumbingDuctManifold = fluid manifold
+    .suffix = Guidebook
+    .desc = { "" }

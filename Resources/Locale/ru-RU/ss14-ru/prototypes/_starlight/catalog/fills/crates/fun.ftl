@@ -1,0 +1,12 @@
+ent-CrateFunSuperSynth = ящик супер-синтезатора
+    .desc = Contains one Super Synthesizer instrument. Groovy!
+ent-CrateFunPinata = ящик пиньяты
+    .desc = Contains one Clown Pinata and a bat to beat it with.
+ent-CrateFunMoproach = ящик набора мопроаха
+    .desc = A box with one moproach kit that provides you with two moproaches.
+ent-CrateFunTwinPointer = ящик набора twinpointer
+    .desc = Contains one twinpointer kit for all your bidirectional wayfinding needs.
+ent-CrateFunMegaShark = ящик мега-акулы
+    .desc = One absolutely massive, huggable shark plushie. Perfect for those who need a BIG friend!
+ent-CrateSaltLamp = salt lamp plushie crate
+    .desc = Contains one small salt lamp plushie and one large salt lamp plushie. Perfect for adding a cozy ambiance to any room.

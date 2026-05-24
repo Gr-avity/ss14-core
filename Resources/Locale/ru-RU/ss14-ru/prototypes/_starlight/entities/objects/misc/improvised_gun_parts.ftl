@@ -1,0 +1,12 @@
+ent-UnfinishedForgedShotgun = собранный кованый дробовик
+    .desc = Just needs the welding to keep everything in place.
+ent-UnfinishedPistolForged = кованые части пистолета
+    .desc = Some assembly may be reqiured. Needs welding.
+ent-UnfinishedRevolverForged = кованые части револьвера
+    .desc = Some assembly may be reqiured. Needs welding.
+ent-UnfinishedSubMachineGunForged = кованые части ПП
+    .desc = Some assembly may be reqiured. Needs welding.
+ent-UnfinishedSniperForged = кованые части снайперской винтовки
+    .desc = Some assembly may be reqiured. Needs welding.
+ent-ModularBarrel = модульный ствол
+    .desc = A vital component in guncrafting.

@@ -1,0 +1,12 @@
+ent-Grille = решётка
+    .desc = A flimsy framework of iron rods.
+ent-ClockworkGrille = шестерёнчатая решётка
+    .desc = A flimsy framework of iron rods assembled in traditional Ratvarian fashion.
+ent-GrilleBroken = решётка
+    .desc = A flimsy framework of iron rods. It has seen better days.
+ent-ClockworkGrilleBroken = шестерёнчатая решётка
+    .desc = A flimsy framework of iron rods assembled in traditional Ratvarian fashion. It has seen better days.
+ent-GrilleDiagonal = диагональная решётка
+    .desc = { ent-Grille.desc }
+ent-ClockworkGrilleDiagonal = диагональная шестерёнчатая решётка
+    .desc = { ent-ClockworkGrille.desc }
