@@ -68,7 +68,7 @@ public sealed class DiscordOAuthManager : IDiscordOAuthManager, IDisposable
                 parsed.Add(roleID);
         }
 
-        _netMgr.ServerSendMessage(new DiscordRolesUpdateMessage() { Roles = parsed }, session.Channel);
+        //_netMgr.ServerSendMessage(new DiscordRolesUpdateMessage() { Roles = parsed }, session.Channel);
         _playerRoles[session.UserId] = parsed;
 
         return parsed;
