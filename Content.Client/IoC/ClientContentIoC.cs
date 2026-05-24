@@ -34,6 +34,7 @@ using Content.Client._NullLink;
 using Content.Client._Starlight.Achievement;
 using Content.Client._Starlight.Shaders;
 using Content.Shared._Starlight.DocumentManager;
+using Content.Client._OpenSpace;
 
 namespace Content.Client.IoC
 {
@@ -55,6 +56,7 @@ namespace Content.Client.IoC
             collection.Register<ISharedAdminManager, ClientAdminManager>();
             collection.Register<IClientPlayerRolesManager, ClientPlayerManager>();  // 🌟Starlight🌟
             collection.Register<ISharedPlayersRoleManager, ClientPlayerManager>(); //🌟Starlight🌟
+            collection.Register<IClientDiscordOAuthManager, ClientDiscordOAuthManager>(); // OpenSpace
             collection.Register<EuiManager, EuiManager>();
             collection.Register<IVoteManager, VoteManager>();
             collection.Register<ChangelogManager, ChangelogManager>();
