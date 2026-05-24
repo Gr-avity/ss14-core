@@ -1,7 +1,7 @@
-using Content.Shared.DeltaV.AACTablet;
+using Content.Shared._DV.AACTablet;
 using Robust.Shared.Prototypes;
 
-namespace Content.Client.DeltaV.AACTablet.UI;
+namespace Content.Client._DV.AACTablet.UI;
 
 public sealed class AACBoundUserInterface : BoundUserInterface
 {
