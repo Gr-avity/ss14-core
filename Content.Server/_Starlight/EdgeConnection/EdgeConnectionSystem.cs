@@ -1,4 +1,5 @@
 using Content.Shared._Starlight.EdgeConnection;
+using Content.Shared._White;
 using Robust.Shared.Map.Components;
 
 namespace Content.Server._Starlight.EdgeConnection;
@@ -19,7 +20,7 @@ public sealed class EdgeConnectionSystem : EntitySystem
         SubscribeLocalEvent<EdgeConnectionComponent, AnchorStateChangedEvent>(OnAnchorChanged);
         SubscribeLocalEvent<EdgeConnectionComponent, ComponentShutdown>(OnShutdown);
         SubscribeLocalEvent<EdgeConnectionComponent, ComponentInit>(OnInit);
-        SubscribeLocalEvent<EdgeConnectionComponent, MoveEvent>(OnMove);
+        SubscribeLocalEvent<EdgeConnectionComponent, MoveEventProxy>(OnMove);
     }
 
     private void OnInit(Entity<EdgeConnectionComponent> ent, ref ComponentInit args)
@@ -38,7 +39,7 @@ public sealed class EdgeConnectionSystem : EntitySystem
         // Update neighbors when this entity is removed
         => UpdateNeighbors(ent);
 
-    private void OnMove(Entity<EdgeConnectionComponent> ent, ref MoveEvent args)
+    private void OnMove(Entity<EdgeConnectionComponent> ent, ref MoveEventProxy args)
     {
         // Only update if rotation changed
         if (!args.OldRotation.EqualsApprox(args.NewRotation))

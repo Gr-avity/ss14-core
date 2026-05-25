@@ -1,3 +1,4 @@
+using Content.Shared._White;
 using Content.Shared.Alert;
 using Content.Shared.Hands.Components;
 using Content.Shared.Interaction.Components;
@@ -20,7 +21,7 @@ public abstract partial class SharedHandsSystem : EntitySystem
 
     private void InitializeOffer()
     {
-        SubscribeLocalEvent<HandsComponent, MoveEvent>(OnMove);
+        SubscribeLocalEvent<HandsComponent, MoveEventProxy>(OnMove);
 
         SubscribeLocalEvent<ItemComponent, GotUnequippedHandEvent>(OnUnequipHand);
 
@@ -151,7 +152,7 @@ public abstract partial class SharedHandsSystem : EntitySystem
         handsComp.OfferTarget = null;
     }
 
-    private void OnMove(EntityUid uid, HandsComponent handsComp, MoveEvent args)
+    private void OnMove(EntityUid uid, HandsComponent handsComp, MoveEventProxy args)
     {
         if (handsComp.OfferTarget is null || TransformSystem.InRange(args.NewPosition, Transform(handsComp.OfferTarget.Value).Coordinates, 2f))
             return;
