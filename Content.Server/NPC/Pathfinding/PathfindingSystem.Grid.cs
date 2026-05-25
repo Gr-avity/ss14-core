@@ -2,6 +2,8 @@ using System.Diagnostics.CodeAnalysis;
 using System.Numerics;
 using System.Threading;
 using System.Threading.Tasks;
+using Content.Server._White;
+using Content.Shared._White;
 using Content.Shared.NPC;
 using Content.Shared.Physics;
 using Robust.Shared.Collections;
@@ -45,7 +47,7 @@ public sealed partial class PathfindingSystem
         SubscribeLocalEvent<CollisionLayerChangeEvent>(OnCollisionLayerChange);
         SubscribeLocalEvent<PhysicsBodyTypeChangedEvent>(OnBodyTypeChange);
         SubscribeLocalEvent<TileChangedEvent>(OnTileChange);
-        _transform.OnGlobalMoveEvent += OnMoveEvent;
+        _stab.OnGlobalMoveEvent += OnMoveEvent;
     }
 
     private void OnTileChange(ref TileChangedEvent ev)
@@ -268,7 +270,7 @@ public sealed partial class PathfindingSystem
         }
     }
 
-    private void OnMoveEvent(ref MoveEvent ev)
+    private void OnMoveEvent(ref MoveEventProxy ev)
     {
         if (!_fixturesQuery.TryGetComponent(ev.Sender, out var fixtures) ||
             !IsBodyRelevant(fixtures) ||
