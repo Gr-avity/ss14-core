@@ -128,12 +128,12 @@ public abstract class SharedTrayScannerSystem : EntitySystem
 
     private void OnTrayUnequipped(Entity<TrayScannerComponent> ent, ref GotUnequippedEvent args)
     {
-        OnUnequip(args.EquipTarget);
+        OnUnequip(args.Equipee); // ss14-art-edit
     }
 
     private void OnTrayEquipped(Entity<TrayScannerComponent> ent, ref GotEquippedEvent args)
     {
-        OnEquip(args.EquipTarget);
+        OnEquip(args.Equipee); // ss14-art-edit
     }
 
     private void OnTrayScannerActivate(Entity<TrayScannerComponent> ent, ref ActivateInWorldEvent args)
