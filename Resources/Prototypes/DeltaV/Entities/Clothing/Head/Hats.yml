@@ -5,7 +5,7 @@
   description: A black cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Head/Hats/surgcap_black.rsi
+      sprite: _DV/Clothing/Head/Hats/surgcap_black.rsi
 
 - type: entity
   parent: ClothingHeadBase
@@ -14,7 +14,7 @@
   description: A cyan cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Head/Hats/surgcap_cyan.rsi
+      sprite: _DV/Clothing/Head/Hats/surgcap_cyan.rsi
 
 - type: entity
   parent: ClothingHeadBase
@@ -23,7 +23,7 @@
   description: A cybersun themed cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Head/Hats/surgcap_cybersun.rsi
+      sprite: _DV/Clothing/Head/Hats/surgcap_cybersun.rsi
 
 - type: entity
   parent: ClothingHeadBase
@@ -32,7 +32,7 @@
   description: A pink cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Head/Hats/surgcap_pink.rsi
+      sprite: _DV/Clothing/Head/Hats/surgcap_pink.rsi
 
 - type: entity
   parent: ClothingHeadBase
@@ -41,7 +41,7 @@
   description: A rainbow cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Head/Hats/surgcap_rainbow.rsi
+      sprite: _DV/Clothing/Head/Hats/surgcap_rainbow.rsi
 
 - type: entity
   parent: ClothingHeadBase
@@ -50,7 +50,7 @@
   description: A white cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Head/Hats/surgcap_white.rsi
+      sprite: _DV/Clothing/Head/Hats/surgcap_white.rsi
 
 - type: entity
   parent: ClothingHeadBase
@@ -59,7 +59,7 @@
   description: Don't touch the mask
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Head/Hats/WrestlerMaskLuchaBlue.rsi
+      sprite: _DV/Clothing/Head/Hats/WrestlerMaskLuchaBlue.rsi
     - type: HideLayerClothing
       slots:
         - Hair
@@ -71,7 +71,7 @@
   description: The luchador never removes his mask
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Head/Hats/WrestlerMaskLuchaRed.rsi
+      sprite: _DV/Clothing/Head/Hats/WrestlerMaskLuchaRed.rsi
     - type: HideLayerClothing
       slots:
         - Hair
@@ -83,7 +83,7 @@
   description: The orange hat signifies your superiority towards the poor inmates that have to stand you.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Head/Hats/prisonguard.rsi
+      sprite: _DV/Clothing/Head/Hats/prisonguard.rsi
 
 - type: entity
   parent: ClothingHeadBase
@@ -92,5 +92,5 @@
   description: An ever so slightly bluer cap to complement the dashing outfit of the modern HoP.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Head/Hats/hopcap.rsi
+      sprite: _DV/Clothing/Head/Hats/hopcap.rsi
 

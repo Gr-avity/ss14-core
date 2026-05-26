@@ -5,7 +5,7 @@
   description: A regal blue durathread boat cloak with a red felt lining and gold trim. Somehow, it's even more expensive than it looks.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Neck/Cloaks/boatcloak.rsi
+      sprite: _DV/Clothing/Neck/Cloaks/boatcloak.rsi
     - type: StealTarget
       stealGroup: HeadCloak
 
@@ -16,7 +16,7 @@
   description: A emerald green durathread boat cloak with a red felt lining and gold trim. Somehow, it's even more expensive than it looks.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Neck/Cloaks/boatcloakcc.rsi
+      sprite: _DV/Clothing/Neck/Cloaks/boatcloakcc.rsi
 
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
@@ -25,7 +25,7 @@
   description: A light gray durathread boat cloak with a red felt lining and gold trim. Somehow, it's even more expensive than it looks.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Neck/Cloaks/boatcloakhos.rsi
+      sprite: _DV/Clothing/Neck/Cloaks/boatcloakhos.rsi
     - type: StealTarget
       stealGroup: HeadCloak
 
@@ -36,7 +36,7 @@
   description: A hefty cloak adorned with a modest insignia and grand fur trim.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Neck/Cloaks/cjcloak.rsi
+      sprite: _DV/Clothing/Neck/Cloaks/cjcloak.rsi
 
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
@@ -45,7 +45,7 @@
   description: A comfy formal robe given to veteran heads of security
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Neck/Cloaks/hosrobe.rsi
+      sprite: _DV/Clothing/Neck/Cloaks/hosrobe.rsi
     - type: StealTarget
       stealGroup: HeadCloak
 
@@ -56,7 +56,7 @@
   description: A coat for chief medical officers who know how to wear a coat but choose to otherwise as a power move.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Neck/Cloaks/cmo_over_shoulder.rsi
+      sprite: _DV/Clothing/Neck/Cloaks/cmo_over_shoulder.rsi
     - type: StealTarget
       stealGroup: HeadCloak
 
@@ -67,7 +67,7 @@
   description: A shawl with a shoulder epaulette fitting of a chief medical officer who wants to stay warm yet professional.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Neck/Cloaks/cmo_shawl.rsi
+      sprite: _DV/Clothing/Neck/Cloaks/cmo_shawl.rsi
     - type: StealTarget
       stealGroup: HeadCloak
 
@@ -78,6 +78,6 @@
   description: A fancier looking version of the regular cloak, bound to marginally increase the crew's admiration towards you.
   components:
     - type: Sprite
-      sprite: DeltaV/Clothing/Neck/Cloaks/hop.rsi
+      sprite: _DV/Clothing/Neck/Cloaks/hop.rsi
     - type: StealTarget
       stealGroup: HeadCloak
