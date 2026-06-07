@@ -1,5 +1,6 @@
 using Content.Shared.Administration;
 using Content.Shared.Doors.Components;
+using Content.Shared._Art.Administration;
 using Robust.Client.GameObjects;
 using Robust.Shared.Console;
 
@@ -10,6 +11,17 @@ namespace Content.Client._Art.Administration
         [Dependency] private readonly SpriteSystem _spriteSystem = default!; // Для перекраски энтити
 
         public bool Enabled { get; set; } = false; // Для Toggle
+
+        public override void Initialize()
+        {
+            base.Initialize();
+            SubscribeNetworkEvent<ToggleDoorsEvent>(OnToggleDoors);
+        }
+
+        private void OnToggleDoors(ToggleDoorsEvent ev)
+        {
+            Toggle();
+        }
 
         public override void Update(float frameTime)
         {
@@ -45,20 +57,6 @@ namespace Content.Client._Art.Administration
                     _spriteSystem.SetColor(uid, sprite.Color.WithAlpha(alpha)); // Применяем
                 }
             }
-        }
-    }
-
-    [AnyCommand]
-    public sealed class ToggleDoorsCommand : IConsoleCommand
-    {
-        public string Command => "toggledoors";
-        public string Description => Loc.GetString("cmd-toggledoors-desc");
-        public string Help => Loc.GetString("cmd-toggledoors-help");
-
-        public void Execute(IConsoleShell shell, string argStr, string[] args)
-        {
-            var sys = IoCManager.Resolve<IEntitySystemManager>().GetEntitySystem<DoorMasterSystem>(); // It's time to take it boy
-            sys.Toggle();
         }
     }
 }
