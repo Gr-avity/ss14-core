@@ -13,7 +13,7 @@ namespace Content.Client._Starfall.Particles;
 public sealed class ParticleOnEventSystem : EntitySystem
 {
     [Dependency] private readonly ParticleSystem _particles = default!;
-    // [Dependency] private readonly SharedTransformSystem _transform = default!; open space-edit
+    // [Dependency] private readonly SharedTransformSystem _transform = default!; ss14-art-edit
     [Dependency] private readonly IPrototypeManager _proto = default!;
 
     // Track emitters spawned by OnThrown so we can stop them when the entity lands
@@ -106,13 +106,13 @@ public sealed class ParticleOnEventSystem : EntitySystem
     {
         // Infinite-duration allowed: the emitter is cleaned up when the projectile is destroyed.
 
-        // open space-edit start
+        // ss14-art-edit start
         if (!_proto.HasIndex(ent.Comp.Effect))
         {
             Log.Error($"ParticleOnGunShotProjectile references unknown effect '{ent.Comp.Effect}'");
             return;
         }
-        // open space-edit stop
+        // ss14-art-edit end
 
         foreach (var projectile in args.FiredProjectiles)
         {
@@ -125,14 +125,14 @@ public sealed class ParticleOnEventSystem : EntitySystem
 
     private void OnProjectileHitOther(Entity<ParticleOnProjectileHitOtherComponent> ent, ref ProjectileHitEvent args)
     {
-        if (!args.Target.Valid) // open space-edit
+        if (!args.Target.Valid) // ss14-art-edit
             return;
         Spawn(ent.Comp, args.Target);
     }
 
     private void Spawn(ParticleOnEventBase comp, EntityUid target)
     {
-        if (!target.Valid) // open space-edit
+        if (!target.Valid) // ss14-art-edit
             return;
 
         if (!_proto.TryIndex(comp.Effect, out var proto))

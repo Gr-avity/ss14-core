@@ -7,7 +7,7 @@ using Content.Client.SubFloor;
 using Content.Client.UserInterface.Controls;
 using Content.Client.UserInterface.Systems.DecalPlacer;
 using Content.Client.UserInterface.Systems.Sandbox.Windows;
-using Content.Client._OpenSpace.Administration; // OpenSpace-Edit
+using Content.Client._Art.Administration; // ss14-art-edit
 using Content.Shared.Input;
 using JetBrains.Annotations;
 using Robust.Client.Debugging;
@@ -112,22 +112,22 @@ public sealed class SandboxUIController : UIController, IOnStateChanged<Gameplay
             return;
         _window = UIManager.CreateWindow<SandboxWindow>();
 
-        // OpenSpace-Edit Start
+        // ss14-art-edit start
         var doorMaster = EntityManager.System<DoorMasterSystem>();
         _window.ToggleDoorsButton.Pressed = doorMaster.Enabled;
-        // OpenSpace-Edit Stop
+        // ss14-art-edit end
 
         // Pre-center the window without forcing it to the center every time.
         _window.OpenCentered();
         _window.Close();
 
-        // OpenSpace-Edit Start
+        // ss14-art-edit start
         _window.ToggleDoorsButton.OnToggled += _ =>
         {
             _sandbox.ToggleDoors();
             _window.ToggleDoorsButton.Pressed = EntityManager.System<DoorMasterSystem>().Enabled;
         };
-        // OpenSpace-Edit Stop
+        // ss14-art-edit end
 
         _window.OnOpen += () => { SandboxButton!.Pressed = true; };
         _window.OnClose += () => { SandboxButton!.Pressed = false; };

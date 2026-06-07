@@ -3,7 +3,7 @@ using Content.Shared.Doors.Components;
 using Robust.Client.GameObjects;
 using Robust.Shared.Console;
 
-namespace Content.Client._OpenSpace.Administration
+namespace Content.Client._Art.Administration
 {
     public sealed class DoorMasterSystem : EntitySystem
     {

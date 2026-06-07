@@ -133,12 +133,12 @@ namespace Content.Client.Sandbox
             _consoleHost.ExecuteCommand("togglelight");
         }
 
-        // OpenSpace-Edit Start
+        // ss14-art-edit start
         public void ToggleDoors()
         {
             _consoleHost.ExecuteCommand("toggledoors");
         }
-        // OpenSpace-Edit Stop
+        // ss14-art-edit end
 
         public void ToggleFov()
         {
