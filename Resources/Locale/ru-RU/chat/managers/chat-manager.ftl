@@ -107,7 +107,7 @@ chat-speech-verb-name-canine = Собака
 chat-speech-verb-canine-1 = гавкает
 chat-speech-verb-canine-2 = лает
 chat-speech-verb-canine-3 = воет
-#starlight
+# starlight
 chat-speech-verb-canine-4 = скулит
 
 chat-speech-verb-name-goat = Козёл

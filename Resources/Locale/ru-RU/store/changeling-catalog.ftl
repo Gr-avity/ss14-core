@@ -143,6 +143,6 @@ evolutionmenu-utility-fakemindshield-desc =
     May need a few toggle attempts to get the right frequency.
     Cost 0 chemicals.
 
-#Starlight
+# Starlight
 changeling-arm-blade-name = Выдвижная рука-клинок
 changeling-arm-blade-desc = Превратите свою руку в ужасающий клинок из плоти. Можно переключать.

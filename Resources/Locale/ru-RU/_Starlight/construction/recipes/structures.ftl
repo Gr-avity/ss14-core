@@ -2,7 +2,7 @@ construction-bar-window = Окно бара
 construction-bar-window-diagonal = Диагональное окно бара
 construction-bar-window-diagonal-alt = Альтернативное диагональное окно бара
 
-##Railings
+## Railings
 construction-recipe-railing-end = railing end
 construction-recipe-railing-end-alt = railing end (alt)
 

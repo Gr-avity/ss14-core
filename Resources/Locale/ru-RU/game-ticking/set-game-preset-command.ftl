@@ -8,6 +8,6 @@ set-game-preset-optional-argument-not-integer = Если второй аргум
 set-game-preset-preset-error = Не удается найти игровой пресет «{ $preset }»
 set-game-preset-decoy-error = Если третий аргумент предоставлен, он должен быть валидным пресетом. Не удаётся найти игровой пресет "{ $preset }"
 
-#set-game-preset-preset-set = Set game preset to "{$preset}"
+# set-game-preset-preset-set = Set game preset to "{$preset}"
 set-game-preset-preset-set-finite = Set game preset to "{$preset}" for the next {$rounds} rounds.
 set-game-preset-preset-set-finite-with-decoy = Set game preset to "{$preset}" for the next {$rounds} rounds, showing {$decoy} in the lobby.

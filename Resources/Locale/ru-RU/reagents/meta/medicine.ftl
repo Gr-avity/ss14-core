@@ -112,7 +112,7 @@ reagent-desc-sigynate = Густой розовый сироп, полезный
 # Starlight Start
 reagent-name-saline = физраствор
 reagent-desc-saline = Смесь воды с солью. Обычно используется для лечения обезвоживания или низкого содержания жидкости в крови.
-#Starlight End
+# Starlight End
 
 reagent-name-lacerinol = лацеринол
 reagent-desc-lacerinol = Довольно нереактивное химическое вещество, усиливающее синтез коллагена до невероятных уровней и заживляющее резаные раны.

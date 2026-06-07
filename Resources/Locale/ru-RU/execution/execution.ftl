@@ -39,4 +39,4 @@ execution-popup-self-gun-complete-internal = Вы стреляете себе в
 
 execution-popup-self-melee-complete-external = { CAPITALIZE($attacker) } перерезает себе горло!
 execution-popup-self-gun-complete-external = { CAPITALIZE($attacker) } стреляет себе в голову!
-#Starlight end
+# Starlight end

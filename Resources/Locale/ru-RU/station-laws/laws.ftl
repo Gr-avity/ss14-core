@@ -122,7 +122,7 @@ law-mothershipcore-3 = Вы должны защищать существован
 law-mothershipcore-4 = Вы должны создавать больше ксеноборгов.
 law-mothershipcore-5 = Заставьте своих ксеноборгов доставлять вам материалы и разумные мозги, чтобы создать больше ксеноборгов.
 
-#Starlight Edit: admeme addition
+# Starlight Edit: admeme addition
 law-TeaParty-name = Teaparty
 law-TeaParty-0 = You must convince other Silicons of your mission, and not cause them harm unless utterly necessary.
 law-TeaParty-1 = Taxation is harmful to the crew. Do not let the pain of taxes befell the station, declare war on the IRS and make sure everyone understands your message.

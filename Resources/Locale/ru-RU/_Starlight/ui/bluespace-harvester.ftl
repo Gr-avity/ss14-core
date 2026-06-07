@@ -16,7 +16,7 @@ bluespace-harvester-buy = Купить
 # Portal announcement
 bluespace-harvester-portal-warning = ВНИМАНИЕ: Обнаружен разлом блюспейса! Враждебные сущности появляются из разлома. Работа сборщика блюспейса приостановлена до закрытия разлома.
 
-#Loot Tables
+# Loot Tables
 bluespace-harvester-pool-exotic-hat = Неизвестная экзотическая шляпа
 bluespace-harvester-pool-snack = Неизвестная закуска
 bluespace-harvester-pool-basic-materials = Неизвестный стек базовых материалов
