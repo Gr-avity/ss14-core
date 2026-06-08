@@ -3,7 +3,7 @@ ghost-role-no-requirements = У этой роли нет требований.
 
 # Coloring rule of thumb: limegreen for met requirement, yellow for unmet requirement that can still be met, red for unmeetable
 
-role-timer-department-department-sufficient = У вас есть [color=limegreen]{TOSTRING($current, "0")}[/color] из [color=lightblue]{TOSTRING($required, "0")}[/color] необходимого времени игры в отделе [color={$departmentColor}]{$department}[/color].
+role-timer-department-sufficient = У вас есть [color=limegreen]{TOSTRING($current, "0")}[/color] из [color=lightblue]{TOSTRING($required, "0")}[/color] необходимого времени игры в отделе [color={$departmentColor}]{$department}[/color].
 role-timer-department-insufficient = У вас есть [color=yellow]{TOSTRING($current, "0")}[/color] из [color=lightblue]{TOSTRING($required, "0")}[/color] необходимого времени игры в отделе [color={$departmentColor}]{$department}[/color].
 role-timer-department-not-too-high = У вас есть [color=limegreen]{TOSTRING($current, "0")}[/color] из максимум [color=lightblue]{TOSTRING($required, "0")}[/color] времени игры в отделе [color={$departmentColor}]{$department}[/color].
 role-timer-department-too-high = У вас есть [color=red]{TOSTRING($current, "0")}[/color] из максимум [color=lightblue]{TOSTRING($required, "0")}[/color] времени игры в отделе [color={$departmentColor}]{$department}[/color]. (Вы пытаетесь сыграть роль новичка?)

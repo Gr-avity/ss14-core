@@ -1,13 +1,13 @@
 humanoid-profile-editor-customspeciename-label = Собственное название вида:
 humanoid-profile-editor-height-label = Рост: {$height}см
-humanoid-profile-editor-width-label = Ширина: {$width}см
-humanoid-profile-editor-slider-reset = Reset
+humanoid-profile-editor-width-label = Вес: {$weight}кг
+humanoid-profile-editor-slider-reset = Сбросить
 
-humanoid-profile-editor-voice-select = Select Voice
-humanoid-profile-editor-silicon-voice-select = Select Silicon Voice
+humanoid-profile-editor-voice-select = Выбрать голос
+humanoid-profile-editor-silicon-voice-select = Выбрать голос синтезатора
 
-voice-selector-title = Voice Selector
-voice-selector-filter-all = All
-voice-selector-current-voice = Current Voice: {$voice}
-voice-selector-preview = Request Voice Preview
-voice-selector-placeholder = Search Voice Name
+voice-selector-title = Выбор голоса
+voice-selector-filter-all = Все
+voice-selector-current-voice = Текущий голос: {$voice}
+voice-selector-preview = Прослушать голос
+voice-selector-placeholder = Поиск голоса по названию
