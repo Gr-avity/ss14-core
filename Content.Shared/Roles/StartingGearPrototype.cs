@@ -3,7 +3,7 @@ using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototy
 
 namespace Content.Shared.Roles;
 
-[Prototype]
+[Prototype("startingGear")]
 public sealed partial class StartingGearPrototype : IPrototype, IInheritingPrototype, IEquipmentLoadout
 {
     /// <inheritdoc/>

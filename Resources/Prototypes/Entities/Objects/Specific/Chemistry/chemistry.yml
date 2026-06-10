@@ -3,6 +3,18 @@
   id: BaseBeaker
   abstract: true
   components:
+  # WL-Sounds-Start
+  - type: EmitSoundOnPickup
+    sound:
+      path: /Audio/_WL/Items/handling/beaker_pickup.ogg
+      params:
+        volume: -4
+  - type: EmitSoundOnDrop
+    sound:
+      path: /Audio/_WL/Items/handling/beaker_place.ogg
+      params:
+        volume: -4
+  # WL-Sounds-End
   - type: Tag
     tags:
     - GlassBeaker
@@ -704,7 +716,13 @@
       tags:
       - Pill
   - type: Dumpable
-  #SL-edit: start
   - type: ItemPrice
     priceCategory: medical_container_filled
-  #SL-edit: end
+  # Goobstation edit start
+  - type: EmitSoundOnPickup
+    sound:
+      path: /Audio/_Goobstation/Items/handling/pillbottle_pickup.ogg
+  - type: EmitSoundOnDrop
+    sound:
+      path: /Audio/_Goobstation/Items/handling/pillbottle_drop.ogg
+  # Goobstation edit end
