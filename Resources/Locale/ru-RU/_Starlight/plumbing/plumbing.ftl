@@ -2,10 +2,8 @@
 
 plumbing-input-full = The input buffer is full!
 plumbing-input-poured = Poured { $amount }u into the plumbing network.
-
 plumbing-output-empty = The output buffer is empty!
 plumbing-output-filled = Filled container with { $amount }u from the plumbing network.
-
 # Reactor UI
 plumbing-reactor-window-title = Plumbing Reactor
 plumbing-reactor-status = Status:
@@ -23,7 +21,6 @@ plumbing-reactor-clear = Clear All
 plumbing-reactor-remove-selected = Remove Selected
 plumbing-reactor-output = Output Contents
 plumbing-reactor-invalid-reagent = Unknown reagent: { $reagent }
-
 # Filter UI
 plumbing-filter-window-title = Plumbing Filter
 plumbing-filter-status = Status:
@@ -36,8 +33,7 @@ plumbing-filter-filtered = Filtered Reagents
 plumbing-filter-clear = Clear All
 plumbing-filter-remove-selected = Remove Selected
 plumbing-filter-invalid-reagent = Unknown reagent: { $reagent }
-plumbing-filter-max-reagents = You can only filter up to {$count} reagents.
-
+plumbing-filter-max-reagents = You can only filter up to { $count } reagents.
 # Synthesizer UI
 plumbing-synthesizer-window-title = Plumbing Synthesizer
 plumbing-synthesizer-status = Status:
@@ -51,7 +47,6 @@ plumbing-synthesizer-select-reagent = Select Reagent
 plumbing-synthesizer-none = None
 plumbing-synthesizer-buffer = Buffer Contents
 plumbing-synthesizer-buffer-empty = Empty
-
 # Plunger drain
 plumbing-drain-success = Drained { $amount }u onto the floor.
 plumbing-drain-empty = Nothing to drain.

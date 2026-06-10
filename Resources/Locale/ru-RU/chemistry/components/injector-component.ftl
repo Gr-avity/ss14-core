@@ -1,9 +1,11 @@
 ## UI
 
-injector-volume-transfer-label = Volume: [color=white]{$currentVolume}/{$totalVolume}u[/color]
-    Mode: [color=white]{$modeString}[/color] ([color=white]{$transferVolume}u[/color])
-injector-volume-label = Объём: [color=white]{ $currentVolume }/{ $totalVolume }[/color]
-    Mode: [color=white]{$modeString}[/color]
+injector-volume-transfer-label =
+    Volume: [color=white]{ $currentVolume }/{ $totalVolume }u[/color]
+    Mode: [color=white]{ $modeString }[/color] ([color=white]{ $transferVolume }u[/color])
+injector-volume-label =
+    Объём: [color=white]{ $currentVolume }/{ $totalVolume }[/color]
+    Mode: [color=white]{ $modeString }[/color]
 injector-toggle-verb-text = Переключить режим инъектора
 
 ## Entity
@@ -49,4 +51,5 @@ injector-component-spray-injecting-user = Вы начинаете подгота
 injector-component-spray-injecting-target = { $user } пытается поместить на вас распылительную насадку!
 
 ## Target Popup Success messages
+
 injector-component-feel-prick-message = Вы чувствуете лёгкий укол!

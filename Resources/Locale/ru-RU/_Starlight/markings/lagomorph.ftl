@@ -84,7 +84,6 @@ marking-LagomorphEarsDeerAntlersDriedbush-antlers-driedbush = Antlers
 marking-LagomorphEarsAirplane = Airplane
 marking-LagomorphEarsAirplane-airplane = Outer
 marking-LagomorphEarsAirplane-inner_airplane = Inner
-
 # tails
 marking-LagomorphTailCotton = Cotton Tail
 marking-LagomorphTailCotton-cotton_tail = Top
@@ -95,14 +94,11 @@ marking-LagomorphTailFluffy-fluffy_tail_twotone = Bottom
 marking-LagomorphTailLong = Long Tail
 marking-LagomorphTailLong-long_tail = Top
 marking-LagomorphTailLong-long_tail_twotone = Bottom
-
 # head side
 marking-LagomorphDewlap = Dewlap
-
 # head
 marking-LagomorphEyeScarRight = Right Eye Scar
 marking-LagomorphEyeScarLeft = Left Eye Scar
-
 # chest
 marking-LagomorphBellyColour = Belly
 marking-LagomorphTorsoSpots = Chest Spots
@@ -110,14 +106,12 @@ marking-LagomorphChestScarRight = Right Chest Scar
 marking-LagomorphChestScarLeft = Left Chest Scar
 marking-LagomorphBackScarRight = Right Back Scar
 marking-LagomorphBackScarLeft = Left Back Scar
-
 # legs
 marking-LagomorphClaws = Claws
 marking-LagomorphLegSockL = Leggings
 marking-LagomorphFootSockR = Socks
 marking-LagomorphLegSpotsR = Right Leg Spots
 marking-LagomorphLegSpotsL = Left Leg Spots
-
 # arms
 marking-LagomorphHandMittsR = Right Hand Mitten
 marking-LagomorphHandMittsL = Left Hand Mitten
@@ -127,7 +121,6 @@ marking-LagomorphArmSpotsR = Right Arm Spots
 marking-LagomorphArmSpotsL = Left Arm Spots
 marking-LagomorphBraceletR = Right Bracelet
 marking-LagomorphBraceletL = Left Bracelet
-
 # underwear
 marking-LagomorphBinderTop = Binder
 marking-LagomorphBinderTop-binder_top = Binder
@@ -139,7 +132,6 @@ marking-LagomorphPanties = Panties
 marking-LagomorphPanties-panty_bottoms = Panties
 marking-LagomorphTankTop = Tank Top
 marking-LagomorphTankTop-tank_top = Tank Top
-
 # hair
 marking-LagomorphHairLongBangs = Long Bangs 2
 marking-LagomorphHairHimecutWithTails = Hime Cut With Tails

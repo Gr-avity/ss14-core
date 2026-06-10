@@ -7,6 +7,5 @@ cmd-tippy-auto-4 = длительность речи (в секундах)
 cmd-tippy-auto-5 = время скольжения (в секундах)
 cmd-tippy-auto-6 = интервал покачивания (в секундах)
 cmd-tippy-error-no-user = Пользователь не найден.
-cmd-tippy-error-no-prototype = Прототип не найден: {$proto}
-
+cmd-tippy-error-no-prototype = Прототип не найден: { $proto }
 cmd-tip-desc = Показать случайный игровой совет.

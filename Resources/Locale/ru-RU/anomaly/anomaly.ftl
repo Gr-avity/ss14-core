@@ -1,17 +1,13 @@
 anomaly-component-contact-damage = Аномалия сдирает с вас кожу!
-
 anomaly-vessel-component-anomaly-assigned = Аномалия присвоена сосуду.
 anomaly-vessel-component-not-assigned = Этому сосуду не присвоена ни одна аномалия. Попробуйте использовать на нём сканер.
 anomaly-vessel-component-assigned = Этому сосуду уже присвоена аномалия.
-
 anomaly-particles-delta = Дельта-частицы
 anomaly-particles-epsilon = Эпсилон-частицы
 anomaly-particles-zeta = Зета-частицы
 anomaly-particles-omega = Омега-частицы
 anomaly-particles-sigma = Сигма-частицы
-
 anomaly-scanner-component-scan-complete = Сканирование завершено!
-
 anomaly-scanner-ui-title = сканер аномалий
 anomaly-scanner-no-anomaly = Нет просканированной аномалии.
 anomaly-scanner-severity-percentage = Текущая опасность: [color=gray]{ $percent }[/color]
@@ -32,31 +28,29 @@ anomaly-scanner-particle-unstable-unknown = - [color=plum]Нестабильны
 anomaly-scanner-particle-containment-unknown = - [color=goldenrod]Сдерживающий тип:[/color] [color=red]ОШИБКА[/color]
 anomaly-scanner-particle-transformation-unknown = - [color=#6b75fa]Трансформирующий тип:[/color] [color=red]ОШИБКА[/color]
 anomaly-scanner-pulse-timer = Время до следующего импульса: [color=gray]{ $time }[/color]
-
 anomaly-gorilla-core-slot-name = Ядро аномалии
 anomaly-gorilla-charge-none = Внутри нет [bold]ядра аномалии[/bold].
-anomaly-gorilla-charge-limit = Осталось [color={$count ->
-    [3]green
-    [2]yellow
-    [1]orange
-    [0]red
-    *[other]purple
-}]{$count} {$count ->
-    [one]charge
-    *[other]charges
-}[/color] remaining.
+anomaly-gorilla-charge-limit =
+    Осталось [color={ $count ->
+        [3] green
+        [2] yellow
+        [1] orange
+        [0] red
+       *[other] purple
+    }]{ $count } { $count ->
+        [one] charge
+       *[other] charges
+    }[/color] remaining.
 anomaly-gorilla-charge-infinite = В нем [color=gold]неограниченое количество зарядов[/color]. [italic]Пока что...[/italic]
-
 anomaly-sync-connected = Аномалия успешно привязана
 anomaly-sync-disconnected = Соединение с аномалией было потеряно!
 anomaly-sync-no-anomaly = Отсутствует аномалия в пределах диапазона.
 anomaly-sync-examine-connected = Он [color=darkgreen]присоединён[/color] к аномалии.
 anomaly-sync-examine-not-connected = Он [color=darkred]не присоединён[/color] к аномалии.
 anomaly-sync-connect-verb-text = Присоединить аномалию
-anomaly-sync-connect-verb-message = Присоединить близлежащую аномалию к {$machine}.
+anomaly-sync-connect-verb-message = Присоединить близлежащую аномалию к { $machine }.
 anomaly-sync-disconnect-verb-text = Отсоединить аномалию
 anomaly-sync-disconnect-verb-message = Отсоединить подключённую аномалию от { $machine }.
-
 anomaly-generator-ui-title = Генератор Аномалий
 anomaly-generator-fuel-display = Топливо:
 anomaly-generator-cooldown = Перезарядка: [color=gray]{ $time }[/color]
@@ -64,24 +58,20 @@ anomaly-generator-no-cooldown = Перезарядка: [color=gray]Заверш
 anomaly-generator-yes-fire = Статус: [color=forestgreen]Готов[/color]
 anomaly-generator-no-fire = Статус: [color=crimson]Не готов[/color]
 anomaly-generator-generate = Создать Аномалию
-anomaly-generator-charges = {$charges ->
-    [one] {$charges} charge
-    *[other] {$charges} charges
-}
+anomaly-generator-charges =
+    { $charges ->
+        [one] { $charges } charge
+       *[other] { $charges } charges
+    }
 anomaly-generator-announcement = Была сгенерирована аномалия!
-
 anomaly-command-pulse = Пульсирует аномалию
 anomaly-command-supercritical = Доводит аномалию до суперкритического состояния
-
 # Flavor text on the footer
 anomaly-generator-flavor-left = Аномалия может возникнуть внутри пользователя.
 anomaly-generator-flavor-right = v1.1
-
 anomaly-behavior-unknown = [color=red]ОШИБКА. Не может быть прочтено.[/color]
-
 anomaly-behavior-title = анализ отклонений в поведении:
 anomaly-behavior-point = [color=gold]Аномалия приносит { $mod }% очков[/color]
-
 anomaly-behavior-safe = [color=forestgreen]Аномалия чрезвычайно стабильна. Пульсации крайне редки.[/color]
 anomaly-behavior-slow = [color=forestgreen]Частота пульсаций значительно снизилась.[/color]
 anomaly-behavior-light = [color=forestgreen]Мощность пульсации значительно снижается.[/color]

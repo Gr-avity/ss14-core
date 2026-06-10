@@ -1,1 +1,1 @@
-﻿suicide-prevented = You tried to suicide, but only your spirit escapes.
+suicide-prevented = Вы попытались совершить самоубийство, но освободился лишь ваш дух.

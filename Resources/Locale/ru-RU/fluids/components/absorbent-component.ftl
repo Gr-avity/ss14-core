@@ -4,6 +4,5 @@ mopping-system-puddle-space = Объект «{ $used }» заполнен вод
 mopping-system-puddle-already-mopped = { CAPITALIZE($target) } уже высыхает.
 mopping-system-no-water = { $used } не имеет воды!
 mopping-system-no-hands = У вас нет рук!
-
 mopping-system-full = Объект «{ $used }» полон!
 mopping-system-empty = Объект «{ $used }» пуст!

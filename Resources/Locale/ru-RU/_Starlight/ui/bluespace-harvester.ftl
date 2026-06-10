@@ -12,10 +12,8 @@ bluespace-harvester-output = Выход
 bluespace-harvester-available-points = Доступно очков:
 bluespace-harvester-total-points = Всего очков:
 bluespace-harvester-buy = Купить
-
 # Portal announcement
 bluespace-harvester-portal-warning = ВНИМАНИЕ: Обнаружен разлом блюспейса! Враждебные сущности появляются из разлома. Работа сборщика блюспейса приостановлена до закрытия разлома.
-
 # Loot Tables
 bluespace-harvester-pool-exotic-hat = Неизвестная экзотическая шляпа
 bluespace-harvester-pool-snack = Неизвестная закуска

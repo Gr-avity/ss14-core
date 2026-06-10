@@ -1,4 +1,4 @@
-﻿construction-category-all = All
+construction-category-all = All
 construction-category-furniture = Мебель
 construction-category-storage = Хранилища
 construction-category-tools = Инструменты

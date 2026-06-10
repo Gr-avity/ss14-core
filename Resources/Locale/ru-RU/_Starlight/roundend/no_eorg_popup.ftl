@@ -7,4 +7,6 @@ no-eorg-popup-rule-text = Примеры: любой дружественный 
 no-eorg-popup-close-button = Всё понятно!
 no-eorg-popup-close-button-wait = Кнопка будет активна через { $time }
 no-eorg-popup-skip-checkbox = Не показывать снова
+
 # SS14-ART-Edit ---Stop---
+

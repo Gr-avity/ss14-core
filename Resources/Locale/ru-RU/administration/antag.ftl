@@ -12,8 +12,6 @@ admin-verb-make-vampire = Сделать цель вампиром.
 admin-verb-make-wizard = Сделать цель волшебником.
 admin-verb-make-space-ninja = Сделать цель Космическим ниндзя.
 admin-verb-make-changeling = Превратить цель в генокрада
-
-
 admin-verb-text-make-traitor = Сделать предателем
 admin-verb-text-make-initial-infected = Сделать начальным заражённым
 admin-verb-text-make-zombie = Сделать зомби
@@ -26,5 +24,4 @@ admin-verb-text-make-paradox-clone = Создать парадоксальног
 admin-verb-text-make-changeling-wip = Сделать генокрадом (Upstream, WIP)
 admin-verb-text-make-wizard = Сделать волшебником
 admin-verb-text-make-space-ninja = Сделать Космическим ниндзя
-
 admin-overlay-antag-classic = АНТАГ

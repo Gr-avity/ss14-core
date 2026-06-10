@@ -14,5 +14,4 @@ lathe-category-evidence = Свидетельства
 lathe-category-conclusions-and-decisions = Ордеры и заключения
 lathe-category-error = ОШИБКА
 lathe-category-communication = Коммуникация
-
 lathe-category-silicon = Кремний

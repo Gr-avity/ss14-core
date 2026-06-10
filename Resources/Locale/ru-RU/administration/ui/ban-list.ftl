@@ -1,14 +1,12 @@
-﻿# UI
+# UI
 ban-list-bans = Баны
 ban-list-role-bans = Роль баны
-
 ban-list-header-ids = ID
 ban-list-header-reason = Причина
 ban-list-header-role = Роль
 ban-list-header-time = Длительность бана
 ban-list-header-expires = Истекает
 ban-list-header-banning-admin = Забанивщий админ
-
 ban-list-title = Все баны { $player }
 ban-list-view = Показать
 ban-list-id = ID: { $id }

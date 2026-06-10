@@ -1,4 +1,5 @@
-﻿## icons
+## icons
+
 station-ai-icon-alien = Инопланетная форма жизни
 station-ai-icon-thinking = Любопытство
 station-ai-icon-database = База данных станции
@@ -50,7 +51,9 @@ station-ai-icon-hourglass = Hourglass
 station-ai-icon-rat = Rat
 station-ai-icon-royal = Royal
 station-ai-icon-sillycon = Sillycon
+
 ## holos
+
 station-ai-hologram-alien = Инопланетянин
 station-ai-hologram-bees = Пчёлы
 station-ai-hologram-big-moth = Большая, большая моль
@@ -71,6 +74,7 @@ station-ai-hologram-purrfus = Purrfus
 station-ai-hologram-rat = Rat
 
 ## warps
+
 station-ai-warp-window-title = Варп
 station-ai-warp-search-placeholder = Поиск экипажа или мест...
 station-ai-warp-loading = Загрузка мест назначения варпа...

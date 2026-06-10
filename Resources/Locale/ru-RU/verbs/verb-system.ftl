@@ -1,10 +1,7 @@
 verb-system-null-server-response = Сущность не в поле зрения. Вы не должны видеть этого.
-
-
 # if verbs have a range of targets (e.g., multiple ejectables) you can
 # usually just use Entity.Name. But it is a bit odd when targeting yourself
 verb-self-target-pronoun = Вы
-
 
 # verb categories & common verbs. These appear across multiple systems, so they may as well go here.
 
@@ -30,8 +27,7 @@ verb-categories-fax = Задать место назначения
 verb-categories-power-level = Уровень энергии
 verb-categories-switch = Переключить режим
 verb-categories-adjust = Отрегулировать
-verb-categories-manage-channels = Manage Channels
-
+verb-categories-manage-channels = Управление каналами
 verb-common-toggle-light = Переключить свет
 verb-common-close = Закрыть
 verb-common-open = Открыть

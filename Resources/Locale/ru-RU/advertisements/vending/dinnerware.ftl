@@ -1,4 +1,4 @@
-﻿advertisement-dinnerware-1 = Mm, food stuffs!
+advertisement-dinnerware-1 = Mm, food stuffs!
 advertisement-dinnerware-2 = Продукты питания и пищевые аксессуары.
 advertisement-dinnerware-3 = Берите тарелки!
 advertisement-dinnerware-4 = Вам нравятся вилки?
@@ -8,4 +8,3 @@ advertisement-dinnerware-7 = На самом деле они вам не нуж�
 advertisement-dinnerware-8 = Возьмите если хотите!
 advertisement-dinnerware-9 = Мы абсолютно уверены: мензурки — лучшие!
 advertisement-dinnerware-10 = ПОЧЕМУ ТУТ ТАК МНОГО РАЗНЫХ КРУЖЕК?
-

@@ -3,7 +3,6 @@ research-discipline-industrial = Промышленная
 research-discipline-arsenal = Арсенал
 research-discipline-experimental = Экспериментальная
 research-discipline-civilian-services = Гражданские службы
-
 research-technology-fulton = Фултоны
 research-technology-salvage-equipment = Утилизационное оборудование
 research-technology-advanced-powercells = Продвинутые элементы питания
@@ -26,7 +25,6 @@ research-technology-bluespace-storage = Блюспейс хранилища
 research-technology-optimized-microgalvanism = Оптимизированный микрогальванизм
 research-technology-space-scanning = Сканирование космоса
 research-technology-excavation = Массовые раскопки
-
 research-technology-salvage-weapons = Утилизаторское оружие
 research-technology-draconic-munitions = Драконьи боеприпасы
 research-technology-uranium-munitions = Урановые боеприпасы
@@ -48,7 +46,6 @@ research-technology-advanced-shuttle-weapon = Продвинутое кораб�
 research-technology-explosive-mech-ammunition = Взрывчатые боеприпасы для мехов
 research-technology-thermal-weaponry = Термальное вооружение
 research-technology-dual-wielding-technology = Технология двойного оперирования
-
 research-technology-basic-robotics = Основы робототехники
 research-technology-basic-anomalous-research = Основы исследования аномалий
 research-technology-basic-xenoarcheology = Основы ксеноархеологии
@@ -64,8 +61,7 @@ research-technology-advanced-anomaly-research = Продвинутое иссл�
 research-technology-rped = Быстрая Замена Деталей
 research-technology-super-parts = Суперкомпоненты
 research-technology-deterrence = Технология сдерживания
-research-technology-mech-borg-uplink= Advanced Positronic Relays
-
+research-technology-mech-borg-uplink = Advanced Positronic Relays
 research-technology-janitorial-equipment = Уборочное оборудование
 research-technology-laundry-tech = Прачечная технология
 research-technology-basic-hydroponics = Основы гидропоники

@@ -5,9 +5,7 @@ devil-role-briefing =
     Strike deals with the crewmembers, and contractually
     gain their souls in return for fulfilling their
     fickle material desires.
-
+    
     Remember, the crew can use your true name against you.
-
 objective-issuer-devil = Дьявол
-
 devil-round-end-agent-name = devil

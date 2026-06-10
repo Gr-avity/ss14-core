@@ -1,4 +1,5 @@
 ## Funky atmos - /tg/ gases
+
 # Canisters
 spray-painter-style-canisters-bz = BZ
 spray-painter-style-canisters-healium = Гелиум

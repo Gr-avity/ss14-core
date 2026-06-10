@@ -1,1 +1,1 @@
-﻿biomass-reclaimer-suicide-others = {CAPITALIZE(THE($victim))} threw themselves into the biomass reclaimer!
+biomass-reclaimer-suicide-others = { CAPITALIZE(THE($victim)) } { CONJUGATE-BASIC($victim, "бросился", "бросилась", "бросились") } в утилизатор биомассы!

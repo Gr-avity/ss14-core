@@ -1,4 +1,4 @@
-﻿advertisement-boozeomat-1 = I hope nobody asks me for a bloody cup o' tea...
+advertisement-boozeomat-1 = I hope nobody asks me for a bloody cup o' tea...
 advertisement-boozeomat-2 = Алкоголь — друг человечества. Вы бы отказались от друга?
 advertisement-boozeomat-3 = Очень рад вас обслужить!
 advertisement-boozeomat-4 = Никто на этой станции не хочет выпить?
@@ -20,4 +20,3 @@ advertisement-boozeomat-19 = Тост за прогресс!
 thankyou-boozeomat-1 = Пожалуйста, пейте ответственно!
 thankyou-boozeomat-2 = Пожалуйста, пейте безответственно!
 thankyou-boozeomat-3 = Пожалуйста, наслаждайтесь вашим напитком!
-

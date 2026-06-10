@@ -49,7 +49,6 @@ job-name-station-ai = Станционный ИИ
 job-name-technical-assistant = Технический Ассистент
 job-name-visitor = Посетитель
 job-name-warden = Смотритель
-
 # unused jobs
 # these are required for the agent ID job icon tooltips
 # I am keeping them for roleplaying opportunities
@@ -61,7 +60,6 @@ job-name-roboticist = Роботехник
 job-name-unknown = Неизвестно
 job-name-virologist = Вирусолог
 job-name-zookeeper = Зоотехник
-
 # antagonist jobs
 job-name-ninja = Ниндзя
 job-name-syndicate = Синдикат
@@ -71,12 +69,10 @@ job-name-syndicate-operative = Оперативник Синдиката
 job-name-pirate = Пират
 job-name-wizard = Волшебник
 job-name-zombie = Зомби
-
 # Job titles
 job-title-cluwne = Клувн
 job-title-universal = Универсальный
 job-title-visitor = Посетитель
-
 # Role timers - Make these alphabetical or I cut you
 JobAssistant = Ассистент
 JobAtmosphericTechnician = Атмосферный Техник
@@ -129,4 +125,3 @@ JobStationEngineer = Инженер
 JobTechnicalAssistant = Технический Ассистент
 JobVisitor = Посетитель
 JobWarden = Смотритель
-

@@ -1,5 +1,4 @@
 objective-issuer-terminator = [color=red]Будущее[/color]
-
 terminator-role-greeting =
     You are the [color=red]EXTERMINATOR[/color], a relentless assassin sent into the past to secure our future.
     We need you to eliminate the target with extreme prejudice.

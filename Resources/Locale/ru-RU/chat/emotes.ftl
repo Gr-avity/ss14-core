@@ -37,7 +37,6 @@ chat-emote-name-snarl = Скалиться
 chat-emote-name-whine = Скулить
 chat-emote-name-howl = Выть
 chat-emote-name-growl = Рычать
-
 # Message
 chat-emote-msg-scream = кричит!
 chat-emote-msg-laugh = смеётся.
@@ -55,7 +54,7 @@ chat-emote-msg-clap-single = ударяет в ладоши.
 chat-emote-msg-snap = щёлкает пальцами.
 chat-emote-msg-salute = отдает честь.
 chat-emote-msg-gasp = задыхается.
-chat-emote-msg-deathgasp = отключается и бессильно падает, {POSS-ADJ($entity)} глаза становятся пустыми и безжизненными...
+chat-emote-msg-deathgasp = отключается и бессильно падает, { POSS-ADJ($entity) } глаза становятся пустыми и безжизненными...
 chat-emote-msg-deathgasp-monkey = издаёт последний визг, после чего падает и замирает...
 chat-emote-msg-deathgasp-scurret = издаёт последний "ва" и замирает...
 chat-emote-msg-buzz = жужжит!

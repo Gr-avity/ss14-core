@@ -1,4 +1,4 @@
-﻿prayer-verbs-subtle-message = Subtle Message
+prayer-verbs-subtle-message = Тонкий намёк
 prayer-verbs-pray = Молиться
 prayer-verbs-call = Позвонить
 prayer-verbs-rub = Потереть
@@ -9,9 +9,7 @@ prayer-chat-notify-centcom = ЦК
 prayer-chat-notify-syndicate = СИНДИКАТ
 prayer-chat-notify-lamp = ЛАМПА
 prayer-chat-notify-monolith = МОНОЛИТ
-
 prayer-popup-subtle-default = Вы слышите голос в своей голове...
-
 prayer-popup-notify-honkmother-sent = Вы оставили голосовое сообщение для Хонкоматери...
 prayer-popup-notify-centcom-sent = Вы оставили голосовое сообщение для Центрального Командования...
 prayer-popup-notify-syndicate-sent = Вы оставили голосовое сообщение для верховного командования Синдиката...

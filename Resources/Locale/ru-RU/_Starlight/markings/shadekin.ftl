@@ -38,7 +38,6 @@ marking-EarsShadekinBull = Straight
 marking-EarsShadekinBullSmooth = Straight, Outlined
 marking-EarsShadekinAqua = Aqua
 marking-EarsShadekinAquaIncolor = Aqua, Colored
-
 # Tails
 marking-TailShadekin = Default
 marking-TailShadekinBig = Big
@@ -47,7 +46,6 @@ marking-TailShadekinShorter = Short
 marking-TailShadekinShorterBrush = Short, Furry
 marking-TailShadekinMedium = Medium
 marking-TailShadekinMediumTwoColored = Medium, Two-Toned
-
 # Overlays
 marking-EarsShadekin = Default
 marking-BodyShadekinArrow = Arrow Marking

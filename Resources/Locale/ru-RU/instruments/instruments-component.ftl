@@ -2,11 +2,12 @@
 instrument-component-finger-cramps-light-message = Ваши пальцы начинает немного сводить судорогой!
 instrument-component-finger-cramps-serious-message = Ваши пальцы свело судорогой!
 instrument-component-finger-cramps-max-message = Ваши пальцы сводит судорогой от игры!
-instruments-component-menu-no-midi-support = MIDI support is currently not
-                                             available on your system.
-                                             If on Linux, you may need to install
-                                             FluidSynth or a development package
-                                             for FluidSynth.
+instruments-component-menu-no-midi-support =
+    MIDI support is currently not
+    available on your system.
+    If on Linux, you may need to install
+    FluidSynth or a development package
+    for FluidSynth.
 instruments-component-menu-input-button = MIDI Ввод
 instruments-component-menu-band-button = Присоединяйтесь к группе
 instruments-component-menu-play-button = Воспроизвести MIDI файл
@@ -22,11 +23,8 @@ instruments-component-channels-clear-button = Очистить
 instruments-component-channels-track-names-toggle = Отображать имена треков
 instruments-component-channels-single = { $channel } { $name }
 instruments-component-channels-multi = { $channel } { $name } ({ $other })
-
-
 # SwappableInstrumentComponent
 swappable-instrument-component-style-set = Установить стиль на «{ $style }»
-
 instruments-component-menu-midi-channel-acoustic-grand-piano = Акустический рояль
 instruments-component-menu-midi-channel-bright-acoustic-piano = Яркое акустическое фортепиано
 instruments-component-menu-midi-channel-electric-grand-piano = Электрический рояль

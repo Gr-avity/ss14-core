@@ -1,1 +1,1 @@
-objective-condition-steal-research-title = Украсть {$count} технологий.
+objective-condition-steal-research-title = Украсть { $count } технологий.

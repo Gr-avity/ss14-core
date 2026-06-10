@@ -23,7 +23,6 @@ names-blackstar-last-dataset-22 = Tenax
 names-blackstar-last-dataset-23 = Vigil
 names-blackstar-last-dataset-24 = Calix
 names-blackstar-last-dataset-25 = Corvinus
-
 names-blackstar-legionnaire-last-dataset-1 = Varro
 names-blackstar-legionnaire-last-dataset-2 = Titus
 names-blackstar-legionnaire-last-dataset-3 = Sextus
@@ -49,7 +48,6 @@ names-blackstar-legionnaire-last-dataset-22 = Atrox
 names-blackstar-legionnaire-last-dataset-23 = Cadmus
 names-blackstar-legionnaire-last-dataset-24 = Dacius
 names-blackstar-legionnaire-last-dataset-25 = Evander
-
 names-blackstar-blackguard-last-dataset-1 = Grim
 names-blackstar-blackguard-last-dataset-2 = Shade
 names-blackstar-blackguard-last-dataset-3 = Kael

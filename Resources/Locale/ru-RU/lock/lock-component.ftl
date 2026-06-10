@@ -9,5 +9,4 @@ lock-comp-generic-fail = Заперто.
 
 toggle-lock-verb-unlock = Разблокировать
 toggle-lock-verb-lock = Заблокировать
-
 lock-comp-weapon-locked = Оружие заблокировано!

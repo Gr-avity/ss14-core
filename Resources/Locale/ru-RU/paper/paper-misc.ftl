@@ -1,83 +1,84 @@
-book-text-plasma-trap = Heheheheh, no way in hell they're going to get at our stash NOW, is there?
-      I rigged the area where our stuff's at to be a toasty thousand K.
-      You know how to drain it when we need it out.
-       - J.
+book-text-plasma-trap =
+    Хе-хе-хе-хе, чёрта с два они ТЕПЕРЬ доберутся до нашей заначки, а?
+    Я настроил зону с нашими вещами так, чтобы там было поджаристые тысячи К.
+    Ты знаешь, как всё слить, когда нам понадобится это забрать.
+     - Дж.
+book-text-holoparasite-info =
+    Спасибо за выбор нашего комплекта голопаразита!
+    В Cybersun мы гордимся передовыми военными и промышленными технологиями и искренне ценим ваш вклад в наше предприятие!
+    Стражи — это полезные и разумные существа, которые гнездятся внутри вашего тела, обладая полным иммунитетом к обычным опасностям, таким как давление, температура и даже пули!
+    Вы приобрели комплект голопаразита, который содержит активатор голопаразита, буклет с инструкциями и фирменную кепку.
+    Инструкция по применению:
+    1. Активируйте инжектор голопаразита (желательно в уединённом месте).
+    2. Дождитесь покалывания и/или болезненного метафизического ощущения.
+    3. Проверьте своего голопаразита на способность общаться и сотрудничать, а также понимать ваши приказы.
+    4. Используйте способность призыва-отзыва, чтобы вызвать или вернуть голопаразита обратно в своё тело.
+    5. Держите голопаразита на небольшом расстоянии от себя, иначе он будет отозван принудительно!
+    ВНИМАНИЕ: Стражи — метафизические существа, но для своего существования они черпают силы из вашего ЗДОРОВЬЯ. Прямой урон, нанесённый стражам, будет частично перенесён на вас!
+    Cybersun Inc. не несёт ответственности за полное уничтожение в результате неправильного использования технологии голопаразитов.
+book-text-ame-scribbles =
+    Я не знаю, обучен ли ты уже, так что надеюсь, это поможет.
+    Контроллеру ДАМ требуется питание НВ, а для вывода энергии — кабель ВВ. Если не уверен, проверь местность ломом.
+    Рядом с местом, где ты это нашёл, должна быть пустая комната, в ней проведена проводка под ДАМ.
+    Впрочем, ты можешь поставить ДАМ где угодно, если сможешь подвести к нему провода.
+    Сетка частей ДАМ 3х3, используй на них мультитул, чтобы распаковать. Будь осторожен, чтобы ничего не «замуровать».
+    Контроллер ДАМ должен прилегать по горизонтали или вертикали (не по диагонали) к любой точке.
+    Имея всего 1 ядро (это то, что ты получишь из сетки 3х3), не поднимай значение выше 2.
+    Золотое правило: 2 впрыска на каждые 1 ядро. Можно ставить меньше, чтобы сэкономить топливо.
+    Если поставить выше, двигатель сгорит и в конце концов взорвётся. Не надо так.
+    Не забывай заправлять его, он имеет тенденцию останавливаться в самый неподходящий момент.
+book-text-agrichemkit-manual =
+    Благодарим вас за то, что выбрали безопасный для детей и взрослых набор для опытов NanoTrasen Agri-Chem is Fun! — лучшую развивающую игрушку 2468 года! С ним вы узнаете все о самых значительных инновациях в сельском хозяйстве с тех пор, как люди начали закапывать рыбу вместе с кукурузными семенами.
 
-book-text-holoparasite-info = Thanks for choosing our holoparasite package!
-      At cybersun, we pride ourselves on cutting-edge military and industrial technology, and greatly appreciate your contribution to our establishment!
-      Guardians are helpful and intelligent beings which nest within your body, completely immune to common hazards such as pressure, temperature and even bullets!
-      You have purchased the holoparasite package, which contains a holoparasite activator, an instruction booklet, and our softcap merchandise.
-      Instructions for use:
-      1. Activate the holoparasite injector (preferably in a secluded area).
-      2. Wait for the tingling and/or painful metaphysical sensation.
-      3. Check your holoparasite for the ability to communicate and cooperate, and capacity to understand your orders.
-      4. Use your recall-manifest ability to summon or recall the holoparasite back into your body.
-      5. Keep the holoparasite within a short distance from yourself, otherwise it will be recalled by force!
-      WARNING: Guardians are metaphysical beings, but draw from your HEALTH in order to exist. Direct damage done to guardians will be partially transferred to you!
-      Cybersun inc. is not responsible for complete annihilation following the misuse of Holoparasite technology.
+    Содержимое:
+    5 удобно маркированных флаконов по 30 ед., по 1 штуке каждого: азот, фосфор, водород, калий и этанол
+    2 флакона Safe-T-Fun(TM) объёмом 5 ед., по 1 штуке каждого: хлор и радий
+    1 пустой флакон на 30 ед., готовый к вашим экспериментам.
 
-book-text-ame-scribbles = I don't know if you're trained already, so I hope this'll help.
-      AME controller needs LV power and an HV wire to output to. Check the area with a crowbar if you aren't sure.
-      There should be an empty room next to where you found this, that room's wired for the AME.
-      You can put an AME anywhere if you can get the wires to it, though.
-      3x3 grid of AME parts, multitool them to unpack. Be careful not to 'trap' anything.
-      AME controller adjacent horizontally or vertically (not diagonally) to any point.
-      With only 1 core (what a 3x3 grid will get you), don't turn it up above 2.
-      The golden rule is 2 injection for every 1 core. You can go lower to save fuel.
-      Higher will burn the engine out and eventually make it explode. Don't.
-      Don't forget to refuel it, it tends to stop at the worst possible time.
+    Первый эксперимент: EZ Nutrient (Простые питательные вещества)
+    Чтобы создать EZ Nutrient, удобрение, богатое питательными веществами, необходимыми для здоровья растений, смешайте в равных пропорциях азот, фосфор и калий. Для полного флакона потребуется по 10 ед. каждого.
+    Небольшой флакон EZ Nutrient заменит огромную кучу продуктов, которую вам иначе пришлось бы отправить в компост, чтобы ваши растения росли крепкими. А ведь урожай, отправленный в компост, — это урожай, с которого вы не получили прибыли, так что не прекращайте производство EZ Nutrient.
 
-book-text-agrichemkit-manual = Благодарим вас за то, что выбрали безопасный для детей и взрослых набор для опытов NanoTrasen Agri-Chem is Fun! — лучшую развивающую игрушку 2468 года! С ним вы узнаете все о самых значительных инновациях в сельском хозяйстве с тех пор, как люди начали закапывать рыбу вместе с кукурузными семенами.
+    Второй эксперимент: Аммиак и Диэтиламин
+    Смешайте 3 части водорода с 1 частью азота и погрейте в микроволновой печи в течение 30 секунд, чтобы получить аммиак. Это полезное и питательное лакомство для ваших культур, которые находятся не в лучшей форме.
+    Но если вы хотите поразить судей на местной окружной ярмарке, спонсируемой NanoTrasen, вам нужно будет добавить к аммиаку равное количество этанола.
+    Это превратится в Диэтиламин — чудо-удобрение, которое заставит растения расти БЫСТРЕЕ И жить ДОЛЬШЕ! Благодаря Диэтиламину любимые культуры будут радовать вас гораздо дольше.
 
-      Contents:
-      5 handily labeled 30u bottles, 1 each of nitrogen, phosphorus, hydrogen, potassium, and ethanol
-      2 Safe-T-Fun(TM) sized 5u vials, 1 each of chlorine and radium
-      1 30u empty bottle, ready for your experiments.
+    Третий эксперимент: Нестабильный мутаген
+    Когда вы будете готовы доказать всем, что вы величайший ботаник на станции, вам понадобится смешать немного нестабильного мутагена и надеяться на лучшее. Несмотря на пугающее название, нестабильный мутаген полностью безопасен при использовании на растениях, но не пейте это привлекательное зелёное вещество сами.
 
-      First Experiment: EZ Nutrient
-      To create EZ Nutrient, a fertilizer densely packed with nutrients required for healthy plants, mix equal parts nitrogen, phosphorus, and potassium. To make a full bottle, thats 10u of each.
-      A little bottle of EZ Nutrient replaces a big stack of produce you'd otherwise compost to keep your plants growing strong. And crops you compost are crops you didn't make a profit on, so keep that EZ Nutrient flowing.
+    Смешайте в равных частях радий, фосфор и хлор, чтобы получить ярко-зелёную порцию нестабильного мутагена — безопасный и весёлый способ выжать максимум из вашей фермы. 15 ед., которые позволяет создать этот набор, могут стать вашим пропуском к славе в мире агрохимии!
+    Нестабильный мутаген может оказывать самое разнообразное воздействие на флору, включая радикальные изменения всех параметров роста, созревание плодов, полных полезных фармацевтических препаратов, появление светящихся в темноте растений или создание совершенно новых видов.
 
-      Second Experiment: Ammonia and Diethylamine
-      Mix 3 parts hydrogen to 1 part nitrogen and microwave for 30 seconds to make ammonia. It's a healthy, nutritious treat for your crops that aren't at their best.
-      But if you want to impress the judges at your local NanoTrasen-sponsored County Fair, you'll need to add an equal amount of ethanol to your ammonia.
-      This will mix into Diethylamine, a miracle fertilizer that can make plants grow faster AND live longer! Keep the crops you love with you longer thanks to Diethylamine.
+    Каждое отдельное растение реагирует на нестабильный мутаген по-разному, поэтому вы можете использовать небольшие дозы на нескольких культурах и попытаться скрестить лучшие качества каждой из них. Применение нескольких доз к одному растению может наложить несколько изменений друг на друга, из-за чего будет сложнее выделить желаемые черты.
+    Нестабильный мутаген полностью безопасен при использовании в качестве удобрения, и NanoTrasen не несёт ответственности за погибший урожай, чрезмерные счета за воду, внезапно обретшие разум растения, задающие экзистенциальные вопросы, или задушенных флорой фермеров, что может случайно произойти во время его использования.
+    Не пейте нестабильный мутаген. Тщательно мойте руки после работы с ним. Промойте глаза, если вы смотрели на нестабильный мутаген более 30 минут в течение 24 часов. Хранить в тёмном помещении при температуре 293–295 К. Не использовать в корпоративные праздники. Если вы начнёте слышать голоса, призывающие вас выпить нестабильный мутаген, пожалуйста, обратитесь к врачу, главе персонала или экзорцисту.
+book-text-combat-bakery-kit =
+    Спасибо за выбор нашего боевого набора для выпечки!
+    Внутри находятся два (2) запатентованных CyberSun метательных круассана и один (1) багет-меч, на который подана заявка на патент.
+    Входящая в комплект плата для микроволновки от Donk Co. позволит собрать печь, способную выпекать ещё больше оружия.
+    Как и в случае с боевой выпечкой, обязательно съешьте эту записку после прочтения. Удачи, агент.
 
-      Third Experiment: Unstable Mutagen
-      When you're ready to show everyone you're the greatest botanist on the station, you'll need to mix up some unstable mutagen and hope for the best. Despite the scary name, unstable mutagen is entirely safe when applied to plants, but do not drink the appealingly green chemical yourself.
+    Рецепт багета-меча:
+    Тесто х 1
+    Соль 5 ед.
+    Перец 5 ед.
+    Металлический стержень х 1
+    Время приготовления: 15 секунд
 
-      Mix equal parts radium, phosphorus, and chlorine together to get a bright green batch of unstable mutagen, the safe and fun way to get the most of your farm. The 15u this kit lets you make could be your introduction to agrichemical stardom!
-      Unstable mutagen can have a wide variety of effects on plant life, including drastic changes to all sorts of growth parameters, produce full of helpful pharmaceuticals, plants that glow in the dark, or creating entirely new species.
-
-      Each individual plant responds to unstable mutagen differently, so you may want to use small doses on multiple crops and try to crossbreed the best traits from each of those. Applying multiple doses to one plant can stack multiple changes and make it harder to single out desirable traits.
-      Unstable mutagen is entirely safe when used as a fertilizer, and NanoTrasen takes no responsibility for dead crops, excessive water bills, newly sentient plants asking existential questions, or flora-strangled farmhands that may coincidentally occur while using it.
-      Do not drink unstable mutagen. Wash your hands thoroughly after handling. Wash your eyes if you have looked at unstable mutagen for over 30 minutes in a 24 hour period. Store in a dark room between 293–295K. Do not use on corporate holidays. If you begin hearing voices telling you to drink unstable mutagen, please contact your doctor, head of personnel, or exorcist.
-
-book-text-combat-bakery-kit = Спасибо за выбор нашего боевого набора для выпечки!
-      Enclosed are two (2) CyberSun patented Throwing Croissants, and one (1) patent-pending Baguette Sword.
-      The included Donk Co. microwave board can construct a microwave capable of baking more weapons.
-      Just like the baked weapons, be sure to eat this note after use. Good luck, agent.
-
-      Baguette Sword Recipe:
-      Dough x 1
-      Salt 5u
-      Pepper 5u
-      Metal Rod x 1
-      Cook Time: 15 seconds
-
-      Throwing Croissant Recipe:
-      Raw Croissant x 1
-      Butter Slice x 1
-      Glass Shard x 1
-      Cook Time: 5 seconds
-
-book-text-moproach = Congratulations on receiving your personal moproach kit! Perfect solution in case of a blood bath at your station.
-    Contents:
-    - two moproach cubes
-    - two purple caps
-    - this manual
-    Instructions:
-    - take a cube
-    - pour water on it
-    - put the cap on the moth
-    Done! You got your own personal moth, just don't forget to feed it!
+    Рецепт метательного круассана:
+    Сырой круассан х 1
+    Кусочек масла х 1
+    Осколок стекла х 1
+    Время приготовления: 5 секунд
+book-text-moproach =
+    Поздравляем с получением вашего личного набора моле-швабры (moproach)! Идеальное решение на случай кровавой бани на вашей станции.
+    Содержимое:
+    - два кубика моле-швабры
+    - две фиолетовые кепки
+    - это руководство
+    Инструкция:
+    - возьмите кубик
+    - полейте его водой
+    - наденьте кепку на моль
+    Готово! У вас появилась собственная ручная моль, только не забывайте её кормить!

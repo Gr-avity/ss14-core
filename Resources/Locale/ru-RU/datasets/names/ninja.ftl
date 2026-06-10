@@ -15,7 +15,9 @@ names-ninja-dataset-14 = Хирю
 names-ninja-dataset-15 = Хаябуса
 names-ninja-dataset-16 = Миднайт
 names-ninja-dataset-17 = Сэвэн
+
 ## Starlight
+
 names-ninja-dataset-18 = МакНиндзя
 names-ninja-dataset-19 = Хандзо
 names-ninja-dataset-20 = Блад
@@ -28,9 +30,13 @@ names-ninja-dataset-26 = Баки
 names-ninja-dataset-27 = Великан
 names-ninja-dataset-28 = Демон
 names-ninja-dataset-29 = Гоэмон
+
 ## Starlight
+
 names-ninja-dataset-30 = МакПотрясающий
+
 ## Starlight
+
 names-ninja-dataset-31 = Глотка
 names-ninja-dataset-32 = Смерть
 names-ninja-dataset-33 = Ария

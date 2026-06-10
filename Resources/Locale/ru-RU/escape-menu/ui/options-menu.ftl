@@ -8,11 +8,9 @@ ui-options-tab-controls = Управление
 ui-options-tab-audio = Аудио
 ui-options-tab-network = Сеть
 ui-options-tab-misc = Общие
-
 ui-options-apply = Применить
 ui-options-reset-all = Сбросить всё
 ui-options-default = По-умолчанию
-
 ui-options-value-percent = { TOSTRING($value, "P0") }
 
 # Misc/General menu
@@ -47,8 +45,6 @@ ui-options-display-label = Дисплей
 ui-options-quality-label = Качество
 ui-options-misc-label = Другое
 ui-options-interface-label = Интерфейс
-
-
 ui-options-auto-fill-highlights = Автозаполнение подсветки информацией персонажа
 ui-options-highlights-color = Цвет подсветки:
 ui-options-highlights-color-example = Это подсвеченный текст.
@@ -88,20 +84,23 @@ ui-options-vp-stretch = Растянуть изображение для соо�
 ui-options-vp-scale = Фиксированный масштаб окна игры: x{ $scale }
 ui-options-vp-scale-value = x{ $scale }
 ui-options-vp-integer-scaling = Предпочитать целочисленное масштабирование (может привести к появлению черных полос / отсечению)
-ui-options-vp-integer-scaling-tooltip = If this option is enabled, the viewport will be scaled using an integer value
-                                        at specific resolutions. While this results in crisp textures, it also often
-                                        means that black bars appear at the top/bottom of the screen or that part
-                                        of the viewport is not visible.
+ui-options-vp-integer-scaling-tooltip =
+    If this option is enabled, the viewport will be scaled using an integer value
+    at specific resolutions. While this results in crisp textures, it also often
+    means that black bars appear at the top/bottom of the screen or that part
+    of the viewport is not visible.
 ui-options-filter-label = Фильтр масштабирования:
 ui-options-filter-nearest = Ближайший (без сглаживания)
 ui-options-filter-bilinear = Билинейный (сглаживание)
 ui-options-trace = Показывать след от пули
-ui-options-trace-tooltip = If you're lagging while shooting, uncheck this box,
-                           and the hitscan won't display the texture of the smoke behind the flying bullet.
+ui-options-trace-tooltip =
+    If you're lagging while shooting, uncheck this box,
+    and the hitscan won't display the texture of the smoke behind the flying bullet.
 ui-options-vp-vertical-fit = Фиксация игрового окна по вертикали.
-ui-options-vp-vertical-fit-tooltip = Если эта функция включена, основной экран просмотра будет полностью игнорировать горизонталь при настройке на ваш экран.
-                                     fitting to your screen. If your screen is smaller than the viewport, then this
-                                     will cause the viewport to be cut off on the horizontal axis.
+ui-options-vp-vertical-fit-tooltip =
+    Если эта функция включена, основной экран просмотра будет полностью игнорировать горизонталь при настройке на ваш экран.
+    fitting to your screen. If your screen is smaller than the viewport, then this
+    will cause the viewport to be cut off on the horizontal axis.
 ui-options-vp-low-res = Изображение низкого разрешения
 ui-options-parallax-low-quality = Низкокачественный параллакс (фон)
 ui-options-ambient-occlusion = Отображать окружающее затенение
@@ -116,7 +115,6 @@ ui-options-binds-explanation = ЛКМ — изменить кнопку, ПКМ 
 ui-options-unbound = Пусто
 ui-options-bind-reset = Сбросить
 ui-options-key-prompt = Нажмите кнопку...
-
 ui-options-header-movement = Перемещение
 ui-options-header-camera = Камера
 ui-options-header-interaction-basic = Базовые взаимодействия
@@ -133,24 +131,20 @@ ui-options-header-text-cursor-select = Выделение текста
 ui-options-header-text-edit = Редактирование текста
 ui-options-header-text-chat = Чат
 ui-options-header-text-other = Прочее (текст)
-
 ui-options-hotkey-keymap = Использовать клавиши QWERTY (США)
 ui-options-hotkey-toggle-walk = Переключать шаг\бег
-
 ui-options-function-move-up = Двигаться вверх
 ui-options-function-move-left = Двигаться налево
 ui-options-function-move-down = Двигаться вниз
 ui-options-function-move-right = Двигаться направо
 ui-options-function-walk = Идти
 ui-options-function-toggle-knockdown = Переключить ползание
-
 ui-options-function-camera-rotate-left = Повернуть налево
 ui-options-function-camera-rotate-right = Повернуть направо
 ui-options-function-camera-reset = Сбросить камеру
 ui-options-function-zoom-in = Приблизить камеру
 ui-options-function-zoom-out = Отдалить камеру
 ui-options-function-reset-zoom = Сбросить приближение
-
 ui-options-function-use = Использовать
 ui-options-function-use-secondary = Использовать вторичное
 ui-options-function-alt-use = Альтернативное использование
@@ -167,7 +161,6 @@ ui-options-function-move-stored-item = Переместить хранящийс
 ui-options-function-rotate-stored-item = Повернуть хранящийся объект
 ui-options-function-save-item-location = Сохранить позицию предмета
 ui-options-static-storage-ui = Закрепить интерфейс хранилища на хотбаре
-
 ui-options-function-smart-equip-backpack = Умная экипировка в рюкзак
 ui-options-function-smart-equip-belt = Умная экипировка на пояс
 ui-options-function-smart-equip-suit-storage = Умная экипировка в хранилище скафандра
@@ -183,7 +176,6 @@ ui-options-function-point = Указать на что-либо
 ui-options-function-rotate-object-clockwise = Повернуть по часовой стрелке
 ui-options-function-rotate-object-counterclockwise = Повернуть против часовой стрелке
 ui-options-function-flip-object = Отразить
-
 ui-options-function-focus-chat-input-window = Писать в чат
 ui-options-function-focus-local-chat-window = Писать в чат (IC)
 ui-options-function-focus-emote = Писать в чат (Эмоции)
@@ -214,11 +206,9 @@ ui-options-function-window-close-all = Закрыть все окна
 ui-options-function-window-close-recent = Закрыть текущее окно
 ui-options-function-show-escape-menu = Переключить игровое меню
 ui-options-function-escape-context = Закрыть текущее окно или переключить игровое меню
-
 ui-options-function-take-screenshot = Сделать скриншот
 ui-options-function-take-screenshot-no-ui = Сделать скриншот (без интерфейса)
 ui-options-function-toggle-fullscreen = Переключить полноэкранный режим
-
 ui-options-function-editor-place-object = Разместить объект
 ui-options-function-editor-cancel-place = Отменить размещение
 ui-options-function-editor-grid-place = Размещать в сетке
@@ -226,7 +216,6 @@ ui-options-function-editor-line-place = Размещать в линию
 ui-options-function-editor-rotate-object = Повернуть
 ui-options-function-editor-flip-object = Перевернуть
 ui-options-function-editor-copy-object = Копировать
-
 ui-options-function-show-debug-console = Открыть консоль
 ui-options-function-show-debug-monitors = Показать дебаг информацию
 ui-options-function-inspect-entity = Изучить сущность
@@ -236,7 +225,6 @@ ui-options-function-inspect-server-component-tooltip = Открыть меню V
 ui-options-function-inspect-client-component = Изучить клиентский компонент
 ui-options-function-inspect-client-component-tooltip = Открыть меню ViewVariables для сущности под курсором, используя клиентский компонент, заданный командой "quickinspect".
 ui-options-function-hide-ui = Спрятать интерфейс
-
 ui-options-function-hotbar1 = 1 слот хотбара
 ui-options-function-hotbar2 = 2 слот хотбара
 ui-options-function-hotbar3 = 3 слот хотбара
@@ -277,7 +265,6 @@ ui-options-function-loadoutshift7 = Страница хотбара Shift+7
 ui-options-function-loadoutshift8 = Страница хотбара Shift+8
 ui-options-function-loadoutshift9 = Страница хотбара Shift+9
 ui-options-function-loadoutshift0 = Страница хотбара Shift+0
-
 ui-options-function-shuttle-strafe-up = Стрейф вверх
 ui-options-function-shuttle-strafe-right = Стрейф вправо
 ui-options-function-shuttle-strafe-left = Стрейф влево
@@ -285,7 +272,6 @@ ui-options-function-shuttle-strafe-down = Стрейф вниз
 ui-options-function-shuttle-rotate-left = Поворот налево
 ui-options-function-shuttle-rotate-right = Поворот направо
 ui-options-function-shuttle-brake = Торможение
-
 ui-options-function-text-cursor-left = Переместить курсор влево
 ui-options-function-text-cursor-right = Переместить курсор вправо
 ui-options-function-text-cursor-up = Переместить курсор вверх
@@ -325,36 +311,37 @@ ui-options-function-text-complete-prev = Предыдущий вариант а�
 ## Network menu
 
 ui-options-net-predict = Предугадывание на стороне клиента
-
 ui-options-net-interp-ratio = Сетевое сглаживание
-ui-options-net-interp-ratio-tooltip = Increasing this will generally make the game more resistant
-                                      to server->client packet-loss, however in doing so it
-                                      effectively adds slightly more latency and requires the
-                                      client to predict more future ticks.
-
+ui-options-net-interp-ratio-tooltip =
+    Increasing this will generally make the game more resistant
+    to server->client packet-loss, however in doing so it
+    effectively adds slightly more latency and requires the
+    client to predict more future ticks.
 ui-options-net-predict-tick-bias = Погрешность тиков предугадывания
-ui-options-net-predict-tick-bias-tooltip = Increasing this will generally make the game more resistant
-                                           to client->server packet-loss, however in doing so it
-                                           effectively adds slightly more latency and requires the
-                                           client to predict more future ticks.
-
+ui-options-net-predict-tick-bias-tooltip =
+    Increasing this will generally make the game more resistant
+    to client->server packet-loss, however in doing so it
+    effectively adds slightly more latency and requires the
+    client to predict more future ticks.
 ui-options-net-pvs-spawn = Лимит появление PVS сущностей
-ui-options-net-pvs-spawn-tooltip = This limits the rate at which the server will send newly spawned
-                                       entities to the client. Lowering this can help reduce
-                                       stuttering due to entity spawning, but can lead to pop-in.
-
+ui-options-net-pvs-spawn-tooltip =
+    This limits the rate at which the server will send newly spawned
+    entities to the client. Lowering this can help reduce
+    stuttering due to entity spawning, but can lead to pop-in.
 ui-options-net-pvs-entry = Лимит PVS сущностей
-ui-options-net-pvs-entry-tooltip = This limits the rate at which the server will send newly visible
-                                       entities to the client. Lowering this can help reduce
-                                       stuttering, but can lead to pop-in.
-
+ui-options-net-pvs-entry-tooltip =
+    This limits the rate at which the server will send newly visible
+    entities to the client. Lowering this can help reduce
+    stuttering, but can lead to pop-in.
 ui-options-net-pvs-leave = Частота удаления PVS
-ui-options-net-pvs-leave-tooltip = This limits the rate at which the client will remove
-                                       out-of-view entities. Lowering this can help reduce
-                                       stuttering when walking around, but could occasionally
-                                       lead to mispredicts and other issues.
+ui-options-net-pvs-leave-tooltip =
+    This limits the rate at which the client will remove
+    out-of-view entities. Lowering this can help reduce
+    stuttering when walking around, but could occasionally
+    lead to mispredicts and other issues.
 
 ## Toggle window console command
+
 cmd-options-desc = Открывает меню опций, опционально с конкретно выбранной вкладкой.
 cmd-options-help = Использование: options [tab]
 
@@ -362,52 +349,42 @@ cmd-options-help = Использование: options [tab]
 
 ui-options-accessability-header-visuals = Визуал
 ui-options-accessability-header-content = Контент
-
 ui-options-enable-color-name = Окрашивать имена в чате
 ui-options-colorblind-friendly = Режим для дальтоников
 ui-options-reduced-motion = Снижение интенсивности визуальных эффектов
 ui-options-screen-shake-intensity = Интенсивность дрожания экрана
-
 ui-options-chat-window-opacity = Полупрозрачность окна чата
 ui-options-speech-bubble-text-opacity = Непрозрачность текста речевого пузыря
 ui-options-speech-bubble-speaker-opacity = Непрозрачность имени речевого пузыря
 ui-options-speech-bubble-background-opacity = Непрозрачность фона речевого пузыря
-
 ui-options-censor-nudity = Цензура обнаженных персонажей
 
 ## Admin menu
 
 ui-options-admin-player-panel = Список персонажей в админ меню
-
 ui-options-admin-player-tab-symbol-setting = Символы антагонистов в колонке персонажа
 ui-options-admin-player-tab-symbol-setting-off = Без символа антагониста
 ui-options-admin-player-tab-symbol-setting-basic = Показать стандартный символ антагониста
 ui-options-admin-player-tab-symbol-setting-specific = Показать специфичный символ антагониста
-
 ui-options-admin-player-tab-role-setting = Настройки отображения ролей
 ui-options-admin-player-tab-role-setting-roletype = Показать тип роли
 ui-options-admin-player-tab-role-setting-subtype = Показать подвид
 ui-options-admin-player-tab-role-setting-roletypesubtype = Показать тип роли и подвид
 ui-options-admin-player-tab-role-setting-subtyperoletype = Показать подвид и тип роли
-
 ui-options-admin-player-tab-color-setting = Настройки цвета
 ui-options-admin-player-tab-color-setting-off = Я ненавижу цвета
 ui-options-admin-player-tab-color-setting-character = Раскрасить имена антагонистов
 ui-options-admin-player-tab-color-setting-roletype = Раскрасить все типы ролей
 ui-options-admin-player-tab-color-setting-both = Раскрасить оба варианта
-
 ui-options-admin-overlay-title = Админ оверлей
-
 ui-options-admin-overlay-antag-format = Стиль метки антагониста
 ui-options-admin-overlay-antag-format-binary = Показать статус антагониста
 ui-options-admin-overlay-antag-format-roletype = Показать тип роли
 ui-options-admin-overlay-antag-format-subtype = Показать подвид
-
 ui-options-admin-overlay-antag-symbol = Стиль символа антагониста
 ui-options-admin-overlay-antag-symbol-off = Без символа антагониста
 ui-options-admin-overlay-antag-symbol-basic = Показать стандартный символ антагониста
 ui-options-admin-overlay-antag-symbol-specific = Показать специфичный символ антагониста
-
 ui-options-admin-enable-overlay-playtime = Показать игровое время
 ui-options-admin-enable-overlay-starting-job = Показать стартовую должность
 ui-options-admin-overlay-merge-distance = Расстояние объединения стопок

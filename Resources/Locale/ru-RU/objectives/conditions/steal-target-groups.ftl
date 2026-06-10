@@ -13,7 +13,6 @@ steal-target-groups-jetpack-captain-filled = джетпак капитана
 steal-target-groups-weapon-antique-laser = антикварный лазерный пистолет
 steal-target-groups-nuke-disk = диск ядерной авторизации
 steal-target-groups-weapon-energy-magnum = энергетический магнум
-
 # Thief Collection
 steal-target-groups-figurines = фигурки (любые)
 steal-target-groups-heads-cloaks = плащи глав станции (любые)
@@ -26,7 +25,6 @@ steal-target-groups-mail = почта
 steal-target-groups-id-cards = ID карты (любые)
 steal-target-groups-officer-handguns = пистолет службы безопасности
 steal-target-groups-lamps = ЛАМПЫ
-
 # Thief single item
 steal-target-groups-forensic-scanner = криминалистический сканер
 steal-target-groups-flippo-engraved-lighter = гравированная зажигалка «Флиппо»
@@ -47,12 +45,10 @@ steal-target-groups-clothing-neck-clownmedal = медаль клоуна
 steal-target-groups-wanted-list-cartridge = картридж Список разыскиваемых
 steal-target-groups-belt-ce = пояс для инструментов старшего инженера
 steal-target-groups-captain-sword = сабля капитана
-
 # Thief structures
 steal-target-groups-teg = часть ТЭГа
 steal-target-groups-freezer-heater = охладитель или нагреватель
 steal-target-groups-altar-nanotrasen = алтарь нанотразен (любой)
-
 steal-target-groups-nuclear-bomb = ядерная боеголовка
 steal-target-groups-fax-machine-captain = факс дальнего действия капитана
 steal-target-groups-chem-dispenser = раздатчик химикатов
@@ -60,10 +56,8 @@ steal-target-groups-xeno-artifact = большой инопланетный ар
 steal-target-groups-booze-dispenser = раздатчик алкоголя
 steal-target-groups-plant-rd = комнатное растение мистагога
 steal-target-groups-toilet-golden-dirty-water = золотой туалет
-
 # Thief Animal
 steal-target-groups-animal-named-cat = кот главного врача
-
 steal-target-groups-animal-ian = Иан
 steal-target-groups-animal-mc-griff = МакГрифф
 steal-target-groups-animal-walter = Уолтер

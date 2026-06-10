@@ -9,5 +9,5 @@ admin-manager-admin-login-message = Админ зашел: { $name }
 admin-manager-admin-data-host-title = Хост
 admin-manager-stealthed-message = Теперь вы являетесь скрытым администратором.
 admin-manager-unstealthed-message = Вы больше не скрыты.
-admin-manager-self-enable-stealth = {$stealthAdminName} теперь скрыт.
-admin-manager-self-disable-stealth = {$exStealthAdminName} больше не скрыт.
+admin-manager-self-enable-stealth = { $stealthAdminName } теперь скрыт.
+admin-manager-self-disable-stealth = { $exStealthAdminName } больше не скрыт.

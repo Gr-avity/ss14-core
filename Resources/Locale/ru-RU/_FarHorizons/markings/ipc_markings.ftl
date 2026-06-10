@@ -8,7 +8,6 @@ marking-RobotAntennaAntlers = Рога
 marking-RobotAntennaDroneeyes = Глаза Дрона
 marking-RobotAntennaCrowned = Коронован
 marking-RobotAntennaTowers = Башни
-
 marking-ScreenStatic = Статичное
 marking-ScreenBlue = Синее
 marking-ScreenBreakout = Аркада «Брейкаут»
@@ -48,10 +47,8 @@ marking-ScreenSmile = Улыбчивый
 marking-ScreenFrown = Хмурый
 marking-ScreenRing = Кольцо
 marking-ScreenL = L
-
 marking-MarkingStandardHead = Standard Head
 marking-MarkingStandardChest = Standard Chassis
-
 marking-MarkingBishopHeadMonitor = 'Bishop' Screen Head
 marking-MarkingBishopHead = 'Bishop' Head
 marking-MarkingBishopHeadAlt = 'Bishop' Head 2
@@ -64,7 +61,6 @@ marking-MarkingBishopRArm = 'Bishop' Right Robotic Arm
 marking-MarkingBishopRHand = 'Bishop' Right Robotic Hand
 marking-MarkingBishopRLeg = 'Bishop' Right Robotic Leg
 marking-MarkingBishopRFoot = 'Bishop' Right Robotic Foot
-
 marking-MarkingHesphiastosHeadMonitor = 'Hesphiastos' Screen Head
 marking-MarkingHesphiastosHead = 'Hesphiastos' Head
 marking-MarkingHesphiastosChest = 'Hesphiastos' Robotic Chassis
@@ -76,7 +72,6 @@ marking-MarkingHesphiastosRArm = 'Hesphiastos' Right Robotic Arm
 marking-MarkingHesphiastosRHand = 'Hesphiastos' Right Robotic Hand
 marking-MarkingHesphiastosRLeg = 'Hesphiastos' Right Robotic Leg
 marking-MarkingHesphiastosRFoot = 'Hesphiastos' Right Robotic Foot
-
 marking-MarkingTakahashiHead = 'Takahashi' Screen Head
 marking-MarkingTakahashiHeadAlt = 'Takahashi' Head
 marking-MarkingTakahashiHeadAlt1 = 'Takahashi' Head 2
@@ -89,7 +84,6 @@ marking-MarkingTakahashiRArm = 'Takahashi' Right Robotic Arm
 marking-MarkingTakahashiRHand = 'Takahashi' Right Robotic Hand
 marking-MarkingTakahashiRLeg = 'Takahashi' Right Robotic Leg
 marking-MarkingTakahashiRFoot = 'Takahashi' Right Robotic Foot
-
 marking-MarkingXionHead = 'Xion' Screen Head
 marking-MarkingXionHeadAlt = 'Xion' Head
 marking-MarkingXionChest = 'Xion' Robotic Chassis
@@ -101,7 +95,6 @@ marking-MarkingXionRArm = 'Xion' Right Robotic Arm
 marking-MarkingXionRHand = 'Xion' Right Robotic Hand
 marking-MarkingXionRLeg = 'Xion' Right Robotic Leg
 marking-MarkingXionRFoot = 'Xion' Right Robotic Foot
-
 marking-MarkingShellguardHead = 'Shellguard' Screen Head
 marking-MarkingShellguardHeadAlt = 'Shellguard' Head
 marking-MarkingShellguardChest = 'Shellguard' Robotic Chassis
@@ -113,7 +106,6 @@ marking-MarkingShellguardRArm = 'Shellguard' Right Robotic Arm
 marking-MarkingShellguardRHand = 'Shellguard' Right Robotic Hand
 marking-MarkingShellguardRLeg = 'Shellguard' Right Robotic Leg
 marking-MarkingShellguardRFoot = 'Shellguard' Right Robotic Foot
-
 marking-MarkingMorpheusHead = 'Morpheus' Screen Head
 marking-MarkingMorpheusHeadAlt = 'Morpheus' Head
 marking-MarkingMorpheusChest = 'Morpheus' Robotic Chassis
@@ -125,7 +117,6 @@ marking-MarkingMorpheusRArm = 'Morpheus' Right Robotic Arm
 marking-MarkingMorpheusRHand = 'Morpheus' Right Robotic Hand
 marking-MarkingMorpheusRLeg = 'Morpheus' Right Robotic Leg
 marking-MarkingMorpheusRFoot = 'Morpheus' Right Robotic Foot
-
 marking-MarkingZenghuHead = 'Zenghu' Head
 marking-MarkingZenghuChest = 'Zenghu' Robotic Chassis
 marking-MarkingZenghuRHand = 'Zenghu' Right Robotic Hand

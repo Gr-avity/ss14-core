@@ -10,7 +10,6 @@ character-setup-gui-character-picker-button-confirm-delete-button = Точно??
 character-setup-gui-character-picker-button-enabled-button = Активен
 character-setup-gui-character-picker-button-disabled-button = Неактивен
 character-setup-gui-edit-job-priorities-button = Изменить приоритеты ролей
-
 character-setup-gui-save-panel-title = Несохраненные изменения персонажа
 character-setup-gui-save-panel-save = Сохранить
 character-setup-gui-save-panel-nosave = Не сохранять
