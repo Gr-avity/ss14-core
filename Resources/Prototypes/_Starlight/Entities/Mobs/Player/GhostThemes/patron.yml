@@ -1,7 +1,8 @@
+# ss14-art-edit start: Lunarix patron ghost themes
 - type: ghostTheme
   id: angel
-  name: angel
-  description: Watchful guardian.
+  name: ghost-theme-angel-name
+  description: ghost-theme-angel-desc
   spriteSpecifier:
     sprite:
       sprite: _Starlight/Mobs/Customization/GhostThemes/angel.rsi
@@ -17,12 +18,12 @@
     shader: HolyStarsTrail
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: PatronReq
+    requirement: MoonKnightGhostThemeReq
 
 - type: ghostTheme
   id: ClownTheme
-  name: Clown
-  description: Honk from beyond the veil.
+  name: ghost-theme-clown-name
+  description: ghost-theme-clown-desc
   spriteSpecifier:
     sprite:
       sprite: _Starlight/Mobs/Customization/GhostThemes/clown.rsi
@@ -30,12 +31,12 @@
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: PatronReq
+    requirement: MoonKnightGhostThemeReq
 
 - type: ghostTheme
   id: FaithlessTheme
-  name: Faithless
-  description: A wandering faithless spirit.
+  name: ghost-theme-faithless-name
+  description: ghost-theme-faithless-desc
   spriteSpecifier:
     sprite:
       sprite: _Starlight/Mobs/Customization/GhostThemes/faithless.rsi
@@ -43,12 +44,12 @@
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: PatronReq
+    requirement: MoonKnightGhostThemeReq
 
 - type: ghostTheme
   id: MushroomTheme
-  name: Mushroom
-  description: Soft spores, gentle haunting.
+  name: ghost-theme-mushroom-name
+  description: ghost-theme-mushroom-desc
   spriteSpecifier:
     sprite:
       sprite: _Starlight/Mobs/Customization/GhostThemes/mushroom.rsi
@@ -56,12 +57,12 @@
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: PatronReq
+    requirement: MoonKnightGhostThemeReq
 
 - type: ghostTheme
   id: WalkerTheme
-  name: Walker
-  description: Still shambling after death.
+  name: ghost-theme-walker-name
+  description: ghost-theme-walker-desc
   spriteSpecifier:
     sprite:
       sprite: _Starlight/Mobs/Customization/GhostThemes/walker.rsi
@@ -69,26 +70,7 @@
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: PatronReq
-
-- type: ghostTheme
-  id: ShadowDemon
-  name: Shadow Demon
-  description: Its just observing… right? Right?
-  spriteSpecifier:
-    sprite:
-      sprite: _Starlight/Mobs/Customization/GhostThemes/shadow_demon.rsi
-      state: shadow_demon
-    color: "#ffffff"
-  trail:
-    color: "#FFFFFF"
-    maxPoints: 64
-    lineWidth: 0.65
-    minDistance: 0.10
-    shader: NightSkyTrail
-  requirements:
-  - !type:DiscordRolesRequirement
-    requirement: PatronReq
+    requirement: MoonKnightGhostThemeReq
 
 - type: ghostTheme
   id: WizdenCarp
@@ -102,4 +84,5 @@
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: WizdenPatronReq
+    requirement: MoonKnightGhostThemeReq
+# ss14-art-edit end

@@ -1,7 +1,8 @@
+# ss14-art-edit start: Lunarix event ghost themes
 - type: ghostTheme
   id: King
-  name: King
-  description: The Majestic King.
+  name: ghost-theme-king-name
+  description: ghost-theme-king-desc
   spriteSpecifier:
     sprite:
       sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
@@ -9,12 +10,12 @@
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: GoldEventWinnerReq
+    requirement: LunarixOwnerReq
 
 - type: ghostTheme
   id: CarpGames
-  name: The Carpman
-  description: The Carpman, master of all carp games.
+  name: ghost-theme-rainbow-carp-name
+  description: ghost-theme-rainbow-carp-desc
   spriteSpecifier:
     sprite:
       sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
@@ -26,8 +27,8 @@
 
 - type: ghostTheme
   id: FirstWritingContest
-  name: Skeleton Mage
-  description: Do not cite the deep magics to me, witch. I was there when it was written.
+  name: ghost-theme-wisp-name
+  description: ghost-theme-wisp-desc
   spriteSpecifier:
     sprite:
       sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
@@ -36,3 +37,4 @@
   requirements:
   - !type:DiscordRolesRequirement
     requirement: FirstWritingContestReq
+# ss14-art-edit end

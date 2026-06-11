@@ -1,11 +1,14 @@
+# ss14-art-edit start: Lunarix roles migration
 - type: roleRequirementPrototype
   id: AllRolesReq
   roles:
-  - 1275161200115712071 # AlfaTester
-  - 1294130153651306516 # BetaTester
-  - 1294130614508716155 # Staff
-  - 1294131297437876254 # Retired
-  - 1294132218918207639 # Mentor
-  - 1303872867485880360 # AllRoles
-  discord: roles-req-discord-starlight
+  - 1506041704011268218 # Owner
+  - 1506043283137232946 # Curator
+  - 1506042673591615538 # Dev
+  - 1506042719103881276 # Mod
+  - 1506042602540109884 # Mapping
+  - 1506043056892149810 # Creative
+  - 1506040825111511040 # Staff
+  discord: roles-req-discord-lunarix
   rolesLoc: roles-req-all-roles
+# ss14-art-edit end

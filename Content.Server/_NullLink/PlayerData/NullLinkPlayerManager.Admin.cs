@@ -84,65 +84,10 @@ public sealed partial class NullLinkPlayerManager
         }
     }
 
-    private async void AdminCheck(Guid playerId, PlayerData playerData)
+    private void AdminCheck(Guid playerId, PlayerData playerData)
     {
-        if (_adminRanksSnapshot == null || _adminRankIds == null)
-            return;
-
-        try
-        {
-            var netUserId = new NetUserId(playerId);
-            int? matchedRankId = null;
-            string? matchedName = null;
-
-            foreach (var entry in _adminRanksSnapshot)
-            {
-                if (entry.Roles.All(playerData.Roles.Contains))
-                {
-                    if (_adminRankIds.TryGetValue(entry.Name, out var rankId))
-                    {
-                        matchedRankId = rankId;
-                        matchedName = entry.Name;
-                    }
-                    break;
-                }
-            }
-
-            if (matchedRankId != null)
-            {
-                var existing = await _dbManager.GetAdminDataForAsync(netUserId);
-                if (existing == null)
-                {
-                    var admin = new Admin
-                    {
-                        UserId = playerId,
-                        AdminRankId = matchedRankId,
-                        Title = matchedName,
-                        Flags = [],
-                    };
-                    await _dbManager.AddAdminAsync(admin);
-                }
-                else if (_adminRankIds.ContainsValue(existing.AdminRankId ?? -1) && existing.AdminRankId != matchedRankId)
-                {
-                    existing.AdminRankId = matchedRankId;
-                    existing.Title = matchedName;
-                    await _dbManager.UpdateAdminAsync(existing);
-                }
-                _taskManager.RunOnMainThread(() => _adminManager.ReloadAdmin(playerData.Session));
-            }
-            else
-            {
-                var existing = await _dbManager.GetAdminDataForAsync(netUserId);
-                if (existing != null && _adminRankIds.ContainsValue(existing.AdminRankId ?? -1))
-                {
-                    await _dbManager.RemoveAdminAsync(netUserId);
-                    _taskManager.RunOnMainThread(() => _adminManager.ReloadAdmin(playerData.Session));
-                }
-            }
-        }
-        catch (Exception ex)
-        {
-            _sawmill.Error($"AdminCheck failed for {playerId}: {ex}");
-        }
+        // Automatic admin rank assignment is disabled for Lunarix.
+        // Admins should be assigned manually via the database or admin panel.
+        // This prevents the Discord bot from overriding manually set permissions.
     }
 }

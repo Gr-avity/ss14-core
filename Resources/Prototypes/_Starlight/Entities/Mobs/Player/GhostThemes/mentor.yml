@@ -1,25 +1,28 @@
+# ss14-art-edit start: Lunarix mentor ghost themes
 - type: ghostTheme
-  id: Narsie
-  name: Narsie
-  description: Cute man.
+  id: Skeleton
+  name: ghost-theme-abomination-name
+  description: ghost-theme-abomination-desc
   spriteSpecifier:
     sprite:
-      sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
-      state: ghost-narsie
+      sprite: Mobs/Humanoids/skeleton.rsi
+      state: alive
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
     requirement: MentorRolesReq
 
 - type: ghostTheme
-  id: Daemon
-  name: Daemon
-  description: a cute daemon.
+  id: SpaceDragon
+  name: ghost-theme-space-dragon-name
+  description: ghost-theme-space-dragon-desc
+  colorizeable: true
   spriteSpecifier:
     sprite:
-      sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
-      state: ghost-daemon
+      sprite: Mobs/Aliens/Carps/dragon.rsi
+      state: alive
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
     requirement: MentorRolesReq
+# ss14-art-edit end

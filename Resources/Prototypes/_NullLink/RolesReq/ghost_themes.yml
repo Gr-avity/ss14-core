@@ -1,78 +1,69 @@
+# ss14-art-edit start: Lunarix roles migration and restoration
 - type: roleRequirementPrototype
-  id: TesterReq
+  id: MoonManGhostThemeReq
   roles:
-  - 1275161200115712071 # AlfaTester
-  - 1294130153651306516 # BetaTester
-  discord: roles-req-discord-starlight
-  rolesLoc: roles-req-tester-roles
+  - 1513970189627298013 # Moon Man
+  - 1513970252126621907 # Moon Knight
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-moon-man
 
 - type: roleRequirementPrototype
-  id: MentorRolesReq
+  id: MoonKnightGhostThemeReq
   roles:
-  - 1294132218918207639 # Mentor
-  discord: roles-req-discord-starlight
-  rolesLoc: roles-req-mentor-roles
-
-- type: roleRequirementPrototype
-  id: GoldEventWinnerReq
-  roles:
-  - 1294132398128107624 # GoldEventWinner
-  discord: roles-req-discord-starlight
-  rolesLoc: roles-req-gold-event-winner
+  - 1513970252126621907 # Moon Knight
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-moon-knight
 
 - type: roleRequirementPrototype
   id: StaffRolesReq
   roles:
-  - 1294130614508716155 # Staff
-  discord: roles-req-discord-starlight
+  - 1506040825111511040 # Staff
+  - 1506041704011268218 # Owner
+  discord: roles-req-discord-lunarix
   rolesLoc: roles-req-staff-roles
 
 - type: roleRequirementPrototype
   id: PatronReq
   roles:
-  - 1381351437665308894 # Patron
-  discord: roles-req-discord-starlight
-  rolesLoc: roles-req-patron-roles
+  - 1513970252126621907 # Moon Knight
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-moon-knight
 
-- type: roleRequirementPrototype
-  id: WizdenPatronReq
-  roles:
-  - 714117719623991306 # Fancy Patron
-  - 714115816819392512 # Patron
-  discord: roles-req-discord-wizden
-  rolesLoc: roles-req-patron-roles
-
+# Restoring legacy prototypes mapped to Staff/Owner to prevent crashes
 - type: roleRequirementPrototype
   id: CarpGamesReq
   roles:
-  - 1447273163204464862 # Carp Game Winner
-  discord: roles-req-discord-starlight
-  rolesLoc: roles-req-carpgames-roles
-
-- type: roleRequirementPrototype
-  id: TicketsAdministratorReq
-  roles:
-  - 1475631679409492108 # Tickets administrator
-  discord: roles-req-discord-starlight
-  rolesLoc: roles-req-ticketsadministrator-roles
+  - 1506041704011268218 # Owner
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-owner
 
 - type: roleRequirementPrototype
   id: FirstWritingContestReq
   roles:
-  - 1494477781772275732 # First Writing Contest Winner
-  discord: roles-req-discord-starlight
-  rolesLoc: roles-req-first-writing-roles
+  - 1506041704011268218 # Owner
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-owner
 
 - type: roleRequirementPrototype
-  id: SeniorDeveloperReq
+  id: TesterReq
   roles:
-  - 1473631364048879759 # Senior Developer
-  discord: roles-req-discord-starlight
-  rolesLoc: roles-req-senior-developer
+  - 1506041704011268218 # Owner
+  - 1506040825111511040 # Staff
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-all-roles
 
 - type: roleRequirementPrototype
-  id: DeveloperReq
+  id: MentorRolesReq
   roles:
-  - 1272899036571238521 # Developer
-  discord: roles-req-discord-starlight
-  rolesLoc: roles-req-developer
+  - 1506041704011268218 # Owner
+  - 1506043283137232946 # Curator
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-curator
+
+- type: roleRequirementPrototype
+  id: WizdenPatronReq
+  roles:
+  - 1513970252126621907 # Moon Knight
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-moon-knight
+# ss14-art-edit end
