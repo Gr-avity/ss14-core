@@ -1,0 +1,5 @@
+- type: hudTheme
+  id: SS14ErisTheme
+  name: ui-options-hud-theme-eris
+  path: /Textures/_Art/Interface/Eris/
+  order: 7
