@@ -13,5 +13,5 @@
 - type: hudTheme
   id: SS14OperativeTheme # Taken from WWDP
   name: ui-options-hud-theme-operative
-  path: /Textures/_White/Interface/Operative/
+  path: /Textures/_Art/Interface/Operative/
   order: 9
