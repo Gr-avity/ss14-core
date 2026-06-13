@@ -4,7 +4,7 @@
 
 **Форк STARLIGHT с уникальным контентом и геймплеем**
 
-[![Discord](https://img.shields.io/discord/1444702050335195216?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=%237289da)](https://discord.gg/uREMRzDRc3)
+[![Discord](https://img.shields.io/discord/1039584848689496065?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=%237289da)](https://discord.gg/PDDpByYXgM)
 [![Steam](https://img.shields.io/badge/Steam-SS14%20-003459?style=for-the-badge)](https://store.steampowered.com/app/1255460/Space_Station_14/)
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge)](https://dotnet.microsoft.com/)
 

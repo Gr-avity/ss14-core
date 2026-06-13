@@ -58,7 +58,7 @@ using Robust.Shared.Containers;
 using Robust.Shared.IoC;
 using Robust.Shared.Log;
 using Content.Shared.Station.Components;
-using Content.Server.Shuttles.Components;
+using Content.Shared.Shuttles.Components; // ss14-art-edit
 using System.Linq;
 #endregion Starlight
 

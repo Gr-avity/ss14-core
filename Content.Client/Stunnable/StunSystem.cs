@@ -1,4 +1,5 @@
 using System.Numerics;
+using Content.Shared._White;
 using Content.Shared.CombatMode;
 using Content.Shared.Interaction;
 using Content.Shared.Rotation;
@@ -35,7 +36,7 @@ public sealed class StunSystem : SharedStunSystem
 
         SubscribeLocalEvent<StunVisualsComponent, ComponentInit>(OnComponentInit);
         SubscribeLocalEvent<StunVisualsComponent, AppearanceChangeEvent>(OnAppearanceChanged);
-        SubscribeLocalEvent<KnockedDownComponent, MoveEvent>(OnMovementInput);//Starlight
+        SubscribeLocalEvent<KnockedDownComponent, MoveEventProxy>(OnMovementInput);//Starlight
 
         CommandBinds.Builder
             .BindAfter(EngineKeyFunctions.UseSecondary, new PointerInputCmdHandler(OnUseSecondary, true, true), typeof(SharedInteractionSystem))
@@ -187,7 +188,7 @@ public sealed class StunSystem : SharedStunSystem
     }
     #region Starlight
 
-    private void OnMovementInput(EntityUid uid, KnockedDownComponent component, MoveEvent args)
+    private void OnMovementInput(EntityUid uid, KnockedDownComponent component, MoveEventProxy args)
     {
         if (!_timing.IsFirstTimePredicted
             || _animation.HasRunningAnimation(uid, "rotate")

@@ -264,6 +264,13 @@
   - type: PressureProtection
     highPressureMultiplier: 0.72
     lowPressureMultiplier: 1000
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - WreckWaypointer
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
   - type: Tag
     tags:
     - CorgiWearable
@@ -345,6 +352,13 @@
     highPressureMultiplier: 0.525
     lowPressureMultiplier: 1000
     # Starlight: PointLight energy/radius moved to ClothingHeadLightParams(..) prototypes
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - WreckWaypointer
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
   - type: Tag
     tags:
     - CorgiWearable
@@ -405,6 +419,13 @@
   - type: PressureProtection
     highPressureMultiplier: 0.72
     lowPressureMultiplier: 1000
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - WreckWaypointer
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
   - type: Tag
     tags:
     - CorgiWearable
@@ -458,6 +479,12 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.9
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
   - type: Tag
     tags:
     - CorgiWearable
@@ -522,6 +549,12 @@
     tags:
     - CorgiWearable #Starlight
     - WhitelistChameleon
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #Captain's Hardsuit
 - type: entity
@@ -543,6 +576,12 @@
     tags:
     - CorgiWearable
     - WhitelistChameleon
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #Chief Engineer's Hardsuit
 - type: entity
@@ -702,6 +741,12 @@
     tags:
     - CorgiWearable #Starlight
     - WhitelistChameleon
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #Luxury Mining Hardsuit
 - type: entity
@@ -724,6 +769,13 @@
     tags:
     - CorgiWearable
     - WhitelistChameleon
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - WreckWaypointer
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #ANTAG HARDSUITS
 #Blood-red Hardsuit
@@ -1007,6 +1059,12 @@
     tags:
     - WhitelistChameleon
     - CorgiWearable
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #ERT Chaplain Hardsuit
 - type: entity
@@ -1026,6 +1084,12 @@
     tags:
     - WhitelistChameleon
     - CorgiWearable
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #ERT Engineer Hardsuit
 - type: entity
@@ -1054,6 +1118,12 @@
     tags:
     - WhitelistChameleon
     - CorgiWearable
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #ERT Medical Hardsuit
 - type: entity
@@ -1073,6 +1143,12 @@
     tags:
     - WhitelistChameleon
     - CorgiWearable
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #ERT Security Hardsuit
 - type: entity
@@ -1101,6 +1177,12 @@
     tags:
     - WhitelistChameleon
     - CorgiWearable
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #ERT Janitor Hardsuit
 - type: entity
@@ -1120,6 +1202,12 @@
     tags:
     - WhitelistChameleon
     - CorgiWearable
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #CBURN Hardsuit
 - type: entity
@@ -1204,6 +1292,12 @@
     tags:
     - WhitelistChameleon
     - CorgiWearable
+  # Begin DeltaV Additions - Add Waypointers
+  - type: ClothingShowWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - TradeStationWaypointer
+  # End DeltaV Additions - Add Waypointers
 
 #MISC. HARDSUITS
 #Clown Hardsuit
