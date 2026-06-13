@@ -1,3 +1,5 @@
+ent-BaseDionaOrgan = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
 ent-OrganDionaBrain = мозг
     .desc = Центральный узел псевдоневрологической активности дионы, ее корнеподобные усики ищут ее бывшее тело.
 ent-OrganDionaEyes = глаза

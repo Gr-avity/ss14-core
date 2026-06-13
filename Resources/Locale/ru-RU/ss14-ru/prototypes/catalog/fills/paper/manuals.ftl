@@ -1,4 +1,4 @@
-ent-PaperWrittenAMEScribbles = записи по ДАМ
+ent-PaperWrittenAMEScribbles = { ent-Paper }
     .desc = { ent-Paper.desc }
     .suffix = Записи по ДАМ
 ent-HoloparasiteInfo = Условия пользования голопаразитом

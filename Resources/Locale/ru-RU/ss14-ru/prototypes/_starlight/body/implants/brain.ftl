@@ -1,3 +1,5 @@
+ent-BaseEntityBrainImplant = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
 ent-BrainImplantTranslator = Имплант переводчика
     .desc = Переводит с вашего языка на галактический общий прямо в вашем мозгу!
 ent-BrainImplantCommsExpedition = Имплант радио экспедиции

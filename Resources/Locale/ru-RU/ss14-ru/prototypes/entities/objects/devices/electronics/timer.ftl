@@ -1,6 +1,6 @@
 ent-SignalTimerElectronics = микросхема сигнального таймера
     .desc = Электронная плата, используемая в таймерных схемах. Похоже, вы можете использовать отвёртку, чтобы изменить тип платы.
-    .suffix = { ent-SignalTimerElectronics.suffix }
+    .suffix = { ent-BaseElectronics.suffix }
 ent-ScreenTimerElectronics = микросхема экранного таймера
     .desc = { ent-SignalTimerElectronics.desc }
     .suffix = { ent-SignalTimerElectronics.suffix }

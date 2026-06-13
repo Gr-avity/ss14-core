@@ -1,3 +1,5 @@
+ent-BaseEntityEyeImplant = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
 ent-EyeImplantWelding = Имплант сварки
     .desc = Защищает глаза от вспышек сварки.
 ent-EyeImplantDiagnostic = Диагностический имплант

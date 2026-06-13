@@ -1,3 +1,5 @@
+ent-BaseArachnidOrgan = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
 ent-OrganArachnidStomach = желудок
     .desc = Фу. Это тяжело переварить.
 ent-OrganArachnidLungs = лёгкие

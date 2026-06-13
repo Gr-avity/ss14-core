@@ -20,5 +20,5 @@ ent-SurgicalKitMedical = хирургический набор
     .desc = Компактный набор хирургических инструментов.
     .suffix = Медицинский
 ent-SurgicalKitMedicalFilled = хирургический набор
-    .suffix = Медицинский, Заполненный
     .desc = { ent-SurgicalKitMedical.desc }
+    .suffix = Медицинский, Заполненный

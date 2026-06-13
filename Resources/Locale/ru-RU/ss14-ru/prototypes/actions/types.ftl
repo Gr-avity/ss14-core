@@ -1,5 +1,5 @@
-ent-BaseAction = базовое действие
-    .desc = Базовый класс для действий.
+ent-BaseAction = { "" }
+    .desc = { "" }
 ent-BaseDoAfterAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 ent-BaseMentalAction = { ent-BaseAction }

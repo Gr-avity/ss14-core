@@ -1,3 +1,11 @@
+ent-LeftLegWithFootHuman = левая человеческая нога
+    .desc = { ent-PartHuman.desc }
+ent-RightLegWithFootHuman = правая человеческая нога
+    .desc = { ent-PartHuman.desc }
+ent-LeftArmWithHandHuman = левая человеческая рука
+    .desc = { ent-PartHuman.desc }
+ent-RightArmWithHandHuman = правая человеческая рука
+    .desc = { ent-PartHuman.desc }
 ent-PartVending = часть тела торгового автомата
     .desc = { ent-BaseItem.desc }
 ent-TorsoVending = туловище торгового автомата

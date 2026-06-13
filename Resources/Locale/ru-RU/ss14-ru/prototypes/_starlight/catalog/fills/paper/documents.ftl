@@ -1,4 +1,4 @@
-ent-PrintedDocument = { ent-Paper }
+ent-PrintedDocument = { ent-PaperNTCC }
     .desc = Бюрократическая единица. Документ, напечатанный на принтере.
 ent-PrintedDocumentReportMorgue = Отчёт морга DNR
     .desc = { ent-PrintedDocument.desc }

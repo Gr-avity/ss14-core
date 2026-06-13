@@ -1,6 +1,6 @@
-ent-WeaponEnergyTurretSiliconControlPanel = панель управления турелью
+ent-WeaponEnergyTurretSiliconControlPanel = { ent-WeaponEnergyTurretStationControlPanelBase }
     .desc = { ent-WeaponEnergyTurretStationControlPanelBase.desc }
     .suffix = Кремниевый
-ent-WeaponEnergyTurretSolgovControlPanel = панель управления турелью
+ent-WeaponEnergyTurretSolgovControlPanel = { ent-WeaponEnergyTurretStationControlPanelBase }
     .desc = { ent-WeaponEnergyTurretStationControlPanelBase.desc }
     .suffix = Solgov

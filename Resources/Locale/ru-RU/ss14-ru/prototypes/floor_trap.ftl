@@ -1,7 +1,7 @@
-ent-CollideFloorTrap = ловушка
-    .desc = Обычная ловушка, которая может вас ударить.
+ent-CollideFloorTrap = { "" }
+    .desc = { "" }
 ent-CollideFloorTrapSpawn = ловушка: место появления
-    .desc = Место, где будет установлена ловушка.
+    .desc = { ent-CollideFloorTrap.desc }
 ent-FloorTrapExplosion = взрывная ловушка
     .desc = { ent-CollideFloorTrap.desc }
 ent-FloorTrapEMP = ЭМИ-ловушка

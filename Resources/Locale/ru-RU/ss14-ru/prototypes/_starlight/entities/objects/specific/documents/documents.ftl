@@ -1,4 +1,4 @@
-ent-ImportantDocumentGeneric = важный документ
+ent-ImportantDocumentGeneric = { ent-BaseItem }
     .desc = Выглядит как строго засекреченный!
 ent-ClassifiedCorporateDocumentAbductors = секретные корпоративные документы
     .desc = Комплект строго засекреченных документов, содержащих корпоративные тайны.

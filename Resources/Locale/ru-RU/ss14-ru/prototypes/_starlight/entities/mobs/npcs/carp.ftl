@@ -1,5 +1,6 @@
 ent-BaseMobKoi = космический кои
     .desc = Результат сотен лет селективного разведения и генной инженерии, дружелюбный и красочный вариант обычного космического карпа.
+    .suffix = { ent-BaseMobCarp.suffix }
 ent-MobRedBlackKoi = { ent-BaseMobKoi }
     .desc = { ent-BaseMobKoi.desc }
     .suffix = Красно-чёрный

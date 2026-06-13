@@ -1,13 +1,13 @@
-ent-GasVentPumpFreezerBase = морозильный газовый насос
-    .desc = Морозильный газовый насос для охлаждения атмосферы.
+ent-GasVentPumpFreezerBase = { "" }
+    .desc = { "" }
 ent-GasVentPumpFreezerAlt3 = { ent-GasVentPumpAlt3 }
     .desc = { ent-GasVentPumpAlt3.desc }
     .suffix = { ent-AirSensorFreezerBase.suffix }
 ent-GasVentPumpFreezerAlt4 = { ent-GasVentPumpAlt4 }
     .desc = { ent-GasVentPumpAlt4.desc }
     .suffix = { ent-AirSensorFreezerBase.suffix }
-ent-GasVentScrubberFreezerBase = морозильный газовый скруббер
-    .desc = Морозильный газовый скруббер для очистки и охлаждения атмосферы.
+ent-GasVentScrubberFreezerBase = { "" }
+    .desc = { "" }
 ent-GasVentScrubberFreezerAlt3 = { ent-GasVentScrubberAlt3 }
     .desc = { ent-GasVentScrubberAlt3.desc }
     .suffix = { ent-AirSensorFreezerBase.suffix }

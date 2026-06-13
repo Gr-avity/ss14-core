@@ -1,6 +1,6 @@
 ent-BaseToilet = туалет
     .desc = HT-451, устройство для утилизации отходов на основе вращающего момента для мелкой материи. Этот кажется удивительно чистым.
-ent-ToiletEmpty = туалет
+ent-ToiletEmpty = { ent-BaseToilet }
     .desc = { ent-BaseToilet.desc }
     .suffix = Пустой
 ent-ToiletDirtyWater = { ent-ToiletEmpty }

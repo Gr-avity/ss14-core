@@ -2,7 +2,7 @@
 steal-target-groups-supermatter-sliver = осколок суперматерии
 steal-target-groups-hypospray = гипоспрей
 steal-target-groups-handheld-crew-monitor = портативный монитор экипажа
-steal-target-groups-clothing-outer-hardsuit-rd = скафандр мистагога
+steal-target-groups-clothing-outer-hardsuit-rd = скафандр научного руководителя
 steal-target-groups-hand-teleporter = ручной телепорт
 steal-target-groups-clothing-shoes-boots-mag-adv = продвинутые магнитные сапоги
 steal-target-groups-box-folder-qm-clipboard = цифровой планшет заявок
@@ -58,7 +58,7 @@ steal-target-groups-fax-machine-captain = факс дальнего действ
 steal-target-groups-chem-dispenser = раздатчик химикатов
 steal-target-groups-xeno-artifact = большой инопланетный артефакт
 steal-target-groups-booze-dispenser = раздатчик алкоголя
-steal-target-groups-plant-rd = комнатное растение мистагога
+steal-target-groups-plant-rd = комнатное растение научного руководителя
 steal-target-groups-toilet-golden-dirty-water = золотой туалет
 
 # Thief Animal

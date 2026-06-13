@@ -1,13 +1,13 @@
-ent-GasVentPumpVoxBase = вокс-насос
-    .desc = Насос, специально настроенный для атмосферы воксов.
+ent-GasVentPumpVoxBase = { "" }
+    .desc = { "" }
 ent-GasVentPumpVoxAlt3 = { ent-GasVentPumpAlt3 }
     .desc = { ent-GasVentPumpAlt3.desc }
     .suffix = { ent-AirSensorVoxBase.suffix }
 ent-GasVentPumpVoxAlt4 = { ent-GasVentPumpAlt4 }
     .desc = { ent-GasVentPumpAlt4.desc }
     .suffix = { ent-AirSensorVoxBase.suffix }
-ent-GasVentScrubberVoxBase = вокс-скруббер
-    .desc = Скруббер, специально настроенный для атмосферы воксов.
+ent-GasVentScrubberVoxBase = { "" }
+    .desc = { "" }
 ent-GasVentScrubberVoxAlt3 = { ent-GasVentScrubberAlt3 }
     .desc = { ent-GasVentScrubberAlt3.desc }
     .suffix = { ent-AirSensorVoxBase.suffix }

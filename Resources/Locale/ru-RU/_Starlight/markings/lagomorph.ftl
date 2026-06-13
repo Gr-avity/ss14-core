@@ -1,4 +1,4 @@
-# уши
+# ears
 marking-LagomorphEarsTall = Высокие
 marking-LagomorphEarsTall-tall_ears_outer = Внешняя часть
 marking-LagomorphEarsTall-tall_ears_inner = Внутренняя часть
@@ -85,7 +85,7 @@ marking-LagomorphEarsAirplane = Самолет
 marking-LagomorphEarsAirplane-airplane = Внешняя часть
 marking-LagomorphEarsAirplane-inner_airplane = Внутренняя часть
 
-# хвосты
+# tails
 marking-LagomorphTailCotton = Хлопковый хвостик
 marking-LagomorphTailCotton-cotton_tail = Верх
 marking-LagomorphTailCotton-cotton_tail_twotone = Низ
@@ -96,14 +96,14 @@ marking-LagomorphTailLong = Длинный хвост
 marking-LagomorphTailLong-long_tail = Верх
 marking-LagomorphTailLong-long_tail_twotone = Низ
 
-# сторона головы
+# head side
 marking-LagomorphDewlap = Подгрудок
 
-# голова
+# head
 marking-LagomorphEyeScarRight = Шрам на правом глазу
 marking-LagomorphEyeScarLeft = Шрам на левом глазу
 
-# грудь
+# chest
 marking-LagomorphBellyColour = Живот
 marking-LagomorphTorsoSpots = Пятна на груди
 marking-LagomorphChestScarRight = Шрам на груди справа
@@ -111,14 +111,14 @@ marking-LagomorphChestScarLeft = Шрам на груди слева
 marking-LagomorphBackScarRight = Шрам на спине справа
 marking-LagomorphBackScarLeft = Шрам на спине слева
 
-# ноги
+# legs
 marking-LagomorphClaws = Когти
 marking-LagomorphLegSockL = Легинсы
 marking-LagomorphFootSockR = Носки
 marking-LagomorphLegSpotsR = Пятна на правой ноге
 marking-LagomorphLegSpotsL = Пятна на левой ноге
 
-# руки
+# arms
 marking-LagomorphHandMittsR = Варежка на правой кисти
 marking-LagomorphHandMittsL = Варежка на левой кисти
 marking-LagomorphArmMittsR = Варежка на правой руке
@@ -128,7 +128,7 @@ marking-LagomorphArmSpotsL = Пятна на левой руке
 marking-LagomorphBraceletR = Правый браслет
 marking-LagomorphBraceletL = Левый браслет
 
-# нижнее белье
+# underwear
 marking-LagomorphBinderTop = Биндер
 marking-LagomorphBinderTop-binder_top = Биндер
 marking-LagomorphBoxers = Боксеры
@@ -140,7 +140,7 @@ marking-LagomorphPanties-panty_bottoms = Трусики
 marking-LagomorphTankTop = Майка
 marking-LagomorphTankTop-tank_top = Майка
 
-# прически
+# hair
 marking-LagomorphHairLongBangs = Длинная челка 2
 marking-LagomorphHairHimecutWithTails = Химэ с хвостиками
 marking-LagomorphHairLowpigtails = Низкие хвостики

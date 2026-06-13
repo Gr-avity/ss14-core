@@ -22,15 +22,15 @@ replay-menu-none = Записи повторов не найдены.
 replay-info-title = Информация о повторе
 replay-info-none-selected = Повтор не выбран
 replay-info-invalid = [color=red]Выбран повреждённый или неверный файл повтора[/color]
-replay-info-info = {"["}color=gray]Файл:[/color]  {$name} ({$file})
-                   {"["}color=gray]Время:[/color]   {$time}
-                   {"["}color=gray]ID раунда:[/color]   {$roundId}
-                   {"["}color=gray]Длительность:[/color]   {$duration}
-                   {"["}color=gray]ForkId:[/color]   {$forkId}
-                   {"["}color=gray]Версия билда:[/color]   {$version}
-                   {"["}color=gray]Движок:[/color]   {$engVersion}
-                   {"["}color=gray]Хэш типов:[/color]   {$hash}
-                   {"["}color=gray]Хэш комп.:[/color]   {$compHash}
+replay-info-info = { "[" }color=gray]Файл:[/color]  { $name } ({ $file })
+                   { "[" }color=gray]Время:[/color]   { $time }
+                   { "[" }color=gray]ID раунда:[/color]   { $roundId }
+                   { "[" }color=gray]Длительность:[/color]   { $duration }
+                   { "[" }color=gray]ForkId:[/color]   { $forkId }
+                   { "[" }color=gray]Версия билда:[/color]   { $version }
+                   { "[" }color=gray]Движок:[/color]   { $engVersion }
+                   { "[" }color=gray]Хэш типов:[/color]   { $hash }
+                   { "[" }color=gray]Хэш комп.:[/color]   { $compHash }
 
 # Replay selection window
 replay-menu-select-title = Выбрать запись повтора

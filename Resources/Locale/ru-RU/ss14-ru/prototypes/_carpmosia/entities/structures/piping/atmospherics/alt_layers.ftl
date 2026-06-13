@@ -1,7 +1,7 @@
-ent-GasPipeLayerAlt3 = Альтернативный слой газовой трубы 3
-    .desc = Альтернативный слой газовой трубы, используемый для сложных атмосферных систем.
-ent-GasPipeLayerAlt4 = Альтернативный слой газовой трубы 4
-    .desc = Альтернативный слой газовой трубы, используемый для сложных атмосферных систем.
+ent-GasPipeLayerAlt3 = { "" }
+    .desc = { "" }
+ent-GasPipeLayerAlt4 = { "" }
+    .desc = { "" }
 ent-GasPipeStraightAlt3 = { ent-GasPipeStraight }
     .desc = { ent-GasPipeStraight.desc }
     .suffix = { ent-GasPipeStraight.suffix }

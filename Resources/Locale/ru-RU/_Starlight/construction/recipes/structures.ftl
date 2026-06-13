@@ -2,7 +2,7 @@ construction-bar-window = Окно бара
 construction-bar-window-diagonal = Диагональное окно бара
 construction-bar-window-diagonal-alt = Альтернативное диагональное окно бара
 
-## Ограждения
+## Railings
 construction-recipe-railing-end = край ограждения
 construction-recipe-railing-end-alt = край ограждения (альт.)
 

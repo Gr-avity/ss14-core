@@ -15,14 +15,14 @@ game-ticker-get-info-text = Привет и добро пожаловать на
                             Текущий игровой режим: [color=white]{ $gmTitle }[/color]
                             >[color=yellow]{ $desc }[/color]
 game-ticker-get-info-preround-text = Привет и добро пожаловать на [color=white]Space Station 14![/color]
-                            Текущий раунд: [color=white]#{ $roundId }[/color]
-                            Текущее количество игроков: [color=white]{ $playerCount }[/color] ([color=white]{ $readyCount }[/color] { $readyCount ->
-                                [one] готов
-                                *[other] готовы
-                            } к игре)
-                            Текущая карта: [color=white]{ $mapName }[/color]
-                            Текущий игровой режим: [color=white]{ $gmTitle }[/color]
-                            >[color=yellow]{ $desc }[/color]
+    Текущий раунд: [color=white]#{ $roundId }[/color]
+    Текущее количество игроков: [color=white]{ $playerCount }[/color] ([color=white]{ $readyCount }[/color] { $readyCount ->
+    [one] готов
+    *[other] готовы
+} к игре)
+    Текущая карта: [color=white]{ $mapName }[/color]
+    Текущий игровой режим: [color=white]{ $gmTitle }[/color]
+    >[color=yellow]{ $desc }[/color]
 game-ticker-no-map-selected = [color=red]Карта ещё не выбрана![/color]
 game-ticker-player-no-jobs-available-when-joining = При попытке присоединиться к игре ни одной роли не было доступно.
 game-ticker-player-no-character-for-job-available-when-joining = При попытке присоединиться к игре для выбранной должности { $job } не оказалось доступных персонажей.
