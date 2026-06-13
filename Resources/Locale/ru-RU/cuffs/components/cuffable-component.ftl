@@ -10,9 +10,9 @@ cuffable-component-start-uncuffing-by-other-message = { $otherName } начин�
 cuffable-component-remove-cuffs-success-message = Вы успешно снимаете наручники.
 cuffable-component-remove-cuffs-push-success-message = Вы успешно снимаете наручники и толкаете { $otherName } на пол.
 cuffable-component-remove-cuffs-by-other-success-message = { $otherName } снимает с вас наручники.
-cuffable-component-remove-cuffs-to-other-partial-success-message = You successfully remove the restraints. {$cuffedHandCount} of {$otherName}'s hands remain restrained.
-cuffable-component-remove-cuffs-by-other-partial-success-message = {$otherName} removes your restraints. {$cuffedHandCount} of your hands remain restrained.
-cuffable-component-remove-cuffs-partial-success-message = You successfully remove the restraints. {$cuffedHandCount} of your hands remain restrained.
+cuffable-component-remove-cuffs-to-other-partial-success-message = You successfully remove the restraints. { $cuffedHandCount } of { $otherName }'s hands remain restrained.
+cuffable-component-remove-cuffs-by-other-partial-success-message = { $otherName } removes your restraints. { $cuffedHandCount } of your hands remain restrained.
+cuffable-component-remove-cuffs-partial-success-message = You successfully remove the restraints. { $cuffedHandCount } of your hands remain restrained.
 cuffable-component-remove-cuffs-fail-message = Вам не удалось снять наручники.
 
 # UnrestrainVerb

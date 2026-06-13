@@ -4,14 +4,14 @@ server-time-ban =
     Temporary ban on { $mins } { $mins ->
         [one] minute
         [few] minutes
-       *[other] minutes
+        *[other] minutes
     }.
 server-perma-ban = Перманентный бан
 server-role-ban =
     Temporary job-ban on { $mins } { $mins ->
         [one] minute
         [few] minutes
-       *[other] minutes
+        *[other] minutes
     }.
 server-perma-role-ban = Перманентный бан на роль
 server-time-ban-string =

@@ -1,8 +1,8 @@
 ent-SignalTimer = сигнальный таймер
-    .desc = It's a timer for sending timed signals to things.
+    .desc = Таймер для отправки сигналов по времени на устройства.
 ent-ScreenTimer = экранный таймер
-    .desc = It's a timer for sending timed signals to things, with a built-in screen.
+    .desc = Таймер для отправки сигналов по времени на устройства со встроенным экраном.
 ent-BrigTimer = таймер брига
-    .desc = It's a timer for brig cells.
+    .desc = Таймер для тюремных камер брига.
 ent-TimerFrame = корпус таймера
-    .desc = A construction frame for a timer.
+    .desc = Сборочный корпус для таймера.

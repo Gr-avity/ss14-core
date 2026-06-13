@@ -1,2 +1,2 @@
-﻿whitelist-roles = You need to have any of the whitelist roles in Discord.
+whitelist-roles = Вам необходимо иметь любую из ролей белого списка в Discord.
 link-discord = Привязать Discord

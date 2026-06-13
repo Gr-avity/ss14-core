@@ -1,8 +1,8 @@
 ent-AirAlarm = воздушная сигнализация
-    .desc = An air alarm. Alarms... air?
+    .desc = Воздушная сигнализация. Сигнализирует о... воздухе?
 ent-AirAlarmAssembly = корпус воздушной сигнализации
-    .desc = An air alarm. Doesn't look like it'll be alarming air any time soon.
+    .desc = Воздушная сигнализация. Не похоже, что она начнет сигнализировать о воздухе в ближайшее время.
 ent-AirAlarmXeno = { ent-AirAlarm }
-    .desc = An alien air alarm. Hopefully they didn't breathe poison.
+    .desc = Инопланетная воздушная сигнализация. Надеюсь, они не дышали ядом.
 ent-AirAlarmAssemblyXeno = { ent-AirAlarmAssembly }
-    .desc = An alien air alarm. Why are the wires pulsating?...
+    .desc = Инопланетная воздушная сигнализация. Почему провода пульсируют?...

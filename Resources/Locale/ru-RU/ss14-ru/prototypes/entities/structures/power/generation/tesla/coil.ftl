@@ -1,4 +1,4 @@
 ent-TeslaCoil = катушка Теслы
-    .desc = A machine that converts lightning strikes into an electric current.
+    .desc = Машина, которая преобразует удары молнии в электрический ток.
 ent-TeslaGroundingRod = заземляющий стержень
-    .desc = A machine that keeps lightning from striking too far away.
+    .desc = Машина, которая не дает молнии ударить слишком далеко.

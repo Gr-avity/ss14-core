@@ -1,5 +1,5 @@
-ent-BodyBagMedTak = secure body bag
+ent-BodyBagMedTak = безопасный мешок для тела
     .desc = { ent-BodyBagLockable.desc }
 ent-BodyBagMedTakFolded = { ent-BodyBagMedTak }
-    .suffix = folded
     .desc = { ent-BodyBagMedTak.desc }
+    .suffix = сложенный

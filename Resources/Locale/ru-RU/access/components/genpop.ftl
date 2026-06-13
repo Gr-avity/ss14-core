@@ -2,13 +2,13 @@ genpop-prisoner-id-expire = Вы отбыли наказание! Теперь �
 genpop-prisoner-id-popup-not-served = Наказание ещё не отбыто!
 
 genpop-prisoner-id-crime-default = [Редактировать]
-genpop-prisoner-id-examine-wait = You have served {$minutes} {$minutes ->
+genpop-prisoner-id-examine-wait = You have served { $minutes } { $minutes ->
     [1] minute
     *[other] minutes
-} {$seconds} {$seconds ->
+} { $seconds } { $seconds ->
     [1] second
     *[other] seconds
-} of your {$sentence} minute sentence for {$crime}.
+} of your { $sentence } minute sentence for { $crime }.
 genpop-prisoner-id-examine-wait-perm = Вы отбываете бессрочное наказание за "{ $crime }".
 genpop-prisoner-id-examine-served = Вы отбыли своё наказание за "{ $crime }".
 

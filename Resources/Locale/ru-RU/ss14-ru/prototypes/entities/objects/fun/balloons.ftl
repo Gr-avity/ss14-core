@@ -1,8 +1,8 @@
 ent-BaseBalloon = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 ent-BalloonSyn = воздушный шарик синдиката
-    .desc = Handed out to the bravest souls who survived the "atomic twister" ride at Syndieland.
+    .desc = Вручается самым смелым душам, пережившим поездку на «атомном торнадо» в Синдиленде.
 ent-BalloonNT = шарик НаноТрейзен
-    .desc = Specially designed to inflict maximum psychological damage to Syndicate operatives.
+    .desc = Специально разработан, чтобы нанести максимальный психологический ущерб оперативникам Синдиката.
 ent-BalloonCorgi = воздушный шарик корги
-    .desc = Just like owning a real dog - but a lot floatier.
+    .desc = Как владение настоящей собакой — только гораздо воздушнее.

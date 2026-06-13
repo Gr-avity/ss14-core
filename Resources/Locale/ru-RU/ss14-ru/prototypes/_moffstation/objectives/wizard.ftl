@@ -1,6 +1,6 @@
-ent-WizardDuelistMeetObjective = Meet your competition
-    .desc = Set the terms of engagement for your duel.
-ent-WizardDuelistRelocateObjective = Teleport to the battleground
-    .desc = Use your scroll to teleport to a nearby station. No fighting on Space Wizards Federation grounds!
-ent-WizardDuelistDemonstrateObjective = Display your proficiency
-    .desc = Show them why you're the master of the arcane!
+ent-WizardDuelistMeetObjective = Встретьтесь со своим соперником
+    .desc = Установите правила и условия вашего поединка.
+ent-WizardDuelistRelocateObjective = Телепортируйтесь на поле боя
+    .desc = Используйте свой свиток, чтобы телепортироваться на ближайшую станцию. Никаких драк на территории Федерации Космических Магов!
+ent-WizardDuelistDemonstrateObjective = Проявите своё мастерство
+    .desc = Покажите им, почему именно вы являетесь магистром тайных искусств!

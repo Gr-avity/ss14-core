@@ -1,9 +1,9 @@
 ent-BasePinata = базовая пиньята
     .desc = { ent-BaseItem.desc }
 ent-ClownPinata = пиньята клоуна
-    .desc = Looks kinda funny. Do the real ones also explode into candy when you beat them?
+    .desc = Выглядит довольно забавно. Неужели настоящие тоже взрываются конфетами, когда их бьешь?
 ent-ClownPinataDamaged = пиньята клоуна
-    .desc = Looks kinda sad. Show no mercy.
-    .suffix = Damaged
+    .desc = Выглядит довольно грустно. Не проявляй пощады.
+    .suffix = Поврежденная
 ent-ClownPinataDestroyed = остатки пиньяты клоуна
-    .desc = Like stealing candy from a clown.
+    .desc = Как красть конфеты у клоуна.

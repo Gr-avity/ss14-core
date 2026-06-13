@@ -1,4 +1,4 @@
-ent-SyndicateJawsOfLifeStealth = челюсти жизни
-    .desc = A set of jaws of life. The paint job seems to be a bit strange...
-ent-JawsOfLifeMed = medical jaws of life
-    .desc = A set of jaws of life, for pulling the injured out of whatever mess they put themselves in.
+ent-SyndicateJawsOfLifeStealth = скрытные «челюсти жизни»
+    .desc = Комбинированный гидравлический инструмент. Покраска выглядит как-то странно...
+ent-JawsOfLifeMed = медицинские «челюсти жизни»
+    .desc = Комбинированный гидравлический инструмент, созданный для вытаскивания раненых из любых передряг, в которые они умудрились влипнуть.

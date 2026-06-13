@@ -1,5 +1,5 @@
-ent-FloorCosmicDecay = entropic decay
-    .desc = Just one look at this sends a chill running down your spine.
+ent-FloorCosmicDecay = энтропийный распад
+    .desc = Один только взгляд на это вызывает дрожь по спине.
 ent-FloorCosmicDecayAlt = ???
-    .suffix = DO NOT MAP
     .desc = { "" }
+    .suffix = НЕ СТАВИТЬ НА КАРТУ

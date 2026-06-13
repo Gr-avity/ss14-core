@@ -23,15 +23,15 @@ air-alarm-ui-window-auto-mode-label = Авто режим
     [warning] Warning
     [danger] Danger
     [emagged] Emagged
-   *[invalid] Invalid
+    *[invalid] Invalid
 }
 
-air-alarm-ui-window-listing-title = {$address} : {-air-alarm-state-name(state:$state)}
+air-alarm-ui-window-listing-title = { $address } : { -air-alarm-state-name(state:$state) }
 air-alarm-ui-window-pressure = { $pressure } кПа
 air-alarm-ui-window-pressure-indicator = Давление: [color={ $color }]{ $pressure } кПа[/color]
 air-alarm-ui-window-temperature = { $tempC } °C ({ $temperature } К)
 air-alarm-ui-window-temperature-indicator = Температура: [color={ $color }]{ $tempC } °C ({ $temperature } К)[/color]
-air-alarm-ui-window-alarm-state = [color={ $color }]{-air-alarm-state-name(state:$state)}[/color]
+air-alarm-ui-window-alarm-state = [color={ $color }]{ -air-alarm-state-name(state:$state) }[/color]
 air-alarm-ui-window-alarm-state-indicator = Статус: [color={ $color }]{ $state }[/color]
 
 air-alarm-ui-window-tab-vents = Вентиляции

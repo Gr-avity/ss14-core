@@ -1,10 +1,10 @@
 ent-CigCartonGreen = блок сигарет Spessman's Smokes
-    .desc = A carton containing 6 packets of Spessman's Smokes.
+    .desc = Блок, содержащий 6 пачек Spessman's Smokes.
 ent-CigCartonRed = блок сигарет DromedaryCo
-    .desc = A carton containing 6 packets of Dromedarycos.
+    .desc = Блок, содержащий 6 пачек DromedaryCo.
 ent-CigCartonBlue = блок сигарет AcmeCo
-    .desc = A carton containing 6 packets of AcmeCo.
+    .desc = Блок, содержащий 6 пачек AcmeCo.
 ent-CigCartonBlack = блок сигарет Nomads
-    .desc = A carton containing 6 packets of Nomads.
+    .desc = Блок, содержащий 6 пачек Nomads.
 ent-CigCartonMixed = блок пропитанных сигарет Дэна
-    .desc = A carton containg 3 packets of Dan's soaked smokes.
+    .desc = Блок, содержащий 3 пачки пропитанных сигарет Дэна.

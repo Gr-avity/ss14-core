@@ -1,9 +1,9 @@
 ent-ReinforcementRadioSyndicateCyborgMedical = радио подкрепления медицинского киборга синдиката
-    .desc = Call in a medical cyborg, instantly!
-    .suffix = NukeOps
+    .desc = Вызовите медицинского киборга мгновенно!
+    .suffix = Ядерные оперативники
 ent-ReinforcementRadioSyndicateCyborgSaboteur = радио подкрепления киборга-диверсанта синдиката
-    .desc = Call in a saboteur cyborg, instantly!
-    .suffix = NukeOps
+    .desc = Вызовите киборга-диверсанта мгновенно!
+    .suffix = Ядерные оперативники
 ent-ReinforcementRadioSyndicateCyborgStealth = радио подкрепления стелс-киборга синдиката
-    .desc = Call in a stealth cyborg, instantly!
-    .suffix = NukeOps
+    .desc = Вызовите стелс-киборга мгновенно!
+    .suffix = Ядерные оперативники

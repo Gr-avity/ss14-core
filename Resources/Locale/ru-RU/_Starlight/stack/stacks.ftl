@@ -47,12 +47,12 @@ stack-rusty-metal-floor = rusty metal floor
 stack-steel-grate-floor = steel grate floor
 stack-tech-greeb-floor = tech maints greeb floor
 
-stack-bluespacecrystal = {$amount ->
+stack-bluespacecrystal = { $amount ->
     [1] bluespace
     *[other] bluespaces
 }
 
-stack-adamantine = {$amount ->
+stack-adamantine = { $amount ->
     [1] adamantine bar
     *[other] adamantine bars
 }
@@ -60,68 +60,68 @@ stack-adamantine = {$amount ->
 stack-bluespace-tile = блюспейс плитка
 stack-sepia-xenobiology-tile = сепия плитка
 
-stack-brutepack = {$amount ->
+stack-brutepack = { $amount ->
     [1] brutepack
     *[other] brutepacks
 }
-stack-blueointment = {$amount ->
+stack-blueointment = { $amount ->
     [1] blueointment
     *[other] blueointments
 }
-stack-redointment = {$amount ->
+stack-redointment = { $amount ->
     [1] redointment
     *[other] redointments
 }
-stack-redbrutepack = {$amount ->
+stack-redbrutepack = { $amount ->
     [1] redbrutepack
     *[other] redbrutepacks
 }
-stack-interdyneointment = {$amount ->
+stack-interdyneointment = { $amount ->
     [1] interdyneointment
     *[other] interdyneointments
 }
-stack-interdynebrutepack = {$amount ->
+stack-interdynebrutepack = { $amount ->
     [1] interdynebrutepack
     *[other] interdynebrutepacks
 }
-stack-redpunctpack = {$amount ->
+stack-redpunctpack = { $amount ->
     [1] redpunctpack
     *[other] redpunctpacks
 }
-stack-redlacepack = {$amount ->
+stack-redlacepack = { $amount ->
     [1] redlacepack
     *[other] redlacepacks
 }
-stack-redbruizpack = {$amount ->
+stack-redbruizpack = { $amount ->
     [1] redbruizpack
     *[other] redbruizpacks
 }
 
-stack-empty-oilpack = {$amount ->
+stack-empty-oilpack = { $amount ->
     [1] emptyoilpack
     *[other] emptyoilpacks
 }
 
-stack-credit = {$amount ->
+stack-credit = { $amount ->
     [1] credit
     *[other] credits
 }
-stack-ticket = {$amount ->
+stack-ticket = { $amount ->
     [1] ticket
     *[other] tickets
 }
 
 
-stack-wizcoin = {$amount ->
+stack-wizcoin = { $amount ->
     [1] wizcoin
     *[other] wizcoins
 }
 
-stack-abyssium-ore = {$amount ->
+stack-abyssium-ore = { $amount ->
     [1] abyssium ore
     *[other] abyssium ores
 }
-stack-abyssium-bar = {$amount ->
+stack-abyssium-bar = { $amount ->
     [1] abyssium bar
     *[other] abyssium bars
 }

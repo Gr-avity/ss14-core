@@ -1,2 +1,2 @@
 ent-ChemBag = сумка химика
-    .desc = A bag for storing chemistry products, such as pills, pill canisters, bottles, and syringes.
+    .desc = Сумка для хранения химических продуктов, таких как таблетки, баночки для таблеток, бутылки и шприцы.

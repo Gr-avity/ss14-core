@@ -1,6 +1,6 @@
 ent-ClothingBackpackSyndicateObserverBundle = рюкзак
-    .desc = You wear this on your back and put items into it.
-    .suffix = Observer Bundle, Do Not Map
-ent-ClothingBackpackBunnyGangBundle = Bunny Gang Backpack
-    .desc = A sword that is actually a backpack. Its impressive how they managed to fit things in there, even so, inventory management will be a trial.
-    .suffix = Filled
+    .desc = Вы носите это на спине и кладете в него предметы.
+    .suffix = Набор наблюдателя, НЕ СТАВИТЬ НА КАРТУ
+ent-ClothingBackpackBunnyGangBundle = рюкзак банды кроликов
+    .desc = Меч, который на самом деле является рюкзаком. Впечатляет, как им удалось уместить туда вещи, даже несмотря на это, управление инвентарем будет испытанием.
+    .suffix = Заполненный

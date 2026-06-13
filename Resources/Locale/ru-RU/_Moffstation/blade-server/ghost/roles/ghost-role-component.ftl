@@ -1,2 +1,2 @@
-ghost-role-information-wizard-duelist-name = Wizard Duelist
-ghost-role-information-wizard-duelist-desc = YER A WIZARD! Prove you're the best the space wizard federation has to offer!
+ghost-role-information-wizard-duelist-name = Волшебник-дуэлянт
+ghost-role-information-wizard-duelist-desc = ТЫ ВОЛШЕБНИК! Докажи, что ты лучший, кого может предложить федерация космических волшебников!

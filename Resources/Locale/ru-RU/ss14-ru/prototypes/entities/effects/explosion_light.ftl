@@ -1,2 +1,2 @@
-ent-ExplosionLight = explosion light
+ent-ExplosionLight = легкий взрыв
     .desc = { "" }

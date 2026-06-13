@@ -5,4 +5,4 @@ ent-SynthesizerInstrument = синтезатор
 ent-AccordionInstrument = аккордеон
     .desc = { ent-BaseKeyedInstrument.desc }
 ent-KalimbaInstrument = калимба
-    .desc = The power of a piano right at your thumbs.
+    .desc = Сила пианино прямо у вас под пальцами.

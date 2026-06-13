@@ -1,2 +1,2 @@
-ent-RRCardMailOpen = { "" }
+ent-RRCardMailOpen = { ent-CrewCondition }
     .desc = { ent-CrewCondition.desc }

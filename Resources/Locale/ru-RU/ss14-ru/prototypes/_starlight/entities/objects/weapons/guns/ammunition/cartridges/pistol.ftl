@@ -9,4 +9,4 @@ ent-CartridgePistol40FMJ = патрон (.40 FMJ)
 ent-CartridgePistol40AP = патрон (.40 AP)
     .desc = { ent-CartridgePistol40SP.desc }
 ent-CartridgePistolImprovised = кустарный патрон (.35 авто)
-    .desc = A handmade pistol bullet, uses phosphorus as a propellent instead of gunpowder which makes it much less effective.
+    .desc = Самодельная пистолетная пуля, использующая фосфор в качестве метательного заряда вместо пороха, что делает её гораздо менее эффективной.

@@ -1,4 +1,4 @@
 ent-ClothingOuterArmorMetalHydrogen = броня из металлического водорода
-    .desc = A superb armor made with the toughest and rarest materials available to man.
+    .desc = Превосходная броня, изготовленная из самых прочных и редких материалов, доступных человеку.
 ent-ClothingOuterArmorAtmosian = атмосферная броня
-    .desc = An atmos fire suit bolstered with metal hydrogen.
+    .desc = Атмосферный огнеупорный костюм, усиленный металлическим водородом.

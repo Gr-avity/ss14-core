@@ -1,5 +1,5 @@
 humanoid-profile-editor-voice-label = Голос:
-##🌟Starlight🌟
+## 🌟Starlight🌟
 humanoid-profile-editor-silicon-voice-label = Кремниевый голос:
 humanoid-profile-editor-voice-play = ▶
 

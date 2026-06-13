@@ -1,4 +1,4 @@
-﻿## icons
+## icons
 station-ai-icon-alien = Инопланетная форма жизни
 station-ai-icon-thinking = Любопытство
 station-ai-icon-database = База данных станции

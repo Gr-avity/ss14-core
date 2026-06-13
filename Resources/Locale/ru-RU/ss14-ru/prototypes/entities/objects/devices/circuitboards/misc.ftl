@@ -1,2 +1,3 @@
 ent-StationMapCircuitboard = печатная плата карты станции
-    .desc = An electronics board used in station maps.
+    .desc = Электронная плата, используемая в картах станции.
+    .suffix = { ent-BaseElectronics.suffix }

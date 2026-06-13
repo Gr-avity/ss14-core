@@ -18,7 +18,7 @@ comp-gas-canister-ui-release-valve = Выпускной клапан:
 comp-gas-canister-ui-release-valve-open = Открыт
 comp-gas-canister-ui-release-valve-close = Закрыт
 
-comp-gas-canister-ui-pressure = {$pressure} кПа
+comp-gas-canister-ui-pressure = { $pressure } кПа
 
 # Canister gas tank slot
 

@@ -134,15 +134,17 @@ class KeyFinder:
 
             # Attributes
             if getattr(en_message, 'attributes', None) and ru_message_analog_idx != -1:
-                if not ru_file_parsed.body[ru_message_analog_idx].attributes:
-                    ru_file_parsed.body[ru_message_analog_idx].attributes = en_message.attributes
-                    have_changes = True
-                else:
-                    for en_attr in en_message.attributes:
-                        ru_attr_analog = py_.find(ru_file_parsed.body[ru_message_analog_idx].attributes, lambda ru_attr: ru_attr.id.name == en_attr.id.name)
-                        if not ru_attr_analog:
-                            ru_file_parsed.body[ru_message_analog_idx].attributes.append(en_attr)
-                            have_changes = True
+                ru_message_analog = ru_file_parsed.body[ru_message_analog_idx]
+                if hasattr(ru_message_analog, 'attributes'):
+                    if not ru_message_analog.attributes:
+                        ru_message_analog.attributes = en_message.attributes
+                        have_changes = True
+                    else:
+                        for en_attr in en_message.attributes:
+                            ru_attr_analog = py_.find(ru_message_analog.attributes, lambda ru_attr: ru_attr.id.name == en_attr.id.name)
+                            if not ru_attr_analog:
+                                ru_message_analog.attributes.append(en_attr)
+                                have_changes = True
 
             # New elements
             if ru_message_analog_idx == -1:

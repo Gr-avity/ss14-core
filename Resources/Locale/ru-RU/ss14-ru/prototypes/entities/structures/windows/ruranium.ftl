@@ -1,7 +1,7 @@
 ent-ReinforcedUraniumWindow = урановое бронированное окно
-    .desc = { ent-BaseDeltaPressureReinforcedPlasma.desc }
+    .desc = { ent-WindowRCDResistant.desc }
 ent-UraniumReinforcedWindowDirectional = направленное урановое бронированное окно
-    .desc = Don't smudge up the glass down there.
+    .desc = Смотри не заляпай стекло снизу.
 ent-ReinforcedUraniumWindowDiagonal = { ent-ReinforcedUraniumWindow }
-    .suffix = diagonal
     .desc = { ent-ReinforcedUraniumWindow.desc }
+    .suffix = диагональное

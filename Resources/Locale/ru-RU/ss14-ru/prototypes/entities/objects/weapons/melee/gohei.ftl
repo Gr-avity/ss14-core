@@ -1,2 +1,2 @@
 ent-Gohei = гохэй
-    .desc = A wooden stick with white streamers at the end. Originally used by shrine maidens to purify things. Now used by the station's weeaboos.
+    .desc = Деревянная палка с белыми лентами на конце. Изначально использовалась храмовыми девами для очищения предметов. Теперь используется виабушниками станции.

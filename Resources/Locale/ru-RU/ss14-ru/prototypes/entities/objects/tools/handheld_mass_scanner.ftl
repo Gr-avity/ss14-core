@@ -1,8 +1,8 @@
 ent-HandHeldMassScanner = ручной сканер массы
-    .desc = A hand-held mass scanner.
+    .desc = Ручной сканер массы.
 ent-HandHeldMassScannerEmpty = { ent-HandHeldMassScanner }
-    .suffix = Empty
     .desc = { ent-HandHeldMassScanner.desc }
+    .suffix = Пустой
 ent-HandHeldMassScannerBorg = { ent-HandHeldMassScanner }
-    .suffix = Borg
     .desc = { ent-HandHeldMassScanner.desc }
+    .suffix = Борг

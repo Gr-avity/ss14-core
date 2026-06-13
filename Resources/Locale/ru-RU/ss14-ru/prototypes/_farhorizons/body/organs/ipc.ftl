@@ -1,10 +1,10 @@
 ent-BaseIPCOrganUnGibbable = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 ent-OrganIPCEyes = роботические глаза
-    .desc = Decidedly not squishy. Kinda sharp, actually.
+    .desc = Определенно не мягкие. На самом деле, довольно острые.
 ent-OrganIPCTongue = голосовой модулятор
-    .desc = A vocal modulator, typically used for lying.
+    .desc = Голосовой модулятор, обычно используемый для лжи.
 ent-OrganIPCEars = звуковые датчики
-    .desc = Process audio at the same quality of station-side cyborgs
-ent-OrganIPCHeart = micro pump
-    .desc = Circulates coolant in a sickingly familiar way.
+    .desc = Обрабатывают аудио с тем же качеством, что и станционные киборги.
+ent-OrganIPCHeart = микронасос
+    .desc = Циркулирует охлаждающую жидкость пугающе знакомым образом.

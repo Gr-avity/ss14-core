@@ -215,7 +215,7 @@
     tag: Science
 
 - type: entity
-  id: MailingUnitR&D
+  id: MailingUnitRND # ss14-art-edit localization
   parent: MailingUnit
   suffix: R&D
   components:

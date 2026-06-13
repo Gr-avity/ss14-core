@@ -1,4 +1,4 @@
-ent-PenNTR = ручка представителя nanotrasen
-    .desc = The NT Representative's own unique pen, just not as sharp.
-ent-PenQuillBurnt = burnt quill
-    .desc = This quill seems to have a lot of weight to it.
+ent-PenNTR = ручка представителя NanoTrasen
+    .desc = Уникальная личная ручка представителя НТ, просто не такая острая.
+ent-PenQuillBurnt = обгоревшее перо
+    .desc = Это перо кажется довольно тяжёлым.

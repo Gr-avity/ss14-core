@@ -242,7 +242,7 @@
 
 
 - type: entity
-  id: DisposalTaggerR&D
+  id: DisposalTaggerRND # ss14-art-edit localization
   parent: DisposalTagger
   suffix: R&D
   components:

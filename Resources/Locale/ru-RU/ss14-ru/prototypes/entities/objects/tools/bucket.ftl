@@ -1,4 +1,4 @@
 ent-Bucket = ведро
-    .desc = It's a boring old bucket.
+    .desc = Скучное старое ведро.
 ent-BorgBucket = внутренний резервуар
-    .desc = The internal reservoir of a custodial cyborg, capable of holding a entire mop bucket worth of water.
+    .desc = Внутренний резервуар киборга-уборщика, способный вместить целое ведро воды.

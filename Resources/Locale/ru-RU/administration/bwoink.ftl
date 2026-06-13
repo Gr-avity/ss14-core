@@ -13,9 +13,9 @@ bwoink-system-introductory-message =
     Any bugs and other related issues should be reported through Discord or Github.
     Misuse of this message system may result in disciplinary action.
 
-bwoink-system-typing-indicator = {$players} {$count ->
-[one] is
-*[other] are
+bwoink-system-typing-indicator = { $players } { $count ->
+    [one] is
+    *[other] are
 } typing...
 
 admin-ahelp-admin-only = Только админам
@@ -29,7 +29,7 @@ bwoink-title-none-selected = Ничего не выбрано
 bwoink-system-rate-limited = Система: вы отправляете сообщения слишком быстро.
 bwoink-system-player-disconnecting = отключился.
 bwoink-system-player-reconnecting = подключился.
-bwoink-system-player-banned = был забанен по причине: {$banReason}
+bwoink-system-player-banned = был забанен по причине: { $banReason }
 
 bwoink-message-admin-only = (Видно только админам)
 bwoink-message-silent = (Без звука)

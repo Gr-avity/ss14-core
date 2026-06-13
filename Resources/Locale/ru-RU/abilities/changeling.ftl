@@ -2,7 +2,7 @@
 changeling-biomass-deficit = Недостаточно биомассы!
 changeling-chemicals-deficit = Недостаточно химикатов!
 changeling-action-fail-lesserform = Невозможно использовать в урезанной форме!
-changeling-action-fail-absorbed = Нужно поглотить ещё {$number} органиков, чтобы использовать это!
+changeling-action-fail-absorbed = Нужно поглотить ещё { $number } органиков, чтобы использовать это!
 
 changeling-absorb-start = { CAPITALIZE(THE($user)) } начинает поглощать { CAPITALIZE(THE($target)) }!
 changeling-absorb-fail-incapacitated = Нельзя поглотить, пока цель не обездвижена.
@@ -12,18 +12,18 @@ changeling-absorb-end-self = Поглощён ещё один организм. 
 changeling-absorb-end-self-ling = Поглощён другой генокрад. Эволюция ускоряется.
 changeling-absorb-onexamine = [color=red]Тело кажется пустым внутри.[/color]
 
-changeling-transform-cycle = Переключение на ДНК {$target}.
+changeling-transform-cycle = Переключение на ДНК { $target }.
 changeling-transform-cycle-empty = У тебя нет образцов ДНК!
-changeling-transform-others = Тело {CAPITALIZE( $user )} искажается, принимая чужой облик!
+changeling-transform-others = Тело { CAPITALIZE($user) } искажается, принимая чужой облик!
 changeling-transform-fail-self = Невозможно принять текущую форму.
 changeling-transform-fail-choose = Ты не выбрал(а) форму для трансформации!
 changeling-transform-fail-absorbed = Нельзя трансформироваться в пустую оболочку.
-changeling-transform-finish = Теперь ты — {$target}.
+changeling-transform-finish = Теперь ты — { $target }.
 
-changeling-sting-fail-self = Ты попытался(лась) ужалить {CAPITALIZE( $target )}, но что-то помешало!
+changeling-sting-fail-self = Ты попытался(лась) ужалить { CAPITALIZE($target) }, но что-то помешало!
 changeling-sting-fail-ling = Кто-то только что попытался ужалить тебя!
 
-changeling-sting = Ты молча жалишь {CAPITALIZE( $target )}
+changeling-sting = Ты молча жалишь { CAPITALIZE($target) }
 changeling-sting-fail-simplemob = Ты не можешь ужалить примитивное существо!
 changeling-sting-extract-fail = Невозможно извлечь ДНК
 changeling-sting-extract-max = Сначала нужно избавиться от уже хранящейся ДНК

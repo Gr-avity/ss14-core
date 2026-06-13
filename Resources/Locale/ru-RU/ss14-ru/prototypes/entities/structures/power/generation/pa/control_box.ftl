@@ -1,5 +1,5 @@
 ent-ParticleAcceleratorControlBox = консоль управления УЧ
-    .desc = This controls the density of the particles.
+    .desc = Управляет плотностью частиц.
 ent-ParticleAcceleratorControlBoxUnfinished = консоль управления УЧ
-    .desc = This controls the density of the particles. It looks unfinished.
-    .suffix = Unfinished
+    .desc = Управляет плотностью частиц. Выглядит незаконченным.
+    .suffix = Незаконченный

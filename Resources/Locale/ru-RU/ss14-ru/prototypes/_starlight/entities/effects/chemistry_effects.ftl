@@ -1,4 +1,4 @@
-ent-ThermiteEntity = Thermite
+ent-ThermiteEntity = термит
     .desc = { "" }
 ent-ThermiteFire = { "" }
     .desc = { "" }

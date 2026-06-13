@@ -1,10 +1,10 @@
 ent-HolosignWetFloor = знак «мокрый пол»
-    .desc = The words flicker as if they mean nothing.
+    .desc = Слова мерцают, будто они ничего не значат.
 ent-HoloFan = атмосферный барьер
-    .desc = A barrier of hard light that blocks air, but nothing else.
+    .desc = Барьер из твердого света, который блокирует воздух, но больше ничего.
 ent-HoloPeel = голокожура
-    .desc = A banana peel made of slippery hard light, watch your step!
+    .desc = Банановая кожура, сделанная из скользкого твердого света, смотрите под ноги!
 ent-HolosignSecurity = голографический барьер
-    .desc = A barrier of hard light that blocks movement, but pretty weak.
+    .desc = Барьер из твердого света, который блокирует движение, но довольно слабый.
 ent-HolosignForcefield = силовое поле
-    .desc = A powerful temporal containment field that doesn't let anything through, not even a tesla or singularity.
+    .desc = Мощное временное защитное поле, которое никого не пропускает, даже теслу или сингулярность.

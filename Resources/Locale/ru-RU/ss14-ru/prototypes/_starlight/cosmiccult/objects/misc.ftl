@@ -1,4 +1,5 @@
-ent-CosmicCultLawBoard = malign law board
-    .desc = An eerie circuit board, suited for slotting into an AI law upload console. Its circuitry is interwoven with dendritic strands that twitch of their own accord.
-ent-CosmicCultMindSink = astral mindsink
-    .desc = A strange artifact. Though comprised of malign materials, it instills no feelings of discomfort.
+ent-CosmicCultLawBoard = зловредная плата законов
+    .desc = Жуткая плата, подходящая для установки в консоль загрузки законов ИИ. Её цепи переплетены с дендритными нитями, которые подергиваются сами по себе.
+    .suffix = { ent-BaseElectronics.suffix }
+ent-CosmicCultMindSink = астральный поглотитель разума
+    .desc = Странный артефакт. Хотя он состоит из зловредных материалов, он не вызывает чувства дискомфорта.

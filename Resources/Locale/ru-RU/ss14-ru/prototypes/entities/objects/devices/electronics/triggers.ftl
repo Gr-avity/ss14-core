@@ -1,6 +1,6 @@
 ent-TimerTrigger = таймер-триггер
-    .desc = A configurable timer.
+    .desc = Настраиваемый таймер.
 ent-SignalTrigger = сигнальный триггер
-    .desc = Adds a machine link that is triggered by signals.
+    .desc = Добавляет машинную связь, которая запускается сигналами.
 ent-VoiceTrigger = голосовой триггер
-    .desc = Adds a machine link that is triggered by vocal keywords.
+    .desc = Добавляет машинную связь, которая запускается голосовыми ключевыми словами.

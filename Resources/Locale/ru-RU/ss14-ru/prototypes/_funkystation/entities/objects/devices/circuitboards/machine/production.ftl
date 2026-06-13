@@ -1,2 +1,3 @@
-ent-ElectrolyzerMachineCircuitboard = electrolyzer machine board
-    .desc = A machine printed circuit board for an electrolyzer.
+ent-ElectrolyzerMachineCircuitboard = плата установки электролиза
+    .desc = Машинная печатная плата для установки электролиза.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }

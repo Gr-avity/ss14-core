@@ -1,25 +1,23 @@
 ent-WeaponRifleLecterRubber = «лектер»
-    .suffix = Non-lethal
     .desc = { ent-WeaponRifleLecter.desc }
+    .suffix = Нелетальный
 ent-WeaponLr30 = lr-30
-    .desc = Energy carbine with lethal mode.
+    .desc = Энергетический карабин с летальным режимом.
 ent-WeaponIK60 = лазерный карабин ИК-60
-    .desc = A short, compact rifle-like carbine that relies more on battery-powered ammunition rather than a built-in battery. Used by the NanoTrasen Space Force in combat operations.
+    .desc = Короткий компактный карабин винтовочного типа, который больше полагается на боеприпасы с батарейным питанием, чем на встроенный аккумулятор. Используется космическими силами NanoTrasen в боевых операциях.
 ent-WeaponRifleARG = ARG
-    .desc = An old galactic standard assault rifle, used by various paramilitary groups and former SVS militias ever since. Uses .30 rifle ammo.
+    .desc = Старая штурмовая винтовка галактического стандарта, используемая различными военизированными группами и бывшими ополченцами SVS. Использует винтовочные патроны калибра .30.
 ent-WeaponRifleM52 = Aussec Armory M-52
-    .desc = One of the least popular examples of heavy assault rifles. It has impressive firepower.
+    .desc = Один из наименее популярных примеров тяжелых штурмовых винтовок. Обладает впечатляющей огневой мощью.
 ent-WeaponRifleLeikha = «лейка»
-    .desc = A high end military grade assault rifle. This one has been retrofitted with a scope and a burst reciever. Uses .20 rifle ammo.
+    .desc = Высококлассная штурмовая винтовка военного образца. Эта модель была дооснащена оптическим прицелом и ствольной коробкой для стрельбы очередями. Использует винтовочные патроны калибра .20.
 ent-WeaponRifleL10 = марксманская винтовка L10
-    .desc =
-        A scoped marksman rifle for medium range engagements, built on the Lecter platform.
-        Chambered in .45 magnum.
+    .desc = Снайперская винтовка с прицелом для боев на средних дистанциях, построенная на платформе «Лектер». Использует патроны калибра .45 магнум.
 ent-WeaponRiflePitbull = «питбуль»
-    .desc = A large bullpup rifle with a low fire-rate but excellent accuracy. Chambered in .45 magnum.
+    .desc = Большая винтовка компоновки булл-пап с низкой скорострельностью, но отличной точностью. Использует патроны калибра .45 магнум.
 ent-WeaponRiflePeacemaker = «миротворец»
-    .desc = The best or worst thing you'll ever see, depending if it's pointed at you or not. Uses .20 rifle ammo.
+    .desc = Лучшая или худшая вещь, которую вы когда-либо видели, в зависимости от того, направлена она на вас или нет. Использует винтовочные патроны калибра .20.
 ent-WeaponRifleM18 = M18-Militant
-    .desc = Aged yet dependable, this old-world assault rifle is chambered in .20 rifle ammunition. Renowned for its reliability and ease of maintenance even in the harshest environments, it remains a staple among your station’s merce- salvage forces.
+    .desc = Старая, но надежная штурмовая винтовка старого мира под винтовочный патрон калибра .20. Известная своей надежностью и простотой обслуживания даже в самых суровых условиях, она остается основным оружием наемных сил... то есть сил утилизаторов вашей станции.
 ent-WeaponRifleLionhunter = SPC-Lionhunter
-    .desc = A one of a kind bolt-action rifle fitted with an integrated scope. Chambered for a proprietary .48 round developed by parties unknown. Built to drop targets at range with authority. Each shot demands a deliberate recycle of the action.
+    .desc = Единственная в своем роде винтовка с продольно-скользящим затвором, оснащенная встроенным прицелом. Рассчитана на проприетарный патрон калибра .48, разработанный неизвестными лицами. Создана для уверенного поражения целей на дистанции. Каждый выстрел требует осознанной перезарядки затвором.

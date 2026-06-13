@@ -1,2 +1,5 @@
-ent-GoldenAppraisalTool = golden appraisal tool
-    .desc = A golden appraisal tool, reserved for the most elite of cargo technicians. Can it determine the worth of the universe?
+ent-GoldenAppraisalTool = золотой оценочный инструмент
+    .desc = Золотой оценочный инструмент, предназначенный для самой элиты грузчиков. Способен ли он определить ценность вселенной?
+ent-AppraiserTool = оценочный инструмент
+    .desc = Инструмент для определения стоимости предметов.
+    .suffix = АДМЕМ

@@ -1,4 +1,4 @@
 ent-InflatableWall = надувная баррикада
-    .desc = An inflated membrane. Activate to deflate. Do not puncture.
+    .desc = Надувная мембрана. Активируйте, чтобы сдуть. Не прокалывать.
 ent-InflatableDoor = надувная дверь
-    .desc = An inflated membrane. Activate to deflate. Now with a door. Do not puncture.
+    .desc = Надувная мембрана. Активируйте, чтобы сдуть. Теперь с дверью. Не прокалывать.

@@ -1,7 +1,7 @@
 ent-MarriageAxe = брачный топор
-    .desc = A charming subtle instrument of chaos—perfect for when diplomacy fails. Screams like a banshee, cuts like a demon, and turns people into regrettable memories. Handle with enthusiasm.
-ent-EnergySwordBanana = banana energy sword
-    .desc = Cybersun's research into bananium weaponry produced some unexpected results. Honk!
+    .desc = Очаровательный, тонкий инструмент хаоса — идеально подходит для случаев, когда дипломатия терпит неудачу. Кричит как банши, режет как демон и превращает людей в прискорбные воспоминания. Обращайтесь с энтузиазмом.
+ent-EnergySwordBanana = банановый энергетический меч
+    .desc = Исследования Cybersun в области оружия из бананиума дали неожиданные результаты. Хонк!
 ent-CyborgEnergySwordBlue = { ent-EnergySword }
-    .suffix = For XenoBorgs
     .desc = { ent-EnergySword.desc }
+    .suffix = Для ксеноборгов

@@ -1,4 +1,4 @@
-﻿parse-bool-fail = Unable to parse {$arg} as a bool
+parse-bool-fail = Unable to parse { $arg } as a bool
 parse-float-fail = Невозможно спарсить { $arg } как float
 
 cmd-lockeyes-desc = Предотвращает дальнейший поворот зрения.

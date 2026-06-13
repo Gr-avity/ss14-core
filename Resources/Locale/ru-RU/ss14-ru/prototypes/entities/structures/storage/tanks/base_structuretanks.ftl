@@ -1,4 +1,4 @@
 ent-StorageTank = резервуар для хранения
-    .desc = A liquids storage tank.
+    .desc = Резервуар для хранения жидкостей.
 ent-StorageTankBig = { ent-StorageTank }
     .desc = { ent-StorageTank.desc }

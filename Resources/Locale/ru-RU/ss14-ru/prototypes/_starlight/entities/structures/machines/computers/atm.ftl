@@ -1,2 +1,2 @@
 ent-ATM = банкомат
-    .desc = A regular ATM, it eats money, spits out money, and transfers money.
+    .desc = Обычный банкомат, он ест деньги, выплевывает деньги и переводит деньги.

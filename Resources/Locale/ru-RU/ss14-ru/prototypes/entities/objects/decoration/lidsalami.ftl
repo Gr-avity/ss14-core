@@ -1,2 +1,2 @@
 ent-LidSalami = крышка коробки салями
-    .desc = Ain't gon' fit, won't fit.
+    .desc = Не налезет, не подойдет.

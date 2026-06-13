@@ -1,2 +1,2 @@
 ent-AbductorAlienPad = пришельческий телепад
-    .desc = Beam in the pizzas and dig in.
+    .desc = Телепортируй пиццу и приступай к еде.

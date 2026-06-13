@@ -1,6 +1,6 @@
 ent-BasePatch = пластырь
-    .desc = On-touch administration of chemicals.
-ent-Patch = пластырь
+    .desc = Применение химикатов при контакте.
+ent-Patch = { ent-BasePatch }
     .desc = { ent-BasePatch.desc }
 ent-PatchBrute = пластырь от ушибов
     .desc = { ent-BasePatch.desc }
@@ -13,4 +13,4 @@ ent-PatchMedical = медицинский пластырь
 ent-PatchClown = клоунский пластырь
     .desc = { ent-BasePatch.desc }
 ent-PatchPack = набор пластырей
-    .desc = Stores multiple patches efficiently.
+    .desc = Эффективно хранит несколько пластырей.

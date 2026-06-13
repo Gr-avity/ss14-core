@@ -1,4 +1,4 @@
-ent-TacticalJetInjector = tactical jet injector
-    .desc = A bold, tacticool, ultra high quality injector. Allows for a very fast injection, with a smaller capacity as a tradeoff. Guard it until your last breath.
-ent-SyndiBorgHypo = горлекс-гипоспрей
-    .desc = An adaptation of the Gorlex Hypospray for cyborgs.
+ent-TacticalJetInjector = тактический джет-инъектор
+    .desc = Смелый, тактический, ультракачественный инъектор. Позволяет очень быстро сделать инъекцию, но с меньшей ёмкостью в качестве компромисса. Берегите его до последнего вздоха.
+ent-SyndiBorgHypo = гипоспрей Горлекс
+    .desc = Модификация гипоспрея Горлекс для использования киборгами.

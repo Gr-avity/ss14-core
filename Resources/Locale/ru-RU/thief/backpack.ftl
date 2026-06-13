@@ -1,13 +1,14 @@
 thief-backpack-window-title = Ящик для инструментов вора
 
 thief-backpack-window-description =
-    Inside are your tools of the trade, which will dissolve when you're ready.
-    Choose {$maxCount} different {$maxCount ->
-        [1] set
-        *[other] sets
-    } from the list.
+    Внутри лежат инструменты вашего ремесла, которые растворятся, когда вы будете готовы.
+    Выберите { $maxCount } разных { $maxCount ->
+        [one] набор
+        [few] набора
+        *[other] наборов
+    } из списка.
 
-thief-backpack-window-selected = Наборы выбраны: ({$selectedCount}/{$maxCount})
+thief-backpack-window-selected = Наборы выбраны: ({ $selectedCount }/{ $maxCount })
 
 thief-backpack-window-approve-button = Одобрить
 thief-backpack-button-select = Выбрать [ ]
@@ -17,48 +18,48 @@ thief-backpack-button-deselect = Выбрать [X]
 
 thief-backpack-category-chameleon-name = набор хамелеона
 thief-backpack-category-chameleon-description =
-    You are everyone and no one; you are a master of disguise.
-    Includes: A full set of chameleon clothing with Agent ID,
-    a chameleon projector, and a fake mindshield implant.
-    Disguise as anyone and anything.
+    Вы — все и никто; вы мастер маскировки.
+    Включает: полный комплект одежды хамелеона с ID-картой агента,
+    проектор-хамелеон и фальшивый имплант защиты разума.
+    Маскируйтесь под кого угодно и под что угодно.
 
 thief-backpack-category-tools-name = набор медвежатника
 thief-backpack-category-tools-description =
-    What's that sound? A lil' C4 knockin' at their door.
-    No obstacle can stop you!
-    Includes: Two C4, a multitool, remote signaller, jaws of life,
-    advanced welder, engineering goggles, and insulated gloves.
+    Что это за звук? Маленький C4 стучится в их дверь.
+    Ни одно препятствие вас не остановит!
+    Включает: два заряда C4, мультитул, дистанционный сигнализатор, гидравлические челюсти,
+    улучшенную сварочную горелку, инженерные очки и изолирующие перчатки.
 
 thief-backpack-category-chemistry-name = набор химика
 thief-backpack-category-chemistry-description =
-    You've reached peak physical performance... with a little help.
-    Includes: Storage implanter, DNA scrambler implanter,
-    ephedrine bottle, syringe, empty shaker, and omega soap
+    Вы достигли пика физической формы... не без посторонней помощи.
+    Включает: скрытый имплант-хранилище, имплант шифрования ДНК,
+    флакон эфедрина, шприц, пустой шейкер и омега-мыло.
 
 thief-backpack-category-syndie-name = набор синдиката
 thief-backpack-category-syndie-description =
-    Trinkets from a disavowed past, or stolen from a careless agent?
-    You've made some connections. Whiskey, echo...
-    Includes: An Emag, Access Breaker, Interdyne cigs, a Syndicate codeword,
-    a Radio Jammer, a lighter and some strange red crystals.
+    Безделушки из забытого прошлого или украденные у беспечного агента?
+    У вас появились кое-какие связи. Виски, эко...
+    Включает: Емаг, взломщик доступа, сигареты Интердайн, кодовое слово Синдиката,
+    глушитель радиосвязи, зажигалку и странные красные кристаллы.
 
 thief-backpack-category-sleeper-name = набор лунатика
 thief-backpack-category-sleeper-description =
-    Until we close our eyes for good, use your illegal prescriptions
-    to keep others asleep.
-    Includes: Sleepy nitrous oxide tank, two nocturine bottles,
-    and a hypopen.
+    Пока мы не закрыли глаза навсегда, используйте свои незаконные рецепты,
+    чтобы усыпить остальных.
+    Включает: баллон с усыпляющим закисью азота, два флакона ноктуринона
+    и гипоспрей-ручку (гипопен).
 
 thief-backpack-category-communicator-name = набор связиста
 thief-backpack-category-communicator-description =
-    Money is power, and secrets are money. Use your silver tongue
-    and wealth to subvert the station.
-    Includes: Master key for all station channels, a CyberSun pen,
-    voice mask implanter, and 20k spesos inside a briefcase.
+    Деньги — это власть, а секреты — это деньги. Используйте свой подвешенный язык
+    и богатство, чтобы подорвать авторитет станции.
+    Включает: мастер-ключ для всех каналов станции, ручку CyberSun,
+    имплант маскировки голоса и 20 000 спесо в дипломате.
 
 thief-backpack-category-smuggler-name = набор контрабандиста
 thief-backpack-category-smuggler-description =
-    All thieves need somewhere to stash their goods in the dark.
-    Don't forget to link your fulton.
-    Includes: Fulton beacon, 10 fultons, 3 smoke grenades,
-    and an invisible crate to hide valuable loot.
+    Каждому вору нужно место, где можно спрятать свою добычу в темноте.
+    Не забудьте привязать свой фултон.
+    Включает: маяк фултона, 10 фултонов, 3 дымовые гранаты
+    и невидимый ящик для сокрытия ценного лута.

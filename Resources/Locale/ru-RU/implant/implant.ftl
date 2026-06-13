@@ -1,11 +1,11 @@
 ## Implanter Attempt Messages
 
 implanter-component-implanting-target = { $user } пытается что-то в вас имплантировать!
-implanter-component-implant-failed = {$implant} не может быть вживлен в {$target}!
+implanter-component-implant-failed = { $implant } не может быть вживлен в { $target }!
 implanter-draw-failed-permanent = { $implant } вросся в { $target } и не может быть удалён!
 implanter-draw-failed = Вы пытаетесь удалить имплант, но ничего не находите.
 implanter-draw-failed-catastrophically = Имплантер ничего не находит и катастрофически выходит из строя, впивая генетический материал в руку { $user }!
-implanter-component-implant-already = {$target} уже имеет в себе {$implant}!
+implanter-component-implant-already = { $target } уже имеет в себе { $implant }!
 
 ## UI
 implanter-set-draw-verb = Установить извлечение импланта
@@ -19,9 +19,9 @@ implanter-inject-text = Установка
 implanter-empty-text = Пусто
 
 implanter-label-inject = [color=green]{ $implantName }[/color]
-    Mode: [color=white]{$modeString}[/color]
+    Mode: [color=white]{ $modeString }[/color]
 
 implanter-label-draw = [color=red]{ $implantName }[/color]
-    Mode: [color=white]{$modeString}[/color]
+    Mode: [color=white]{ $modeString }[/color]
 
 implanter-contained-implant-text = [color=green]{ $desc }[/color]

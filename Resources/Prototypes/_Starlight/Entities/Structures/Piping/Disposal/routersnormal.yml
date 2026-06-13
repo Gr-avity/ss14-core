@@ -350,7 +350,7 @@
 
 
 - type: entity
-  id: DisposalRouterR&D
+  id: DisposalRouterRND # ss14-art-edit localization
   parent: DisposalRouter
   suffix: R&D
   components:

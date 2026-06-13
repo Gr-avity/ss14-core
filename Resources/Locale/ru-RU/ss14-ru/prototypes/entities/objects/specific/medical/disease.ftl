@@ -1,6 +1,6 @@
 ent-DiseaseSwab = стерильная палочка
-    .desc = Used for taking and transferring samples. Sterile until open. Single use only.
+    .desc = Используется для взятия и переноса образцов. Стерильна до вскрытия. Только для одноразового использования.
 ent-BoxMouthSwab = коробка стерильных палочек
-    .desc = Dispenses 30 sterile swabs, extremely useful for botany.
+    .desc = Содержит 30 стерильных палочек, чрезвычайно полезных для ботаники.
 ent-Vaccine = вакцина
-    .desc = Prevents people who DON'T already have a disease from catching it.
+    .desc = Предотвращает заражение болезнью у людей, у которых её ещё НЕТ.

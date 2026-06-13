@@ -4,7 +4,7 @@ door-remote-open-close-text = Открытие, либо закрытие две
 door-remote-toggle-bolt-text = Переключение болтов
 door-remote-emergency-access-text = Переключение аварийного доступа
 door-remote-invalid-text = Недоступен
-door-remote-mode-label = Режим: [color=white]{$modeString}[/color]
+door-remote-mode-label = Режим: [color=white]{ $modeString }[/color]
 
 ## Entity
 

@@ -1,2 +1,2 @@
-ent-StandingMicrophone = standing microphone
-    .desc = So whats the deal with airplane food?
+ent-StandingMicrophone = напольный микрофон
+    .desc = А что там с едой в самолётах?

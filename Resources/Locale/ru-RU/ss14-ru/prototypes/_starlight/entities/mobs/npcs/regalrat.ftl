@@ -1,2 +1,3 @@
 ent-MobLargeRatServant = большой крысиный слуга
-    .desc = He's da larger mini rat. He don't make da roolz yet.
+    .desc = Он большая мини-крыса. Он пока не устанавливает правила.
+    .suffix = { ent-MobRatServant.suffix }

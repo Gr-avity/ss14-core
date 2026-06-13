@@ -1,4 +1,4 @@
-﻿parse-minutes-fail = Unable to parse '{$minutes}' as minutes
+parse-minutes-fail = Не удалось распознать '{ $minutes }' как минуты
 parse-session-fail = Не найдена сессия для '{ $username }'
 
 ## Role Timer Commands
@@ -47,10 +47,10 @@ cmd-playtime_save-error-args = Ожидается ровно один аргум
 
 ## 'playtime_flush' command'
 
-cmd-playtime_flush-desc = Записывает активные трекеры в хранение отслеживании игрового времени.
-cmd-playtime_flush-help = Usage: {$command} [user name]
-    This causes a flush to the internal storage only, it does not flush to DB immediately.
-    If a user is provided, only that user is flushed.
+cmd-playtime_flush-desc = Записывает активные трекеры в хранилище отслеживания игрового времени.
+cmd-playtime_flush-help = Использование: { $command } [user name]
+    Это сбрасывает данные только во внутреннее хранилище, а не в БД напрямую.
+    Если указан пользователь, сбрасываются данные только этого пользователя.
 
 cmd-playtime_flush-error-args = Ожидается ноль или один аргумент
 cmd-playtime_flush-arg-user = [имя пользователя]

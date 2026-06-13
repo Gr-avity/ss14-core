@@ -1,6 +1,6 @@
-ent-HammerMedTakOneHanded = CODE-12 "Breacher"
-    .desc = A charged concussive breaching hammer meant to put a sizeable hole in anything separating you from your client.
-    .suffix = One-Handed
+ent-HammerMedTakOneHanded = CODE-12 «Breacher»
+    .desc = Заряженный ударный молот для взлома, предназначенный для того, чтобы проделать внушительную дыру в чем угодно, что отделяет вас от вашего клиента.
+    .suffix = Одноручный
 ent-HammerMedTak = { ent-HammerMedTakOneHanded }
-    .suffix = Wieldable
     .desc = { ent-HammerMedTakOneHanded.desc }
+    .suffix = Двуручный

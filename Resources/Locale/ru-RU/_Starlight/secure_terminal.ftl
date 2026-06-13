@@ -14,52 +14,52 @@ secure-terminal-deny-button = Deny / Cancel
 secure-terminal-recall-button = Recall Armory
 secure-terminal-recall-locked = { $minutes ->
     [1] Recall available in 1 minute.
-   *[other] Recall available in {$minutes} minutes.
+    *[other] Recall available in { $minutes } minutes.
 }
 secure-terminal-used-note = This armory has been permanently activated or recalled this round and cannot be deployed again.
 secure-terminal-already-used = This resource has already been used this round and cannot be requested again.
 
 secure-terminal-auth-waiting = No active proposal for this request.
 secure-terminal-auth-desc = Current proposal — no response = [color=red]red[/color], agreed = [color=green]green[/color]:
-secure-terminal-awaiting-member = Awaiting {$label}
+secure-terminal-awaiting-member = Awaiting { $label }
 
-secure-terminal-pending-countdown-label = Expires in {$minutes}m {$seconds}s…
-secure-terminal-countdown-label = Activating in {$minutes}m {$seconds}s…
+secure-terminal-pending-countdown-label = Expires in { $minutes }m { $seconds }s…
+secure-terminal-countdown-label = Activating in { $minutes }m { $seconds }s…
 
-secure-terminal-fee-note = Processing fee: {$fee}
-secure-terminal-salary-note = Station salary reduced by {$penalty}% due to mobilization cost.
+secure-terminal-fee-note = Processing fee: { $fee }
+secure-terminal-salary-note = Station salary reduced by { $penalty }% due to mobilization cost.
 secure-terminal-delay-note = { $minutes ->
     [1] ETA: 1 minute after authorization.
-   *[other] ETA: {$minutes} minutes after authorization.
+    *[other] ETA: { $minutes } minutes after authorization.
 }
 
 secure-terminal-requires-no-war-note = Disabled during War Ops.
 secure-terminal-requires-war-note = Only available during War Ops.
-secure-terminal-requires-alert-note = Requires {$level} alert to be active.
+secure-terminal-requires-alert-note = Requires { $level } alert to be active.
 secure-terminal-alert-time-remaining = { $minutes ->
     [1] Alert must be active for 1 more minute before this can be requested.
-   *[other] Alert must be active for {$minutes} more minutes before this can be requested.
+    *[other] Alert must be active for { $minutes } more minutes before this can be requested.
 }
 secure-terminal-on-cooldown-note = { $minutes ->
     [1] On cooldown — available in 1 minute.
-   *[other] On cooldown — available in {$minutes} minutes.
+    *[other] On cooldown — available in { $minutes } minutes.
 }
-secure-terminal-requires-alert-suffix = Need: {$level}
+secure-terminal-requires-alert-suffix = Need: { $level }
 secure-terminal-requires-war-suffix = Need: War Ops
 
 secure-terminal-reason = Insert request reason:
 
 ## Server → global announcements
 
-secure-terminal-proposal-created = {$request} has been requested and is awaiting co-authorization.
-secure-terminal-proposal-created-reason = {$request} has been requested and is awaiting co-authorization. Reason: {$reason}
-secure-terminal-proposal-denied = {$request} request has been cancelled.
-secure-terminal-proposal-denied-cc = {$request} request has been denied by Central Command.
-secure-terminal-radio-proposal = {$request} has been proposed. Please go to the nearest Keycard Authentication Device to authorize or deny.
-secure-terminal-radio-proposal-reason = {$request} has been proposed. Please go to the nearest Keycard Authentication Device to authorize or deny. Reason: {$reason}
-secure-terminal-radio-denied = {$request} request has been cancelled.
-secure-terminal-activation-countdown = {$request} has been fully authorized.
-    Activating in {$minutes} minutes.
+secure-terminal-proposal-created = { $request } has been requested and is awaiting co-authorization.
+secure-terminal-proposal-created-reason = { $request } has been requested and is awaiting co-authorization. Reason: { $reason }
+secure-terminal-proposal-denied = { $request } request has been cancelled.
+secure-terminal-proposal-denied-cc = { $request } request has been denied by Central Command.
+secure-terminal-radio-proposal = { $request } has been proposed. Please go to the nearest Keycard Authentication Device to authorize or deny.
+secure-terminal-radio-proposal-reason = { $request } has been proposed. Please go to the nearest Keycard Authentication Device to authorize or deny. Reason: { $reason }
+secure-terminal-radio-denied = { $request } request has been cancelled.
+secure-terminal-activation-countdown = { $request } has been fully authorized.
+    Activating in { $minutes } minutes.
     Station salary has been reduced due to the mobilization cost.
 secure-terminal-unknown-job = Unknown
 
@@ -79,11 +79,11 @@ secure-terminal-no-active-proposal = No active proposal found for this request.
 secure-terminal-already-authorized = You have already authorized this proposal.
 secure-terminal-already-activated = This terminal already authorized this proposal.
 secure-terminal-auth-note = This terminal is only for authorization.
-secure-terminal-authorized-by = Attention — {$request} request has been authorized. Authorized by: {$signatories}.
-secure-terminal-armory-recalled = {$request} recall order issued. Armory deployment has been cancelled.
-secure-terminal-awaiting-admin = Attention — {$request} request has been sent. Awaiting authorization by Central Command.
-secure-terminal-admin = Requesting Admin Approval for: {$request}
-                        Reason: {$reason}
+secure-terminal-authorized-by = Attention — { $request } request has been authorized. Authorized by: { $signatories }.
+secure-terminal-armory-recalled = { $request } recall order issued. Armory deployment has been cancelled.
+secure-terminal-awaiting-admin = Attention — { $request } request has been sent. Awaiting authorization by Central Command.
+secure-terminal-admin = Requesting Admin Approval for: { $request }
+                        Reason: { $reason }
                         Use the AGhost to Approve/Deny the request.
 
 ## Request names & descriptions

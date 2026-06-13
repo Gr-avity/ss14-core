@@ -1,2 +1,2 @@
 ent-Binoculars = бинокль
-    .desc = Used for long-distance surveillance.
+    .desc = Используется для наблюдения на дальних дистанциях.

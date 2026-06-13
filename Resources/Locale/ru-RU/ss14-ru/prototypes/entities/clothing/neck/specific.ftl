@@ -1,3 +1,3 @@
 ent-ClothingNeckChameleon = полосатый красный шарф
-    .desc = A stylish striped red scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
-    .suffix = Chameleon
+    .desc = Стильный полосатый красный шарф. Идеальный зимний аксессуар для тех, у кого острый вкус, и тех, кто просто не переносит холодный ветерок на шее.
+    .suffix = Хамелеон

@@ -1,2 +1,2 @@
-ent-GavelBlock = подставка под молоток
-    .desc = This is what they hit.
+ent-GavelBlock = судейский молоток
+    .desc = Инструмент для поддержания порядка в суде.

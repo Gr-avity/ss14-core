@@ -1,6 +1,6 @@
 ent-BaseDispenser = { ent-BaseWallmountMetallic }
     .desc = { ent-BaseWallmountMetallic.desc }
 ent-CleanerDispenser = диспенсер чистящего средства
-    .desc = Wallmount Space Cleaner dispenser.
+    .desc = Настенный диспенсер космического очистителя.
 ent-FuelDispenser = топливный диспенсер
-    .desc = Wallmount Fuel dispenser.
+    .desc = Настенный топливный диспенсер.

@@ -1,2 +1,2 @@
 ent-Urn = урна
-    .desc = Store the Dead smart and Compact since 2300.
+    .desc = Умное и компактное хранение мертвых с 2300 года.

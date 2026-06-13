@@ -1,5 +1,5 @@
 ent-BodyBagLockable = запираемый мешок для трупов
-    .desc = A slightly tougher bag with an ID lock installed to prevent tampering, designed for the storage and transportation of cadavers to stop body decomposition.
+    .desc = Чуть более прочный мешок с установленным замком для предотвращения несанкционированного доступа, предназначенный для хранения и транспортировки трупов, чтобы остановить разложение тела.
 ent-BodyBagLockableFolded = запираемый мешок для трупов
-    .desc = A slightly tougher bag with an ID lock installed to prevent tampering, designed for the storage and transportation of cadavers to stop body decomposition.
-    .suffix = folded
+    .desc = Чуть более прочный мешок с установленным замком для предотвращения несанкционированного доступа, предназначенный для хранения и транспортировки трупов, чтобы остановить разложение тела.
+    .suffix = сложенный

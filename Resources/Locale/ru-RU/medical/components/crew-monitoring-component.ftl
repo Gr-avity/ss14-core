@@ -1,4 +1,4 @@
-﻿## UI
+## UI
 
 crew-monitoring-ui-title = Консоль мониторинга экипажа
 

@@ -1,3 +1,3 @@
 ent-DrinkTheLastCall = { ent-DrinkGlass }
-    .desc = There are no good or bad choices. Only consequences.
-    .suffix = the last call
+    .desc = Нет хороших или плохих решений. Только последствия.
+    .suffix = Последний звонок

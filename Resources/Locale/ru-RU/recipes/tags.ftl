@@ -102,7 +102,7 @@ construction-graph-tag-honk-weapon-control-and-targeting-module = модуль �
 construction-graph-tag-ripley-central-control-module = центральный модуль управления Рипли
 construction-graph-tag-ripley-peripherals-control-module = модуль управления периферией Рипли
 
-#SL Start
+# SL Start
 
 construction-graph-tag-exosuit-air-tank = баллон с воздухом экзокостюма
 construction-graph-tag-exosuit-thruster = двигатель экзокостюма
@@ -126,7 +126,7 @@ construction-graph-tag-clarke-peripherals-control = модуль управле�
 construction-graph-tag-ripley-central-control = центральный модуль управления Рипли
 construction-graph-tag-ripley-peripherals-control = модуль управления периферией Рипли
 
-#SL End
+# SL End
 
 # structures
 construction-graph-tag-door-electronics-circuit-board = микросхема шлюза

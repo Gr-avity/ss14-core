@@ -1,4 +1,4 @@
 ent-OreBag = сумка для руды
-    .desc = A robust bag for salvage specialists and miners alike to carry large amounts of ore. Magnetises any nearby ores when attached to a belt.
+    .desc = Прочная сумка для утилизаторов и шахтёров, чтобы переносить большое количество руды. Магнитится к любой руде поблизости, когда прикреплена к поясу.
 ent-BorgOreBag = встроенная сумка для руды
-    .desc = A large ore bag built into the frame of a mining cyborg.
+    .desc = Большая сумка для руды, встроенная в каркас шахтёрского киборга.

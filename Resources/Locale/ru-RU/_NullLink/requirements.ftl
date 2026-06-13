@@ -1,14 +1,13 @@
-# ss14-art-edit start: Lunarix localization
-roles-req-any-role-required-pass = Вам необходима любая из следующих ролей в {$discord}: {$roles}.
-roles-req-any-role-required-fail = Вам необходима любая из следующих ролей в {$discord}: {$roles}.
+roles-req-any-role-required-pass = Вам требуется любая из следующих ролей в { $discord }: [color=limegreen]{ $roles }[/color].
+roles-req-any-role-required-fail = Вам требуется любая из следующих ролей в { $discord }: [color=yellow]{ $roles }[/color].
 
 requirements-playtime =
     { $tracker ->
-        [overall] Вам все еще требуется {$time} общего игрового времени на сервере {$server}.
-       *[other] Вам все еще требуется {$time} игрового времени для {$tracker} на сервере {$server}.
+        [overall] Вам всё ещё требуется { $time } общего времени игры на сервере { $server }.
+        *[other] Вам всё ещё требуется { $time } времени игры за { $tracker } на сервере { $server }.
     }
 
-roles-req-discord-lunarix = Lunarix
+roles-req-discord-starlight = 🪐 Lunarix 🪐
 roles-req-discord-wizden = Wizden
 
 roles-req-lunarix-owner = Lunarix (Владелец)
@@ -26,14 +25,14 @@ roles-req-all-roles = персонал или ментор
 roles-req-ext-roles = персонал, ментор или ExtRoles
 roles-req-tester-roles = альфа- или бета-тестер (больше невозможно получить)
 roles-req-gold-event-winner = победитель золотого ивента
-roles-req-staff-roles = персонал
+roles-req-staff-roles = команда проекта
 roles-req-manager-roles = --Руководство сервера--
 roles-req-patron-roles = патрон
 roles-req-carpgames-roles = Победитель Carp Games
-roles-req-ticketsadministrator-roles = Tickets Administrator
-roles-req-first-writing-roles = First Writing Contest Winner
-roles-req-senior-developer = Senior Developer
-roles-req-developer = Developer
+roles-req-ticketsadministrator-roles = Администратор тикетов
+roles-req-first-writing-roles = Победитель первого конкурса писателей
+roles-req-senior-developer = Старший разработчик
+roles-req-developer = Разработчик
 
 triesteport-main = TRIESTEPORT
 overall = общее

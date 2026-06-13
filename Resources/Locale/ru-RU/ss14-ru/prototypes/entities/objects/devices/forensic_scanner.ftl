@@ -1,6 +1,6 @@
 ent-ForensicScanner = криминалистический сканер
-    .desc = A handheld device that can scan objects for fingerprints and fibers.
+    .desc = Ручное устройство, которое может сканировать объекты на наличие отпечатков пальцев и волокон.
 ent-ForensicReportPaper = отчет судебного сканера
-    .desc = Circumstantial evidence, at best.
+    .desc = Косвенные улики, в лучшем случае.
 ent-PaperAccessLogs = логи доступа
-    .desc = A printout from the detective's trusty LogProbe.
+    .desc = Распечатка с верного детективного LogProbe.

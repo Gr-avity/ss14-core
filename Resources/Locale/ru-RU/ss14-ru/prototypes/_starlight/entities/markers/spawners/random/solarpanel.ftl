@@ -1,2 +1,2 @@
-ent-RandomSolarSpawnerGlass = Random Glass Solar Panel Spawner
+ent-RandomSolarSpawnerGlass = спавнер случайных стеклянных солнечных панелей
     .desc = { ent-MarkerBase.desc }

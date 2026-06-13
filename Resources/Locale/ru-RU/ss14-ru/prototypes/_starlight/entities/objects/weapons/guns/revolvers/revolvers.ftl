@@ -1,10 +1,10 @@
 ent-WeaponRevolverMakeshift = самодельный револьвер
-    .desc = Little more than a hand-cannon with a high chance of blowing up in your face.
+    .desc = Чуть больше, чем ручная пушка с высоким шансом взорваться прямо в лицо.
 ent-WeaponRevolverImprovised = кустарный револьвер
-    .desc = A revolver that has two barrels and no cylinder. Can you really call this a revolver?
+    .desc = Револьвер с двумя стволами и без барабана. Можно ли это вообще называть револьвером?
 ent-WeaponRevolverForged = кованый револьвер
-    .desc = The best Tider engineering can offer, a revolver with the ability to hold 4 bullets!
+    .desc = Лучшее, что может предложить инженерия ассистентов: револьвер, способный вместить 4 пули!
 ent-WeaponRevolverDispatcher = служебный револьвер Nanotrasen Модель-7 «Диспетчер»
-    .desc = The NT Model 7 Service Revolver, known unofficially as the 'Dispatcher.' chambered in .45 Magnum with robust stopping power for putting an end to any non-compliance. A true timeless classic carried amongst NanoTrasen's elite security staff.
-ent-WeaponRevolverZOZ = TOZ-82 'Jupiter'
-    .desc = An oversized bullpup revolver whose design was smuggled out of the USSP. You might need both hands for this one. It's got a flip-out bayonet, but the damned thing is stuck shut. Loads 6 rounds of .45 magnum.
+    .desc = Служебный револьвер NT Модель 7, неофициально известный как «Диспетчер». Использует патроны .45 Магнум и обладает внушительной останавливающей силой, чтобы положить конец любому неповиновению. Настоящая классика вне времени, которую носят элитные сотрудники службы безопасности NanoTrasen.
+ent-WeaponRevolverZOZ = ТОЗ-82 'Юпитер'
+    .desc = Огромный револьвер компоновки булл-пап, чертежи которого были тайно вывезены из СССП. Возможно, вам понадобятся обе руки, чтобы удержать его. У него есть откидной штык, но эта проклятая штука застряла. Заряжается 6 патронами калибра .45 магнум.

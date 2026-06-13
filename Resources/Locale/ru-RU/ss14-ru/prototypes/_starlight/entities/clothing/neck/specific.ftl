@@ -1,3 +1,3 @@
 ent-ClothingMiscChameleon = золотая медаль экипажа
-    .desc = Given to crewmates who display excellent crewmanship.
-    .suffix = Chameleon
+    .desc = Вручается членам экипажа, проявившим превосходное мастерство.
+    .suffix = Хамелеон

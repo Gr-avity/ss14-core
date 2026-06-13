@@ -1,4 +1,4 @@
-﻿comp-space-heater-ui-title = Temperature Control Unit
+comp-space-heater-ui-title = Temperature Control Unit
 comp-space-heater-ui-thermostat = Термостат:
 comp-space-heater-ui-mode = Режим
 comp-space-heater-ui-status-disabled = Выключен
@@ -16,4 +16,4 @@ comp-space-heater-ui-Medium-power-consumption = Средний
 comp-space-heater-ui-High-power-consumption = Высокий
 
 comp-space-heater-device-name = космический обогреватель
-comp-space-heater-unanchored = {$device} не закреплён на месте.
+comp-space-heater-unanchored = { $device } не закреплён на месте.

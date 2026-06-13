@@ -1,6 +1,6 @@
 ent-AccessBreakerUnlimited = нарушитель доступа
-    .desc = A hacked access configurator, specialized to unlock and erase access from digital locks.
-    .suffix = Unlimited
+    .desc = Взломанный конфигуратор доступа, специализированный для разблокировки и стирания доступа с цифровых замков.
+    .suffix = Бесконечный
 ent-AccessBreaker = { ent-AccessBreakerUnlimited }
-    .suffix = Limited
     .desc = { ent-AccessBreakerUnlimited.desc }
+    .suffix = Ограниченный

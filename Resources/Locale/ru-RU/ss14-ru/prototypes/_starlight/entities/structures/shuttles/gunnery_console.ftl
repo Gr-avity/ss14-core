@@ -1,4 +1,4 @@
-ent-ComputerGunneryConsole = gunnery console
-    .desc = A dedicated fire-control station. Displays a tactical radar overlay showing shuttle cannons, draws aim lines, and allows guided control of rockets.
-ent-GunneryServer = fire assist mainframe
-    .desc = A specialized computer designed to synchronize a variety of weapon systems and a vessel's astronav data.
+ent-ComputerGunneryConsole = консоль управления артиллерией
+    .desc = Специализированная станция управления огнем. Отображает тактическое наложение радара, показывающее пушки шаттла, рисует линии прицеливания и позволяет осуществлять наведение ракет.
+ent-GunneryServer = мейнфрейм помощи в стрельбе
+    .desc = Специализированный компьютер, предназначенный для синхронизации различных систем вооружения и данных астронавигации судна.

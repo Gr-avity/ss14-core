@@ -111,7 +111,7 @@ accent-pirate-replacement-35 = полундра
 accent-pirate-replaced-36 = прекратить
 accent-pirate-replacement-36 = отставить
 
-accent-pirate-replaced-37 = болит
+accent-pirate-replaced-37  = болит
 accent-pirate-replacement-37 = ноет
 
 accent-pirate-replaced-38 = сзади
@@ -133,7 +133,7 @@ accent-pirate-replaced-43 = спереди
 accent-pirate-replacement-43 = на носу
 
 accent-pirate-replaced-44 = еда
-accent-pirate-replacement-44 = жратва
+accent-pirate-replacement-44  = жратва
 
 accent-pirate-replaced-45 = трапеза
 accent-pirate-replacement-45 = жратва

@@ -1,4 +1,4 @@
-﻿## Damage command loc.
+## Damage command loc.
 
 damage-command-description = Добавляйте или удаляйте урон объекту.
 damage-command-help = Использование: { $command } <type/group> <amount> [ignoreResistances] [uid]

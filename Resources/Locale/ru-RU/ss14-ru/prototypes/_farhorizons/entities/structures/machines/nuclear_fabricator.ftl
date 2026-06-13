@@ -1,2 +1,2 @@
 ent-NuclearFabricator = ядерный фабрикатор
-    .desc = It makes nuclear parts.
+    .desc = Он делает ядерные детали.

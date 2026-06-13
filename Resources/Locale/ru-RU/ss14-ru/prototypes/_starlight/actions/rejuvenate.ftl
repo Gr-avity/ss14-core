@@ -1,4 +1,4 @@
-ent-ActionInstantRejuvenate = Rejuvenate Self
-    .desc = Restore your body to its original condition. Single use.
-ent-ActionDevilRejuvenate = Rejuvenate Self
-    .desc = Restore your body. Package does not include the SureRevive (tm) SuperCell (R) cellular damage cover. Fifteen minute cooldown.
+ent-ActionInstantRejuvenate = Омоложение
+    .desc = Восстановите свое тело до первоначального состояния. Одноразовое использование.
+ent-ActionDevilRejuvenate = Омоложение
+    .desc = Восстановите свое тело. Пакет не включает покрытие клеточного урона SureRevive (tm) SuperCell (R). Перезарядка пятнадцать минут.

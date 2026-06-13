@@ -1,2 +1,2 @@
 ent-SlopDispenser = раздатчик питательной пасты
-    .desc = Produces tha slop using biomass. Can also convert plants to biomass for direct use.
+    .desc = Производит питательную массу из биомассы. Также может перерабатывать растения в биомассу для прямого использования.

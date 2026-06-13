@@ -1,2 +1,2 @@
 ent-Stunprod = электродубинка
-    .desc = A stun prod for illegal incapacitation.
+    .desc = Электродубинка для незаконного обездвиживания.

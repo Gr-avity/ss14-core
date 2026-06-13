@@ -1,2 +1,2 @@
 ent-Flare = аварийный фальшфейер
-    .desc = A flare that produces a very bright light for a short while. Point the flame away from yourself.
+    .desc = Фальшфейер, который на короткое время даёт очень яркий свет. Направляйте пламя от себя.

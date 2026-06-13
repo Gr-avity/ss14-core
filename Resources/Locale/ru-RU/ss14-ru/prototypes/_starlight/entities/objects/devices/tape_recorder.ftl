@@ -1,7 +1,7 @@
 ent-TapeRecorder = Мысль
-    .desc = Anything said into this device can and will be used against you in a court of space law.
-ent-CassetteTape = cassette tape
-    .desc = A magnetic tape that can hold up to two minutes of content on either side.
+    .desc = Всё, что сказано в это устройство, может и будет использовано против вас в суде космического права.
+ent-CassetteTape = кассета
+    .desc = Магнитная лента, вмещающая до двух минут контента с каждой стороны.
 ent-CassetteTapeInterview = { ent-CassetteTape }
-    .suffix = Interview with Garry Smosh
     .desc = { ent-CassetteTape.desc }
+    .suffix = Интервью с Гарри Смитом

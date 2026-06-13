@@ -70,7 +70,7 @@ marking-ThavenREyeGlow-glowright = Светящийся глаз (П)
 marking-ThavenRArmScales = Чешуя на правой руке
 marking-ThavenRArmScales-scales = Чешуя (П. Рука)
 
-marking-ThavenRArmTattoo1 = Браслет-тату (правая)
+marking-ThavenRArmTattoo1 =  Браслет-тату (правая)
 marking-ThavenRArmTattoo1-tat1 = Повязка на руку (П)
 
 marking-ThavenTigerRArm = Тигриные полосы (правая рука)
@@ -186,7 +186,7 @@ marking-ThavenHibiscus = Гибискус
 marking-ThavenHibiscus-hibiscus1 = Лепестки
 marking-ThavenHibiscus-hibiscus2 = Пыльники
 
-marking-ThavenPiercings = Пирсинг «Хеликс»
+marking-ThavenPiercings =  Пирсинг «Хеликс»
 marking-ThavenPiercings-piercings = Пирсинг «Хеликс»
 
 marking-ThavenPiercings2 = Пирсинг-кольцо

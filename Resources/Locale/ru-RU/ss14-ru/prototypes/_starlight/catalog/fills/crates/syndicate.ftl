@@ -1,3 +1,3 @@
 ent-CrateSyndicateChameleonBundle = ящик набора хамелеона
-    .desc = Contains a backpack full of items that contain chameleon technology allowing you to disguise as pretty much anything on the station, and more!
-    .suffix = Filled
+    .desc = Содержит рюкзак, полный предметов, содержащих технологию хамелеона, позволяющую вам замаскироваться практически под что угодно на станции, и многое другое!
+    .suffix = Заполненный

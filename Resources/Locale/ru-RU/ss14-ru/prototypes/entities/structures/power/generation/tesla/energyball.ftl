@@ -1,6 +1,6 @@
 ent-BaseEnergyBall = { "" }
     .desc = { "" }
 ent-TeslaEnergyBall = шаровая молния
-    .desc = A giant ball of pure energy. The space around it is humming and melting.
+    .desc = Гигантский шар чистой энергии. Пространство вокруг него гудит и плавится.
 ent-TeslaMiniEnergyBall = мини-шаровая молния
-    .desc = The cub of a destructive energy cage. Not as dangerous, but still not worth touching with bare hands.
+    .desc = Детеныш разрушительной энергетической клетки. Не так опасен, но всё же его не стоит трогать голыми руками.

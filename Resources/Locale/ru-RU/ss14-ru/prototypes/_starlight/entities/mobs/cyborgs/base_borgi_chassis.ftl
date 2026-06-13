@@ -1,7 +1,9 @@
-ent-BaseBorgiChassis = { ent-BaseBorgiLanguages }
-    .desc = { ent-BaseBorgiLanguages.desc }
+ent-BaseBorgiChassis = { ent-MobCorgiSmart }
+    .desc = { ent-MobCorgiSmart.desc }
+    .suffix = { ent-MobCorgiSmart.suffix }
 ent-BaseStationBorgiChassis = умный борги
-    .desc = A unusually smart dog, loves stating it's laws.
+    .desc = Необычно умная собака, любит декларировать свои законы.
+    .suffix = { ent-BaseBorgiChassis.suffix }
 ent-BaseSyndicateBorgiChassis = синди-борги
-    .desc = An unusually smart dog, but hell bent on MURDER.
-    .suffix = Antag
+    .desc = Необычно умная собака, но одержимая УБИЙСТВОМ.
+    .suffix = Антагонист

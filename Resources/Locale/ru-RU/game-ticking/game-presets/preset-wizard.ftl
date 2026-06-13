@@ -5,30 +5,33 @@ roles-antag-survivor-name = Выживший
 roles-antag-survivor-objective = Текущая задача: Выжить
 
 survivor-role-greeting =
-    You are a Survivor. Above all you need to make it back to Central Command alive.
-    Collect as much firepower as needed to guarantee your survival.
-    Trust no one.
+    Вы — выживший. Ваша главная задача — вернуться на Центральное командование живым.
+    Соберите столько огневой мощи, сколько потребуется для обеспечения вашего выживания.
+    Никому не доверяйте.
 
 survivor-round-end-dead-count =
-{
-    $deadCount ->
-        [one] [color=red]{$deadCount}[/color] survivor died.
-        *[other] [color=red]{$deadCount}[/color] survivors died.
-}
+    { $deadCount ->
+        [one] [color=red]{ $deadCount }[/color] выживший погиб.
+        [few] [color=red]{ $deadCount }[/color] выживших погибли.
+        [many] [color=red]{ $deadCount }[/color] выживших погибли.
+        *[other] [color=red]{ $deadCount }[/color] выживших погибли.
+    }
 
 survivor-round-end-alive-count =
-{
-    $aliveCount ->
-        [one] [color=yellow]{$aliveCount}[/color] survivor was marooned on the station.
-        *[other] [color=yellow]{$aliveCount}[/color] survivors were marooned on the station.
-}
+    { $aliveCount ->
+        [one] [color=yellow]{ $aliveCount }[/color] выживший остался на станции.
+        [few] [color=yellow]{ $aliveCount }[/color] выживших остались на станции.
+        [many] [color=yellow]{ $aliveCount }[/color] выживших остались на станции.
+        *[other] [color=yellow]{ $aliveCount }[/color] выживших остались на станции.
+    }
 
 survivor-round-end-alive-on-shuttle-count =
-{
-    $aliveCount ->
-        [one] [color=green]{$aliveCount}[/color] survivor made it out alive.
-        *[other] [color=green]{$aliveCount}[/color] survivors made it out alive.
-}
+    { $aliveCount ->
+        [one] [color=green]{ $aliveCount }[/color] выживший выбрался живым.
+        [few] [color=green]{ $aliveCount }[/color] выживших выбрались живыми.
+        [many] [color=green]{ $aliveCount }[/color] выживших выбрались живыми.
+        *[other] [color=green]{ $aliveCount }[/color] выживших выбрались живыми.
+    }
 
 ## Wizard
 
@@ -41,9 +44,9 @@ roles-antag-wizard-name = Космический волшебник
 roles-antag-wizard-objective = Устройте хаос на станции
 
 wizard-role-greeting =
-    It's wizard time, fireball!
-    There's been tensions between the Space Wizards Federation and NanoTrasen. You've been selected by the Space Wizards Federation to pay a visit to the station and "remind them" why spellcasters are not to be trifled with.
-    Cause mayhem and destruction! What you do is up to you, but remember that the Space Wizards want you to make it out alive.
+    Время волшебства, огненный шар!
+    Между Федерацией космических волшебников и NanoTrasen нарастает напряженность. Федерация космических волшебников выбрала вас для визита на станцию, чтобы «напомнить им», почему с заклинателями шутки плохи.
+    Сейте хаос и разрушение! Что именно вы будете делать — решать вам, но помните, что Космические Волшебники хотят, чтобы вы вернулись живым.
 
 wizard-round-end-name = волшебник
 

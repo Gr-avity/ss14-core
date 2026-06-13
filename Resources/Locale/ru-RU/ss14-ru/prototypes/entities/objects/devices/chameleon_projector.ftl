@@ -1,11 +1,11 @@
 ent-ChameleonProjectorNoBattery = хамелеон-проектор
-    .desc = Holoparasite technology used to create a hard-light replica of any object around you. Disguise is destroyed when picked up or deactivated.
+    .desc = Технология голопаразитов, используемая для создания копии из твёрдого света любого объекта вокруг вас. Маскировка разрушается при поднятии или деактивации.
 ent-ChameleonProjector = хамелеон-проектор
-    .desc = Holoparasite technology used to create a hard-light replica of any object around you. Disguise is destroyed when picked up or deactivated.
-    .suffix = Battery
+    .desc = Технология голопаразитов, используемая для создания копии из твёрдого света любого объекта вокруг вас. Маскировка разрушается при поднятии или деактивации.
+    .suffix = Батарея
 ent-ChameleonDisguise = Урист МакКляйнер
     .desc = { "" }
 ent-ActionDisguiseNoRot = Зафиксировать поворот
-    .desc = Use this to prevent your disguise from rotating, making it easier to hide in some scenarios.
+    .desc = Используйте это, чтобы предотвратить поворот вашей маскировки, что облегчает скрытие в некоторых сценариях.
 ent-ActionDisguiseAnchor = Зафиксировать положение
-    .desc = For many objects you will want to be anchored to not be completely obvious.
+    .desc = Для многих объектов вы захотите быть закреплённым, чтобы не выглядеть подозрительно.

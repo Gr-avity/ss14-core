@@ -1,2 +1,2 @@
 ent-MobRevenant = ревенант
-    .desc = A spooky ghostie.
+    .desc = Жуткое привидение.

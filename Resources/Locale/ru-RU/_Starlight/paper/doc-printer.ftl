@@ -263,11 +263,11 @@ doc-text-printer-disposal-report =
 
     List of items/materials found:
 
-    • [form] - Given to [form] Department
-    • [form] - Given to [form] Department
-    • [form] - Given to [form] Department
-    • [form] - Given to [form] Department
-    • [form] - Given to [form] Department
+    • [form] — Given to [form] Department
+    • [form] — Given to [form] Department
+    • [form] — Given to [form] Department
+    • [form] — Given to [form] Department
+    • [form] — Given to [form] Department
     ─────────────────────────────────────────
    ⠀                      [italic]Place for Stamps and/or Signatures[/italic]
 

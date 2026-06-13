@@ -1,4 +1,4 @@
-﻿advertisement-happyhonk-1 = Honk! Honk! Why not order a Happy Honk Meal today?
+advertisement-happyhonk-1 = Honk! Honk! Why not order a Happy Honk Meal today?
 advertisement-happyhonk-2 = Клоуны заслуживают обнимашек, если вы увидите одного из них — обязательно выразите свою признательность.
 advertisement-happyhonk-3 = Если вы найдёте золотой хонкер, то помолитесь богам — вы счастливчик.
 advertisement-happyhonk-4 = Хэппи Хонк обед, оценит даже главмед, заглянув к нам на пирушку не забудь забрать игрушку.

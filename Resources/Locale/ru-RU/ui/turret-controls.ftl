@@ -1,12 +1,12 @@
 # Headings
 turret-controls-window-title = Система управления автономной обороной
-turret-controls-window-turret-status-label = Подключённые устройства [{$count}]
+turret-controls-window-turret-status-label = Подключённые устройства [{ $count }]
 turret-controls-window-armament-controls-label = Настройки вооружения
 turret-controls-window-targeting-controls-label = Доступные цели
 
 # Status reports
 turret-controls-window-no-turrets = <! Нет подключённых устройств !>
-turret-controls-window-turret-status = » {$device} — Состояние: {$status}
+turret-controls-window-turret-status = » { $device } — Состояние: { $status }
 turret-controls-window-turret-disabled = ***НЕАКТИВНО***
 turret-controls-window-turret-retracted = ОТКЛЮЧЕНО
 turret-controls-window-turret-retracting = ДЕАКТИВАЦИЯ

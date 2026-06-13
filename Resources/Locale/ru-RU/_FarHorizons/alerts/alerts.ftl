@@ -1,5 +1,5 @@
-alerts-battery-crit-name = [color=red]SHUTDOWN IMMINENT[/color]
-alerts-battery-crit-desc = You have[color=red]no power![/color] Get a new power source immediately or you'll power off!
+alerts-battery-crit-name = [color=red]ОТКЛЮЧЕНИЕ БЛИЗКО[/color]
+alerts-battery-crit-desc = У вас [color=red]нет питания![/color] Немедленно найдите новый источник энергии, иначе вы отключитесь!
 
-alerts-low-circulation-name = [color=red]Low Circulation[/color]
-alerts-low-circulation-desc = Something about the atmosphere, be it pressure or temperature is making your ventaliation [color=red]less effective[/color]. A [color=green]pressurized suit[/color] would protect you.
+alerts-low-circulation-name = [color=red]Низкая циркуляция[/color]
+alerts-low-circulation-desc = Что-то не так с атмосферой (давление или температура), из-за чего ваша вентиляция стала [color=red]менее эффективной[/color]. [color=green]Скафандр[/color] мог бы защитить вас.

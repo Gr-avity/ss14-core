@@ -1,8 +1,8 @@
-ent-ActionExitConsole = выйти из консоли
-    .desc = Exit console.
-ent-ActionSendYourself = отправиться самому
-    .desc = send yourself.
-ent-ActionGizmoMark = Mark
-    .desc = using gizmo from your pockets to mark agent.
-ent-ActionReturnToShip = вернуться
-    .desc = return to the ship.
+ent-ActionExitConsole = Выйти из консоли
+    .desc = Выйти из консоли.
+ent-ActionSendYourself = Отправиться самому
+    .desc = Отправить себя.
+ent-ActionGizmoMark = Пометить
+    .desc = Используйте гизмо из карманов, чтобы пометить агента.
+ent-ActionReturnToShip = Вернуться
+    .desc = Вернуться на корабль.

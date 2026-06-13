@@ -1,4 +1,4 @@
-﻿addtag-command-description = Adds a tag to a given entity
+addtag-command-description = Adds a tag to a given entity
 addtag-command-help = Использование: addtag <uidЭнтити> <тэг>
 
 addtag-command-success = Добавлен { $tag } к { $target }.

@@ -1,3 +1,3 @@
 ent-ClothingOuterChameleon = жилет
-    .desc = A thick vest with a rubbery, water-resistant shell.
-    .suffix = Chameleon
+    .desc = Толстый жилет с прорезиненной, водостойкой оболочкой.
+    .suffix = Хамелеон

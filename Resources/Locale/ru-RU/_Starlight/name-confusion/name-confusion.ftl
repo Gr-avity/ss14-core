@@ -1,4 +1,4 @@
-name-confusion-mod = {$confusedName}
+name-confusion-mod = { $confusedName }
 
 # wow look at that, organization for once!
 command-description-nconf-confuse =

@@ -1,2 +1,2 @@
 ent-AiInterfaceCube = ИИ-интерфейс
-    .desc = An artificial brain capable of allowing remote AI takeover.
+    .desc = Искусственный мозг, способный обеспечить удаленное управление ИИ.

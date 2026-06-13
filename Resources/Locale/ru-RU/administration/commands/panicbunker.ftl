@@ -25,10 +25,10 @@ panicbunker-command-show-reason-disabled = Бункер больше не буд
 
 cmd-panicbunker_min_account_age-desc = Получает или задает минимальный возраст учетной записи в минутах, в течение которого учетной записи должно быть разрешено подключение с включенным бункером.
 cmd-panicbunker_min_account_age-help = Использование: panicbunker_min_account_age <minutes>
-panicbunker-command-min-account-age-is = Минимальный возраст учетной записи для бункера составляет {$minutes} {RU-PLURAL($minutes, "минуту", "минуты", "минут")}.
-panicbunker-command-min-account-age-set = Минимальный возраст учетной записи для бункера установлен на {$minutes} {RU-PLURAL($minutes, "минуту", "минуты", "минут")}
+panicbunker-command-min-account-age-is = Минимальный возраст учетной записи для бункера составляет { $minutes } { RU-PLURAL($minutes, "минуту", "минуты", "минут") }.
+panicbunker-command-min-account-age-set = Минимальный возраст учетной записи для бункера установлен на { $minutes } { RU-PLURAL($minutes, "минуту", "минуты", "минут") }
 
 cmd-panicbunker_min_overall_minutes-desc = Получает или задает минимальное общее время игры в минутах, в течение которого учетной записи должно быть разрешено подключение с включенным бункером.
 cmd-panicbunker_min_overall_minutes-help = Использование: panicbunker_min_overall_minutes <minutes>
-panicbunker-command-min-overall-minutes-is = Минимальное общее время игры в бункере паники составляет {$minutes} {RU-PLURAL($minutes, "минуту", "минуты", "минут")}.
-panicbunker-command-min-overall-minutes-set = Минимальное общее время игры в бункере паники установлено на {$minutes} {RU-PLURAL($minutes, "минуту", "минуты", "минут")}.
+panicbunker-command-min-overall-minutes-is = Минимальное общее время игры в бункере паники составляет { $minutes } { RU-PLURAL($minutes, "минуту", "минуты", "минут") }.
+panicbunker-command-min-overall-minutes-set = Минимальное общее время игры в бункере паники установлено на { $minutes } { RU-PLURAL($minutes, "минуту", "минуты", "минут") }.

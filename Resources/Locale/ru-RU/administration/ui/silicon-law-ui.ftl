@@ -1,4 +1,4 @@
-﻿silicon-law-ui-verb = Manage laws
+silicon-law-ui-verb = Manage laws
 silicon-law-ui-title = Законы кремния
 silicon-law-ui-new-law = Новый закон
 silicon-law-ui-save = Сохранить изменения

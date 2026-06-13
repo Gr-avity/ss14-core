@@ -1,5 +1,5 @@
 ent-BaseStockPart = деталь машины
-    .desc = What?
+    .desc = Что?
 ent-MicroManipulatorStockPart = микроманипулятор
-    .desc = A basic machine part used in the construction of a variety of devices.
-    .suffix = Rating 1
+    .desc = Базовая деталь машины, используемая при создании множества устройств.
+    .suffix = Уровень 1

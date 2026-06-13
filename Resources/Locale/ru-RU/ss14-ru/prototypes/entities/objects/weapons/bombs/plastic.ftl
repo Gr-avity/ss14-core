@@ -1,6 +1,6 @@
 ent-BasePlasticExplosive = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 ent-C4 = взрывчатка C4
-    .desc = Used to put holes in specific areas without too much extra hole. A saboteur's favorite.
+    .desc = Используется для проделывания отверстий в определенных местах без лишних разрушений. Любимица саботажника.
 ent-SeismicCharge = сейсмический заряд
-    .desc = Concussion based explosive designed to destroy large amounts of rock.
+    .desc = Взрывчатое вещество на основе сотрясения, предназначенное для разрушения больших массивов породы.

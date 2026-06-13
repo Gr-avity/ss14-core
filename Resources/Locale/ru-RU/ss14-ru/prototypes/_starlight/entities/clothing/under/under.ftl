@@ -1,6 +1,6 @@
 ent-ClothingUnderSocksMime = носки мима
-    .desc = Silently creep up to your target.
+    .desc = Бесшумно подкрадитесь к своей цели.
 ent-ClothingUnderSocksStirrup = носки со штрипками
-    .desc = All of the fashion, none of the practicality.
+    .desc = Вся мода, никакой практичности.
 ent-ClothingUnderSocksYellow = жёлтые носки
-    .desc = Bright yellow, but lacking any bees.
+    .desc = Ярко-жёлтые, но без каких-либо пчёл.

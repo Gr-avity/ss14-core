@@ -1,8 +1,8 @@
 ent-BookConspiracies = То, что они не хотят, чтобы ты знал
-    .desc = Frantic writings are scribbled across multiple pages. Should you really be reading this?
+    .desc = Неистовые записи нацарапаны на нескольких страницах. Тебе действительно стоит это читать?
 ent-BookMoreConspiracies = Что ещё они не хотят, чтобы ты знал
-    .desc = Frantic writings are scribbled across multiple pages. Should you really be reading this?
+    .desc = Неистовые записи нацарапаны на нескольких страницах. Тебе действительно стоит это читать?
 ent-BookClownMimeWar = История межгалактической войны клоунов и мимов
-    .desc = Frantic writings are scribbled across multiple pages. Most of the text is covered in handwritten question marks.
+    .desc = Неистовые записи нацарапаны на нескольких страницах. Большая часть текста покрыта рукописными вопросительными знаками.
 ent-BookMarsIncident = История из 22-го века: Инцидент на Марсе
-    .desc = Frantic writings are scribbled across multiple pages. Most of the text is covered in handwritten question marks.
+    .desc = Неистовые записи нацарапаны на нескольких страницах. Большая часть текста покрыта рукописными вопросительными знаками.

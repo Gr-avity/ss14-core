@@ -1,7 +1,7 @@
 ### Locale for wielding items; i.e. two-handing them
 
-wieldable-verb-text-wield = Взять в руки
-wieldable-verb-text-unwield = Взять в руку
+wieldable-verb-text-wield = Взять в две руки
+wieldable-verb-text-unwield = Взять в одну руку
 
 wieldable-component-successful-wield = Вы берёте { $item } в две руки.
 wieldable-component-failed-wield = Вы берёте { $item } в одну руку.
@@ -10,9 +10,10 @@ wieldable-component-failed-wield-other = { $user } берёт { $item } в од�
 wieldable-component-blocked-wield = { CAPITALIZE($blocker) } не даёт вам взять { $item } в две руки.
 
 wieldable-component-no-hands = Вам не хватает рук!
-wieldable-component-not-enough-free-hands = {$number ->
-    [one] You need a free hand to wield { THE($item) }.
-    *[other] You need { $number } free hands to wield { THE($item) }.
+wieldable-component-not-enough-free-hands = { $number ->
+    [one] Вам нужна свободная рука, чтобы взять { $item } в две руки.
+    [few] Вам нужно { $number } свободные руки, чтобы взять { $item } в две руки.
+    *[other] Вам нужно { $number } свободных рук, чтобы взять { $item } в две руки.
 }
 wieldable-component-not-in-hands = { CAPITALIZE($item) } не в ваших руках!
 

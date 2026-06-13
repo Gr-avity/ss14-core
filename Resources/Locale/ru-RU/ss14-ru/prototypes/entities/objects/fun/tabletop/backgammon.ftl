@@ -1,4 +1,4 @@
 ent-BackgammonBoard = доска для нард
-    .desc = Old fashioned game of dice and pieces.
+    .desc = Старомодная игра в кости и фишки.
 ent-BackgammonBoardTabletop = нарды
     .desc = { ent-BaseBoardTabletop.desc }

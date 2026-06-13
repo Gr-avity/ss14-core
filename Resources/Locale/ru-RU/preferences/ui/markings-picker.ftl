@@ -10,7 +10,7 @@ marking-used = { $marking-name }
 marking-used-forced = { $marking-name } (Принудительно)
 marking-slot-add = Добавить
 marking-slot-remove = Удалить
-marking-slot = Слот {$number}
+marking-slot = Слот { $number }
 
 humanoid-marking-modifier-force = Принудительно
 humanoid-marking-modifier-ignore-species = Игнорировать вид
@@ -23,15 +23,15 @@ humanoid-marking-modifier-prototype-id = ID прототипа:
 
 markings-category-Special = Специальное
 markings-category-Hair = Причёска
-markings-category-FacialHair = Лицевая Растительность
+markings-category-FacialHair = Лицевая растительность
 markings-category-Head = Голова
 markings-category-HeadTop = Голова (верх)
 markings-category-HeadSide = Голова (бок)
 markings-category-Eyes = Глаза
 markings-category-Snout = Морда
 markings-category-SnoutCover = Морда (внешняя)
-markings-category-UndergarmentTop = Нижнее белье (Верх)
-markings-category-UndergarmentBottom = Нижнее белье (Низ)
+markings-category-UndergarmentTop = Нижнее бельё (верх)
+markings-category-UndergarmentBottom = Нижнее бельё (низ)
 markings-category-Chest = Грудь
 markings-category-Arms = Руки
 markings-category-Legs = Ноги

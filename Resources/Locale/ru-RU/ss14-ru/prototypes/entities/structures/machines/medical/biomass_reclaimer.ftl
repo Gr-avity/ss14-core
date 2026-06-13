@@ -1,2 +1,2 @@
 ent-BiomassReclaimer = переработчик биомассы
-    .desc = Reclaims biomass from corpses. Gruesome.
+    .desc = Перерабатывает биомассу из трупов. Жутко.

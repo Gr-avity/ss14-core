@@ -1,8 +1,8 @@
 ent-BaseCrowbar = лом
-    .desc = A multipurpose tool used for many tasks, such as prying doors or bludgeoning interdimensional invaders.
-ent-Crowbar = лом
+    .desc = Многофункциональный инструмент, используемый для многих задач, таких как вскрытие дверей или избиение межпространственных захватчиков.
+ent-Crowbar = { ent-BaseCrowbar }
     .desc = { ent-BaseCrowbar.desc }
-ent-CrowbarRed = аварийный лом
+ent-CrowbarRed = { ent-BaseCrowbar }
     .desc = { ent-BaseCrowbar.desc }
 ent-CrowbarGreen = { ent-BaseCrowbar }
     .desc = { ent-BaseCrowbar.desc }
@@ -11,4 +11,4 @@ ent-CrowbarOrange = { ent-BaseCrowbar }
 ent-CrowbarYellow = { ent-BaseCrowbar }
     .desc = { ent-BaseCrowbar.desc }
 ent-CrowbarAbductor = ломик высоких технологий
-    .desc = A multipurpose tool to pry open doors and fight interdimensional invaders.
+    .desc = Многофункциональный инструмент, чтобы вскрывать двери и сражаться с межпространственными захватчиками.

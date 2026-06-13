@@ -1,24 +1,15 @@
 ent-BaseWeaponRifle = Винтовка
-    .desc = A rooty tooty point and shooty.
+    .desc = Стреляющая штуковина.
 ent-WeaponRifleAk = АКМС
-    .desc = A somewhat battered combat rifle of a design originating from old Earth. Favored by criminals, militias, and terrorists due to its famed reliability and easy-to-manufacture design. Feeds from .30 rifle magazines.
+    .desc = Несколько потрёпанная боевая винтовка конструкции, происходящей с Земли прошлого. Популярна среди преступников, ополченцев и террористов благодаря своей известной надежности и простой в изготовлении конструкции. Использует винтовочные магазины калибра .30.
 ent-WeaponRifleM90GrenadeLauncher = M90 ГЛ
-    .desc =
-        An older bullpup carbine model, with an attached underbarrel grenade launcher.
-        Feeds from .20 rifle magazines.
+    .desc = Более старая модель карабина компоновки булл-пап с прикрепленным подствольным гранатометом. Использует винтовочные магазины калибра .20.
 ent-WeaponRifleLecter = «Лектер»
-    .desc =
-        Popular gas-operated combat rifle used heavily by NanoTrasen and SolGov. Operating in semi or fully automatic, its accuracy, stopping power, and reliability make it excel in all manner of environments.
-        Feeds from .20 rifle magazines.
+    .desc = Популярная газоотводная боевая винтовка, активно используемая NanoTrasen и SolGov. Работая в полуавтоматическом или полностью автоматическом режиме, её точность, останавливающая сила и надежность позволяют ей преуспевать в любых условиях. Использует винтовочные магазины калибра .20.
 ent-WeaponRifleLecterXL8 = XL8
-    .desc =
-        The Experimental Lecter 8
-        An unreasonably expensive military grade assault rifle with integrated optic.
-        Uses .20 rifle ammo.
+    .desc = Экспериментальный Лектер 8. Необоснованно дорогая штурмовая винтовка военного класса со встроенной оптикой. Использует винтовочные патроны калибра .20.
 ent-WeaponRifleEstoc = Эсток
-    .desc =
-        A designated marksman rifle firing in 3-round bursts. The Estoc was designed as the Lecter’s long-range counterpart, equipped with an extended 20-inch barrel and telescopic sight.
-        Feeds from .20 rifle magazines.
+    .desc = Марксманская винтовка, стреляющая очередями по 3 патрона. Эсток был разработан как аналог Лектера для дальних дистанций, оснащен удлиненным 20-дюймовым стволом и телескопическим прицелом. Использует винтовочные магазины калибра .20.
 ent-WeaponRifleAkAdmeme = принудительный АКМС
-    .desc = An iconic weapon of war. Uses .30 rifle ammo.
-    .suffix = Admeme
+    .desc = Иконическое оружие войны. Использует винтовочные патроны калибра .30.
+    .suffix = АДМИН

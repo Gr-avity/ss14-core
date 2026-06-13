@@ -30,7 +30,7 @@ verb-categories-fax = Задать место назначения
 verb-categories-power-level = Уровень энергии
 verb-categories-switch = Переключить режим
 verb-categories-adjust = Отрегулировать
-verb-categories-manage-channels = Manage Channels
+verb-categories-manage-channels = Управление каналами
 
 verb-common-toggle-light = Переключить свет
 verb-common-close = Закрыть

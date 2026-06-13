@@ -1,5 +1,5 @@
 ent-BaseTowel = базовое полотенце
-    .desc = If you want to survive out here, you gotta know where your towel is.
+    .desc = Если хочешь выжить здесь, ты должен знать, где твое полотенце.
 ent-TowelColorWhite = белое полотенце
     .desc = { ent-BaseTowel.desc }
 ent-TowelColorPurple = фиолетовое полотенце

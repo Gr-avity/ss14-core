@@ -1,8 +1,8 @@
 ent-MobLivingLight = световое существо
-    .desc = A blinding figure of pure light, seemingly intangible.
+    .desc = Ослепительная фигура из чистого света, кажущаяся нематериальной.
 ent-MobLuminousPerson = { ent-MobLivingLight }
     .desc = { ent-MobLivingLight.desc }
 ent-MobLuminousObject = светящийся объект
-    .desc = A small glowing object that causes burns on the skin with its glow.
+    .desc = Небольшой светящийся объект, который своим свечением вызывает ожоги на коже.
 ent-MobLuminousEntity = светящаяся сущность
-    .desc = A blinding translucent entity, the bright eye seems dangerous and scalding.
+    .desc = Ослепительная полупрозрачная сущность, ее яркий глаз кажется опасным и обжигающим.

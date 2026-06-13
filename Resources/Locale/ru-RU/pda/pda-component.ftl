@@ -6,7 +6,7 @@ comp-pda-ui = ID: [color=white]{ $owner }[/color], [color=yellow]{ CAPITALIZE($j
 
 comp-pda-ui-blank = ID:
 
-comp-pda-ui-owner = Владелец: [color=white]{$actualOwnerName}[/color]
+comp-pda-ui-owner = Владелец: [color=white]{ $actualOwnerName }[/color]
 
 comp-pda-io-program-list-button = Программы
 
@@ -32,7 +32,7 @@ comp-pda-ui-station-alert-level = Уровень тревоги: [color={ $color
 
 comp-pda-ui-station-alert-level-instructions = Инструкции: [color=white]{ $instructions }[/color]
 
-comp-pda-ui-start-time = Shift duration: [color=white]{ $time }[/color]
+comp-pda-ui-start-time = Продолжительность смены: [color=white]{ $time }[/color]
 
 comp-pda-ui-station-time = Длительность смены: [color=white]{ $time }[/color]
 
@@ -57,6 +57,6 @@ comp-pda-ui-unassigned = Не назначено
 pda-notification-message = [font size=12][bold]КПК[/bold] { $header }: [/font]
     "{ $message }"
 
-comp-pda-ui-shuttle-launch-time = Before the shuttle launch: [color=white]{ $time }[/color]
-comp-pda-ui-shuttle-arrival-time = Until the shuttle arrives: [color=white]{ $time }[/color]
-comp-pda-ui-shuttle-call-time = Before the crew change: [color=white]{ $time }[/color]
+comp-pda-ui-shuttle-launch-time = До запуска шаттла: [color=white]{ $time }[/color]
+comp-pda-ui-shuttle-arrival-time = До прибытия шаттла: [color=white]{ $time }[/color]
+comp-pda-ui-shuttle-call-time = До вызова эвакуации: [color=white]{ $time }[/color]

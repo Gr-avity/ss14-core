@@ -1,11 +1,11 @@
 ent-BriefcaseIAAFilled = { ent-BriefcaseBrown }
-    .suffix = IAA
     .desc = { ent-BriefcaseBrown.desc }
+    .suffix = ААП
 ent-BriefcaseLawyerFilled = { ent-BriefcaseBrown }
-    .suffix = Lawyer
     .desc = { ent-BriefcaseBrown.desc }
-ent-SyndieDeadDropSpawner = Syndicate High Command
+    .suffix = Адвокат
+ent-SyndieDeadDropSpawner = Синдикат, высшее командование
     .desc = { ent-MarkerBase.desc }
-ent-BriefcaseSyndieDeadDrop = syndicate briefcase
-    .suffix = Dead Drop, Do Not Map
-    .desc = { ent-BaseSubfloorAnchorStorageAnchored.desc }
+ent-BriefcaseSyndieDeadDrop = портфель Синдиката
+    .desc = { ent-BriefcaseSyndicateRedspace.desc }
+    .suffix = Тайник, НЕ СТАВИТЬ НА КАРТУ

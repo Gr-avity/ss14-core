@@ -1,2 +1,2 @@
-ent-ClothingNullSpaceDrainer = сливщик nullspace
-    .desc = A Superimposed device that occupies the physical and nullspace. Intaking external and foreign energy into data. This device restrains and blocks entities from entering and or leaving nullspace.
+ent-ClothingNullSpaceDrainer = сливщик нуль-пространства
+    .desc = Наложенное устройство, которое занимает физическое пространство и нуль-пространство. Поглощает внешнюю и иностранную энергию в данные. Это устройство сдерживает и блокирует сущностей от входа или выхода из нуль-пространства.

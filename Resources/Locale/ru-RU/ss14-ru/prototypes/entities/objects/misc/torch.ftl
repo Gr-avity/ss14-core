@@ -1,2 +1,2 @@
 ent-Torch = факел
-    .desc = A torch fashioned from some wood.
+    .desc = Факел, сделанный из дерева.

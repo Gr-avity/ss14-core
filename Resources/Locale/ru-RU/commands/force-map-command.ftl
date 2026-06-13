@@ -1,4 +1,4 @@
-﻿cmd-forcemap-desc = Forces the game to start with a given map next round.
+cmd-forcemap-desc = Forces the game to start with a given map next round.
 cmd-forcemap-help = Использование: forcemap <map ID>
 cmd-forcemap-success = Следующий раунд начнётся на карте { $map }.
 cmd-forcemap-cleared = Настройки принудительной карты очищены.

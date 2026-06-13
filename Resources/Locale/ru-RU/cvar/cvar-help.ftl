@@ -1,4 +1,4 @@
-﻿changecvar-simple-debug_test_cvar = Does nothing.
+changecvar-simple-debug_test_cvar = Does nothing.
 changecvar-full-debug_test_cvar = Простой тестовый CVar. Ничего не делает.
 
 changecvar-simple-events_enabled = Регулирует, должны ли запускаться события на станции.

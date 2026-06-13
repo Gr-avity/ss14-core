@@ -40,5 +40,5 @@ reagent-desc-catessence = Тип канцерогенного фермента, 
 reagent-name-canidessence = каниназ
 reagent-desc-canidessence = Тип канцерогенного фермента, который, как известно, расщепляет белки, содержащиеся в голосовых связках большинства животных. НЕ рекомендуется смешивать.
 
-#Starlight
+# Starlight
 reagent-name-concentratedcorgijuice = концентрированный сок корги

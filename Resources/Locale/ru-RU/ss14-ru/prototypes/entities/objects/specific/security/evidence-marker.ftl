@@ -1,5 +1,5 @@
 ent-EvidenceMarker = маркер улик
-    .desc = A numbered yellow marker, useful for labeling evidence on a crime scene.
+    .desc = Пронумерованный жёлтый маркер, полезный для маркировки улик на месте преступления.
 ent-EvidenceMarkerOne = { ent-EvidenceMarker }
     .desc = { ent-EvidenceMarker.desc }
 ent-EvidenceMarkerTwo = { ent-EvidenceMarker }
@@ -19,4 +19,4 @@ ent-EvidenceMarkerEight = { ent-EvidenceMarker }
 ent-EvidenceMarkerNine = { ent-EvidenceMarker }
     .desc = { ent-EvidenceMarker.desc }
 ent-BoxEvidenceMarkers = коробка с маркерами улик
-    .desc = A pack of numbered yellow markers, useful for labeling evidence on a crime scene.
+    .desc = Набор пронумерованных жёлтых маркеров, полезных для маркировки улик на месте преступления.

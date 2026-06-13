@@ -1,2 +1,3 @@
 ent-JanitorServiceLight = лампа уборщика
-    .desc = A wall-mounted janitorial sign. If the light is blinking, a janitor's service is required.
+    .desc = Настенная табличка уборщика. Если лампочка мигает, требуются услуги уборщика.
+    .suffix = { ent-Poweredlight.suffix }

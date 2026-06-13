@@ -1,6 +1,6 @@
-ent-ClothingHeadHelmetHardsuitNTNCConsortium = шлем скафандра флота NT-NC
-    .desc = A protective hardsuit helmet worn by NanoTrasen Navy Marines.
-ent-ClothingHeadHelmetHardsuitNTNCConsortiumMedic = шлем скафандра медика флота NT-NC
-    .desc = A protective hardsuit helmet worn by NanoTrasen Navy Marine medical personnel.
-ent-ClothingHeadHelmetHardsuitMedTak = MedTak operator helmet
-    .desc = An armoured helmet worn by MedTak operators.
+ent-ClothingHeadHelmetHardsuitNTNCConsortium = шлем скафандра морпеха НаноТрасен
+    .desc = Защитный шлем скафандра, который носят морпехи НаноТрасен.
+ent-ClothingHeadHelmetHardsuitNTNCConsortiumMedic = медицинский шлем скафандра морпеха НаноТрасен
+    .desc = Защитный шлем скафандра, который носит медицинский персонал морской пехоты НаноТрасен.
+ent-ClothingHeadHelmetHardsuitMedTak = шлем оператора МедТак
+    .desc = Бронированный шлем, который носят операторы МедТак.

@@ -1,12 +1,12 @@
 ent-GasPipeSensorTEGFuel = { ent-GasPipeSensor }
-    .suffix = TEG fuel
     .desc = { ent-GasPipeSensor.desc }
+    .suffix = Топливо ТЭГ
 ent-GasPipeSensorVoxAir = { ent-GasPipeSensor }
-    .suffix = Vox air
     .desc = { ent-GasPipeSensor.desc }
+    .suffix = Воздух воксов
 ent-GasPipeSensorNuclearHot = { ent-GasPipeSensor }
-    .suffix = Nuclear hot
     .desc = { ent-GasPipeSensor.desc }
+    .suffix = Ядерный горячий
 ent-GasPipeSensorNuclearCold = { ent-GasPipeSensor }
-    .suffix = Nuclear cold
     .desc = { ent-GasPipeSensor.desc }
+    .suffix = Ядерный холодный

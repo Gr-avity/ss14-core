@@ -1,4 +1,4 @@
 ent-Morgue = морг
-    .desc = Used to store bodies until someone fetches them. Includes a high-tech alert system for false-positives!
+    .desc = Используется для хранения тел, пока кто-нибудь не заберет их. Включает высокотехнологичную систему оповещения о ложноположительных результатах!
 ent-Crematorium = крематорий
-    .desc = A human incinerator. Works well on barbecue nights.
+    .desc = Инсинератор для людей. Хорошо работает на вечеринках с барбекю.

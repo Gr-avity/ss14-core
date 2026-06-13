@@ -1,6 +1,6 @@
 # Uplink
-store-category-debug = debug category
-store-category-debug2 = debug category 2
+store-category-debug = Отладочная категория
+store-category-debug2 = Отладочная категория 2
 store-category-weapons = Вооружение
 store-category-ammo = Боеприпасы
 store-category-explosives = Взрывчатка
@@ -21,10 +21,10 @@ store-category-abilities = Способности
 store-caregory-spellbook-offensive = Атакующие заклинания
 store-caregory-spellbook-defensive = Защитные заклинания
 store-caregory-spellbook-utility = Полезные заклинания
-store-caregory-spellbook-equipment = Оборудование мага
+store-caregory-spellbook-equipment = Снаряжение мага
 store-caregory-spellbook-events = Заклинания событий
 
 # Nukie Delivery
 store-category-nukie-delivery = Предложения
 
-store-category-languages = Languages
+store-category-languages = Языки

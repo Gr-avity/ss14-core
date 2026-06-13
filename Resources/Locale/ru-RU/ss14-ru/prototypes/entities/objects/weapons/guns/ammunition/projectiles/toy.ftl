@@ -1,2 +1,2 @@
 ent-BulletFoam = поролоновый дротик
-    .desc = I hope you're wearing eye protection.
+    .desc = Надеюсь, на вас надеты защитные очки.

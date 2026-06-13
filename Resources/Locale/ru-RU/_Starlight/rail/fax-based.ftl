@@ -10,14 +10,14 @@ rr-criminal-1-letter-content =
     ─────────────────────────────────────────
                       [center][color=#006666][italic][bold]Order for Immediate Interception[/bold][/italic][/color][/center]
     ─────────────────────────────────────────
-    A dangerous criminal named '{$subject}' has infiltrated your station.
+    A dangerous criminal named '{ $subject }' has infiltrated your station.
 
-    {CAPITALIZE(SUBJECT($subject))} {CONJUGATE-BE($subject)} charged with multiple counts of █████████████, as well as ██████████████. There is also clear evidence pointing to crimes of a ██████████████ nature against █████████████. {CAPITALIZE(SUBJECT($subject))} may be armed.
+    { CAPITALIZE(SUBJECT($subject)) } { CONJUGATE-BE($subject) } charged with multiple counts of █████████████, as well as ██████████████. There is also clear evidence pointing to crimes of a ██████████████ nature against █████████████. { CAPITALIZE(SUBJECT($subject)) } may be armed.
 
-    In accordance with Directive 25, Section B of the Code of Information Crimes, you are ordered to deliver {OBJECT($subject)} to Central Command, dead or alive.
+    In accordance with Directive 25, Section B of the Code of Information Crimes, you are ordered to deliver { OBJECT($subject) } to Central Command, dead or alive.
 
-    {$subject} [italic]must[/italic] be:
-    - [bold]Handcuffed[/bold] (even if {SUBJECT($subject)} {CONJUGATE-BE($subject)} compliant)
+    { $subject } [italic]must[/italic] be:
+    - [bold]Handcuffed[/bold] (even if { SUBJECT($subject) } { CONJUGATE-BE($subject) } compliant)
     - [bold]Searched[/bold]
     - [bold]Interrogated[/bold]
 
@@ -31,11 +31,11 @@ rr-criminal-failed-content =
     ─────────────────────────────────────────
                                       [center][color=#006666][italic][bold]Mitigation Decision[/bold][/italic][/color][/center]
     ─────────────────────────────────────────
-    Regarding the case of the criminal {$subject}. We have just intercepted a recruitment letter indicating that the crimes committed were not of direct intent.
+    Regarding the case of the criminal { $subject }. We have just intercepted a recruitment letter indicating that the crimes committed were not of direct intent.
 
     In this regard, the crime is no longer classified as informational extremism, but as fatal negligence.
 
-    You should [bold]interrogate[/bold] the criminal, and if {SUBJECT($subject)} admits {POSS-ADJ($subject)} guilt, [bold]parole[/bold] {OBJECT($subject)} and allow {OBJECT($subject)} to work it off in lower positions, with damages assessed from one and a half to ten million credits.
+    You should [bold]interrogate[/bold] the criminal, and if { SUBJECT($subject) } admits { POSS-ADJ($subject) } guilt, [bold]parole[/bold] { OBJECT($subject) } and allow { OBJECT($subject) } to work it off in lower positions, with damages assessed from one and a half to ten million credits.
     ─────────────────────────────────────────
    ⠀                                    [italic]Place for stamps[/italic]
 

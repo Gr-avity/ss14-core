@@ -1,11 +1,11 @@
-ent-ToolboxElectricalTurretPirateFilled = electrical toolbox
-    .suffix = Pirate, Turret, Filled
+ent-ToolboxElectricalTurretPirateFilled = электрический ящик для инструментов
     .desc = { ent-ToolboxElectricalTurretPirate.desc }
+    .suffix = Пират, Турель, Заполненный
 ent-ToolboxArtisticFilledCleaner = художественный ящик для инструментов
-    .suffix = Cleaner
     .desc = { ent-ToolboxArtistic.desc }
+    .suffix = Очиститель
 ent-ToolboxRoboticist = ящик для инструментов робототехника
-    .desc = What, it's just a roboticist toolbox? Were you expecting something else?
+    .desc = Что, это просто ящик для инструментов робототехника? Вы ожидали чего-то другого?
 ent-ToolboxRoboticistFilled = ящик для инструментов робототехника
-    .suffix = Filled
     .desc = { ent-ToolboxRoboticist.desc }
+    .suffix = Заполненный

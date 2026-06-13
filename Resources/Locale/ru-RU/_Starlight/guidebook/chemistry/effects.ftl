@@ -1,5 +1,6 @@
 reagent-effect-guidebook-dissolvable-reaction =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } destroys the objects
+        [one] вызывает
+        [few] вызывают
+        *[other] вызывает
+    } разрушение предметов

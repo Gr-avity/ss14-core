@@ -1,4 +1,6 @@
 ent-AirAlarmElectronics = микросхема воздушной сигнализации
-    .desc = An electronics board used in air alarms.
+    .desc = Электронная плата, используемая в воздушной сигнализации.
+    .suffix = { ent-BaseElectronics.suffix }
 ent-FireAlarmElectronics = микросхема пожарной сигнализации
-    .desc = An electronics board used in fire alarms.
+    .desc = Электронная плата, используемая в пожарной сигнализации.
+    .suffix = { ent-BaseElectronics.suffix }

@@ -1,4 +1,4 @@
 ent-BottleShip = корабль в бутылке
-    .desc = How did they get it in there?
-ent-PlushieDarkForest = dark forest entity
-    .desc = Apocalypse holding a lantern...
+    .desc = Как они его туда засунули?
+ent-PlushieDarkForest = тёмное лесное существо
+    .desc = Апокалипсис, держащий фонарь...

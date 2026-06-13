@@ -1,2 +1,2 @@
 ent-Silencer = глушитель
-    .desc = Tool for silencing humans.
+    .desc = Инструмент для принуждения людей к молчанию.

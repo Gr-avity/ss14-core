@@ -1,5 +1,5 @@
-ent-MachineDarkBreacher = тёмный проламыватель
-    .desc = The portal to the dark...
+ent-MachineDarkBreacher = тёмный проломщик
+    .desc = Портал во тьму...
 ent-MachineDarkBreacherPowered = { ent-MachineDarkBreacher }
-    .suffix = Powered
     .desc = { ent-MachineDarkBreacher.desc }
+    .suffix = Включен

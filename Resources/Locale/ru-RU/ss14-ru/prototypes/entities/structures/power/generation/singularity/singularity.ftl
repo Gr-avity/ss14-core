@@ -1,2 +1,2 @@
 ent-Singularity = гравитационная сингулярность
-    .desc = A mesmerizing swirl of darkness that sucks in everything. If it's moving towards you, run.
+    .desc = Завораживающий вихрь тьмы, который всасывает в себя всё. Если она движется к вам, бегите.

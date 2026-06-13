@@ -1,5 +1,5 @@
 ent-KitchenReagentGrinder = измельчитель реагентов
-    .desc = From BlenderTech. Will It Blend? Let's find out!
-    .suffix = grinder/juicer
+    .desc = От BlenderTech. Сможет ли он измельчить это? Давайте узнаем!
+    .suffix = измельчитель/соковыжималка
 ent-ReagentGrinderIndustrial = промышленный измельчитель реагентов
-    .desc = An industrial reagent grinder.
+    .desc = Промышленный измельчитель реагентов.

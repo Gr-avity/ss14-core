@@ -97,4 +97,4 @@ ent-ShivaStealObjective = { ent-BaseThiefStealAnimalObjective }
 ent-TropicoStealObjective = { ent-BaseThiefStealAnimalObjective }
     .desc = { ent-BaseThiefStealAnimalObjective.desc }
 ent-EscapeThiefShuttleObjective = Сбежать на ЦК живым и без наручников
-    .desc = You don't want your illegal activities to be discovered by anyone, do you?
+    .desc = Вы же не хотите, чтобы кто-то узнал о ваших незаконных действиях, верно?

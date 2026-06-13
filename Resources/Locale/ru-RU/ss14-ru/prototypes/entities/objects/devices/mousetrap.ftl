@@ -1,5 +1,5 @@
 ent-Mousetrap = мышеловка
-    .desc = Useful for catching rodents sneaking into your kitchen.
+    .desc = Полезна для поимки грызунов, пробирающихся на вашу кухню.
 ent-MousetrapArmed = мышеловка
-    .desc = Useful for catching rodents sneaking into your kitchen.
-    .suffix = Armed
+    .desc = Полезна для поимки грызунов, пробирающихся на вашу кухню.
+    .suffix = Заряженная

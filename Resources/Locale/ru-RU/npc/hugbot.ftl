@@ -1,4 +1,4 @@
-﻿hugbot-start-hug-1 = LEVEL 5 HUG DEFICIENCY DETECTED!
+hugbot-start-hug-1 = ОБНАРУЖЕН ДЕФИЦИТ ОБЪЯТИЙ 5-ГО УРОВНЯ!
 hugbot-start-hug-2 = Похоже, тебе нужны объятия!
 hugbot-start-hug-3 = Оуу, кому-то нужны объятия!
 hugbot-start-hug-4 = Цель обнаружена, начинаю процедуру объятий.

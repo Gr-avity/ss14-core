@@ -1,5 +1,6 @@
 ent-MobTick = космический клещ
-    .desc = It's a space tick, watch out for its nasty bite. CentComm reports that 90 percent of cargo leg amputations are due to space tick bites.
+    .desc = Это космический клещ, берегитесь его неприятного укуса. ЦентКом сообщает, что 90 процентов ампутаций ног в грузовом отделе происходят из-за укусов космических клещей.
+    .suffix = { ent-SimpleSpaceMobBase.suffix }
 ent-MobTickSalvage = { ent-MobTick }
-    .suffix = Salvage Ruleset
     .desc = { ent-MobTick.desc }
+    .suffix = Набор правил утилизации

@@ -1,11 +1,11 @@
 ent-ElectricalDisruptionKit = набор электрических помех
-    .suffix = Filled
     .desc = { ent-BoxCardboard.desc }
+    .suffix = Заполненный
 ent-ChemicalSynthesisKit = набор химического синтеза
-    .desc = A starter kit for the aspiring chemist, includes two vials of vestine for all your criminal needs!
+    .desc = Стартовый набор для начинающего химика, включает две ампулы вестина для всех ваших преступных нужд!
 ent-ThrowingKnivesKit = набор метательных ножей
-    .desc = A set of 8 syndicate branded throwing knives, perfect for embedding into the body of your victims.
+    .desc = Набор из 8 метательных ножей с брендом Синдиката, идеально подходящих для того, чтобы вонзить их в тело ваших жертв.
 ent-BoxDeathRattleImplants = коробка имплантов «предсмертный хрип»
-    .desc = Six deathrattle implants for the whole squad.
+    .desc = Шесть имплантов «предсмертный хрип» для всей команды.
 ent-CombatBakeryKit = набор боевой пекарни
-    .desc = A kit of clandestine baked weapons.
+    .desc = Набор тайного пекарного оружия.

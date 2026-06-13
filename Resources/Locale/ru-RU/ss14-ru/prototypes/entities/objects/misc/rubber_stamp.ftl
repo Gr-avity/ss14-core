@@ -1,5 +1,5 @@
 ent-RubberStampBase = универсальный резиновый штамп
-    .desc = A rubber stamp for stamping important documents.
+    .desc = Резиновый штамп для проштамповки важных документов.
 ent-RubberStampBaseAlt = альтернативный резиновый штамп
     .desc = { ent-RubberStampBase.desc }
 ent-RubberStampCaptain = печать капитана
@@ -39,6 +39,6 @@ ent-RubberStampDenied = печать ОТКАЗАНО
 ent-RubberStampDetective = штамп детектива
     .desc = { ent-RubberStampBase.desc }
 ent-RubberStampPsychologist = штамп психолога
-    .desc = A rubber stamp for stamping important documents. Prescribe those treatments!
+    .desc = Резиновый штамп для проштамповки важных документов. Выписывайте эти рецепты!
 ent-RubberStampWizard = печать волшебника
-    .desc = A chaotic wizard stamp for serving unchaotic paperwork, how ironic.
+    .desc = Хаотичный штамп волшебника для оформления нехаотичных документов, какая ирония.

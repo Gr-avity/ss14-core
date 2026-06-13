@@ -1,6 +1,6 @@
 ent-ActionFireball = Огненный шар
-    .desc = Fires an explosive fireball towards the clicked location. (Cooldown of 5 minutes)
+    .desc = Выстреливает взрывным огненным шаром в выбранном направлении. (Перезарядка 5 минут)
 ent-ActionFireballII = Огненный шар II
-    .desc = Fires a fireball, but faster! (Cooldown of 3 minutes)
+    .desc = Выстреливает огненным шаром, но быстрее! (Перезарядка 3 минуты)
 ent-ActionFireballIII = Огненный шар III
-    .desc = The fastest fireball in the west! (Cooldown of 2 minutes)
+    .desc = Самый быстрый огненный шар на диком западе! (Перезарядка 2 минуты)

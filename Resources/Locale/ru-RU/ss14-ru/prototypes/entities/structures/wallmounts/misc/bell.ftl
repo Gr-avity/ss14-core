@@ -1,2 +1,2 @@
 ent-BoxingBell = боксёрский гонг
-    .desc = Ding ding!
+    .desc = Дзынь-дзынь!

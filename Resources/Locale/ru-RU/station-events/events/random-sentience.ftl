@@ -7,23 +7,23 @@ random-sentience-event-data-5 = обнаруженные нами энергет
 random-sentience-event-data-6 = [УДАЛЕНО]
 
 ## Phrases used to describe the level of intelligence, though it doesn't actually affect anything.
-random-sentience-event-strength-1 = человека
-random-sentience-event-strength-2 = обезьяны
+random-sentience-event-strength-1 = человеческого
+random-sentience-event-strength-2 = обезьяньего
 random-sentience-event-strength-3 = среднего
-random-sentience-event-strength-4 = службы безопасности
-random-sentience-event-strength-5 = командования
-random-sentience-event-strength-6 = клоуна
+random-sentience-event-strength-4 = офицера службы безопасности
+random-sentience-event-strength-5 = члена командования
+random-sentience-event-strength-6 = клоунского
 random-sentience-event-strength-7 = низкого
-random-sentience-event-strength-8 = ИИ
+random-sentience-event-strength-8 = искусственного интеллекта
 
 ## Announcement text
 
-station-event-random-sentience-announcement = Based on { $data }, we believe that some of the station's { $amount ->
+station-event-random-sentience-announcement = Основываясь на данных, которые предоставили { $data }, мы считаем, что некоторые существа вида { $amount ->
     [1] { $kind1 }
-    [2] { $kind1 } and { $kind2 }
-    [3] { $kind1 }, { $kind2 }, and { $kind3 }
-    *[other] { $kind1 }, { $kind2 }, { $kind3 }, etc.
-} beings have developed { $strength } level intelligence, and the ability to communicate.
+    [2] { $kind1 } и { $kind2 }
+    [3] { $kind1 }, { $kind2 } и { $kind3 }
+    *[other] { $kind1 }, { $kind2 }, { $kind3 } и т. д.
+} на вашей станции развили интеллект { $strength } уровня, а также способность к общению.
 
 ## Ghost role description
 

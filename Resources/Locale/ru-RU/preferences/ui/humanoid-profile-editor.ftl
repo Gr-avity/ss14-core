@@ -26,20 +26,20 @@ humanoid-profile-editor-spawn-priority-label = Приоритет появлен
 humanoid-profile-editor-eyes-label = Цвет глаз:
 humanoid-profile-editor-jobs-tab = Должности
 humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Остаться в лобби, если должность недоступна.
-humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Получить должность "{ $overflowJob }", если должность недоступна.
+humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Получить должность «{ $overflowJob }», если должность недоступна.
 humanoid-profile-editor-preference-jumpsuit = Комбинезон
 humanoid-profile-editor-preference-jumpskirt = Юбка-комбинезон
 humanoid-profile-editor-preference-backpack = Рюкзак
 humanoid-profile-editor-preference-satchel = Сумка
 humanoid-profile-editor-preference-duffelbag = Вещмешок
-humanoid-profile-editor-guidebook-button-tooltip = Нажмите чтобы узнать больше
+humanoid-profile-editor-guidebook-button-tooltip = Нажмите, чтобы узнать больше
 
 # Spawn priority
 humanoid-profile-editor-preference-spawn-priority-none = Нет
 humanoid-profile-editor-preference-spawn-priority-arrivals = Прибытие
 humanoid-profile-editor-preference-spawn-priority-cryosleep = Криосон
 
-humanoid-profile-editor-jobs-amount-in-department-tooltip = Должностей в отделе {$departmentName}
+humanoid-profile-editor-jobs-amount-in-department-tooltip = Должностей в отделе { $departmentName }
 humanoid-profile-editor-department-jobs-label = { $departmentName }
 humanoid-profile-editor-antags-tab = Антагонисты
 humanoid-profile-editor-antag-preference-yes-button = Да
@@ -49,7 +49,7 @@ humanoid-profile-editor-job-priority-high-button = Высокий
 humanoid-profile-editor-job-priority-medium-button = Средний
 humanoid-profile-editor-job-priority-low-button = Низкий
 humanoid-profile-editor-job-priority-never-button = Никогда
-humanoid-profile-editor-naming-rules-warning = Внимание: Оскорбительные или странные имена и описания могут повлечь за собой беседу с администрацией. Прочитайте \[Правила\].
+humanoid-profile-editor-naming-rules-warning = Внимание: оскорбительные или странные имена и описания могут повлечь за собой беседу с администрацией. Прочитайте \[Правила\].
 humanoid-profile-editor-markings-tab = Черты внешности
 humanoid-profile-editor-cybernetics-tab = Кибернетика
 humanoid-profile-editor-flavortext-tab = Описание

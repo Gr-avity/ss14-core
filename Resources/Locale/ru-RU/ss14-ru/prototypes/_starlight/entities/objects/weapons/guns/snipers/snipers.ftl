@@ -1,6 +1,6 @@
 ent-WeaponSniperMakeshift = самодельная рычажная винтовка
-    .desc = It'll blow a hole in the guy you point this at, if it doesn't snap your wrist first.
+    .desc = Она проделает дыру в парне, на которого вы её наставите, если только не сломает вам запястье первым делом.
 ent-WeaponSniperImprovised = кустарная рычажная винтовка
-    .desc = Can ALMOST reliably hit a target!
+    .desc = Способна ПОЧТИ надежно поражать цель!
 ent-WeaponSniperForged = кованая рычажная винтовка
-    .desc = The best a tider can achive, reliable fire-rate and accuracy with a satisfying lever-action system. What more can you ask for? Is fitted to be able to chamber both .35 / .45
+    .desc = Лучшее, чего может достичь ассистент: надежная скорострельность и точность с приятной рычажной системой. Чего еще можно желать? Приспособлена под калибры .35 и .45.

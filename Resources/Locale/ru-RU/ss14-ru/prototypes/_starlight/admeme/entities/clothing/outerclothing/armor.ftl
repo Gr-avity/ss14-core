@@ -1,7 +1,7 @@
-ent-ClothingOuterVestWebNTNCEnsign = NanoTrasen navy marine ensign's carapace.
-    .desc = An armoured carapace designed for the best of the best within the navy, allowing the wearer to remain protected and stylish.
-ent-ClothingOuterVestNTNC = жилет офицера флота NT-NC
-    .desc = Much better than a standard type-1 security vest. Don't lose it, you will NOT get a replacement.
-ent-ClothingOuterArmorCasino = heavy armor vest
-    .desc = A reinforced Type II armored vest that provides decent protection against most types of damage.
+ent-ClothingOuterVestWebNTNCEnsign = панцирь мичмана морской пехоты НаноТрасен
+    .desc = Бронированный панцирь, разработанный для лучших из лучших на флоте, позволяющий носителю оставаться защищенным и стильным.
+ent-ClothingOuterVestNTNC = жилет морской пехоты НаноТрасен
+    .desc = Намного лучше, чем стандартный защитный жилет первого типа. Не теряйте его, вы НЕ получите замену.
+ent-ClothingOuterArmorCasino = тяжелый бронежилет
+    .desc = Усиленный бронежилет типа II, обеспечивающий достойную защиту от большинства видов урона.
     .suffix = admeme

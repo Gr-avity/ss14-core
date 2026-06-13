@@ -1,6 +1,6 @@
 ent-FoodCartBase = тележка с едой
-    .desc = A cart for food.
+    .desc = Тележка для еды.
 ent-FoodCartHot = тележка с горячей едой
-    .desc = Get out there and slang some dogs.
+    .desc = Иди туда и продавай хот-доги.
 ent-FoodCartCold = тележка с холодной едой
-    .desc = It's the Ice Cream Man! It's the Ice Cream Man!
+    .desc = Это мороженщик! Это мороженщик!

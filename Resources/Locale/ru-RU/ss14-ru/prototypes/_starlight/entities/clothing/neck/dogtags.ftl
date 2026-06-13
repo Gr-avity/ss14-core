@@ -1,2 +1,2 @@
 ent-ClothingDogTags = жетоны
-    .desc = Never forget.
+    .desc = Никогда не забывай.

@@ -1,2 +1,2 @@
 ent-PinpointerTerminator = целевой маяк
-    .desc = the current whereabouts of your target.
+    .desc = Текущее местоположение вашей цели.

@@ -1,2 +1,2 @@
 ent-IceCrust = ледяная корка
-    .desc = It's cold and slippery.
+    .desc = Она холодная и скользкая.

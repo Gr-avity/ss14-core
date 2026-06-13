@@ -2,7 +2,7 @@
 borg-select-type-menu-paints = Модели
 
 ## Security borg chassis actions
-borg-call-for-help-message = SECURITY ALERT: {$borg} is requesting backup at {$position}!
+borg-call-for-help-message = SECURITY ALERT: { $borg } is requesting backup at { $position }!
 
 ## Borg type information
 
