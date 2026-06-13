@@ -1,0 +1,17 @@
+- type: hudTheme
+  id: SS14ErisTheme
+  name: ui-options-hud-theme-eris
+  path: /Textures/_Art/Interface/Eris/
+  order: 7
+
+- type: hudTheme
+  id: SS14CosmicCultTheme # Taken from GoobStation
+  name: ui-options-hud-theme-coscult
+  path: /Textures/_Art/Interface/CosmicCult/
+  order: 8
+
+- type: hudTheme
+  id: SS14OperativeTheme # Taken from WWDP
+  name: ui-options-hud-theme-operative
+  path: /Textures/_Art/Interface/Operative/
+  order: 9
