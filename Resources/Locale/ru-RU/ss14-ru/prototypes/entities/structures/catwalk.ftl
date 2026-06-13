@@ -1,2 +1,2 @@
 ent-Catwalk = мостик
-    .desc = A catwalk for easier EVA maneuvering and cable placement.
+    .desc = Мостик для облегчения маневрирования в открытом космосе и прокладки кабелей.

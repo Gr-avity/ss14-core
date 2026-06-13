@@ -1,4 +1,4 @@
 ent-CrateNameSyndicateShuttleBundle = ящик набора шаттла
-    .desc = Everything but the shuttle board. It's a shuttle in a crate* (Some assembly required)
+    .desc = Все, кроме платы управления шаттлом. Это шаттл в ящике* (Требуется частичная сборка)
 ent-CrateNameSyndicateFriendshipBundle = ящик набора дружбы
-    .desc = Friendship in a crate*. (Some assembly required)
+    .desc = Дружба в ящике*. (Требуется частичная сборка)

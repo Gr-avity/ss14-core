@@ -1,10 +1,10 @@
 ent-ClothingHeadSoftsuitCBURN = шлем CBURN
-    .desc = A pressure resistant and fireproof hood worn by special cleanup units.
+    .desc = Герметичный и огнеупорный капюшон, который носят специальные подразделения по очистке.
 ent-ClothingHeadHelmetTSF = боевой шлем морпеха Федерации
-    .desc = A powered combat helmet used by the Trans-Solar Marine Corps. Provides excellent protection in all areas, while a modern OCULUS array augments the wearer's vision.
+    .desc = Энергетический боевой шлем, используемый Транс-Солнечным Корпусом Морской Пехоты. Обеспечивает превосходную защиту во всех областях, а современный массив OCULUS дополняет зрение владельца.
 ent-ClothingHeadHelmetTSFLeader = боевой шлем офицера морпеха Федерации
-    .desc = A powered combat helmet used by officers of the Trans-Solar Marine Corps. Provides excellent protection in all areas, while a next-gen OCULUS array augments the wearer's vision.
-ent-ClothingHeadBowlHelmet = шлем аквариум
-    .desc = It looks like a fish bowl, but somehow it functions as an EVA helmet.
+    .desc = Энергетический боевой шлем, используемый офицерами Транс-Солнечного Корпуса Морской Пехоты. Обеспечивает превосходную защиту во всех областях, а массив OCULUS следующего поколения дополняет зрение владельца.
+ent-ClothingHeadBowlHelmet = шлем «аквариум»
+    .desc = Выглядит как рыбий аквариум, но почему-то функционирует как шлем для выхода в открытый космос.
 ent-ClothingHeadHelmetsoftsuitWizard = капюшон пустоты волшебника
-    .desc = A bizarre gem-encrusted hood that radiates magical energies.
+    .desc = Причудливый капюшон, инкрустированный драгоценными камнями, который излучает магическую энергию.

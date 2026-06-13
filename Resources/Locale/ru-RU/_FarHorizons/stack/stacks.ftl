@@ -1,2 +1,2 @@
 stack-plutonium = плутоний
-stack-oilpack = Oil Pack
+stack-oilpack = Масляный пакет

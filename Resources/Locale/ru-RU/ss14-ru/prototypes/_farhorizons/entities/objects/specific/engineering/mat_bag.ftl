@@ -1,2 +1,2 @@
-ent-MatBag = construction bag
-    .desc = A rough, dirty, heavy duty construction bag with a magnet messily welded onto its side, it can be placed inside your backpack or attached to the hip like a belt.
+ent-MatBag = строительная сумка
+    .desc = Грубая, грязная, прочная строительная сумка с магнитом, небрежно приваренным сбоку. Её можно положить в рюкзак или прикрепить к бедру, как пояс.

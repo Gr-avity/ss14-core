@@ -1,6 +1,6 @@
 ent-SheetAdamantine = адамантиновый лист
-    .desc = An adamantine bar, obtained from those slime wranglers who refuse to go outside.
-    .suffix = Full
+    .desc = Адамантиновый слиток, полученный от тех дрессировщиков слаймов, которые отказываются выходить на улицу.
+    .suffix = Полный
 ent-SheetAdamantine1 = адамантиновый лист
-    .suffix = Single
     .desc = { ent-SheetAdamantine.desc }
+    .suffix = Одинарный

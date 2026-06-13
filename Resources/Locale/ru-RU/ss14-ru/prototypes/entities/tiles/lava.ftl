@@ -1,2 +1,2 @@
 ent-FloorLavaEntity = лава
-    .desc = Don't jump in. It's not worth it, no matter how funny it is.
+    .desc = Не прыгайте внутрь. Оно того не стоит, как бы смешно это ни было.

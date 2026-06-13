@@ -1,2 +1,2 @@
 ent-ActionKnock = Стук
-    .desc = This spell opens nearby doors.
+    .desc = Это заклинание открывает ближайшие двери.

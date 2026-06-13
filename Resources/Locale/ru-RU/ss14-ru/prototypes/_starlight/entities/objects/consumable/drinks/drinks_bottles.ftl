@@ -1,2 +1,3 @@
 ent-DrinkVodkizineBottleFull = бутылка водкизина
-    .desc = The best cure for and cause of a hangover.
+    .desc = Лучшее лекарство от похмелья и его же причина.
+    .suffix = { ent-DrinkBottleGlassBaseFull.suffix }

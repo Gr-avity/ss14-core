@@ -1,3 +1,4 @@
+
 gun-selected-mode-examine = Выбран режим огня [color={ $color }]{ $mode }[/color].
 gun-fire-rate-examine = Скорострельность [color={ $color }]{ $fireRate }[/color] выстрелов в минуту.
 gun-selector-verb = Изменить на { $mode }
@@ -7,10 +8,12 @@ gun-set-fire-mode-examine = Переключено на [color=yellow]{ $mode }[
 gun-set-fire-mode-popup = Изменено на { $mode }
 gun-magazine-whitelist-fail = Это не влезет в пистолет!
 gun-magazine-fired-empty = Нет патронов!
+
 # SelectiveFire
 gun-SemiAuto = полуавто
 gun-Burst = очередь
 gun-FullAuto = авто
+
 # BallisticAmmoProvider
 gun-ballistic-cycle = Перезарядка
 gun-ballistic-cycled = Перезаряжено
@@ -18,11 +21,14 @@ gun-ballistic-cycled-empty = Разряжено
 gun-ballistic-transfer-invalid = { CAPITALIZE($ammoEntity) } нельзя поместить в { $targetEntity }!
 gun-ballistic-transfer-empty = В { CAPITALIZE($entity) } пусто.
 gun-ballistic-transfer-target-full = { CAPITALIZE($entity) } уже полностью заряжен.
+
 # CartridgeAmmo
 gun-cartridge-spent = Он [color=red]израсходован[/color].
 gun-cartridge-unspent = Он [color=lime]не израсходован[/color].
+
 # BatteryAmmoProvider
 gun-battery-examine = Заряда хватит на [color={ $color }]{ $count }[/color] выстрелов.
+
 # CartridgeAmmoProvider
 gun-chamber-bolt-ammo = Затвор не закрыт
 gun-chamber-bolt = Затвор [color={ $color }]{ $bolt }[/color].
@@ -33,12 +39,12 @@ gun-chamber-bolt-open = Открыть затвор
 gun-chamber-bolt-closed-state = открыт
 gun-chamber-bolt-open-state = закрыт
 gun-chamber-rack = Разрядить
+
 # MagazineAmmoProvider
 gun-magazine-examine = Осталось [color={ $color }]{ $count }[/color] выстрелов.
 # 🌟Starlight - Start🌟
 gun-magazine-ammo-type = Содержит [color={ $color }]{ $type }[/color].
 gun-magazine-empty = Магазин пуст.
-
 # 🌟Starlight - End🌟
 
 # RevolverAmmoProvider
@@ -48,6 +54,7 @@ gun-revolver-insert = Заряжен
 gun-revolver-spin = Вращать барабан
 gun-revolver-spun = Барабан вращается
 gun-speedloader-empty = Спидлоадер пуст
+
 # GunSpreadModifier
 examine-gun-spread-modifier-reduction = Разброс снижен на [color=yellow]{ $percentage }%[/color].
 examine-gun-spread-modifier-increase = Разброс повышен на [color=yellow]{ $percentage }%[/color].

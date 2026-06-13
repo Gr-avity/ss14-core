@@ -1,8 +1,8 @@
 ent-ShelfWoodFilled = { ent-ShelfWood }
-    .suffix = random filled
+    .suffix = случайно заполненная
     .desc = { ent-ShelfWood.desc }
-ent-ShelfMedTak = MedTak supplies shelf
-    .desc = A sturdy and compact shelf for holding medical supplies.
+ent-ShelfMedTak = полка для медикаментов MedTak
+    .desc = Прочная и компактная полка для хранения медицинских припасов.
 ent-ShelfMedTakSecure = { ent-ShelfMedTak }
-    .suffix = Secure
+    .suffix = Защищённая
     .desc = { ent-ShelfMedTak.desc }

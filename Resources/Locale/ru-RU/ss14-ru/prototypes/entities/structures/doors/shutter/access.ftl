@@ -1,6 +1,6 @@
 ent-BlastDoorCentralCommand = { ent-BlastDoor }
-    .suffix = Central Command, Locked
     .desc = { ent-BlastDoor.desc }
+    .suffix = Центральное Командование, Заперто
 ent-ShuttersWindowCentralCommand = { ent-ShuttersWindow }
-    .suffix = Central Command, Locked
     .desc = { ent-ShuttersWindow.desc }
+    .suffix = Центральное Командование, Заперто

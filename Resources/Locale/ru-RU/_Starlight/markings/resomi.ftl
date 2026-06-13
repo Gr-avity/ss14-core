@@ -12,6 +12,7 @@ marking-ResomiHeadWar = War
 marking-ResomiHeadWar-head_war = War
 marking-ResomiHeadCoat = Coat
 marking-ResomiHeadCoat-head_coat = Coat
+
 marking-ResomiEars = Resomi Ears
 marking-ResomiUpperEars = Resomi Upper Ears
 marking-ResomiUpperEars-upper_ear = Resomi Upper Ears
@@ -26,6 +27,7 @@ marking-ResomiHeadFluff = Resomi Head Fluff
 marking-ResomiHeadFluff-head_fluff = Resomi Head Fluff
 marking-ResomiHeadFluffShort = Resomi Head Fluff (Short)
 marking-ResomiHeadFluffShort-head_fluff_short = Resomi Head Fluff (Short)
+
 marking-ResomiHeadJewelleryOneLeft = Left Earring One
 marking-ResomiHeadJewelleryOneLeft-resomi_earring_1_2 = Left Earring One
 marking-ResomiHeadJewelleryOneRight = Right Earring One
@@ -42,6 +44,7 @@ marking-ResomiHeadJewelleryFourLeft = Left Earring Four
 marking-ResomiHeadJewelleryFourLeft-resomi_earring_4_2 = Left Earring Four
 marking-ResomiHeadJewelleryFourRight = Right Earring Four
 marking-ResomiHeadJewelleryFourRight-resomi_earring_4_1 = Right Earring Four
+
 marking-ResomiFluff = Резоми Пух тела
 marking-ResomiFluff-fluff = Резоми Пух тела
 marking-ResomiFluffGroin = Groin Fluff
@@ -62,6 +65,7 @@ marking-ResomiBodyRings = Body Rings
 marking-ResomiBodyRings-body_rings = Body Rings
 marking-ResomiBodyLines = Body Lines
 marking-ResomiBodyLines-body_lines = Body Lines
+
 marking-ResomiLLegFeathers = Резоми Оперение левой ноги
 marking-ResomiLLegFeathers-l_foot_feathers = Резоми Оперение левой ноги
 marking-ResomiRLegFeathers = Резоми Оперение правой ноги
@@ -88,6 +92,7 @@ marking-ResomiLLegCoat = Left Leg Coat
 marking-ResomiLLegCoat-l_leg_coat = Left Leg Coat
 marking-ResomiRLegCoat = Right Leg Coat
 marking-ResomiRLegCoat-r_leg_coat = Right Leg Coat
+
 marking-ResomiLArmFeathers = Резоми Оперение левой руки
 marking-ResomiLArmFeathers-l_hand_feathers = Резоми Оперение левой руки
 marking-ResomiRArmFeathers = Резоми Оперение правой руки
@@ -110,6 +115,7 @@ marking-ResomiLArmCoat = Left Arm Coat
 marking-ResomiLArmCoat-l_leg_coat = Left Arm Coat
 marking-ResomiRArmCoat = Right Arm Coat
 marking-ResomiRArmCoat-r_leg_coat = Right Arm Coat
+
 marking-ResomiTail = Резоми Хвост
 marking-ResomiTail-tail = Резоми Хвост
 marking-ResomiTailFeathered = Resomi Tail (Feathered)
@@ -129,6 +135,7 @@ marking-ResomiTailDamaged-tail_damaged = Resomi Tail (Damaged)
 marking-ResomiTailDamagedFeathered = Resomi Tail (Damaged, Feathered)
 marking-ResomiTailDamagedFeathered-tail_damaged = Resomi Tail (Damaged)
 marking-ResomiTailDamagedFeathered-tail_feathers_damaged = Resomi Tail Feathers
+
 marking-ResomiTailFeathers = Хвостовое оперенье
 marking-ResomiTailFeathers-tail_feathers = Хвостовое оперенье
 marking-ResomiTailFeathersComplex = Resomi Tail Feathers (Complex)
@@ -146,6 +153,7 @@ marking-ResomiTailFeathersDamaged = Resomi Tail (Damaged) Feathers
 marking-ResomiTailFeathersDamaged-tail_feathers_damaged = Resomi Tail (Damaged) Feathers
 marking-ResomiTailFeathersStubby = Resomi Tail (Stubby) Feathers
 marking-ResomiTailFeathersStubby-tail_feathers_stubby = Resomi Tail (Stubby) Feathers
+
 marking-ResomiTailStripes = Resomi Tail Stripes
 marking-ResomiTailStripes-tail_stripes = Resomi Tail Stripes
 marking-ResomiTailSpots = Resomi Tail Spots
@@ -165,3 +173,4 @@ marking-ResomiTailBandLarge-tail_band_large = Tail Band (Large)
 marking-ResomiTailBandSplit = Tail Band (Split)
 marking-ResomiTailBandSplit-tail_band_split_1 = Tail Band (Split)
 marking-ResomiTailBandSplit-tail_band_split_2 = Tail Band (Split)
+

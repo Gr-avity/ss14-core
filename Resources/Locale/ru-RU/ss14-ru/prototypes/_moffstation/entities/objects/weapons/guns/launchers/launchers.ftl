@@ -1,2 +1,2 @@
-ent-WeaponNinjaChainSickle = chain sickle
-    .desc = A sickle attached to a websilk chain. The Spider Clan embodies the ancient ways, even as they steal the future.
+ent-WeaponLauncherSyndie = гранатомет Синдиката
+    .desc = Серп, прикрепленный к цепочке из паутинного шелка. Клан Паука воплощает древние пути, даже когда они крадут будущее.

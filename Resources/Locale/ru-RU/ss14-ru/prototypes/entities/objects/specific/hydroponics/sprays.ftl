@@ -1,9 +1,9 @@
 ent-PlantBGoneSpray = Plant-B-Gone
-    .desc = Kills those pesky weeds!
-    .suffix = Filled
+    .desc = Убивает эти надоедливые сорняки!
+    .suffix = Полный
 ent-WeedSpray = спрей от сорняков
-    .desc = It's a toxic mixture, in spray form, to kill small weeds.
-    .suffix = Filled
+    .desc = Это токсичная смесь в форме спрея для уничтожения небольших сорняков.
+    .suffix = Полный
 ent-PestSpray = спрей от вредителей
-    .desc = It's some pest eliminator spray! Do not inhale!
-    .suffix = Filled
+    .desc = Это спрей для уничтожения вредителей! Не вдыхать!
+    .suffix = Полный

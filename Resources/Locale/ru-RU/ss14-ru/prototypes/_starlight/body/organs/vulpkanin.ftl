@@ -1,4 +1,4 @@
 ent-OrganVulpkaninHeart = сердце
-    .desc = A disgustingly hyperactive pump designed to keep things animate.
+    .desc = Отвратительно гиперактивный насос, предназначенный для поддержания жизни.
 ent-OrganVulpkaninStomach = желудок
-    .desc = Gross. This is hard to stomach.
+    .desc = Отвратительно. На это тошно смотреть.

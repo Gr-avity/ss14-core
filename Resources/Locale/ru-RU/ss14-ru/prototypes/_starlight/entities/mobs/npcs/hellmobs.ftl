@@ -1,8 +1,12 @@
 ent-BaseMobBluespaceHarvester = существо синего пространства
-    .desc = A horrific entity from beyond bluespace.
+    .desc = Ужасающая сущность из-за пределов блюспейса.
+    .suffix = { ent-SimpleSpaceMobBase.suffix }
 ent-MobBluespaceHarvesterMiGo = существо
-    .desc = A fast, insectoid creature from the depths of bluespace. Its movements are erratic and hard to predict.
+    .desc = Быстрое, насекомое существо из глубин блюспейса. Его движения беспорядочны и труднопредсказуемы.
+    .suffix = { ent-BaseMobBluespaceHarvester.suffix }
 ent-MobBluespaceHarvesterBlankBody = пустое тело
-    .desc = A shambling humanoid husk, empty of thought but driven by malice.
+    .desc = Шатающаяся гуманоидная оболочка, пустая от мыслей, но движимая злобой.
+    .suffix = { ent-BaseMobBluespaceHarvester.suffix }
 ent-MobBluespaceHarvesterOtherthing = другое существо
-    .desc = A massive, lumbering abomination. It moves slowly but can take tremendous punishment.
+    .desc = Массивная, неуклюжая мерзость. Она движется медленно, но может выдержать колоссальный урон.
+    .suffix = { ent-BaseMobBluespaceHarvester.suffix }

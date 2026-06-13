@@ -1,3 +1,4 @@
+
 names-first-elf-male-dataset-1 = Абаэн
 names-first-elf-male-dataset-2 = Абуин
 names-first-elf-male-dataset-3 = Акатор
@@ -198,6 +199,7 @@ names-first-elf-male-dataset-197 = Зефир
 names-first-elf-male-dataset-198 = Зонтар
 names-first-elf-male-dataset-199 = Зул
 names-first-elf-male-dataset-200 = Зинн
+
 names-first-elf-female-dataset-1 = Анисс
 names-first-elf-female-dataset-2 = Афиэль
 names-first-elf-female-dataset-3 = Ангвир
@@ -398,6 +400,7 @@ names-first-elf-female-dataset-197 = Зелла
 names-first-elf-female-dataset-198 = Вейша
 names-first-elf-female-dataset-199 = Зантира
 names-first-elf-female-dataset-200 = Золана
+
 names-last-elf-dataset-1 = Мудрый
 names-last-elf-dataset-2 = Нестареющий
 names-last-elf-dataset-3 = Отверженный

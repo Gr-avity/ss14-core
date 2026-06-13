@@ -1,12 +1,12 @@
 ent-BaseMagazineShotgunToz = магазин (патроны 20 калибра)
-    .desc = Piotr, what am I supposed to do with this? The magazine won't come out of the gun!
+    .desc = Пётр, что мне делать с этим? Магазин не вынимается из ружья!
 ent-MagazineShotgunTozEmpty = магазин 20 калибра
-    .suffix = empty
     .desc = { ent-BaseMagazineShotgunToz.desc }
+    .suffix = пустой
 ent-MagazineShotgunToz = дробовой магазин 20 калибра
     .desc = { ent-BaseMagazineShotgunToz.desc }
 ent-MagazineShotgunTozExtendedEmpty = увеличенный магазин 20 калибра
-    .suffix = empty
     .desc = { ent-BaseMagazineShotgunToz.desc }
+    .suffix = пустой
 ent-MagazineShotgunTozExtended = увеличенный дробовой магазин 20 калибра
     .desc = { ent-BaseMagazineShotgunToz.desc }

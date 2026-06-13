@@ -1,10 +1,10 @@
 ent-Joint = косяк
-    .desc = A roll of dried plant matter wrapped in thin paper.
+    .desc = Скрутка из высушенных растений, завернутая в тонкую бумагу.
 ent-JointRainbow = радужный косяк
-    .desc = A roll of dried plant matter wrapped in thin paper. Seems to be colorful inside.
-    .suffix = Rainbow
+    .desc = Скрутка из высушенных растений, завернутая в тонкую бумагу. Внутри кажется разноцветным.
+    .suffix = Радужный
 ent-Blunt = блант
-    .desc = A roll of dried plant matter wrapped in a dried tobacco leaf.
+    .desc = Скрутка из высушенных растений, завернутая в высушенный табачный лист.
 ent-BluntRainbow = радужный блант
-    .desc = A roll of dried plant matter wrapped in a dried tobacco leaf. Seems to be colorful inside.
-    .suffix = Rainbow
+    .desc = Скрутка из высушенных растений, завернутая в высушенный табачный лист. Внутри кажется разноцветным.
+    .suffix = Радужный

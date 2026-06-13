@@ -1,4 +1,6 @@
 ent-MobLaserRaptor = лазерный раптор
-    .desc = From the Viking age.
-ent-MobTomatoKiller = помидор убийца
-    .desc = Looks like it's not you eating tomatoes today, it's the tomatoes eating you.
+    .desc = Из эпохи викингов.
+    .suffix = { ent-SimpleMobBase.suffix }
+ent-MobTomatoKiller = помидор-убийца
+    .desc = Похоже, сегодня не вы едите помидоры, а помидоры едят вас.
+    .suffix = { ent-BaseSimpleMob.suffix }

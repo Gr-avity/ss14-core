@@ -29,6 +29,7 @@ names-borgi-dataset-28 = Tactical Floof
 names-borgi-dataset-29 = Megabork
 names-borgi-dataset-30 = Kibble Mk IV
 names-borgi-dataset-31 = Fluffy-5000
+
 names-corgi-dataset-1 = Ян, но Умнее
 names-corgi-dataset-2 = Псомозг
 names-corgi-dataset-3 = Изъясняющийся-Гавком
@@ -60,6 +61,7 @@ names-corgi-dataset-28 = Muffin
 names-corgi-dataset-29 = Rascal
 names-corgi-dataset-30 = Nubs
 names-corgi-dataset-31 = Gravy
+
 names-syndiborgi-dataset-1 = Красный Разбойник
 names-syndiborgi-dataset-2 = Кусающий-За-Пятки
 names-syndiborgi-dataset-3 = Пятко-кус
@@ -75,6 +77,7 @@ names-syndiborgi-dataset-12 = Very Bad Dog
 names-syndiborgi-dataset-13 = Saboteur Rex
 names-syndiborgi-dataset-14 = Operative Fluffy
 names-syndiborgi-dataset-15 = Tooth-And-Claw
+
 names-shadowborgi-dataset-1 = Красный Разбойник
 names-shadowborgi-dataset-2 = Кусающий-За-Пятки
 names-shadowborgi-dataset-3 = Пятко-кус

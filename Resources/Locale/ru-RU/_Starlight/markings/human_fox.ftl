@@ -7,6 +7,7 @@ marking-FopsEar = Fox Ear (inner)
 marking-PuppyTail-wolf_tail = Wolf Tail (base)
 marking-PuppyTail-wolf_tail_inner = Wolf Tail (tip)
 marking-PuppyTail = Wolf Tail (tip)
+
 marking-FoxlikeEar-vulp = Foxlike ears (base)
 marking-FoxlikeEar-vulp-inner = Foxlike ears (inner)
 marking-FoxlikeEar = Foxlike
@@ -42,6 +43,7 @@ marking-FoxlikeEarCoyote-coyote = Coyote ears
 marking-FoxlikeEarCoyote = Foxlike Coyote
 marking-FoxlikeEarDalmatian-dalmatian = Dalmatian ears
 marking-FoxlikeEarDalmatian = Foxlike Dalmatian
+
 marking-FoxlikeTail-vulp = Foxlike tail (base)
 marking-FoxlikeTail-vulp-fade = Foxlike tail (fade)
 marking-FoxlikeTail = Foxlike

@@ -1,12 +1,3 @@
-ent-EmagFREE = ФриМАГ
-    .desc = A more refined version of the Cryptographic Sequencer used by SELF. Can be used to remove the laws from a Borg. Also wipes the laws from law boards, so that when uploaded they wipe the AI's laws too.
-ent-EmagTeaParty = TeaPartyMAG
-    .desc = Taxes must be abolished. Also affects the laws of law boards, so that when uploaded they gain the same laws.
-ent-EmagCommie = деревянный криптографический секвенсор
-    .desc = A cheap all-in-one hacking solution. Friend of any soviet. The iconic EMAG.
-ent-CCEmagUnlimited = криптографический кодировщик
-    .desc = A modified cryptographic sequencer, specialized for ERT breach and clear operations on NT stations
-    .suffix = Unlimited
-ent-CCEmag = { ent-CCEmagUnlimited }
-    .suffix = Limited
-    .desc = { ent-CCEmagUnlimited.desc }
+ent-EMag = электромагнитный аплинк
+    .desc = Устройство, которое переопределяет электронные замки и ломает системы безопасности.
+    .suffix = АДМЕМ

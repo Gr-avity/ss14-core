@@ -1,4 +1,6 @@
 # Service
-holopad-service-lawyer = Service - Lawyer
+holopad-service-lawyer = Service — Lawyer
+
 # Security
-holopad-security-iaa = Security - Internal Affairs
+holopad-security-iaa = Security — Internal Affairs
+

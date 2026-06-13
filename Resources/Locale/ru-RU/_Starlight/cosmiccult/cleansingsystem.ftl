@@ -4,4 +4,5 @@ cleanse-deconvert-attempt-success = You cleanse { CAPITALIZE(THE($target)) } in 
 cleanse-deconvert-attempt-success-empowered = You cleanse { CAPITALIZE(THE($target)) }, but a pulse of malign energy bursts forth!
 cleanse-deconvert-attempt-notcorrupted = { CAPITALIZE(THE($target)) } wasn't under the influence of anything.
 cleanse-deconvert-attempt-rebound = Noospheric energies lash out!
+
 cleanse-item-sizzle = { CAPITALIZE(THE($target)) } sizzles in your hands!

@@ -1,6 +1,6 @@
-ent-PinionAirlock = шлюз с гравированной шестерней
-    .suffix = Pinion, Clockwork
+ent-PinionAirlock = { ent-Airlock }
     .desc = { ent-Airlock.desc }
-ent-PinionAirlockGlass = стеклянный шлюз с гравированной шестерней
-    .suffix = Pinion, Clockwork
+    .suffix = Шестеренный, Часовой
+ent-PinionAirlockGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
+    .suffix = Шестеренный, Часовой

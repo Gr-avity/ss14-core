@@ -1,2 +1,2 @@
 ent-CargoMailTeleporter = почтовый телепорт
-    .desc = Periodically teleports in mail to deliver across the station.
+    .desc = Периодически телепортирует почту для доставки по всей станции.

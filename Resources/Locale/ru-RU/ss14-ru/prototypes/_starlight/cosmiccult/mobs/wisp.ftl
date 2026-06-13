@@ -1,4 +1,5 @@
-ent-MobCosmicWisp = Wisp
+ent-MobCosmicWisp = Огонёк
     .desc = { ent-BaseSimpleMob.desc }
-ent-CosmicChantryWisp = Wisp
+    .suffix = { ent-BaseSimpleMob.suffix }
+ent-CosmicChantryWisp = Огонёк
     .desc = { ent-BaseStructure.desc }

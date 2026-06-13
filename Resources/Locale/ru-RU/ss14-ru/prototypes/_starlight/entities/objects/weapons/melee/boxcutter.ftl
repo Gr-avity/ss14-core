@@ -1,2 +1,2 @@
 ent-WeaponMeleeBoxcutter = канцелярский нож
-    .desc = Always accidentally cuts whatever is inside the box.
+    .desc = Всегда случайно разрезает то, что находится внутри коробки.

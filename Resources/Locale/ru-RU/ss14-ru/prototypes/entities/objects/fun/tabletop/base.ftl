@@ -1,5 +1,5 @@
 ent-BaseBoardEntity = доска
-    .desc = A blank board.
+    .desc = Пустая доска.
 ent-BaseTabletopPiece = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 ent-BaseBoardTabletop = плинтус

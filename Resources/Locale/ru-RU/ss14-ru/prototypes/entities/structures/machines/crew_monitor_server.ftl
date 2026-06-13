@@ -1,2 +1,2 @@
 ent-CrewMonitoringServer = сервер мониторинга экипажа
-    .desc = Receives and relays the status of all active suit sensors on the station.
+    .desc = Принимает и передает статус всех активных датчиков костюмов на станции.

@@ -1,7 +1,8 @@
 ent-BaseSecretDoor = обычная стена
-    .desc = Keeps the air in and the assistants out.
-    .suffix = secret door
+    .desc = Удерживает воздух внутри, а ассистентов снаружи.
+    .suffix = секретная дверь
 ent-BaseSecretDoorAssembly = каркас секретной двери
-    .desc = It opens, it closes, and maybe crushes you.
+    .desc = Она открывается, она закрывается, и, возможно, раздавит вас.
 ent-SolidSecretDoor = сплошная стена
     .desc = { ent-BaseSecretDoor.desc }
+    .suffix = { ent-BaseSecretDoor.suffix }

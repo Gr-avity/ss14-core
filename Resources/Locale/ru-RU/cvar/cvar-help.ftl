@@ -1,9 +1,12 @@
 changecvar-simple-debug_test_cvar = Does nothing.
 changecvar-full-debug_test_cvar = Простой тестовый CVar. Ничего не делает.
+
 changecvar-simple-events_enabled = Регулирует, должны ли запускаться события на станции.
 changecvar-full-events_enabled = Регулирует, должны ли запускаться события на станции.
+
 changecvar-simple-shuttle_auto_call_time = Время после начала раунда для автоматического вызова шаттла.
 changecvar-full-shuttle_auto_call_time = Время в минутах после начала раунда для автоматического вызова шаттла. Установите 0 для отключения.
+
 changecvar-simple-playtest_all_damage_modifier = Множитель для всего наносимого урона.
 changecvar-full-playtest_all_damage_modifier = Множитель для всего наносимого урона.
 changecvar-simple-playtest_all_heal_modifier = Множитель для всего лечения.

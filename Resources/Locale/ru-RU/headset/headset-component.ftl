@@ -2,9 +2,12 @@
 
 # Starlight-edit: Languages
 chat-radio-message-wrap = [color={ $color }]{ $channel } [bold]{ $name }[/bold] { $verb }, [font={ $fontType } size={ $fontSize }]"{ $message }"[/font][/color]
+
 # Starlight-edit: Languages
 chat-radio-message-wrap-bold = [color={ $color }]{ $channel } [bold]{ $name }[/bold] { $verb }, [font={ $fontType } size={ $fontSize }][bold]"{ $message }"[/bold][/font][/color]
+
 examine-headset-default-channel = Канал, использующийся этой гарнитурой по умолчанию — [color={ $color }]{ $channel }[/color].
+
 chat-radio-common = Общий
 chat-radio-centcom = ЦентКом
 chat-radio-command = Командование
@@ -16,6 +19,7 @@ chat-radio-service = Сервисный
 chat-radio-supply = Снабжение
 chat-radio-syndicate = Синдикат
 chat-radio-freelance = Наемный
+
 # not headset but whatever
 chat-radio-handheld = Портативный
 chat-radio-binary = Бинарный

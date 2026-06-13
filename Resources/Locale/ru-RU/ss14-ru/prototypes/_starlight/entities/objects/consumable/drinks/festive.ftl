@@ -1,2 +1,2 @@
 ent-DrinkGravyBoat = соусник
-    .desc = A gravy boat. It simply oozes... gravy.
+    .desc = Соусник. Из него просто сочится... подлива.

@@ -1,5 +1,4 @@
 ## UI
-
 door-remote-toggle-eletrify-text = Переключение перегрузки
 door-remote-open-close-text = Открытие, либо закрытие двери
 door-remote-toggle-bolt-text = Переключение болтов
@@ -14,3 +13,4 @@ door-remote-switch-state-toggle-bolts = Вы настраиваете пульт
 door-remote-switch-state-toggle-emergency-access = Вы настраиваете пульт на переключение аварийного доступа
 door-remote-no-power = Дверь обесточена
 door-remote-denied = В доступе отказано
+

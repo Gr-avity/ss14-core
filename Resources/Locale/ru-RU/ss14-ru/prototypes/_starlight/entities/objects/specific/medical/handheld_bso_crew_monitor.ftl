@@ -1,5 +1,5 @@
 ent-HandheldBSOCrewMonitor = КомандФренд™ X-02
-    .desc = Does not monitor the competence levels of command members.
+    .desc = Не отслеживает уровень компетентности членов командования.
 ent-HandheldBSOCrewMonitorEmpty = { ent-HandheldBSOCrewMonitor }
-    .suffix = Empty
     .desc = { ent-HandheldBSOCrewMonitor.desc }
+    .suffix = Пустой

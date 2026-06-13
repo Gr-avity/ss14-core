@@ -1,2 +1,2 @@
 ent-OreBox = ящик для руды
-    .desc = A large storage container for holding unprocessed ores.
+    .desc = Большой контейнер для хранения необработанной руды.

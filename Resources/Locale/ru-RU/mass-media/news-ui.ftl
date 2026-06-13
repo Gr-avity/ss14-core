@@ -19,18 +19,17 @@ news-write-ui-cancel-text = Очистить
 news-write-ui-save-text = Сохранить
 news-write-ui-preview-text = Предпросмотр
 news-write-ui-article-count-0 = 0 статей
-news-write-ui-article-count-text = { $count } ->
+news-write-ui-article-count-text = { $count ->
     [one] { $count } статья
     [few] { $count } статьи
-   *[other] { $count } статей
+    *[other] { $count } статей
 }
 news-write-ui-footer-text = Система управления новостями Менеджер#Новостей™
 news-write-ui-new-article = Новая статья
 news-write-ui-article-name-label = Заголовок:
 news-write-no-access-popup = Нет доступа
 news-writer-text-length-exceeded = Текст превышает максимальный объём
-news-write-ui-richtext-tooltip =
-    Новостные статьи поддерживают форматирование текста
+news-write-ui-richtext-tooltip = Новостные статьи поддерживают форматирование текста
     Поддерживаются следующие теги разметки:
     { "[color=Gray][bullet/]заголовок \\[size=1-3\\]" }
     { "[bullet/]жирный" }
@@ -38,5 +37,6 @@ news-write-ui-richtext-tooltip =
     { "[bullet/]жирный курсив" }
     { "[bullet/]цвет" }
     { "[bullet/]список[/color]" }
+
 news-pda-notification-header = Новая новостная статья
 news-publish-admin-announcement = { $actor } опубликовал(а) новостную статью { $title } за авторством { $author }

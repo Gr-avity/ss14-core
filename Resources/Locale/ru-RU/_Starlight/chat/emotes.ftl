@@ -21,6 +21,7 @@ chat-emote-name-snort = Фырканье
 chat-emote-name-stomp = Топот
 chat-emote-name-hum = Гудение
 chat-emote-name-glub = Глуб
+
 # Emote Messages
 chat-emote-msg-mew = мявкает.
 chat-emote-msg-hiss = шипит.

@@ -1,5 +1,6 @@
 ent-WeaponTurretPointDefenseMachineCircuitboard = плата машины батареи точечной защиты
-    .desc = A machine printed circuit board for a point defense battery.
+    .desc = Печатная плата для батареи точечной защиты.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
 ent-WeaponEnergyTurretSiliconMachineCircuitboard = { ent-WeaponEnergyTurretStationMachineCircuitboardBase }
-    .suffix = Silicon
     .desc = { ent-WeaponEnergyTurretStationMachineCircuitboardBase.desc }
+    .suffix = Кремний

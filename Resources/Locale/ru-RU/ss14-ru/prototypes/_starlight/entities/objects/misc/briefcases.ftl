@@ -1,7 +1,7 @@
 ent-BriefcaseBaseSecure = { ent-BriefcaseBase }
-    .desc = Useful for carrying items in your hands. Has a digital lock.
+    .desc = Полезен для переноски предметов в руках. Имеет цифровой замок.
 ent-BriefcaseSecure = защищённый портфель
     .desc = { ent-BriefcaseBaseSecure.desc }
-ent-BriefcaseSyndicateRedspace = syndicate briefcase
-    .suffix = empty
+ent-BriefcaseSyndicateRedspace = портфель Синдиката
     .desc = { ent-BriefcaseBase.desc }
+    .suffix = пустой

@@ -1,2 +1,2 @@
 ent-BluespaceHarvester = блюспейс-сборщик
-    .desc = A massive bluespace harvester that converts energy into research points.
+    .desc = Массивный блюспейс-сборщик, который преобразует энергию в очки исследований.

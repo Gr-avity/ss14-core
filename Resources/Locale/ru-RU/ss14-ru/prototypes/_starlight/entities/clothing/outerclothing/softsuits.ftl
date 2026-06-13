@@ -1,8 +1,8 @@
 ent-ClothingOuterSoftsuitCBURN = изолированный скафандр ЭВА CBURN
-    .desc = A heavyweight, tough and padded EVA capable biosuit used for special cleanup operations.
+    .desc = Тяжёлый, прочный и мягкий биокостюм, способный к работе в открытом космосе, используемый для специальных операций по очистке.
 ent-ClothingOuterArmorTSF = боевая броня морпеха Федерации
-    .desc = A full-body suit of semi-powered assault armor used by the Trans-Solar Marine Corps. Offers excellent protection in all areas without impairing movement.
+    .desc = Полнотелый костюм полуэнергетической штурмовой брони, используемый Транс-Солнечным Корпусом Морской Пехоты. Предлагает отличную защиту во всех областях, не ограничивая движения.
 ent-ClothingOuterArmorTSFLeader = броня офицера морпеха Федерации
-    .desc = A full-body suit of semi-powered assault armor used by the Trans-Solar Marine Corps. Offers excellent protection in all areas without impairing movement. This suit has golden stripes instead of the typical white.
+    .desc = Полнотелый костюм полуэнергетической штурмовой брони, используемый Транс-Солнечным Корпусом Морской Пехоты. Предлагает отличную защиту во всех областях, не ограничивая движения. Этот костюм имеет золотые полосы вместо обычных белых.
 ent-ClothingOuterSoftsuitWizard = пустотные робы волшебника
-    .desc = A cumbersome gem-encrusted robe that is magically resistant to the void of space
+    .desc = Громоздкая роба, инкрустированная драгоценными камнями, которая магически устойчива к пустоте космоса.

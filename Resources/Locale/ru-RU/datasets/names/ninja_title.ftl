@@ -21,15 +21,11 @@ names-ninja-title-dataset-20 = Посвящённый
 names-ninja-title-dataset-21 = Гроссмейстер
 names-ninja-title-dataset-22 = Грандмастер
 names-ninja-title-dataset-23 = Бродяга
-
 ## Starlight
-
 names-ninja-title-dataset-24 = Нападающий
 names-ninja-title-dataset-25 = Истребитель
 names-ninja-title-dataset-26 = Потрясающий
-
 ## Starlight
-
 names-ninja-title-dataset-27 = Завершитель
 names-ninja-title-dataset-28 = Док.
 names-ninja-title-dataset-29 = Нуб

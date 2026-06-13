@@ -1,4 +1,2 @@
-guide-entry-nuclear-generator = Nuclear Generator
-guide-entry-nuclear-reactor = Ядерный реактор
-guide-entry-gas-turbine = Gas Turbine
-guide-entry-nuclear-materials = Эффекты материалов
+guide-entry-nuclear-generator = Ядерный генератор
+guide-entry-gas-turbine = Газовая турбина

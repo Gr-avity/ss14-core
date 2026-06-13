@@ -1,5 +1,5 @@
 ent-NukeDisk = диск ядерной авторизации
-    .desc = A nuclear auth disk, capable of arming a nuke if used along with a code. Note from nanotrasen reads "THIS IS YOUR MOST IMPORTANT POSESSION, SECURE DAT FUKKEN DISK!"
+    .desc = Диск ядерной авторизации, способный активировать ядерную боеголовку, если использовать его вместе с кодом. Примечание от NanoTrasen гласит: «ЭТО ВАШЕ САМОЕ ВАЖНОЕ ИМУЩЕСТВО, ОБЕЗОПАСЬТЕ ЭТОТ ЧЁРТОВ ДИСК!»
 ent-NukeDiskFake = диск ядерной авторизации
-    .desc = A nuclear auth disk, capable of arming a nuke if used along with a code. Note from nanotrasen reads "THIS IS YOUR MOST IMPORTANT POSESSION, SECURE DAT FUKKEN DISK!"
-    .suffix = Fake
+    .desc = Диск ядерной авторизации, способный активировать ядерную боеголовку, если использовать его вместе с кодом. Примечание от NanoTrasen гласит: «ЭТО ВАШЕ САМОЕ ВАЖНОЕ ИМУЩЕСТВО, ОБЕЗОПАСЬТЕ ЭТОТ ЧЁРТОВ ДИСК!»
+    .suffix = Подделка

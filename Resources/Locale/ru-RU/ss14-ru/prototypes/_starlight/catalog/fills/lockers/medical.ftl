@@ -1,3 +1,3 @@
 ent-CrateCentralCommandSecureChemicalFilled = медицинский ящик Центрального Командования
-    .desc = A secure crate from Central Command stocked to the brim with medical chemicals.
-    .suffix = Chemical, Filled
+    .desc = Надежный ящик от Центрального Командования, битком набитый медицинскими химикатами.
+    .suffix = Химикаты, Заполненный

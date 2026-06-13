@@ -1,6 +1,6 @@
 ent-SpiderWebBase = { "" }
     .desc = { "" }
 ent-SpiderWeb = паутина
-    .desc = It's stringy and sticky.
+    .desc = Она тягучая и липкая.
 ent-SpiderWebClown = клоунская паутина
-    .desc = It's stringy and slippy.
+    .desc = Она тягучая и скользкая.

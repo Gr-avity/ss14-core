@@ -1,5 +1,6 @@
 ent-MobMimic = Мимик
-    .desc = Surprise.
+    .desc = Сюрприз.
+    .suffix = { ent-SimpleMobBase.suffix }
 ent-MobMimicHostile = { ent-MobMimic }
-    .suffix = Hostile
     .desc = { ent-MobMimic.desc }
+    .suffix = Враждебный

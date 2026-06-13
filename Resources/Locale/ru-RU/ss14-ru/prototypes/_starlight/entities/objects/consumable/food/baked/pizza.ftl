@@ -1,8 +1,8 @@
 ent-FoodPizzaNutribrick = пицца с питательными кирпичами
-    .desc = Topped with chunky, dense nuggets of nutribrick.
+    .desc = Сверху добавлены плотные кубики питательных кирпичей.
 ent-FoodPizzaNutriSlice = кусок пиццы с питательными кирпичами
-    .desc = A nutribrickious slice of pizza.
+    .desc = Питательный кусок пиццы.
 ent-FoodPizzaWrapper = пицца из обёрток
-    .desc = The phrase 'tastes like cardboard' taken too literally.
+    .desc = Фраза «на вкус как картон» здесь воспринята слишком буквально.
 ent-FoodPizzaWrapperSlice = кусок пиццы из обёрток
-    .desc = Just one slice of sadness.
+    .desc = Лишь один кусок грусти.

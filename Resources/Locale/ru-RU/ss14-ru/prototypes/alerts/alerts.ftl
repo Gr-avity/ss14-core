@@ -1,2 +1,2 @@
-ent-AlertSpriteView = { "" }
-    .desc = { "" }
+ent-AlertSpriteView = вид оповещения
+    .desc = Базовый вид оповещения.

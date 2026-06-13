@@ -8,6 +8,7 @@ reagent-name-gravy = Gravy
 reagent-desc-gravy = Fat and flour. People eat this stuff?
 reagent-name-blindingstew = One-Minute Blinding Stew
 reagent-desc-blindingstew = Does what it says. Feeding this to someone is definitely a war crime.
+
 blindingstew-effect-eye-pain = Your eyes hurt.
 blindingstew-effect-eye-burn = Your eyes are burning!
 blindingstew-effect-hair = You shouldn't have eaten all that hair.

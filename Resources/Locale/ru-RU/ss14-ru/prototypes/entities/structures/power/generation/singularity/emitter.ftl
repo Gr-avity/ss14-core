@@ -1,2 +1,2 @@
 ent-Emitter = эмиттер
-    .desc = A heavy duty industrial laser. Shoots non-stop when turned on.
+    .desc = Промышленный лазер большой мощности. Стреляет без остановки, когда включен.

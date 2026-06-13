@@ -350,7 +350,7 @@
 
 
 - type: entity
-  id: DisposalRouterFlippedR&D
+  id: DisposalRouterFlippedRND # ss14-art-edit localization
   parent: DisposalRouterFlipped
   suffix: Flipped, R&D
   components:

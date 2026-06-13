@@ -1,4 +1,5 @@
 ent-CriminalRecordsComputerCircuitboard = плата компьютера криминальных записей
-    .desc = A computer printed circuit board for a security records computer.
+    .desc = Печатная плата для компьютера криминального учета.
+
 ent-StationRecordsComputerCircuitboard = плата компьютера трудовых записей
-    .desc = A computer printed circuit board for a employment records computer.
+    .desc = Печатная плата для компьютера учета сотрудников.

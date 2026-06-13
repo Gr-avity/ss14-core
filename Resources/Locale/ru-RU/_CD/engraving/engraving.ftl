@@ -1,18 +1,13 @@
-engraving-verb = Modify Description
-engraving-popup-ui-message = Describe this item's appearance:
+engraving-verb = Изменить описание
+engraving-popup-ui-message = Опишите внешний вид этого предмета:
+engraving-no-message = У предмета нет никаких особенностей.
+engraving-succeed = Предмет меняется в соответствии с вашим описанием!
 
-engraving-no-message = The item lacks any special features.
-engraving-has-message = {""}
-engraving-succeed = The item changes to fit your description!
+engraving-dogtags-no-message = Жетон пуст.
+engraving-dogtags-succeed = Вы успешно выгравировали свое сообщение на жетоне.
 
-engraving-dogtags-no-message = The dogtags are blank.
-engraving-dogtags-has-message = {""}
-engraving-dogtags-succeed = You successfully engrave the dogtags with your message.
+engraving-ring-no-message = Похоже, у кольца нет никаких уникальных особенностей.
+engraving-ring-succeed = Вы успешно выгравировали свое сообщение на кольце.
 
-engraving-ring-no-message = The ring does not appear to have any unique features.
-engraving-ring-has-message = {""}
-engraving-ring-succeed = You successfully engrave the ring with your message.
-
-engraving-coin-no-message = The coin is smooth with no unique features.
-engraving-coin-has-message = {""}
-engraving-coin-succeed = The coin changes to fit your description!
+engraving-coin-no-message = Монета гладкая, без каких-либо уникальных особенностей.
+engraving-coin-succeed = Монета меняется в соответствии с вашим описанием!

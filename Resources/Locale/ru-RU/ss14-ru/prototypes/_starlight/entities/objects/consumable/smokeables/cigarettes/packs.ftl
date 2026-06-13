@@ -1,2 +1,2 @@
 ent-CigPackSoviet = пачка песчаных червей Герата
-    .desc = For when a sandworm has managed to eat your nuclear MRV supply.
+    .desc = Для тех случаев, когда песчаный червь съел ваш запас ядерного MRV.

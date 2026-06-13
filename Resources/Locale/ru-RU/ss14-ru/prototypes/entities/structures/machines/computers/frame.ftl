@@ -1,6 +1,6 @@
 ent-BaseStructureComputer = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
 ent-ComputerFrame = каркас компьютера
-    .desc = A computer under construction.
+    .desc = Компьютер в процессе строительства.
 ent-ComputerBroken = сломанный компьютер
-    .desc = This computer has seen better days.
+    .desc = Этот компьютер видел лучшие дни.

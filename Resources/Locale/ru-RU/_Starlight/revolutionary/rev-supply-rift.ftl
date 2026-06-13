@@ -1,10 +1,12 @@
 rev-supply-rift-placed = Psst..! Comrades! A supply rift has been opened by comrade { $name } { $location }! The time has come! Defend it at all costs!
 rev-supply-rift-sender = Private Soviet Communications
+
 # armaments rift
-rev-supply-rift-charging = A supply rift is already in use! (Charging: { $percentage }% - Placed by comrade { $name } { $location })
+rev-supply-rift-charging = A supply rift is already in use! (Charging: { $percentage }% — Placed by comrade { $name } { $location })
 rev-supply-rift-ready = Supply rift (Ready to Deploy)
 rev-supply-rift-destroyed = A rift has been destroyed! We deemed it to be too risky to open another. Good luck to your revolution!
 rev-supply-rift-charged = (!) A shady portal that coughs up Soviet stuff. This exposes them! If it's destroyed, commies won't be able to open another! There are currently { $count } active rifts!
+
 # Total Conversion
 whistle-name = Trench whistle
 whistle-desc = Want me to lead a final charge?
@@ -15,6 +17,7 @@ aps-name = Stechkin APS
 aps-desc = To a brigadier of your choosing, or yourself.
 lawboard-name = Commiemov AI lawboard
 lawboard-desc = The USSP is open to everyone, even the AI! Do keep in mind that you will need a way to unlock the AI upload console if you plan to use this.
+
 # Telebonds
 # Weapons
 akms-weapon-name = AKMS Rifle
@@ -31,6 +34,7 @@ ppsh-name = PPSH 59 SMG
 ppsh-desc = The legendary discontinued PPSH 59. Inaccurate as hell, but delivers it. Uses .35 ammo.
 toz-name = ZOZ-106
 toz-desc = Aim at head and eyes. Uses .42 ammo, comes with extended magazine.
+
 # Wearables
 soviet-eva-name = Soviet EVA Suit
 soviet-eva-desc = A rugged space suit with the hammer and sickle emblazoned on the back. Space cold resistant.
@@ -46,12 +50,15 @@ glasses-name = cheap sunglasses
 glasses-desc = Retrofitted to show the brainwashing parasite above them.
 soviet-hardsuit-name = Marine hardsuit (SSF)
 soviet-hardsuit-desc = Old robust design, still holds up to this day.
+
 # Implants
 SKB-implanter-name = SKB Demindshielder
 SKB-implanter-desc = An implant specialized in removing brainwashing parasites.
+
 # Deception
 soviet-encryption-key-name = Soviet encryption key
 soviet-encryption-key-desc = Features exotic woodpeckers. Priyom.
+
 # Shuttle
 stole-remote-signaller-name = Remote signaller
 stole-remote-signaller-desc = Boom! Links devices.
@@ -63,6 +70,7 @@ stolen-ptk800-name = PTK-800 (NT)
 stolen-ptk800-desc = Stolen mining weaponry for breaching. Requires link and a signaleer.
 lse-1200c-name = LSE-1200c
 lse-1200c-desc = A more advanced laser emplacement weapon. Requires a 'power cage', link and a signaleer.
+
 # Pointless
 soviet-medals-name = Soviet sets of medals
 soviet-medals-desc = Tovarisch robust. Here you go.

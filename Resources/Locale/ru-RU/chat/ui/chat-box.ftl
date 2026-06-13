@@ -2,6 +2,7 @@ hud-chatbox-info = { $cycle-key } для переключения каналов
 hud-chatbox-info-talk = { $talk-key }, чтобы говорить.
 hud-chatbox-info-cycle = Нажмите здесь, чтобы говорить, { $cycle-key } для переключения каналов.
 hud-chatbox-info-unbound = Нажмите здесь, чтобы говорить.
+
 hud-chatbox-select-name-prefixed = { $prefix } { $name }
 hud-chatbox-select-channel-Admin = Админ
 hud-chatbox-select-channel-Console = Консоль
@@ -15,6 +16,7 @@ hud-chatbox-select-channel-Damage = Повреждения
 hud-chatbox-select-channel-CollectiveMind = Коллективный разум
 hud-chatbox-select-channel-Visual = Действия
 hud-chatbox-select-channel-Radio = Рация
+
 hud-chatbox-channel-Admin = Админ Разное
 hud-chatbox-channel-AdminAlert = Сообщение педали
 hud-chatbox-channel-AdminChat = Админ Чат
@@ -31,13 +33,12 @@ hud-chatbox-channel-CollectiveMind = Коллективный разум
 hud-chatbox-channel-Visual = Визуальный
 hud-chatbox-channel-Damage = Повреждения
 hud-chatbox-channel-Unspecified = Неопределённый
+
 hud-chatbox-highlights = Подсветка:
 hud-chatbox-highlights-button = Подтвердить
-hud-chatbox-highlights-tooltip =
-    The words need to be separated by a newline,
-    if wrapped around " they will be highlighted
-    only if separated by spaces or punctuation.
-hud-chatbox-highlights-placeholder =
-    @McHands
-    "Judge"
-    Medical
+hud-chatbox-highlights-tooltip = The words need to be separated by a newline,
+                                 if wrapped around " they will be highlighted
+                                 only if separated by spaces or punctuation.
+hud-chatbox-highlights-placeholder = @McHands
+                                     "Judge"
+                                     Medical

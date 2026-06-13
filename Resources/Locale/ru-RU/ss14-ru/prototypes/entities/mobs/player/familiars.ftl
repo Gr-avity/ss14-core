@@ -1,4 +1,6 @@
 ent-MobBatRemilia = Ремилия
-    .desc = The chaplain's familiar. Likes fruit.
+    .desc = Фамильяр священника. Любит фрукты.
+    .suffix = { ent-MobBat.suffix }
 ent-MobCorgiCerberus = Цербер
-    .desc = This pupper is not wholesome.
+    .desc = Этот песик совсем не безобидный.
+    .suffix = { ent-MobCorgiNarsi.suffix }

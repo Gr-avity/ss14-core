@@ -1,10 +1,10 @@
 ent-BaseShowcaseRobot = макет охранного робота
-    .desc = A non-functional replica of an old security robot.
+    .desc = Нефункциональная копия старого охранного робота.
 ent-ShowcaseRobot = макет охранного робота
-    .desc = A non-functional replica of an old security robot.
+    .desc = Нефункциональная копия старого охранного робота.
 ent-ShowcaseRobotWhite = макет белого робота
-    .desc = A non-functional replica of an old robot.
+    .desc = Нефункциональная копия старого робота.
 ent-ShowcaseRobotAntique = макет робота-грузчика
-    .desc = A non-functional replica of an old cargo robot.
+    .desc = Нефункциональная копия старого грузового робота.
 ent-ShowcaseRobotMarauder = макет Мародёра
-    .desc = A non-functional replica of a marauder, painted green.
+    .desc = Нефункциональная копия мародера, покрашенная в зеленый цвет.

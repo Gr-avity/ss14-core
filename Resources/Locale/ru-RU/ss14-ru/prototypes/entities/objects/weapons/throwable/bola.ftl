@@ -1,2 +1,2 @@
 ent-Bola = бола
-    .desc = Linked together with some spare cuffs and metal.
+    .desc = Связаны вместе запасными наручниками и металлом.

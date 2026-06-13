@@ -1,12 +1,12 @@
 ent-TP14KitchenDeepFryer = фритюрница
-    .desc = Can be used to fry delicious food, or all of sci's gold. Directions on the side say to use corn oil only.
-    .suffix = Service
+    .desc = Можно использовать для жарки вкусной еды или всего золота из научного отдела. Инструкция на боку гласит: используйте только кукурузное масло.
+    .suffix = Сервис
 ent-TP14KitchenDeepFryerTabletop = настольная фритюрница
-    .suffix = Service
     .desc = { ent-TP14KitchenDeepFryer.desc }
+    .suffix = Сервис
 ent-TP14KitchenDeepFryerEmpty = { ent-TP14KitchenDeepFryer }
-    .suffix = Empty, Service
     .desc = { ent-TP14KitchenDeepFryer.desc }
+    .suffix = Пустая, Сервис
 ent-TP14KitchenDeepFryerTabletopEmpty = { ent-TP14KitchenDeepFryerTabletop }
-    .suffix = Empty, Service
     .desc = { ent-TP14KitchenDeepFryerTabletop.desc }
+    .suffix = Пустая, Сервис

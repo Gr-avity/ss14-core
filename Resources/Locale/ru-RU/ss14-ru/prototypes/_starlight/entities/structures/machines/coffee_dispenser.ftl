@@ -1,6 +1,6 @@
-ent-CoffeeDispenserEmpty = coffee dispenser
-    .desc = A beverage dispenser with a selection of coffee and tea. Has a single fill slot for containers.
-    .suffix = Empty
+ent-CoffeeDispenserEmpty = кофейный автомат
+    .desc = Аппарат для розлива напитков с выбором кофе и чая. Имеет один слот для заполнения контейнеров.
+    .suffix = Пустой
 ent-CoffeeDispenser = { ent-CoffeeDispenserEmpty }
-    .suffix = Filled
     .desc = { ent-CoffeeDispenserEmpty.desc }
+    .suffix = Заполненный

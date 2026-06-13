@@ -18,9 +18,7 @@ names-skeleton-first-dataset-17 = Мерроу
 names-skeleton-first-dataset-18 = Тарсалс
 names-skeleton-first-dataset-19 = Пателла
 names-skeleton-first-dataset-20 = Тейлбоун
-
 ## Starlight
-
 names-skeleton-first-dataset-21 = Бонер
 names-skeleton-first-dataset-22 = Риб
 names-skeleton-first-dataset-23 = Гиоид

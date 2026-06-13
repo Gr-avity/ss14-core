@@ -1,6 +1,8 @@
 admin-player-actions-window-time-transfer = Перенос времени
+
 cmd-timetransferpanel-desc = Открывает панель переноса времени.
 cmd-timetransferpanel-help = Использование: timetransferpanel
+
 time-transfer-panel-title = Перенос времени
 time-transfer-panel-player = Игрок
 time-transfer-panel-player-placeholder = Ник или ID игрока
@@ -18,44 +20,41 @@ time-transfer-panel-close = Закрыть
 time-transfer-panel-ungrouped = Без отдела
 time-transfer-panel-role-entry = { $role } ({ $id })
 time-transfer-panel-role-tooltip = Таймер: { $tracker }; отдел: { $department }
-time-transfer-panel-department-entry =
-    { $department } ({ $count ->
-        [one] { $count } роль
-        [few] { $count } роли
-        [many] { $count } ролей
-       *[other] { $count } роли
-    })
+time-transfer-panel-department-entry = { $department } ({ $count ->
+    [one] { $count } роль
+    [few] { $count } роли
+    [many] { $count } ролей
+    *[other] { $count } роли
+})
 time-transfer-panel-overall-included = да
 time-transfer-panel-overall-skipped = нет
-time-transfer-panel-summary-roles =
-    Выбрано { $count ->
-        [one] { $count } роль
-        [few] { $count } роли
-        [many] { $count } ролей
-       *[other] { $count } роли
-    }; всего { $minutes ->
-        [one] { $minutes } минута
-        [few] { $minutes } минуты
-        [many] { $minutes } минут
-       *[other] { $minutes } минуты
-    }; общее время: { $overall }
-time-transfer-panel-summary-departments =
-    Выбрано { $departments ->
-        [one] { $departments } отдел
-        [few] { $departments } отдела
-        [many] { $departments } отделов
-       *[other] { $departments } отдела
-    }; затронуто { $roles ->
-        [one] { $roles } роль
-        [few] { $roles } роли
-        [many] { $roles } ролей
-       *[other] { $roles } роли
-    }; всего { $minutes ->
-        [one] { $minutes } минута
-        [few] { $minutes } минуты
-        [many] { $minutes } минут
-       *[other] { $minutes } минуты
-    }; общее время: { $overall }
+time-transfer-panel-summary-roles = Выбрано { $count ->
+    [one] { $count } роль
+    [few] { $count } роли
+    [many] { $count } ролей
+    *[other] { $count } роли
+}; всего { $minutes ->
+    [one] { $minutes } минута
+    [few] { $minutes } минуты
+    [many] { $minutes } минут
+    *[other] { $minutes } минуты
+}; общее время: { $overall }
+time-transfer-panel-summary-departments = Выбрано { $departments ->
+    [one] { $departments } отдел
+    [few] { $departments } отдела
+    [many] { $departments } отделов
+    *[other] { $departments } отдела
+}; затронуто { $roles ->
+    [one] { $roles } роль
+    [few] { $roles } роли
+    [many] { $roles } ролей
+    *[other] { $roles } роли
+}; всего { $minutes ->
+    [one] { $minutes } минута
+    [few] { $minutes } минуты
+    [many] { $minutes } минут
+    *[other] { $minutes } минуты
+}; общее время: { $overall }
 time-transfer-panel-status-ready = Выберите игрока, минуты и роли, отделы или общее время.
 time-transfer-panel-status-applying = Применяю перенос времени...
 time-transfer-panel-status-in-progress = Перенос времени уже выполняется...
@@ -68,16 +67,15 @@ time-transfer-panel-error-invalid-tracker = Неизвестный таймер 
 time-transfer-panel-error-player-not-found = Игрок '{ $player }' не найден.
 time-transfer-panel-error-playtime-loading = Время игрока { $player } еще загружается. Попробуйте через пару секунд.
 time-transfer-panel-error-unhandled = Не удалось перенести время. Проверьте лог сервера.
-time-transfer-panel-success-add =
-    Добавлено { $minutes ->
-        [one] { $minutes } минута
-        [few] { $minutes } минуты
-        [many] { $minutes } минут
-       *[other] { $minutes } минуты
-    } суммарно в { $count ->
-        [one] { $count } таймер
-        [few] { $count } таймера
-        [many] { $count } таймеров
-       *[other] { $count } таймера
-    } для { $player }.
+time-transfer-panel-success-add = Добавлено { $minutes ->
+    [one] { $minutes } минута
+    [few] { $minutes } минуты
+    [many] { $minutes } минут
+    *[other] { $minutes } минуты
+} суммарно в { $count ->
+    [one] { $count } таймер
+    [few] { $count } таймера
+    [many] { $count } таймеров
+    *[other] { $count } таймера
+} для { $player }.
 time-transfer-panel-admin-announcement = { $admin } перенес время игроку { $player }: { $summary }

@@ -1,2 +1,3 @@
-# SL Edit: renamed command implementation.
-command-description-polymorph-proto = Polymorphs the input entity with the given prototype.
+# SL Edit: переименована реализация команды.
+command-description-polymorph-proto =
+    Полиморфирует входную сущность с использованием данного прототипа.

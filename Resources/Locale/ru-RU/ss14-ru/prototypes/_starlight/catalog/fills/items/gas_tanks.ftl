@@ -1,3 +1,3 @@
-ent-HealiumTankFilled = healium tank
-    .desc = Contains a mixture of air and healium. Keep the pressure at 65 and it should put even those nitrogen breathers to sleep. It can hold 5 L of gas.
-    .suffix = Filled
+ent-HealiumTankFilled = баллон с хилиумом
+    .desc = Содержит смесь воздуха и хилиума. Держите давление на 65, и он должен усыпить даже тех, кто дышит азотом. Вмещает 5 л газа.
+    .suffix = Заполненный

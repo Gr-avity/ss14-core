@@ -13,11 +13,11 @@ lobby-state-player-status-round-time =
     Время раунда: { $hours } { $hours ->
         [one] час
         [few] часа
-       *[other] часов
+        *[other] часов
     } и { $minutes } { $minutes ->
         [one] минута
         [few] минуты
-       *[other] минут
+        *[other] минут
     }
 lobby-state-song-text = Играет: [color=white]{ $songTitle }[/color] от [color=white]{ $songArtist }[/color]
 lobby-state-song-no-song-text = В лобби не играет песня.
@@ -27,28 +27,29 @@ lobby-state-background-text = Фон меню: [color=white]{ $backgroundTitle }
 lobby-state-background-no-background-text = Фон не выбран.
 lobby-state-background-unknown-title = [color=dimgray]Неизвестный фон лобби[/color]
 lobby-state-background-unknown-artist = [color=dimgray]Неизвестный художник[/color]
+
 # starlight edit remove demeaning comments
 lobby-state-playtime-comment-normal =
     Вы провели в игре { $hours } { $hours ->
         [one] час
         [few] часа
-       *[other] часов
+        *[other] часов
     } за сегодня.
 lobby-state-playtime-comment-concerning =
     Вы провели в игре { $hours } { $hours ->
         [one] час
         [few] часа
-       *[other] часов
+        *[other] часов
     } за сегодня.
 lobby-state-playtime-comment-grasstouchless =
     Вы провели в игре { $hours } { $hours ->
         [one] час
         [few] часа
-       *[other] часов
+        *[other] часов
     } за сегодня.
 lobby-state-playtime-comment-selfdestructive =
     Вы провели в игре { $hours } { $hours ->
         [one] час
         [few] часа
-       *[other] часов
+        *[other] часов
     } за сегодня.

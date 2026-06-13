@@ -1,6 +1,7 @@
 ent-CrateCargoLuxuryHardsuit = ящик с роскошным шахтёрским хардсьютом
-    .desc = Finally, a hardsuit Quartermasters could call their own. Centcomm has heard you, now stop asking.
+    .desc = Наконец-то хардсьют, который квартирмейстеры могут назвать своим собственным. ЦентКом услышал вас, теперь перестаньте спрашивать.
 ent-CrateCargoParcelWrap = ящик с упаковочной бумагой
-    .desc = All your parcel wrapping needs in one crate, containing three rolls of parcel wrap.
+    .desc = Все ваши потребности в упаковке посылок в одной коробке, содержащей три рулона упаковочной бумаги.
 ent-CrateCargoGambling = великая лотерея $$$
-    .desc = A box containing treasure beyond your greatest imaginations!
+    .desc = Коробка, содержащая сокровища за пределами вашего самого смелого воображения!
+    .suffix = { ent-CratePrivateSecure.suffix }

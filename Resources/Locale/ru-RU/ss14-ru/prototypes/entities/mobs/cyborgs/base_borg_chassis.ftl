@@ -1,6 +1,6 @@
 ent-BaseBorgChassisNotIonStormable = киборг
-    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.
-ent-BaseBorgChassis = киборг
+    .desc = Человеко-машинный гибрид, который помогает в деятельности станции. Они обожают, когда их просят снова и снова цитировать свои законы.
+ent-BaseBorgChassis = { ent-BaseBorgChassisNotIonStormable }
     .desc = { ent-BaseBorgChassisNotIonStormable.desc }
 ent-BaseBorgTransponder = { "" }
     .desc = { "" }
@@ -15,4 +15,4 @@ ent-BaseBorgChassisDerelict = { ent-BaseBorgChassis }
 ent-BaseBorgChassisSyndicateDerelict = { ent-BaseBorgChassisSyndicate }
     .desc = { ent-BaseBorgChassisSyndicate.desc }
 ent-BaseXenoborgChassis = ксеноборг
-    .desc = A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh Xenoborg chassis to grow their army.
+    .desc = Человеко-машинный гибрид, который стремится к самовоспроизведению. Они обожают извлекать мозги, чтобы вставлять их в свежие шасси ксеноборгов, чтобы растить свою армию.

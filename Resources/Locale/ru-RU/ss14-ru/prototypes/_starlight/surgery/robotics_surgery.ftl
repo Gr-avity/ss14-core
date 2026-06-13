@@ -1,8 +1,8 @@
-ent-SurgeryExtractHandImplantRobot = Extract Hand Implant
+ent-SurgeryExtractHandImplantRobot = Извлечь имплант руки
     .desc = { ent-SurgeryBase.desc }
-ent-SurgeryImplantHandImplantRobot = Implant Hand Implant
+ent-SurgeryImplantHandImplantRobot = Имплантировать имплант руки
     .desc = { ent-SurgeryBase.desc }
-ent-SurgeryExtractBrainImplantRobot = Extract Brain Implant
+ent-SurgeryExtractBrainImplantRobot = Извлечь имплант мозга
     .desc = { ent-SurgeryBase.desc }
-ent-SurgeryImplantBrainImplantRobot = Implant Brain Implant
+ent-SurgeryImplantBrainImplantRobot = Имплантировать имплант мозга
     .desc = { ent-SurgeryBase.desc }

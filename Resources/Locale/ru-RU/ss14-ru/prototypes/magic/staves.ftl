@@ -1,6 +1,6 @@
 ent-RGBStaff = RGB посох
-    .desc = Helps fix the underabundance of RGB gear on the station.
-ent-AnimationStaff = staff of animation
-    .desc = Brings inanimate objects to life! Seems to be simpler to use than the other ones, anyone could use this.
+    .desc = Помогает исправить недостаток RGB-оборудования на станции.
+ent-AnimationStaff = посох оживления
+    .desc = Оживляет неодушевленные предметы! Кажется, им проще пользоваться, чем другими, любой мог бы использовать его.
 ent-ActionRgbLight = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }

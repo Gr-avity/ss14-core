@@ -1,2 +1,2 @@
 ent-StasisBed = стазисная кровать
-    .desc = A bed that massively slows down the patient's metabolism and prevents bodily decay, allowing more time to administer a proper treatment for stabilization.
+    .desc = Кровать, которая значительно замедляет метаболизм пациента и предотвращает распад тела, давая больше времени для проведения надлежащего лечения для стабилизации.

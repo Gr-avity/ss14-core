@@ -1,10 +1,8 @@
-ent-BaseEntityBrainImplant = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
 ent-BrainImplantTranslator = Имплант переводчика
-    .desc = Translates from your language to galactic common right in your brain!
+    .desc = Переводит с вашего языка на галактический общий прямо в вашем мозгу!
 ent-BrainImplantCommsExpedition = Имплант радио экспедиции
-    .desc = A handy implant for the salvager of the modern age.
+    .desc = Удобный имплант для мусорщика современной эпохи.
 ent-BrainImplantComms = Интегрированный радио-имплант
-    .desc = A headset, right in your brain!
+    .desc = Гарнитура прямо в вашем мозгу!
 ent-BrainImplantNexus = Аплинк Нексуса
-    .desc = A weird piece of Avali tech... Gives you access to the Nexus!
+    .desc = Странная часть технологий Авали... Дает вам доступ к Нексусу!

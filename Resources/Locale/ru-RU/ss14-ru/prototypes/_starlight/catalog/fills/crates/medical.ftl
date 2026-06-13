@@ -1,2 +1,3 @@
 ent-CrateMedicalSedative = ящик седативных средств
-    .desc = Contains two bottles of chloral hydrate, two tanks of NO2, and two breath masks
+    .desc = Содержит две бутылки хлоралгидрата, два баллона NO2 и две дыхательные маски.
+    .suffix = { ent-CrateMedicalSecure.suffix }

@@ -1,10 +1,10 @@
 ent-CentcommVibrobladeSheath = ножны виброклинков CentComm
-    .desc = Vulcan Industries believed that maintenance of the Vibroweapons should be delayed as much as possible and the quality of the blades to be at top notch at all times; for the Corporate Consortium, specially designed sheaths were made where the subsonic piercing qualities would have it degradation slowed when not at use.
+    .desc = Vulcan Industries считали, что обслуживание виброоружия следует откладывать как можно дольше, а качество клинков должно быть на высшем уровне в любое время; для Корпоративного Консорциума были изготовлены специально разработанные ножны, в которых деградация дозвуковых пробивных качеств замедлялась, когда они не использовались.
 ent-CentcommVibrobladeSheathFilled = ножны виброклинков CentComm
-    .desc = Vulcan Industries believed that maintenance of the Vibroweapons should be delayed as much as possible and the quality of the blades to be at top notch at all times; for the Corporate Consortium, specially designed sheaths were made where the subsonic piercing qualities would have it degradation slowed when not at use.
-    .suffix = Filled
+    .desc = Vulcan Industries считали, что обслуживание виброоружия следует откладывать как можно дольше, а качество клинков должно быть на высшем уровне в любое время; для Корпоративного Консорциума были изготовлены специально разработанные ножны, в которых деградация дозвуковых пробивных качеств замедлялась, когда они не использовались.
+    .suffix = Заполненный
 ent-PrototypeVibrobladeSheath = ножны прототипа виброклинков
-    .desc = Vulcan Industries believed that maintenance of the Vibroweapons should be delayed as much as possible and the quality of the blades to be at top notch at all times, even for the prototypes of the final weapons that were to be completed and shipped out. This sheath was designed to fit one of the final prototype designs that Vulcan Industries would conceptalize and produce.
+    .desc = Vulcan Industries считали, что обслуживание виброоружия следует откладывать как можно дольше, а качество клинков должно быть на высшем уровне в любое время, даже для прототипов финального оружия, которые должны были быть завершены и отправлены. Эти ножны были разработаны для одного из финальных прототипов, которые Vulcan Industries планировала концептуализировать и произвести.
 ent-PrototypeVibrobladeSheathFilled = ножны прототипа виброклинков
-    .desc = Vulcan Industries believed that maintenance of the Vibroweapons should be delayed as much as possible and the quality of the blades to be at top notch at all times, even for the prototypes of the final weapons that were to be completed and shipped out. This sheath was designed to fit one of the final prototype designs that Vulcan Industries would conceptalize and produce.
-    .suffix = Filled
+    .desc = Vulcan Industries считали, что обслуживание виброоружия следует откладывать как можно дольше, а качество клинков должно быть на высшем уровне в любое время, даже для прототипов финального оружия, которые должны были быть завершены и отправлены. Эти ножны были разработаны для одного из финальных прототипов, которые Vulcan Industries планировала концептуализировать и произвести.
+    .suffix = Заполненный

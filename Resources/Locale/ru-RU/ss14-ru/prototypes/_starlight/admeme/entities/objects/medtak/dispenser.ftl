@@ -1,6 +1,6 @@
-ent-PlumbingSmartDispenserMedTakFilled = Smart dispenser
-    .desc = A smart dispenser prefilled with a broad set of medical reagents.
-    .suffix = Filled
-ent-PlumbingSmartDispenserMedTakWallmountFilled = Wallmount dispenser
-    .desc = A wallmount smart dispenser filled with a broad set of medical reagents.
-    .suffix = Filled
+ent-PlumbingSmartDispenserMedTakFilled = умный диспенсер
+    .desc = Умный диспенсер, предварительно заполненный широким набором медицинских реагентов.
+    .suffix = Заполненный
+ent-PlumbingSmartDispenserMedTakWallmountFilled = настенный диспенсер
+    .desc = Настенный умный диспенсер, заполненный широким набором медицинских реагентов.
+    .suffix = Заполненный

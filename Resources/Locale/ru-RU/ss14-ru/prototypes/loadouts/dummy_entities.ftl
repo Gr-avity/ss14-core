@@ -1,2 +1,2 @@
-ent-LoadoutDummyCandles = three candles
-    .desc = A set of three colorful candles for secret rituals!
+ent-LoadoutDummyCandles = три свечи
+    .desc = Набор из трех разноцветных свечей для секретных ритуалов!

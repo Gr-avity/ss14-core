@@ -1,5 +1,6 @@
 ent-DrinkDraganSpecialGlass = { ent-DrinkGlass }
-    .suffix = dragan special
     .desc = { ent-DrinkGlass.desc }
+    .suffix = Драган спец
 ent-DrinkWaterBottleEmpty = бутылка воды
-    .desc = Simple clean water of unknown origin. You think that maybe you dont want to know it.
+    .desc = Простая чистая вода неизвестного происхождения. Вам кажется, что вы не хотите знать, откуда она.
+    .suffix = { ent-DrinkWaterBottleFull.suffix }

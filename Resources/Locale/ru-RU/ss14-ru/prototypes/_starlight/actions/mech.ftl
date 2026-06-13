@@ -1,2 +1,2 @@
-ent-ActionMechActivateAirHorn = HOOOOOONNNNNNNKKKKK!!!
-    .desc = Spread joy to everyone in hearing distance.
+ent-ActionMechActivateAirHorn = ХООООООНННННННННККККК!!!
+    .desc = Дарите радость всем в пределах слышимости.

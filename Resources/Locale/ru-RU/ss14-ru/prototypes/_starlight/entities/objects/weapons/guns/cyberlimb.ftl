@@ -1,4 +1,4 @@
 ent-RadcasterCyber = кибернетический рад-излучатель
-    .desc = This seems a little unsafe...
+    .desc = Кажется, это небезопасно...
 ent-FreezeRayCyber = кибернетическая замораживающая пушка
-    .desc = Brr...! Cold!
+    .desc = Брр...! Холодно!

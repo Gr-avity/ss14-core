@@ -1,8 +1,8 @@
-ent-CrateArmoryLr30 = ящик lr30
-    .desc = Contains two automatic LR-30 energy weapons, with two additional magazines. Requires Armory access to open.
-ent-CrateArmoryLr30Magazines = ящик магазинов lr30
-    .desc = Contains six magazines for the LR-30 energy weapon. Requires Armory access to open.
-ent-CrateArmoryCombatShotgun = ящик боевых дробовиков
-    .desc = Contains two automatic combat shotguns, with two additional ammo boxes. Requires Armory access to open.
+ent-CrateArmoryLr30 = ящик с LR-30
+    .desc = Содержит два автоматических энергетических оружия LR-30 и два дополнительных магазина. Для открытия требуется доступ к оружейной.
+ent-CrateArmoryLr30Magazines = ящик с магазинами для LR-30
+    .desc = Содержит шесть магазинов для энергетического оружия LR-30. Для открытия требуется доступ к оружейной.
+ent-CrateArmoryCombatShotgun = ящик с боевыми дробовиками
+    .desc = Содержит два автоматических боевых дробовика и две дополнительные коробки патронов. Для открытия требуется доступ к оружейной.
 ent-CrateArmoryAdvancedRestraints = ящик продвинутых средств сдерживания
-    .desc = For the most annoying prisoners.
+    .desc = Для самых надоедливых заключённых.

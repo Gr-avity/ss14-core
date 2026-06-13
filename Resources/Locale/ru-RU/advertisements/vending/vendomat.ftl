@@ -5,3 +5,4 @@ advertisement-vendomat-4 = Лучшее снаряжение в космосе!
 advertisement-vendomat-5 = Это, безусловно, лучше, чем стандартное снаряжение!
 advertisement-vendomat-6 = Получите ваш старый добрый лом!
 advertisement-vendomat-7 = Здесь на случай, когда понадобится полный набор инструментов!
+

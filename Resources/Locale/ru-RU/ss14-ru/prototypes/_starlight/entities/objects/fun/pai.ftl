@@ -1,8 +1,8 @@
 ent-ActionPAIPDA = открыть КПК
-    .desc = Opens the PDA UI if you are in one.
-ent-ActionPAIConsole = Access Console
-    .desc = Opens the console UI if you are slotted in one.
+    .desc = Открывает интерфейс КПК, если вы находитесь внутри него.
+ent-ActionPAIConsole = открыть консоль
+    .desc = Открывает интерфейс консоли, если вы вставлены в неё.
 ent-EncryptionKeySyndiePAI = { ent-EncryptionKeySyndie }
     .desc = { ent-EncryptionKeySyndie.desc }
-ent-WizardPersonalAI = wizard personal ai device
-    .desc = Your magical pal who's fun to be with!
+ent-WizardPersonalAI = персональный ИИ волшебника
+    .desc = Ваш магический приятель, с которым так весело!

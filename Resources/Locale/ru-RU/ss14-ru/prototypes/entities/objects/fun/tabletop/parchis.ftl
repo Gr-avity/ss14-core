@@ -1,4 +1,4 @@
 ent-ParchisBoard = доска для парчис
-    .desc = Cross and circle board game famous for destroying countless friendships.
+    .desc = Настольная игра «крестик-нолик», знаменитая разрушением бесчисленных дружеских отношений.
 ent-ParchisBoardTabletop = парчис
     .desc = { ent-BaseBoardTabletop.desc }

@@ -1,2 +1,2 @@
-ent-CashRegister = cash register
-    .desc = A vaguely secure way to store currency. Wheres the lock...?
+ent-CashRegister = кассовый аппарат
+    .desc = Смутно безопасный способ хранения валюты. Где же замок...?

@@ -15,5 +15,6 @@ ui-lobby-ready-button-tooltip-is-ready = Ваша заявка на участи
 ui-lobby-ready-button-tooltip-is-not-ready = Вы не подали заявку на участие в следующей смене.
 ui-lobby-ready-button-tooltip-not-loaded = Подождите! Ваши персонажи ещё не загрузились!
 ui-lobby-ready-button-tooltip-join-state = Прибыть на станцию с опозданием.
+
 ui-lobby-lock-priorities-checkbox-tooltip = Разрешить прямое перетаскивание должностных приоритетов.
 ui-lobby-lock-priorities-checkbox-label = Разрешить перетаскивание

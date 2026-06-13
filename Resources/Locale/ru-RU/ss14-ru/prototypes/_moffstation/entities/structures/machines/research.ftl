@@ -1,2 +1,2 @@
-ent-BaseResearchAndDevelopmentServer = abstract R&D server
+ent-BaseResearchAndDevelopmentServer = абстрактный сервер R&D
     .desc = { "" }

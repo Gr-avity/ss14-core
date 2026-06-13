@@ -1,2 +1,3 @@
 ent-MailingUnitElectronics = микросхема почтового блока
-    .desc = An electronics board used in mailing units.
+    .desc = Электронная плата, используемая в почтовых блоках.
+    .suffix = { ent-BaseElectronics.suffix }

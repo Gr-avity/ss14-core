@@ -1,8 +1,8 @@
 ent-XenobiologyConsole = консоль ксенобиологии
-    .desc = A computer for manipulating slimes. Can move slimes around, apply mutating potions, and even feed them!
+    .desc = Компьютер для манипуляций со слаймами. Может перемещать слаймов, применять мутирующие зелья и даже кормить их!
 ent-XenobiologyConsoleEye = глаз консоли ксенобиологии
-    .desc = The eye, or perhaps the claw, extending from the xenobiology console. Is it spying on you?
-    .suffix = DO NOT MAP
+    .desc = Глаз, или, возможно, коготь, выступающий из консоли ксенобиологии. Он шпионит за вами?
+    .suffix = НЕ СТАВИТЬ НА КАРТУ
 ent-SurveillanceCameraXenobiology = камера
-    .suffix = Science (Xenobiology Console)
     .desc = { ent-SurveillanceCameraScience.desc }
+    .suffix = Наука (Консоль ксенобиологии)

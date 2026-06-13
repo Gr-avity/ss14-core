@@ -1,2 +1,2 @@
 ent-ClothingNeckStoleChaplain = наплечная накидка священника
-    .desc = An elegantly designed stole, with a vibrant gold holy symbol on either end.
+    .desc = Элегантно выполненная накидка с ярким золотым святым символом на обоих концах.

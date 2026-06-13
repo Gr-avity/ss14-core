@@ -1,2 +1,2 @@
 ent-DiskCase = коробка для дисков
-    .desc = Case for storing a coordinates disk.
+    .desc = Футляр для хранения диска с координатами.

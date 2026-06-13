@@ -1,6 +1,6 @@
 ent-WeaponEnergyTurretSilicon = { ent-WeaponEnergyTurretStationBase }
-    .suffix = Silicon
     .desc = { ent-WeaponEnergyTurretStationBase.desc }
+    .suffix = Кремниевый
 ent-WeaponEnergyTurretSolgov = { ent-WeaponEnergyTurretStationBase }
-    .suffix = Solgov
     .desc = { ent-WeaponEnergyTurretStationBase.desc }
+    .suffix = Solgov

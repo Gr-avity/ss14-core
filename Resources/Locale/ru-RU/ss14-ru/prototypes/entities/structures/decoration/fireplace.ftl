@@ -1,2 +1,2 @@
 ent-Fireplace = камин
-    .desc = A place that has fire. Cozy!
+    .desc = Место, где есть огонь. Уютно!

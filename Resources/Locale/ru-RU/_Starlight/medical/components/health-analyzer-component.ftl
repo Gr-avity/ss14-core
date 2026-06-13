@@ -1,7 +1,6 @@
 health-analyzer-chat-message = Повреждения пациента: { $damage }, Уровень крови: { $blood }
 
 ## Printable health reports
-
 health-analyzer-window-print-report = Print Report
 health-analyzer-report-title = Health Report: { $name }
 health-analyzer-report-no-patient = No scanned patient available to print.

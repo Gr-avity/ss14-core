@@ -1,2 +1,2 @@
-ent-WeaponRiflePrometheus = Prometheus battle rifle
-    .desc = A heavily modified Lecter battle rifle issued to Blackstar Dreadwalker operatives. A 3-round burst mechanism has been machined into the action, making it lethal at any range. Feeds from .20 rifle magazines.
+ent-WeaponRiflePrometheus = боевая винтовка «Prometheus»
+    .desc = Тяжело модифицированная боевая винтовка «Лектер», выдаваемая оперативникам Blackstar Dreadwalker. В затвор был встроен механизм стрельбы очередями по 3 патрона, что делает ее смертоносной на любой дистанции. Питается из магазинов для винтовок калибра .20.

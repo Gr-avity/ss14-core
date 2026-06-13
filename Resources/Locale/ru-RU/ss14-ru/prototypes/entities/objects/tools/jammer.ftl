@@ -1,4 +1,4 @@
 ent-RadioJammer = глушитель радио
-    .desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.
+    .desc = Это устройство при активации будет нарушать любую близлежащую исходящую радиосвязь, а также датчики костюма.
 ent-XenoborgRadioJammer = глушитель радиосвязи ксеноборга
     .desc = { ent-RadioJammer.desc }

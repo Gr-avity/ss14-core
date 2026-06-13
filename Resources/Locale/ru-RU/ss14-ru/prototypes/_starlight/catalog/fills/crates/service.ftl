@@ -1,2 +1,2 @@
 ent-CrateServiceHydraRefill = ящик заправок гидры
-    .desc = Contains two refills for the Hydra cleanade launcher.
+    .desc = Содержит две заправки для пусковой установки чистящих средств «Гидра».

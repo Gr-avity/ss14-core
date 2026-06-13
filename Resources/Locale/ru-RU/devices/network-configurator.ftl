@@ -11,6 +11,7 @@ network-configurator-link-mode-stopped = Перестало соединять.
 network-configurator-mode-link = Присоединение
 network-configurator-mode-list = Список
 network-configurator-switched-mode = Сменён режим на: { $mode }
+
 # Verbs
 network-configurator-save-device = Сохранить устройство
 network-configurator-configure = Настроить
@@ -18,16 +19,19 @@ network-configurator-switch-mode = Сменить режим
 network-configurator-link-defaults = Связывать по умолчанию
 network-configurator-start-link = Начать связывание
 network-configurator-link = Соединить
+
 # ui
 network-configurator-title-saved-devices = Сохранённые устройства
 network-configurator-title-device-configuration = Конфигурация устройства
 network-configurator-ui-clear-button = Очистить
 network-configurator-ui-count-label = { $count } Devices
+
 network-configurator-text-set = Установить
 network-configurator-text-add = Добавить
 network-configurator-text-clear = Очистить
 network-configurator-text-copy = Копировать
 network-configurator-text-show = Отображать
+
 # tooltips
 network-configurator-tooltip-set = Создание списка целевых устройств
 network-configurator-tooltip-add = Добавление в список целевых устройств
@@ -35,15 +39,17 @@ network-configurator-tooltip-edit = Редактирование списка ц
 network-configurator-tooltip-clear = Очистка списка целевых устройств
 network-configurator-tooltip-copy = Копирование списка целевых устройств в мультитул
 network-configurator-tooltip-show = Показывать голографическую визуализацию списка целевых устройств
+
 # examine
 network-configurator-examine-mode-link = [color=red]Присоединение[/color]
 network-configurator-examine-mode-list = [color=green]Список[/color]
 network-configurator-examine-current-mode = Текущий режим: { $mode }
 network-configurator-examine-switch-modes = Нажмите { $key } чтобы сменить режим
+
 # item status
-network-configurator-item-status-label =
-    Mode: { $mode }
+network-configurator-item-status-label = Mode: { $mode }
     Switch: { $keybinding }
+
 # command
 cmd-clearnetworklinkoverlays-desc = Очистить все наложения сетевых соединений.
 cmd-clearnetworklinkoverlays-help = Использование: clearnetworklinkoverlays

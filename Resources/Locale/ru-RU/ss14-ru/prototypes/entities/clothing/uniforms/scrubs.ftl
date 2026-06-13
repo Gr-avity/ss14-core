@@ -1,6 +1,6 @@
 ent-UniformScrubsColorPurple = фиолетовая роба
-    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+    .desc = Сочетание комфорта и функциональности, призванное сделать изъятие последнего органа у кого-либо и его продажу космическому роботу гораздо более официальным на вид.
 ent-UniformScrubsColorGreen = зелёная роба
-    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+    .desc = Сочетание комфорта и функциональности, призванное сделать изъятие последнего органа у кого-либо и его продажу космическому роботу гораздо более официальным на вид.
 ent-UniformScrubsColorBlue = синяя роба
-    .desc = A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+    .desc = Сочетание комфорта и функциональности, призванное сделать изъятие последнего органа у кого-либо и его продажу космическому роботу гораздо более официальным на вид.

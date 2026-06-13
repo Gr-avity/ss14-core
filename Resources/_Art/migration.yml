@@ -1,0 +1,11 @@
+# Пример:
+# #  гггг-мм-дд
+# IdПредметаДо: IdПредметаПосле - Заменяет предмет
+# IdПредметаДо: null - Удаляет предмет с карты
+
+
+# 2026-06-13
+MailingUnitR&D: MailingUnitRND
+DisposalTaggerR&D: DisposalTaggerRND
+DisposalRouterR&D: DisposalRouterRND
+DisposalRouterFlippedR&D: DisposalRouterFlippedRND

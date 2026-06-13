@@ -1,2 +1,2 @@
 ent-RadiationPulse = мерцающая аномалия
-    .desc = Looking at this anomaly makes you feel strange, like something is pushing at your eyes.
+    .desc = Глядя на эту аномалию, вы чувствуете себя странно, как будто что-то давит на глаза.

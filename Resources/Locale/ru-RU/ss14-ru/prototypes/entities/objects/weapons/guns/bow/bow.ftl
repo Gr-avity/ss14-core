@@ -1,4 +1,4 @@
 ent-BaseBow = лук
-    .desc = The original rooty tooty point and shooty.
+    .desc = Оригинальное устройство «наведи и выстрели».
 ent-BowImprovised = кустарный короткий лук
     .desc = { ent-BaseBow.desc }

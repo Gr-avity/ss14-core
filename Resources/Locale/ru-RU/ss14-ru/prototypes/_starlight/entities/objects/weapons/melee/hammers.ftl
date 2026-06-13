@@ -1,2 +1,2 @@
 ent-HammerBreachingNT = пробивной молот
-    .desc = A robust heavy hammer made for breaching through walls and doors. Its reinforced head and sturdy handle make it ideal for demolition tasks.
+    .desc = Прочный тяжелый молот, созданный для пробивания стен и дверей. Усиленная головка и крепкая рукоятка делают его идеальным для демонтажных работ.

@@ -1,4 +1,4 @@
 ent-ActionSpiderWeb = Создать паутину
-    .desc = Spawns a web that slows your prey down.
+    .desc = Создает паутину, которая замедляет вашу добычу.
 ent-ActionSericulture = Ткать шёлк
-    .desc = Weave a bit of silk for use in arts and crafts.
+    .desc = Сотките немного шелка для использования в ремеслах.

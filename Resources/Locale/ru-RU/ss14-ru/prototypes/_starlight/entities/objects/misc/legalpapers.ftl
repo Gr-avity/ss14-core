@@ -1,4 +1,4 @@
 ent-RDDiploma = докторская степень НР
-    .desc = The RD's PhD. You can't believe they went to that school!
+    .desc = Докторская степень НР. Вы не поверите, что они ходили в ту школу!
 ent-CMOLicense = медицинская лицензия ГВ
-    .desc = The CMO's medical license. You can't believe it's not expired.
+    .desc = Медицинская лицензия ГВ. Вы не поверите, что она не просрочена.

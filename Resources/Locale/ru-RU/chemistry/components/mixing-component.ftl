@@ -15,3 +15,4 @@ default-mixing-success = { CAPITALIZE($mixed) } смешивается, { $mixer
 bible-mixing-success = { CAPITALIZE($mixed) } благословляется, { $mixer } используется как инструмент
 spoon-mixing-success = { CAPITALIZE($mixed) } перемешивается, { $mixer } используется как инструмент
 handheld-centrifuge-success = Вы разделяете химические вещества в { $mixed }
+

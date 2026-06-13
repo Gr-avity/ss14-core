@@ -1,4 +1,5 @@
 admin-explosion-eui-title = Спавн взрывов
+
 admin-explosion-eui-label-type = Тип взрыва
 admin-explosion-eui-label-mapid = ID карты
 admin-explosion-eui-label-xmap = X (Карта)
@@ -13,8 +14,10 @@ admin-explosion-eui-label-angle = Угол
 admin-explosion-eui-label-spread = Разброс
 admin-explosion-eui-label-distance = Расстояние
 admin-explosion-eui-label-spawn = Бабах!
+
 cmd-explosionui-desc = Открывает окно для удобного доступа к уничтожению станции.
 cmd-explosionui-help = Использование: explosionui
+
 cmd-explosion-desc = Поезд сделал бум
 cmd-explosion-help = Использование: explosion [intensity] [slope] [maxIntensity] [x y] [mapId] [prototypeId]
 cmd-explosion-failed-to-parse-intensity = Не удалось спарсить интенсивность: { $value }

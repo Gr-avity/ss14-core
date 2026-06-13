@@ -1,7 +1,7 @@
 ent-SupermatterCrystal = суперматерия
-    .desc = A glowing supermatter crystal, with half an ID card lying next to it, and it says "Clown pira..." on it.
+    .desc = Светящийся кристалл суперматерии, рядом с ним лежит половина ID-карты, на которой написано «Клоун пира...».
 ent-Cascad1 = каскад
-    .desc = Consequences of the supermatter crystal's cascade failure.
+    .desc = Последствия каскадного сбоя кристалла суперматерии.
 ent-Cascad2 = { ent-Cascad1 }
     .desc = { ent-Cascad1.desc }
 ent-Cascad3 = { ent-Cascad1 }

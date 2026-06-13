@@ -1,6 +1,6 @@
 ent-MechEquipmentBorgPilot = маяк управления экзокостюмом ИИ
-    .desc = A device used to transmit exosuit data. Also allows active cyborg units to take control of said exosuit.
+    .desc = Устройство, используемое для передачи данных экзокостюма. Также позволяет активным киборгам брать под контроль указанный экзокостюм.
 ent-MechEquipmentSecGrabber = гидравлический коготь
-    .desc = A specialized Hydraulic claw designed for the containment of multiple subjects. Can hold up to 4 items at once.
+    .desc = Специализированный гидравлический коготь, предназначенный для удержания нескольких субъектов. Может удерживать до 4 предметов одновременно.
 ent-MechEquipmentCamera = ПНВ меха
-    .desc = night vision camera, allows you to switch the visor to night vision for increased visibility in poorly lit areas.
+    .desc = камера ночного видения, позволяет переключить визор в режим ночного видения для лучшей видимости в плохо освещенных местах.

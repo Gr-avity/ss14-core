@@ -1,10 +1,10 @@
 ent-ClothingHeadHatWelding = сварочная маска
-    .desc = A head-mounted face cover designed to protect the wearer completely from space-arc eye.
+    .desc = Защитное покрытие для лица, закрепляемое на голове, разработанное для полной защиты владельца от «сварочной слепоты» (ожога роговицы).
 ent-ClothingHeadHatWeldingMaskFlame = сварочная маска пламени
-    .desc = A painted welding helmet, this one has flames on it.
+    .desc = Покрашенная сварочная маска, на этой нарисовано пламя.
 ent-ClothingHeadHatWeldingMaskFlameBlue = сварочная маска синего пламени
-    .desc = A painted welding helmet, this one has blue flames on it.
+    .desc = Покрашенная сварочная маска, на этой нарисовано синее пламя.
 ent-ClothingHeadHatWeldingMaskPainted = покрашенная сварочная маска
-    .desc = A welding helmet, painted in crimson.
+    .desc = Сварочная маска, покрашенная в малиновый цвет.
 ent-ActionToggleWeldingMask = Переключить сварочную маску
-    .desc = Covers or reveals your face.
+    .desc = Закрывает или открывает ваше лицо.

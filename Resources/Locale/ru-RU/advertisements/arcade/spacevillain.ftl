@@ -13,6 +13,7 @@ advertisement-space-villain-12 = БОЙСЯ МЕНЯ!
 advertisement-space-villain-13 = Осмелишься сразиться со мной?
 advertisement-space-villain-14 = Берегись... Я жив!
 advertisement-space-villain-15 = Я ЖАЖДУ БИТВЫ!
+
 thankyou-space-villain-1 = А ну стоять, сопляк, куда это ты?
 thankyou-space-villain-2 = И это всё, на что ты способен?
 thankyou-space-villain-3 = Мы с тобой ещё не закончили!

@@ -1,2 +1,2 @@
 ent-ClothingShoesBootsMagBSO = магнитные сапоги Blue Shield
-    .desc = A pair of standard magnetic boots, issued alongside the BSO hardsuit.
+    .desc = Пара стандартных магнитных сапог, выданных вместе со скафандром BSO.

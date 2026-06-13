@@ -1,10 +1,10 @@
 ent-CyberEnergyChainsword = энергетический чепнсворд
-    .desc = Slam this into the individual you wish to destroy, mentally and physically.
+    .desc = Вонзите это в того, кого хотите уничтожить, морально и физически.
 ent-CyberMantisBlade = клинок богомола
-    .desc = A sharp blade that extended from your own arm, time to burn down a corporation.
+    .desc = Острое лезвие, выдвигающееся из вашей собственной руки, пора сжечь корпорацию дотла.
 ent-MeleeWeaponCyberEmpFist = кулак Зевса
-    .desc = Arm-mounted EMP capacitor, ready to disable an electrical device.
+    .desc = Установленный на руке ЭМИ-конденсатор, готовый вывести из строя электрическое устройство.
 ent-MeleeWeaponCyberStunFist = шоковый кулак
-    .desc = Arm-mounted electric shock delivery device. Handle with care.
+    .desc = Установленное на руке устройство для нанесения электрического шока. Обращайтесь с осторожностью.
 ent-MeleeWeaponCyberHerakles = кулак Геракла
-    .desc = An ostensibly nonlethal arm replacement. Strong enough to toss people around and pry open doors.
+    .desc = Очевидно несмертельная замена руки. Достаточно сильная, чтобы швырять людей вокруг и вскрывать двери.

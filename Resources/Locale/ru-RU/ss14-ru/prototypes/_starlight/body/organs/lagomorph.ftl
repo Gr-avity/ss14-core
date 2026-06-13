@@ -1,7 +1,7 @@
-ent-OrganLagomorphEyes = eyes
-    .desc = Couldn't have seen that one coming.
-    .suffix = Lagomorph
+ent-OrganLagomorphEyes = глаза
+    .desc = Не ожидал такого подвоха.
+    .suffix = Лагоморф
 ent-OrganLagomorphStomach = желудок
-    .desc = Gross. This is hard to stomach.
+    .desc = Отвратительно. На это тошно смотреть.
 ent-OrganLagomorphHeart = сердце
-    .desc = Gross. This is hard to stomach.
+    .desc = Отвратительно. На это тошно смотреть.

@@ -1,6 +1,6 @@
 ent-FoodSnackHardCandy = леденец
-    .desc = So many flavors of sugar!
+    .desc = Так много вкусов сахара!
 ent-FoodSnackHardCandyOpen = леденец
-    .desc = So many flavors of sugar! Tastes even better with the skin off.
+    .desc = Так много вкусов сахара! На вкус ещё лучше, если снять обёртку.
 ent-FoodPacketHardCandyTrash = обёртка от конфеты
     .desc = { ent-FoodPacketTrash.desc }

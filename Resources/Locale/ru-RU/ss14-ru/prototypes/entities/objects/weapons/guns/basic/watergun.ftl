@@ -1,8 +1,8 @@
 ent-WeaponWaterGunBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 ent-WeaponWaterPistol = водяной пистолет
-    .desc = The dinkiest of water-based weaponry. You swear the trigger doesn't do anything.
+    .desc = Самое дрянное оружие на водной основе. Вы клянётесь, что курок ничего не делает.
 ent-WeaponWaterBlaster = водяной бластер
-    .desc = With this bad boy, you'll be the coolest kid at the summer barbecue.
+    .desc = С этим плохим парнем вы будете самым крутым парнем на летнем барбекю.
 ent-WeaponWaterBlasterSuper = водяной супер-бластер
-    .desc = No! No! Not in the eyes!
+    .desc = Нет! Нет! Только не в глаза!

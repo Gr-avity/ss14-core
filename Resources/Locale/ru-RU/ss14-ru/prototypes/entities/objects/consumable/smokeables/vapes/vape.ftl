@@ -1,2 +1,2 @@
 ent-Vape = вейп
-    .desc = Like a cigar, but for tough teens. (WARNING:Pour only water into the vape)
+    .desc = Как сигара, но для крутых подростков. (ВНИМАНИЕ: заливайте в вейп только воду)

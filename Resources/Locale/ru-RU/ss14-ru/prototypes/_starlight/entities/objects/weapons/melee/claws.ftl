@@ -1,4 +1,4 @@
 ent-BaseClaws = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 ent-AdvancedClaws = продвинутые когти
-    .desc = Sharp, retractable plasteel claws, embedded in your hand.
+    .desc = Острые выдвижные пласталевые когти, встроенные в вашу руку.

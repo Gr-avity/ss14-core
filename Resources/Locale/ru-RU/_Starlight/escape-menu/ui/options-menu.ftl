@@ -13,8 +13,10 @@ ui-options-tts-label = Текст-в-речь
 ui-options-tts-volume = Громкость TTS:
 ui-options-tts-chime-volume = Chime Volume:
 credits-window-tts-title = Функция TTS (Текст-в-речь)
+
 ui-options-tts-radio-volume = Громкость радио:
 ui-options-tts-announce-volume = Громкость объявлений:
+
 ui-options-tts-enabled = Текст-в-речь включён
 ui-options-tts-radio-queue-enabled = Очередь радио TTS
 ui-options-radio-chime-mute = Отключить сигналы радио
@@ -37,15 +39,19 @@ ui-options-sight-second-color = Sight Second Color
 ## Admin
 
 ui-options-admin-ghost-hud = Admin Ghost HUD
+
 ui-options-admin-ghost-hud-setting-job = Job icons
 ui-options-admin-ghost-hud-setting-job-off = Off
 ui-options-admin-ghost-hud-setting-job-job = Job only
 ui-options-admin-ghost-hud-setting-job-jobandmindshield = Job and mindshield
+
 ui-options-admin-ghost-hud-show-criminal-record-icons = Show criminal record icons
+
 ui-options-admin-ghost-hud-setting-health = Health indicators
 ui-options-admin-ghost-hud-setting-health-off = Off
 ui-options-admin-ghost-hud-setting-health-icons = Icons
 ui-options-admin-ghost-hud-setting-health-bars = Bars
 ui-options-admin-ghost-hud-setting-health-iconsandbars = Icons and bars
+
 ui-options-admin-ghost-hud-show-faction-icons = Show faction icons
 ui-options-admin-ghost-hud-show-satiation-icons = Show satiation icons

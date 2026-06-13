@@ -8,6 +8,7 @@ id-card-console-window-insert-button = Вставить
 id-card-console-window-job-selection-label = Предварительные настройки работы (устанавливает значок отдела и работы):
 id-card-console-window-select-all-button = Выдать все
 id-card-console-window-deselect-all-button = Убрать все
+
 access-id-card-console-component-no-hands-error = У вас нет рук.
 id-card-console-privileged-id = Основной ID
 id-card-console-target-id = Целевой ID

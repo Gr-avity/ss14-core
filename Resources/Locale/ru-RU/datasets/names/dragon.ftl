@@ -6,9 +6,7 @@ names-dragon-dataset-5 = Алдоин
 names-dragon-dataset-6 = Враталос
 names-dragon-dataset-7 = Четыреглаз
 names-dragon-dataset-8 = Пламьерыг
-
 ## Starlight
-
 names-dragon-dataset-9 = Даниэль
 names-dragon-dataset-10 = Чёрнодым
 names-dragon-dataset-11 = Космопасть

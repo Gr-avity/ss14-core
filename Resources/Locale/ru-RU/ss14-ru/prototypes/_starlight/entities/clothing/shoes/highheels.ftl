@@ -1,2 +1,2 @@
 ent-ClothingShoesHighheelShoes = туфли на высоком каблуке
-    .desc = Snazy shoes for when you want to be stylish and noticed.
+    .desc = Элегантные туфли для тех случаев, когда вы хотите быть стильными и заметными.

@@ -1,2 +1,2 @@
 ent-Bookshelf = книжный шкаф
-    .desc = Mostly filled with books.
+    .desc = В основном наполнен книгами.

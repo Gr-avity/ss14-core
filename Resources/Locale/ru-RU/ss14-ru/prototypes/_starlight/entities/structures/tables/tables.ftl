@@ -1,2 +1,2 @@
 ent-TableAbductor = стол пришельцев
-    .desc = Literally the sturdiest thing you have ever seen.
+    .desc = Буквально самая прочная вещь, которую вы когда-либо видели.

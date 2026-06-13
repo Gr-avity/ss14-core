@@ -1,6 +1,9 @@
 ent-CrateScienceBiosuit = ящик с био-костюмами учёных
-    .desc = Contains 2 biohazard suits to ensure that no disease will distract you from doing science. Requires Science access to open.
+    .desc = Содержит 2 костюма биологической защиты, чтобы убедиться, что никакая болезнь не отвлечет вас от занятий наукой. Требует доступа к научному отделу для открытия.
+    .suffix = { ent-CrateScienceSecure.suffix }
 ent-CrateCrewMonitoring = ящик мониторинга экипажа
-    .desc = Contains a flatpack of a crew monitoring server and a few crew monitoring computers. Requires Science access to open.
+    .desc = Содержит лоток сервера мониторинга экипажа и несколько компьютеров мониторинга экипажа. Требует доступа к научному отделу для открытия.
+    .suffix = { ent-CrateScienceSecure.suffix }
 ent-CrateStationAiCore = ящик ядра ИИ станции
-    .desc = Contains the components for constructing a station AI core. Positronic brain not included. Requires Science access to open.
+    .desc = Содержит компоненты для строительства ядра ИИ станции. Позитронный мозг не включен. Требует доступа к научному отделу для открытия.
+    .suffix = { ent-CrateScienceSecure.suffix }

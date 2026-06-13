@@ -1,4 +1,4 @@
 ent-BaseWeaponHeavyMachineGun = Тяжёлый Пулемёт
-    .desc = Spray and pray.
+    .desc = Стреляй и молись.
 ent-WeaponMinigun = миниган
-    .desc = Vzzzzzt! Rahrahrahrah! Vrrrrr! Uses .10 rifle ammo.
+    .desc = Вззззт! Ра-та-та-та-та! Врррр! Использует винтовочные патроны .10.

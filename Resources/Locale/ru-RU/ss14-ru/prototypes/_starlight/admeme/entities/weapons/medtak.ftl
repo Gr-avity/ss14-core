@@ -1,14 +1,8 @@
-ent-WeaponLightMachineGunMedTak = CODE-6 "Arbitration"
-    .desc =
-        An ultralight assault LMG developed for MedTak security.
-        Accepts .30 box magazines.
-ent-WeaponRifleMedTak = CODE-9 "Compliance"
-    .desc =
-        A bullpuped heavy rifle designed for MedTak operators.
-        Accepts heavy .20 rifle magazines.
+ent-WeaponLightMachineGunMedTak = CODE-6 «Арбитраж»
+    .desc = Ультралегкий штурмовой пулемет, разработанный для охраны MedTak. Принимает коробчатые магазины калибра .30.
+ent-WeaponRifleMedTak = CODE-9 «Соответствие»
+    .desc = Тяжелая винтовка компоновки булл-пап, разработанная для операторов MedTak. Принимает тяжелые магазины для винтовок калибра .20.
 ent-WeaponRifleMedTakROW = CODE-9 ROW
-    .desc = A cut-down CODE-9 designed for cyborgs, feeding from a slowly recharging internal ammo fabricator
-ent-WeaponPistolMedTak = CODE-4 "Triage"
-    .desc =
-        A heavy sidearm issued to MedTak operators.
-        Accepts .40 pistol magazines.
+    .desc = Укороченная версия CODE-9, разработанная для киборгов, питается от медленно перезаряжающегося внутреннего фабрикатора боеприпасов.
+ent-WeaponPistolMedTak = CODE-4 «Триаж»
+    .desc = Тяжелое личное оружие, выдаваемое операторам MedTak. Принимает пистолетные магазины калибра .40.

@@ -2,21 +2,23 @@ construction-bar-window = Окно бара
 construction-bar-window-diagonal = Диагональное окно бара
 construction-bar-window-diagonal-alt = Альтернативное диагональное окно бара
 
-## Railings
+## Ограждения
+construction-recipe-railing-end = край ограждения
+construction-recipe-railing-end-alt = край ограждения (альт.)
 
-construction-recipe-railing-end = railing end
-construction-recipe-railing-end-alt = railing end (alt)
-construction-recipe-railing-wood = wooden railing
-construction-recipe-railing-end-wood = wooden railing end
-construction-recipe-railing-end-alt-wood = wooden railing end (alt)
-construction-recipe-railing-corner-wood = wooden railing corner
-construction-recipe-railing-corner-small-wood = wooden railing corner (small)
-construction-recipe-railing-round-wood = wooden railing (round)
-construction-recipe-railing-yellow = yellow railing
-construction-recipe-railing-end-yellow = yellow railing end
-construction-recipe-railing-end-alt-yellow = yellow railing end (alt)
-construction-recipe-railing-corner-yellow = yellow railing corner
-construction-recipe-railing-corner-small-yellow = yellow railing corner (small)
-construction-recipe-railing-round-yellow = yellow railing (round)
-construction-recipe-railing-boxing = ring rope
-construction-recipe-railing-corner-boxing = ring rope corner
+construction-recipe-railing-wood = деревянное ограждение
+construction-recipe-railing-end-wood = край деревянного ограждения
+construction-recipe-railing-end-alt-wood = край деревянного ограждения (альт.)
+construction-recipe-railing-corner-wood = угол деревянного ограждения
+construction-recipe-railing-corner-small-wood = угол деревянного ограждения (малый)
+construction-recipe-railing-round-wood = деревянное ограждение (круглое)
+
+construction-recipe-railing-yellow = желтое ограждение
+construction-recipe-railing-end-yellow = край желтого ограждения
+construction-recipe-railing-end-alt-yellow = край желтого ограждения (альт.)
+construction-recipe-railing-corner-yellow = угол желтого ограждения
+construction-recipe-railing-corner-small-yellow = угол желтого ограждения (малый)
+construction-recipe-railing-round-yellow = желтое ограждение (круглое)
+
+construction-recipe-railing-boxing = ринговый канат
+construction-recipe-railing-corner-boxing = угол рингового каната

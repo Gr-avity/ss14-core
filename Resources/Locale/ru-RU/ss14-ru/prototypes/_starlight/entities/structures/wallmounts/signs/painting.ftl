@@ -1,4 +1,4 @@
 ent-PaintingRedTide = картина «Красный прилив»
-    .desc = A vivid painting depicting a crimson wave crashing against dark rocks.
+    .desc = Яркая картина, изображающая багровую волну, разбивающуюся о темные скалы.
 ent-PaintingHammer = картина «Советский молот»
-    .desc = A bold painting of a hammer, symbolizing strength and unity.
+    .desc = Смелая картина молота, символизирующая силу и единство.

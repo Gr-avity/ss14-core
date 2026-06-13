@@ -1,5 +1,5 @@
 ent-OrganMothEyes = глаза
-    .desc = Moth eyes are very big, to catch the light
-    .suffix = Moth
-ent-OrganMothStomach = желудок моли
-    .desc = { ent-OrganAnimalStomach.desc }
+    .desc = У молей очень большие глаза, чтобы улавливать свет
+    .suffix = Моль
+ent-OrganMothStomach = { ent-OrganAnimalStomach }
+    .desc = { ent-OrganHumanStomach.desc }

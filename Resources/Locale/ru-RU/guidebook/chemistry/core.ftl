@@ -1,14 +1,15 @@
 guidebook-reagent-effect-description =
     { $quantity ->
         [0] { "" }
-       *[other] If there is at least { $quantity }u { $reagent },{ " " }
+        *[other] If there is at least { $quantity }u { $reagent },{ " " }
     }{ $chance ->
         [1] { $effect }
-       *[other] Has a { NATURALPERCENT($chance, 2) } chance to { $effect }
+        *[other] Has a { NATURALPERCENT($chance, 2) } chance to { $effect }
     }{ $conditionCount ->
         [0] .
-       *[other] { " " }when { $conditions }.
+        *[other] { " " }when { $conditions }.
     }
+
 guidebook-reagent-name = [bold][color={ $color }]{ CAPITALIZE($name) }[/color][/bold]
 guidebook-reagent-recipes-header = Рецепт
 guidebook-reagent-recipes-reagent-display = [bold]{ $reagent }[/bold] \[{ $ratio }\]
@@ -20,16 +21,13 @@ guidebook-reagent-effects-metabolism-group-rate = [bold]{ $group }[/bold] [color
 guidebook-reagent-plant-metabolisms-header = Метаболизм растений
 guidebook-reagent-plant-metabolisms-rate = [bold]Метаболизм растений[/bold] [color=gray](1 унция каждые 3 секунды в качестве базовой)[/color]
 guidebook-reagent-physical-description = [italic]Кажется, оно { $description }.[/italic]
-guidebook-reagent-recipes-mix-info =
-    { $minTemp ->
-        [0]
-            { $hasMax ->
-                [true] { CAPITALIZE($verb) } below { NATURALFIXED($maxTemp, 2) }K
-               *[false] { CAPITALIZE($verb) }
-            }
-       *[other]
-            { CAPITALIZE($verb) } { $hasMax ->
-                [true] between { NATURALFIXED($minTemp, 2) }K and { NATURALFIXED($maxTemp, 2) }K
-               *[false] above { NATURALFIXED($minTemp, 2) }K
-            }
-    }
+guidebook-reagent-recipes-mix-info = { $minTemp ->
+    [0] { $hasMax ->
+            [true] { CAPITALIZE($verb) } below { NATURALFIXED($maxTemp, 2) }K
+            *[false] { CAPITALIZE($verb) }
+        }
+    *[other] { CAPITALIZE($verb) } { $hasMax ->
+            [true] between { NATURALFIXED($minTemp, 2) }K and { NATURALFIXED($maxTemp, 2) }K
+            *[false] above { NATURALFIXED($minTemp, 2) }K
+        }
+}

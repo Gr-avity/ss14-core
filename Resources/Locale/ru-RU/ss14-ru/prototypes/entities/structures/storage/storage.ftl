@@ -1,2 +1,2 @@
 ent-Rack = стойка
-    .desc = A rack for storing things on.
+    .desc = Стойка для хранения вещей.

@@ -1,2 +1,2 @@
 ent-GuidebookChangelingFluff = руководство: чейнджлинг
-    .desc = you shouldn't be seeing this normally.
+    .desc = Вы не должны это видеть в обычных условиях.

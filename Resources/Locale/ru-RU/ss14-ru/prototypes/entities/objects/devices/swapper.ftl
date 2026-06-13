@@ -1,2 +1,2 @@
 ent-DeviceQuantumSpinInverter = квантовый вращательный инвертор
-    .desc = An experimental device that is able to swap the locations of two entities by switching their particles' spin values. Must be linked to another device to function.
+    .desc = Экспериментальное устройство, способное менять местами две сущности, переключая значения спина их частиц. Для работы должно быть связано с другим устройством.

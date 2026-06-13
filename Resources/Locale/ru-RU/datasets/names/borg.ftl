@@ -1,9 +1,6 @@
 ## STARLIGHT
-
 names-borg-dataset-1 = Боб
-
 ## STARLIGHT
-
 names-borg-dataset-2 = Джл
 names-borg-dataset-3 = Бип
 names-borg-dataset-4 = Бип II
@@ -33,9 +30,7 @@ names-borg-dataset-27 = Эхо
 names-borg-dataset-28 = Вектор
 names-borg-dataset-29 = Б-0-РГ
 names-borg-dataset-30 = Мегабайт
-
 ## STARLIGHT
-
 names-borg-dataset-31 = Зад-Бот
 names-borg-dataset-32 = Десептиборг
 names-borg-dataset-33 = Ле Борг
@@ -49,9 +44,7 @@ names-borg-dataset-40 = Это-Робот
 names-borg-dataset-41 = 9 из 7
 names-borg-dataset-42 = Промозглый бот
 names-borg-dataset-43 = Промозглый бот
-
 ## STARLIGHT after this
-
 names-borg-dataset-44 = Килобит
 names-borg-dataset-45 = Гигабит
 names-borg-dataset-46 = Мегабит

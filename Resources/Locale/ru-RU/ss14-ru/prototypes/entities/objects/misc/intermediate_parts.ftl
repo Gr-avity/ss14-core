@@ -1,2 +1,2 @@
 ent-MoproachShoes = ботинки швабротаракана
-    .desc = Three pairs of tiny mopshoes, perfectly fit for a moproach.
+    .desc = Три пары крошечных ботинок для швабры, идеально подходящих для швабротаракана.

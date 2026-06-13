@@ -40,5 +40,5 @@ ent-BlackSlimeExtractFilled = экстракт чёрного слайма (за
     .desc = { ent-BaseSlimeExtractFilled.desc }
 ent-LightPinkSlimeExtractFilled = экстракт светло-розового слайма (заполненный)
     .desc = { ent-BaseSlimeExtractFilled.desc }
-ent-AdamantineSlimeExtractFilled = экстракт адамантового слайма (заполненный)
+ent-AdamantineSlimeExtractFilled = экстракт адамантинового слайма (заполненный)
     .desc = { ent-BaseSlimeExtractFilled.desc }

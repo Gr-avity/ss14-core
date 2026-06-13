@@ -1,4 +1,4 @@
 ent-BorgHold = грузовой отсек борга
-    .desc = A small cargo hold built into a cyborg's chassis
+    .desc = Небольшой грузовой отсек, встроенный в шасси киборга.
 ent-BorgClamp = гидравлический зажим киборга
-    .desc = A small hydraulic clamp designed to interface with a cyborg
+    .desc = Небольшой гидравлический зажим, предназначенный для взаимодействия с киборгом.

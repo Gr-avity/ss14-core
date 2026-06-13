@@ -1,2 +1,3 @@
 ent-IntercomElectronics = микросхема интеркома
-    .desc = An electronics board used in intercoms.
+    .desc = Электронная плата, используемая в интеркомах.
+    .suffix = { ent-BaseElectronics.suffix }

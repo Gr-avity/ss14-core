@@ -1,6 +1,6 @@
 ent-ClothingHandsChameleon = чёрные перчатки
-    .desc = Regular black gloves that do not keep you from frying.
-    .suffix = Chameleon
-ent-ClothingHandsChameleonThief = перчатки вора
-    .suffix = Chameleon, Thieving
+    .desc = Обычные черные перчатки, которые не спасут вас от жарки.
+    .suffix = Хамелеон
+ent-ClothingHandsChameleonThief = { ent-ClothingHandsChameleon }
     .desc = { ent-ClothingHandsChameleon.desc }
+    .suffix = Хамелеон, Воровские

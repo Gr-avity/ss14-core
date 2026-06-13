@@ -1,11 +1,11 @@
 ent-WeaponEnergyTurretStationBase = охранная турель
-    .desc = A high-tech autonomous weapons system designed to keep unauthorized personnel out of sensitive areas.
-ent-WeaponEnergyTurretAI = ИИ-турель
-    .suffix = AI
+    .desc = Высокотехнологичная автономная система вооружения, предназначенная для предотвращения доступа посторонних лиц в охраняемые зоны.
+ent-WeaponEnergyTurretAI = { ent-WeaponEnergyTurretStationBase }
     .desc = { ent-WeaponEnergyTurretStationBase.desc }
+    .suffix = ИИ
 ent-WeaponEnergyTurretSecurity = { ent-WeaponEnergyTurretStationBase }
-    .suffix = Security
     .desc = { ent-WeaponEnergyTurretStationBase.desc }
+    .suffix = СБ
 ent-WeaponEnergyTurretCommand = { ent-WeaponEnergyTurretStationBase }
-    .suffix = Command
     .desc = { ent-WeaponEnergyTurretStationBase.desc }
+    .suffix = Командование

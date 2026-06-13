@@ -1,10 +1,10 @@
 ent-HoloparasiteInjector = инъектор голопаразита
-    .desc = A complex artwork of handheld machinery allowing the user to host a holoparasite guardian.
+    .desc = Сложное произведение ручных механизмов, позволяющее пользователю разместить голопаразита-стража.
 ent-HoloClownInjector = инъектор голографического клоуна
-    .desc = A complex artwork of handheld machinery allowing the user to host a holoclown guardian.
+    .desc = Сложное произведение ручных механизмов, позволяющее пользователю разместить голоклоуна-стража.
 ent-MagicalLamp = магическая лампа
-    .desc = The wizard federation had to cut costs after the jinn merchandise scandal somehow.
+    .desc = Федерация волшебников должна была как-то сократить расходы после скандала с товарами из джиннов.
 ent-BoxHoloparasite = коробка с голопаразитом
-    .desc = A box containing a holoparasite injector.
+    .desc = Коробка, содержащая инъектор голопаразита.
 ent-BoxHoloclown = коробка с голоклоуном
-    .desc = A box containing a holoclown injector.
+    .desc = Коробка, содержащая инъектор голоклоуна.

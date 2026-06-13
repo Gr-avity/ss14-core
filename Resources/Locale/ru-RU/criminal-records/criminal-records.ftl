@@ -18,6 +18,7 @@ criminal-records-status-discharged = Освобождён
 criminal-records-status-paroled = Досрочно освобождён
 criminal-records-status-hostile = Враждебен
 criminal-records-status-eliminated = Ликвидирован
+
 criminal-records-console-wanted-reason = [color=gray]Причина розыска[/color]
 criminal-records-console-suspected-reason = [color=gray]Причина подозрения[/color]
 criminal-records-console-reason = Причина
@@ -36,6 +37,7 @@ criminal-records-delete-history = Удалить
 criminal-records-console-status-history = { $status }
 criminal-records-console-status-history-reason = { $status }: { $reason }
 criminal-records-console-unspecified-reason = <причина не указана>
+
 criminal-records-permission-denied = Доступ воспрещен
 
 ## Security channel notifications
@@ -62,3 +64,4 @@ criminal-records-prints-filter = Отпечатки
 criminal-records-dna-filter = ДНК
 criminal-records-job-filter = Должность
 criminal-records-species-filter = Вид
+

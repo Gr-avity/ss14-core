@@ -1,6 +1,6 @@
 ent-ClothingOuterVestHazard = светоотражающий жилет
-    .desc = A high-visibility vest used in work zones.
+    .desc = Жилет повышенной видимости, используемый в рабочих зонах.
 ent-ClothingOuterVest = жилет
-    .desc = A thick vest with a rubbery, water-resistant shell.
-ent-ClothingOuterVestTank = tank harness
-    .desc = A simple harness that can hold a gas tank.
+    .desc = Толстый жилет с прорезиненной, водостойкой оболочкой.
+ent-ClothingOuterVestTank = разгрузка для баллона
+    .desc = Простая разгрузка, способная удерживать газовый баллон.

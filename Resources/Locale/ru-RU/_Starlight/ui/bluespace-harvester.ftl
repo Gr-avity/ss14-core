@@ -12,16 +12,18 @@ bluespace-harvester-output = Выход
 bluespace-harvester-available-points = Доступно очков:
 bluespace-harvester-total-points = Всего очков:
 bluespace-harvester-buy = Купить
+
 # Portal announcement
 bluespace-harvester-portal-warning = ВНИМАНИЕ: Обнаружен разлом блюспейса! Враждебные сущности появляются из разлома. Работа сборщика блюспейса приостановлена до закрытия разлома.
+
 # Loot Tables
 bluespace-harvester-pool-exotic-hat = Неизвестная экзотическая шляпа
 bluespace-harvester-pool-snack = Неизвестная закуска
 bluespace-harvester-pool-basic-materials = Неизвестный стек базовых материалов
-bluespace-harvester-pool-rare-materials = Unknown Rare Materials Stack
-bluespace-harvester-pool-plushie = Unknown Collector Plushie
-bluespace-harvester-pool-experimental-tool = Unknown Experimental Tool
-bluespace-harvester-pool-power-cell = Unknown Power Cell
+bluespace-harvester-pool-rare-materials = Неизвестный стек редких материалов
+bluespace-harvester-pool-plushie = Неизвестная коллекционная плюшевая игрушка
+bluespace-harvester-pool-experimental-tool = Неизвестный экспериментальный инструмент
+bluespace-harvester-pool-power-cell = Неизвестная батарея
 bluespace-harvester-pool-artifact = Неизвестный артефакт
-bluespace-harvester-pool-rare-seeds = Unknown Rare Seeds
-bluespace-harvester-pool-circuit-board = Unknown Circuit Board
+bluespace-harvester-pool-rare-seeds = Неизвестные редкие семена
+bluespace-harvester-pool-circuit-board = Неизвестная печатная плата

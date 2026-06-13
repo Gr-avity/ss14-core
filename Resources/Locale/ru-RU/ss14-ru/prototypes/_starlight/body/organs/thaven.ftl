@@ -1,5 +1,5 @@
 ent-OrganThavenBrain = мозг Тэйвена
-    .desc = An organic positronic brain. Quite remarkable, really.
+    .desc = Органический позитронный мозг. В самом деле, весьма примечательно.
 ent-OrganThavenEyes = глаза
-    .desc = The eyes of a Thaven.
-    .suffix = Thaven
+    .desc = Глаза Тэйвена.
+    .suffix = Тэйвен

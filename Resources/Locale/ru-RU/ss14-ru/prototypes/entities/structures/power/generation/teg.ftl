@@ -1,6 +1,6 @@
 ent-TegCenter = термоэлектрогенератор
-    .desc = A high efficiency generator that uses energy transfer between hot and cold gases to produce electricity.
+    .desc = Высокоэффективный генератор, который использует передачу энергии между горячими и холодными газами для производства электричества.
 ent-TegCirculator = циркулятор
-    .desc = Passes gas through the thermo-electric generator to exchange heat. Has an inlet and outlet port.
+    .desc = Пропускает газ через термоэлектрический генератор для теплообмена. Имеет входной и выходной порты.
 ent-TegCirculatorArrow = { "" }
     .desc = { "" }

@@ -1,2 +1,2 @@
-ent-AlertVampireBloodSpriteView = { "" }
-    .desc = { "" }
+ent-AlertVampireBloodSpriteView = кровь вампира
+    .desc = Показывает текущий уровень крови.

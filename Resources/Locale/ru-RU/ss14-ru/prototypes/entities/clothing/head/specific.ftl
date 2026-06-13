@@ -1,5 +1,5 @@
 ent-ClothingHeadHatChameleon = берет
-    .desc = A beret, an artists favorite headwear.
-    .suffix = Chameleon
+    .desc = Берет, любимый головной убор художников.
+    .suffix = Хамелеон
 ent-ClothingHeadHatDetGadget = навороченная шляпа детектива
-    .desc = A novel hat with a built in toolkit. Automatically stores and retrieves items at the say of a phrase!
+    .desc = Оригинальная шляпа со встроенным набором инструментов. Автоматически сохраняет и извлекает предметы по произнесению фразы!

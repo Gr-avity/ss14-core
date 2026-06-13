@@ -1,5 +1,5 @@
 ent-ClothingHeadHatWhiteCatEars = белые кошачьи ушки
-    .desc = NYAH!
+    .desc = НЯ!
 ent-ClothingHeadHatWhiteCatEarsValid = { ent-ClothingHeadHatWhiteCatEars }
-    .suffix = Valid, DO NOT MAP
     .desc = { ent-ClothingHeadHatWhiteCatEars.desc }
+    .suffix = Валидный, НЕ СТАВИТЬ НА КАРТУ

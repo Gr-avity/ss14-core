@@ -1,3 +1,3 @@
 ent-CrateEmergencyRestart = ящик аварийного перезапуска
-    .desc = A secure crate with the essential circuitboards to rebuild a station. For truly dire situations.
-    .suffix = Tech Vault, Secure
+    .desc = Надёжный ящик с необходимыми платами для восстановления станции. Для действительно тяжёлых ситуаций.
+    .suffix = Техническое хранилище, Защищено

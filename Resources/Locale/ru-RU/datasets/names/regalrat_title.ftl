@@ -8,13 +8,9 @@ names-regal-rat-title-dataset-7 = Мастер
 names-regal-rat-title-dataset-8 = Сёгун
 names-regal-rat-title-dataset-9 = Боярин
 names-regal-rat-title-dataset-10 = Царь
-
 ## Starlight
-
 names-regal-rat-title-dataset-11 = Фанат #vs
-
 ## Starlight
-
 names-regal-rat-title-dataset-12 = Ценитель
 names-regal-rat-title-dataset-13 = Президент
 names-regal-rat-title-dataset-14 = Мэр

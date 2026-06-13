@@ -1,4 +1,4 @@
 ent-Wristwatch = наручные часы
-    .desc = A cheap watch for telling time. How much did you waste playing Space Station 14?
+    .desc = Дешёвые часы, чтобы узнать время. Сколько ты потратил впустую, играя в Space Station 14?
 ent-WristwatchGold = золотые часы
-    .desc = A fancy watch worth more than your kidney. It was owned by the notorious Syndicate mobster Vunibaldo "200 Pound Horse Meat Grinder" Frediani.
+    .desc = Изысканные часы, стоящие больше, чем твоя почка. Ими владел печально известный мафиози Синдиката Вунибальдо «Мясорубка 200 фунтов лошадиного мяса» Фредиани.

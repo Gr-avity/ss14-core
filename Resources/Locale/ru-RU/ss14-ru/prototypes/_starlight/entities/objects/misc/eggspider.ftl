@@ -1,10 +1,10 @@
 ent-EggSpider = яичный паук
-    .desc = Is it a gemstone? Is it an egg? It looks expensive.
+    .desc = Это драгоценный камень? Это яйцо? Выглядит дорого.
 ent-TerrorGrayEggSpiderFertilized = { ent-EggSpider }
     .desc = { ent-EggSpider.desc }
 ent-TerrorGreenSpiderFertilized = { ent-EggSpider }
     .desc = { ent-EggSpider.desc }
 ent-TerrorRedEggSpiderFertilized = { ent-EggSpider }
     .desc = { ent-EggSpider.desc }
-ent-EggSpiderFertilized = яйцо паука
+ent-EggSpiderFertilized = { ent-EggSpider }
     .desc = { ent-EggSpider.desc }

@@ -1,8 +1,11 @@
-ent-ClothingUniformJumpskirtNTNCOfficer = NanoTrasen navy officer's jumpskirt
-    .desc = Standard issue NanoTrasen Navy Marine jumpskirt. This one's for an officer.
-ent-ClothingUniformJumpskirtNTNCEnsign = NanoTrasen navy ensign's jumpskirt
-    .desc = Standard issue NanoTrasen Navy Marine jumpskirt. This one's for an ensign.
-ent-ClothingUniformMedTakJumpskirt = MedTak jumpskirt
-    .desc = Standard issue MedTak uniform.
-ent-ClothingUniformMedTakJumpskirtFormal = MedTak formal jumpskirt
-    .desc = A formal MedTak uniform.
+starlight-clothing-uniform-jumpskirt-ntnc-officer-name = Юбка-комбинезон офицера флота НаноТрасен
+starlight-clothing-uniform-jumpskirt-ntnc-officer-description = Стандартная юбка-комбинезон морского пехотинца флота НаноТрасен. Эта для офицера.
+
+starlight-clothing-uniform-jumpskirt-ntnc-ensign-name = Юбка-комбинезон мичмана флота НаноТрасен
+starlight-clothing-uniform-jumpskirt-ntnc-ensign-description = Стандартная юбка-комбинезон морского пехотинца флота НаноТрасен. Эта для мичмана.
+
+starlight-clothing-uniform-medtak-jumpskirt-name = Юбка-комбинезон МедТак
+starlight-clothing-uniform-medtak-jumpskirt-description = Стандартная форма МедТак.
+
+starlight-clothing-uniform-medtak-jumpskirt-formal-name = Формальная юбка-комбинезон МедТак
+starlight-clothing-uniform-medtak-jumpskirt-formal-description = Формальная форма МедТак.

@@ -1,2 +1,2 @@
 ent-BrokenBottle = разбитая бутылка
-    .desc = In Space Glasgow this is called a conversation starter.
+    .desc = В Космическом Глазго это называют началом разговора.

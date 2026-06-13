@@ -10,19 +10,21 @@ comms-console-menu-call-shuttle = Вызвать эвакуационный ша
 comms-console-menu-recall-shuttle = Отозвать эвакуационный шаттл
 comms-console-menu-emergency-shuttle-button-tooltip = Вызывает или отзывает эвакуационный шаттл. Вы можете отозвать его только тогда, когда до его прилёта ещё не мало времени. НТ не любит тратить топливо впустую.
 comms-console-menu-time-remaining = Оставшееся время: { $time }
+
 # Starlight Start: Secure Command Terminal
 comms-console-menu-secure-terminal-button = Secure Terminal
 comms-console-menu-secure-terminal-button-tooltip = Opens the Secure Terminal.
-
 # Starlight End
 
 # Popup
 comms-console-permission-denied = В доступе отказано
 comms-console-shuttle-unavailable = Шаттл в настоящее время недоступен
 comms-console-message-too-long = Сообщение слишком длинное
+
 # Placeholder values
 comms-console-announcement-sent-by = Отправитель:
 comms-console-announcement-unknown-sender = неизвестный
+
 # Comms console variant titles
 comms-console-announcement-title-station = Консоль связи
 comms-console-announcement-title-centcom = Центральное Командование

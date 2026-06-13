@@ -1,6 +1,6 @@
 ent-Translator = переводчик
-    .desc = Translates speech.
+    .desc = Переводит речь.
 ent-TranslatorForeigner = переводчик иностранца
-    .desc = A special-issue translator that helps foreigner's speak and understand this station's primary language.
+    .desc = Переводчик специального выпуска, который помогает иностранцам говорить и понимать основной язык этой станции.
 ent-TranslatorIterator = переводчик итератора
-    .desc = A special-issue translator that helps Iterator's understand this station's primary language.
+    .desc = Переводчик специального выпуска, который помогает итераторам понимать основной язык этой станции.

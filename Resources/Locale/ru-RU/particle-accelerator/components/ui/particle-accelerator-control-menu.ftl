@@ -17,6 +17,7 @@ particle-accelerator-control-menu-draw-value = [font="Monospace"]{ $watts }/{ $l
 particle-accelerator-control-menu-draw-not-available = Мощность: Н/Д
 particle-accelerator-control-menu-flavor-left = Пожалуйста, держите клоуна подальше от этой консоли!
 particle-accelerator-control-menu-flavor-right = v 1.6
+
 particle-accelerator-radio-message-on = Питание ускорителя частиц включено.
 particle-accelerator-radio-message-off = Питание ускорителя частиц отключено.
 particle-accelerator-radio-message-num = Уровень ускорителя частиц был установлен на «{ $level }».

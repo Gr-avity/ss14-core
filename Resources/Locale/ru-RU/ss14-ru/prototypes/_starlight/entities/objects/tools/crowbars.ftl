@@ -1,4 +1,4 @@
 ent-CrowbarMakeshift = самодельный гвоздодёр
-    .desc = Barely better than nothing. Could be made into something greater with a welder, though..
+    .desc = Едва ли лучше, чем ничего. Однако с помощью сварочного аппарата из него можно выковать нечто большее...
 ent-CrowbarImprovised = кустарный гвоздодёр
-    .desc = A few pieces of metal welded together and sharpened at the edges. Not the best tool, but it'll do.
+    .desc = Несколько сваренных вместе кусков металла с заточенными краями. Не самый лучший инструмент, но сойдёт.

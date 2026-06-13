@@ -19,8 +19,9 @@ ent-Pulse = синий высокоэнергетический лазерный
 ent-RedShuttleLaser = шаттловый красный лазерный луч
     .desc = { ent-BasicHitscan.desc }
 ent-DebugLaser = отладочный лазерный луч
-    .suffix = DEBUG
     .desc = { ent-BasicHitscan.desc }
+    .suffix = ОТЛАДКА
 ent-DebugLaserGib = отладочный расчленяющий луч
-    .suffix = DEBUG
     .desc = { ent-DebugLaser.desc }
+    .suffix = ОТЛАДКА
+

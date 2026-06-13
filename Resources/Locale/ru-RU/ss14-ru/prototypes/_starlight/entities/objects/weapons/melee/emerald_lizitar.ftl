@@ -1,2 +1,2 @@
 ent-EmeraldLizitar = изумрудный лизитар
-    .desc = Caledscratch && Emerald Contraband. Why is it so expensive? What the hell is 'grist'? This weapon leaves you with so many questions.
+    .desc = Caledscratch и Изумрудная Контрабанда. Почему это так дорого? Что такое «grist»? Это оружие оставляет слишком много вопросов.

@@ -1,10 +1,10 @@
 ent-BlankHandyFlag = пустой флажок
-    .desc = Some piece of white cloth wound on a stick.
+    .desc = Кусок белой ткани, намотанный на палку.
 ent-NTHandyFlag = ручной флаг НаноТрейзен
-    .desc = Glory to NT! Wait, they really made a handheld flag for a corporation?
+    .desc = Слава NT! Погодите, они действительно сделали ручной флаг для корпорации?
 ent-SyndieHandyFlag = ручной флаг Синдиката
-    .desc = For truly rebellious patriots. Death to NT!
+    .desc = Для истинно мятежных патриотов. Смерть NT!
 ent-LGBTQHandyFlag = ЛГБТ-флажок
-    .desc = The be gay do crime handy flag.
+    .desc = Флажок «Будь геем, совершай преступления».
 ent-PirateHandyFlag = пиратский флажок
-    .desc = Holding it in your hands, show these carp that you're not kidding.
+    .desc = Держа его в руках, покажите этим карпам, что вы не шутите.

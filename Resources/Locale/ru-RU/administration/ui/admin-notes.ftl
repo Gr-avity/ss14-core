@@ -24,9 +24,9 @@ admin-notes-delete-confirm = Вы уверены?
 admin-notes-edited = Последнее изменение от { $author } в { $date }
 admin-notes-unbanned = Разбанил { $admin } в { $date }
 admin-notes-message-desc = [color=white]Вы получили { $count ->
-        [1] an administrative message
-       *[other] administrative messages
-    } since the last time you played on this server.[/color]
+    [1] an administrative message
+    *[other] administrative messages
+} since the last time you played on this server.[/color]
 admin-notes-message-admin = От [bold]{ $admin }[/bold], датировано { TOSTRING($date, "f") }:
 admin-notes-message-wait = Кнопки будут доступны через { $time } секунд.
 admin-notes-message-accept = Скрыть навсегда
@@ -38,6 +38,7 @@ admin-notes-permanently = перманентно
 admin-notes-days = { $days } дней
 admin-notes-hours = { $hours } часов
 admin-notes-minutes = { $minutes } минут
+
 # Note editor UI
 admin-note-editor-title-new = Новая заметка для { $player }
 admin-note-editor-title-existing = Изменение заметки { $id } для { $player } от { $author }
@@ -63,6 +64,7 @@ admin-note-editor-expiry-label-expired = Истёк
 admin-note-editor-expiry-placeholder = Укажите срок действия (yyyy-MM-dd HH:mm:ss)
 admin-note-editor-submit = Подтвердить
 admin-note-editor-submit-confirm = Вы уверены?
+
 # Time
 admin-note-button-minutes = Минут
 admin-note-button-hours = Часов
@@ -71,15 +73,20 @@ admin-note-button-weeks = Недель
 admin-note-button-months = Месяцев
 admin-note-button-years = Лет
 admin-note-button-centuries = Веков
+
+
 # Verb
 admin-notes-verb-text = Открыть админ заметки
+
 # Watchlist and message login
 admin-notes-watchlist = Наблюдение над { $player }: { $message }
 admin-notes-new-message = Вы получили админ сообщение от { $admin }: { $message }
 admin-notes-fallback-admin-name = [Система]
+
 # Admin remarks
 admin-remarks-command-description = Открыть страницу админ замечаний
 admin-remarks-command-error = Админ замечания были отключены
 admin-remarks-title = Админ замечания
+
 # Misc
 system-user = [Система]

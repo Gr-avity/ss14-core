@@ -1,11 +1,11 @@
 ent-Stunbaton = дубинка-шокер
-    .desc = A stun baton for incapacitating people with. Actively harming with this is considered bad tone.
+    .desc = Дубинка-шокер для обездвиживания людей. Активное причинение вреда с помощью неё считается дурным тоном.
 ent-Truncheon = дубинка
-    .desc = A rigid, steel-studded baton, meant to harm.
+    .desc = Жёсткая дубинка с металлическими шипами, предназначенная для причинения вреда.
 ent-Flash = вспышка
-    .desc = An ultrabright flashbulb with a trigger, which causes the victim to be dazed and lose their eyesight for a moment. Useless when burnt out.
+    .desc = Сверхъяркая вспышка с триггером, которая заставляет жертву ошеломиться и на мгновение потерять зрение. Бесполезна, когда перегорает.
 ent-SciFlash = вспышка
-    .suffix = 2 charges
     .desc = { ent-Flash.desc }
+    .suffix = 2 заряда
 ent-PortableFlasher = переносная вспышка
-    .desc = An ultrabright flashbulb with a proximity trigger, useful for making an area security-only.
+    .desc = Сверхъяркая вспышка с датчиком приближения, полезная для создания зоны доступа только для СБ.

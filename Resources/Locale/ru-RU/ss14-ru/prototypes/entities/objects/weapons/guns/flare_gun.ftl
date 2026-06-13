@@ -1,4 +1,4 @@
 ent-WeaponFlareGun = сигнальный пистолет
-    .desc = A compact, single-shot pistol that fires shotgun shells. Comes with a safety feature that prevents the user from fitting lethal shells inside.
+    .desc = Компактный однозарядный пистолет, который стреляет патронами для дробовика. Поставляется с предохранителем, предотвращающим установку внутрь смертоносных снарядов.
 ent-WeaponFlareGunSecurity = специальный сигнальный пистолет
-    .desc = A modified flare gun originally designed to be used by security to launch non-lethal shotgun shells, however it can also fire lethal shells without risk.
+    .desc = Модифицированный сигнальный пистолет, изначально разработанный для использования службой безопасности для запуска несмертельных патронов для дробовика, однако он также может стрелять смертоносными патронами без риска.

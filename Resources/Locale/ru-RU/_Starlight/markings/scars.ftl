@@ -19,6 +19,7 @@ marking-LegTwistingLeft = Скрученный шрам (левая нога)
 marking-LegProstheticRight = Протез (правая нога)
 marking-LegTwistingRight = Скрученный шрам (правая нога)
 marking-TorsoIncision = Хирургический надрез (торс)
+
 marking-ArmProstheticLeft-arm_r_prosthetic = Протез (левая рука)
 marking-ArmTwistingLeft-arm_l_twisting = Скрученный шрам (левая рука)
 marking-ArmProstheticRight-arm_r_prosthetic = Протез (правая рука)

@@ -1,4 +1,3 @@
-# SS14-ART-Edit ---Start---
 no-eorg-popup-title = Space Station 14
 no-eorg-popup-label = Вот и настал Конец Раунда!
 no-eorg-popup-message = [bold]Нарушение Игровой Атмосферы (п2)[/bold] запрещено на SS14-ART. Пожалуйста, оставайтесь в образе до перехода в лобби, чтобы поддерживать атмосферу для всех. Спасибо за соблюдение правил сервера!
@@ -7,6 +6,3 @@ no-eorg-popup-rule-text = Примеры: любой дружественный 
 no-eorg-popup-close-button = Всё понятно!
 no-eorg-popup-close-button-wait = Кнопка будет активна через { $time }
 no-eorg-popup-skip-checkbox = Не показывать снова
-
-# SS14-ART-Edit ---Stop---
-

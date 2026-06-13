@@ -1,2 +1,2 @@
 ent-PowerSink = поглотитель энергии
-    .desc = Drains immense amounts of electricity from the grid.
+    .desc = Вытягивает огромное количество электричества из сети.

@@ -7,15 +7,18 @@ bounty-console-manifest-label = Манифест: [color=gray]{ $item }[/color]
 bounty-console-manifest-entry =
     { $amount ->
         [1] { $item }
-       *[other] { $item } x{ $amount }
+        *[other] { $item } x{ $amount }
     }
 bounty-console-manifest-reward = Награда: { $reward }¢
 bounty-console-description-label = [color=gray]{ $description }[/color]
 bounty-console-id-label = ID#{ $id }
+
 bounty-console-flavor-left = Награды от местных недобросовестных дилеров.
 bounty-console-flavor-right = v1.4
+
 bounty-manifest-header = Официальный грузовой манифест (ID#{ $id })
 bounty-manifest-list-start = Манифест предмета:
+
 bounty-console-tab-available-label = Доступные
 bounty-console-tab-history-label = История
 bounty-console-history-empty-label = История запросов не найдена

@@ -1,8 +1,12 @@
-ent-MobCorgiClownIan = клоун Иэн
-    .desc = HONK! HONK! IAN HERE.
+ent-MobCorgiClownIan = клоун Ян
+    .desc = ХОНК! ХОНК! Я ИАН ТУТ.
+    .suffix = { ent-MobCorgi.suffix }
 ent-MobMouseRemy = Реми
     .desc = { ent-MobMouse.desc }
+    .suffix = { ent-MobMouse.suffix }
 ent-MobAdminMouse = админ-мышь
-    .desc = A troublemaking mouse that will most probably contribute to your death, one way or another.
+    .desc = Проблемная мышь, которая, скорее всего, приведет к вашей смерти тем или иным способом.
+    .suffix = { ent-BaseSimpleMob.suffix }
 ent-MobMentorMouse = мышь-наставник
-    .desc = A helpful little mouse that will (hopefully) give good advice. Click on it to pick it up!
+    .desc = Полезная маленькая мышь, которая (надеюсь) даст хороший совет. Нажмите на нее, чтобы взять!
+    .suffix = { ent-MobAdminMouse.suffix }

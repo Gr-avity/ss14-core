@@ -1,4 +1,4 @@
 ent-SovietDeskFlag = советский настольный флаг
-    .desc = Belikov. Have you dug up my mole yet?
+    .desc = Беликов. Ты уже выкопал моего крота?
 ent-RevolutionaryHeldBanner = революционный баннер
-    .desc = A towering revolutionary banner that makes you an easy target. A makarov in the other hand is recommended.
+    .desc = Высокое революционное знамя, которое делает вас лёгкой мишенью. Макаров в другой руке рекомендуется.

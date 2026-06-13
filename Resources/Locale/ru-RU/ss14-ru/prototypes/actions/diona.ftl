@@ -1,4 +1,4 @@
 ent-DionaGibAction = Распасться
-    .desc = Split apart into 3 nymphs.
+    .desc = Разделиться на 3 нимф.
 ent-DionaReformAction = Воссоединиться
-    .desc = Reform back into a whole Diona.
+    .desc = Снова объединиться в целую Диону.

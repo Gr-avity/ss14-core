@@ -1,5 +1,5 @@
 ent-ConveyorBelt = конвейерная лента
-    .desc = A conveyor belt, commonly used to transport large numbers of items elsewhere quite quickly.
+    .desc = Конвейерная лента, обычно используемая для быстрой транспортировки большого количества предметов.
 ent-ConveyorBeltAssembly = конвейерная лента
-    .desc = A conveyor belt assembly. Used to construct a conveyor belt.
-    .suffix = assembly
+    .desc = Сборка конвейерной ленты. Используется для создания конвейерной ленты.
+    .suffix = сборка

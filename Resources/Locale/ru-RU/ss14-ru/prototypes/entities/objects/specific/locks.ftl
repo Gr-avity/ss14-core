@@ -1,2 +1,2 @@
-ent-SelectableLock = { "" }
-    .desc = { "" }
+ent-SelectableLock = замок
+    .desc = Замок, который можно настроить.

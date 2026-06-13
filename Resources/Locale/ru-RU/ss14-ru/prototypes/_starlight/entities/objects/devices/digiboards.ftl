@@ -1,2 +1,2 @@
 ent-DigiboardMassMedia = цифровая доска менеджера новостей
-    .desc = Write your message to the world! Now portable!
+    .desc = Напиши своё сообщение миру! Теперь портативно!

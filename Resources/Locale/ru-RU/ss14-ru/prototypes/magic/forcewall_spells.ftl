@@ -1,2 +1,2 @@
 ent-ActionForceWall = Силовая стена
-    .desc = Creates a magical barrier.
+    .desc = Создает магический барьер.

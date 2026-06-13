@@ -9,6 +9,7 @@ names-shadekin-dataset-7 = Отшельник
 names-shadekin-dataset-8 = Уединение
 names-shadekin-dataset-9 = Скорбь
 names-shadekin-dataset-10 = Тень
+
 # Angry
 names-shadekin-dataset-11 = Страх
 names-shadekin-dataset-12 = Боязнь
@@ -17,6 +18,7 @@ names-shadekin-dataset-14 = Боль
 names-shadekin-dataset-15 = Гнев
 names-shadekin-dataset-16 = Порыв
 names-shadekin-dataset-17 = Исступление
+
 # Happy
 names-shadekin-dataset-18 = Спокойствие
 names-shadekin-dataset-19 = Довольство
@@ -32,6 +34,7 @@ names-shadekin-dataset-28 = Умиротворение
 names-shadekin-dataset-29 = Ясность
 names-shadekin-dataset-30 = Покой
 names-shadekin-dataset-31 = Гармония
+
 # Memory
 names-shadekin-dataset-32 = Разочарование
 names-shadekin-dataset-33 = Забвение
@@ -42,6 +45,7 @@ names-shadekin-dataset-37 = Воспоминание
 names-shadekin-dataset-38 = Поминание
 names-shadekin-dataset-39 = Ностальгия
 names-shadekin-dataset-40 = Воспоминания
+
 # Other
 names-shadekin-dataset-41 = Апатия
 names-shadekin-dataset-42 = Собранность

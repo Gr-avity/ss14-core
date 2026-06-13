@@ -1,7 +1,7 @@
 ent-MMI = интерфейс человек-машина
-    .desc = A machine able to facilitate communication between a biological brain and electronics, enabling crew to continue to provide value after work-related incidents.
+    .desc = Машина, способная облегчить общение между биологическим мозгом и электроникой, позволяя экипажу продолжать приносить пользу после рабочих инцидентов.
 ent-MMIFilled = { ent-MMI }
-    .suffix = Filled
     .desc = { ent-MMI.desc }
+    .suffix = Заполненный
 ent-PositronicBrain = позитронный мозг
-    .desc = An artificial brain capable of spontaneous neural activity.
+    .desc = Искусственный мозг, способный к спонтанной нейронной активности.

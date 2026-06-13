@@ -1,5 +1,4 @@
 ## UI
-
 cargo-console-menu-title = Консоль заказа грузов
 cargo-console-menu-account-name-label = Имя аккаунта:{ " " }
 cargo-console-menu-account-name-none-text = Нет
@@ -32,6 +31,7 @@ cargo-console-menu-account-action-button = Перевести
 cargo-console-menu-toggle-account-lock-button = Переключить лимит перевода
 cargo-console-menu-account-action-option-withdraw = Обналичить
 cargo-console-menu-account-action-option-transfer = Перевести деньги на { $code }
+
 # Orders
 cargo-console-order-not-allowed = Доступ запрещён
 cargo-console-station-not-found = Нет доступной станции
@@ -45,46 +45,51 @@ cargo-console-unlock-approved-order-broadcast = [bold]Заказ на { $product
 cargo-console-fund-withdraw-broadcast = [bold]{ $name } снял { $amount } кредитов с { $name1 } \[{ $code1 }\]
 cargo-console-fund-transfer-broadcast = [bold]{ $name } перевёл { $amount } кредитов { $name1 } \[{ $code1 }\] на { $name2 } \[{ $code2 }\][/bold]
 cargo-console-fund-transfer-user-unknown = Неизвестно
+
 cargo-console-paper-reason-default = Отсутствует
 cargo-console-paper-approver-default = Самостоятельно
 cargo-console-paper-print-name = Заказ #{ $orderNumber }
 cargo-console-paper-print-text = [head=2]Order #{ $orderNumber }[/head]
     { "[bold]Item:[/bold]" } { $itemName } (x{ $orderQuantity })
     { "[bold]Requested by:[/bold]" } { $requester }
-    
+
     { "[head=3]Order Information[/head]" }
     { "[bold]Payer[/bold]:" } { $account } [font="Monospace"]\[{ $accountcode }\][/font]
     { "[bold]Approved by:[/bold]" } { $approver }
     { "[bold]Reason:[/bold]" } { $reason }
+
 # Cargo shuttle console
 cargo-shuttle-console-menu-title = Консоль вызова грузового шаттла
 cargo-shuttle-console-station-unknown = Неизвестно
 cargo-shuttle-console-shuttle-not-found = Не найден
 cargo-shuttle-console-organics = На шаттле обнаружены органические формы жизни
 cargo-no-shuttle = Грузовой шаттл не найден!
+
 # Funding allocation console
 cargo-funding-alloc-console-menu-title = Консоль распределения финансов
 cargo-funding-alloc-console-label-account = [bold]Аккаунт[/bold]
 cargo-funding-alloc-console-label-code = [bold] Код [/bold]
 cargo-funding-alloc-console-label-balance = [bold] Баланс [/bold]
 cargo-funding-alloc-console-label-cut = [bold] Разделение дохода (%) [/bold]
+
 cargo-funding-alloc-console-label-primary-cut = Доля дохода отдела снабжения от всего, кроме ящиков с замком (%):
 cargo-funding-alloc-console-label-lockbox-cut = Доля дохода отдела снабжения от продажи ящиков с замком (%):
+
 cargo-funding-alloc-console-label-help-non-adjustible = Отдел снабжения получает { $percent }% от всех доходов, кроме ящиков с замком. Остаток распределяется следующим образом:
 cargo-funding-alloc-console-label-help-adjustible = Остаток доходов от всего, кроме ящиков с замком, распределяется следующим образом:
 cargo-funding-alloc-console-button-save = Сохранить изменения
 cargo-funding-alloc-console-label-save-fail = [bold]Неверное распределение доходов![/bold] [color=red]({ $pos ->
-        [1] +
-       *[-1] -
-    }{ $val }%)[/color]
+    [1] +
+    *[-1] -
+}{ $val }%)[/color]
+
 # Slip template
-cargo-acquisition-slip-body = [head=3]Детали имущества[/head]
-    { "[bold]Product:[/bold]" } { $product }
+cargo-acquisition-slip-body = [head=3]Детали имущества[/head] { "[bold]Product:[/bold]" } { $product }
     { "[bold]Description:[/bold]" } { $description }
     { "[bold]Unit cost:[/bold" }] ${ $unit }
     { "[bold]Amount:[/bold]" } { $amount }
     { "[bold]Cost:[/bold]" } ${ $cost }
-    
+
     { "[head=3]Purchase Detail[/head]" }
     { "[bold]Orderer:[/bold]" } { $orderer }
     { "[bold]Reason:[/bold]" } { $reason }

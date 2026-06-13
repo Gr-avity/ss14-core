@@ -1,4 +1,4 @@
 ent-BaseWallSafe = настенный сейф
-    .desc = A highly secured safe with digital lock.
+    .desc = Сейф с высоким уровнем защиты и цифровым замком.
 ent-WallSafe = { ent-BaseWallSafe }
     .desc = { ent-BaseWallSafe.desc }

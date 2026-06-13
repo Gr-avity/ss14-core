@@ -1,3 +1,3 @@
-ent-InfernalJaunt = jaunt
-    .suffix = Devil
+ent-InfernalJaunt = прогулка
     .desc = { ent-EtherealJaunt.desc }
+    .suffix = Дьявол

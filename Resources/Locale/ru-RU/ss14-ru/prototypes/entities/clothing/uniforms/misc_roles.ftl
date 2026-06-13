@@ -1,4 +1,4 @@
 ent-UniformShortsRed = боксёрские шорты
-    .desc = These are shorts, not boxers.
+    .desc = Это шорты, а не боксеры.
 ent-UniformShortsRedWithTop = боксёрские шорты с топом
-    .desc = These are shorts, not boxers.
+    .desc = Это шорты, а не боксеры.

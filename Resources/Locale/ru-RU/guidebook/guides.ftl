@@ -93,16 +93,19 @@ guide-entry-defusal = Обезвреживание крупных бомб
 guide-entry-criminal-records = Криминальные записи
 guide-entry-command = Коммандование
 guide-entry-service = Сервис
+
 guide-entry-newplayer = Новичок? Начни здесь!
 guide-entry-charactercreation = Создание персонажа
 guide-entry-species = Расы
 guide-entry-yourfirstcharacter = Твой первый персонаж
 guide-entry-controls = Управление
 guide-entry-radio = Связь
+
 guide-entry-references = Таблицы и ссылки
 guide-entry-chemicals = Химикаты
 guide-entry-drinks = Напитки
 guide-entry-foodrecipes = Рецепты еды
+
 guide-entry-elements = Элементы
 guide-entry-medicine = Медицина
 guide-entry-narcotics = Наркотики
@@ -113,6 +116,7 @@ guide-entry-biological = Биологические реагенты
 guide-entry-botanical = Ботаника
 guide-entry-special = Особое
 guide-entry-others = Прочее
+
 guide-entry-pizza-recipes = Пиццы
 guide-entry-savory-recipes = Пикантное
 guide-entry-bread-recipes = Хлеба
@@ -129,6 +133,7 @@ guide-entry-medicinal-recipes = Лекарственное
 guide-entry-other-recipes = Прочее
 guide-entry-secret-recipes = Секретное
 guide-entry-lawsets = Наборы законов синтетиков
+
 guide-entry-antagonists = Антагонисты
 guide-entry-nuclear-operatives = Ядерные оперативники
 guide-entry-traitors = Предатели
@@ -145,6 +150,7 @@ guide-entry-vampire-dantalion = Данталион
 guide-entry-vampire-gargantua = Гаргантюа
 guide-entry-wizard = Космический волшебник
 guide-entry-xenoborgs = Ксеноборги
+
 guide-entry-rules = Правила сервера
 guide-entry-rules-core-only = Только основные правила
 guide-entry-rules-lrp = Стандартные правила
@@ -203,5 +209,6 @@ guide-entry-rules-sl-restricted-gear = Ограниченное снаряжен
 guide-entry-rules-sl-restricted-weapons = Ограниченное оружие
 guide-entry-rules-ban-types = Виды банов
 guide-entry-rules-ban-durations = Длительности банов
+
 guide-entry-writing = Разметка письма
 guide-entry-glossary = Словарь терминов

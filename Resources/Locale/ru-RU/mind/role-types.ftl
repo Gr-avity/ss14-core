@@ -5,7 +5,9 @@ role-type-free-agent-name = Вольный агент
 role-type-familiar-name = Призванный союзник
 role-type-silicon-name = Силикон (ИИ/бот)
 role-type-silicon-antagonist-name = Перепрограммированный ИИ
+
 role-type-update-message = Ваша роль: [color={ $color }]{ $role }[/color]
+
 # If you change a color here, you might want to also change it in role_types.yml
 role-type-crew-aligned-color = #eeeeee
 role-type-crew-aligned-alternate-color = #008000
@@ -15,6 +17,7 @@ role-type-free-agent-color = #ffff00
 role-type-familiar-color = #6495ed
 role-type-silicon-color = #6495ed
 role-type-silicon-antagonist-color = #c832e6
+
 # Ideally, subtype names should be short
 role-subtype-traitor = Предатель
 role-subtype-thief = Вор
