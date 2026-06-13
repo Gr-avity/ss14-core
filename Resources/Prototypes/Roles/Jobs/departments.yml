@@ -80,8 +80,11 @@
   - ERTSecurity
   - ERTEngineer
   - DeathSquad
-  - Magistrate
-  - NanoTrasenRepresentative
+  # ss14-art-edit start
+  - IAA
+  # - Magistrate
+  # - NanoTrasenRepresentative
+  # ss14-art-edit end
   primary: false
   weight: 100
 
