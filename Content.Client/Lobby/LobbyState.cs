@@ -293,9 +293,19 @@ namespace Content.Client.Lobby
 
         private void UpdateLobbyBackground()
         {
-            if (_protoMan.TryIndex(_gameTicker.LobbyBackground, out var proto))
+            // ss14-art-edit start: support both standard and animated backgrounds via single prototype type
+            if (_gameTicker.LobbyBackground != null && _protoMan.TryIndex(_gameTicker.LobbyBackground.Value, out var proto))
             {
-                Lobby!.Background.Texture = _resourceCache.GetResource<TextureResource>(proto.Background);
+                if (proto.Background.Extension == "rsi")
+                {
+                    Lobby!.Background.SetRSI(_resourceCache.GetResource<RSIResource>(proto.Background).RSI);
+                }
+                else
+                {
+                    Lobby!.Background.SetRSI(null);
+                    Lobby!.Background.Texture = _resourceCache.GetResource<TextureResource>(proto.Background).Texture;
+                }
+                // ss14-art-edit end
 
                 var markup = Loc.GetString("lobby-state-background-text",
                     ("backgroundTitle", Loc.GetString(proto.Title)),
@@ -305,6 +315,7 @@ namespace Content.Client.Lobby
             }
             else
             {
+                Lobby!.Background.SetRSI(null); // ss14-art-edit
                 Lobby!.Background.Texture = null;
 
                 Lobby!.LobbyBackground.SetMarkup(Loc.GetString("lobby-state-background-no-background-text"));
