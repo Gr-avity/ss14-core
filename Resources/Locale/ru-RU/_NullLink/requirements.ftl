@@ -10,6 +10,16 @@ requirements-playtime =
 roles-req-discord-starlight = 🪐 Lunarix 🪐
 roles-req-discord-wizden = Wizden
 
+roles-req-lunarix-owner = Lunarix (Владелец)
+roles-req-lunarix-curator = куратор
+roles-req-lunarix-dev = разработчик
+roles-req-lunarix-mod = модератор
+roles-req-lunarix-mapping = маппер
+roles-req-lunarix-creative = отдел креатива
+roles-req-lunarix-staff = команда проекта
+roles-req-lunarix-moon-knight = Moon Knight
+roles-req-lunarix-moon-man = Moon Man
+
 roles-req-mentor-roles = ментор
 roles-req-all-roles = персонал или ментор
 roles-req-ext-roles = персонал, ментор или ExtRoles
@@ -26,3 +36,4 @@ roles-req-developer = Разработчик
 
 triesteport-main = TRIESTEPORT
 overall = общее
+# ss14-art-edit end

@@ -85,6 +85,20 @@
   - type: FiringPinHolder
     supportedPins: [ Pistol, GunUpgrade ]
   # starlight end
+  # Goobstation edit start
+  - type: EmitSoundOnPickup
+    sound:
+      collection: PistolsPickUp
+  - type: EmitSoundOnDrop
+    sound:
+      collection: PistolsDrop
+  - type: EmitSoundOnLand
+    sound:
+      collection: PistolsDrop
+  # Goobstation edit end
+  # White-List components
+  - type: Execution
+  # White-List components end
 
 - type: entity
   name: viper

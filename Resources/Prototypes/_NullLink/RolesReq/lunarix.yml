@@ -1,0 +1,65 @@
+# ss14-art-edit start: Lunarix roles requirement
+- type: roleRequirementPrototype
+  id: LunarixOwnerReq
+  roles:
+  - 1506041704011268218 # Lunarix (Owner)
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-owner
+
+- type: roleRequirementPrototype
+  id: LunarixCuratorReq
+  roles:
+  - 1506043283137232946 # Curator Composition
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-curator
+
+- type: roleRequirementPrototype
+  id: LunarixDevelopmentReq
+  roles:
+  - 1506042673591615538 # Development Department
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-dev
+
+- type: roleRequirementPrototype
+  id: LunarixModerationReq
+  roles:
+  - 1506042719103881276 # Moderation Department
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-mod
+
+- type: roleRequirementPrototype
+  id: LunarixMappingReq
+  roles:
+  - 1506042602540109884 # Mapping Department
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-mapping
+
+- type: roleRequirementPrototype
+  id: LunarixCreativeReq
+  roles:
+  - 1506043056892149810 # Creative Department
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-creative
+
+- type: roleRequirementPrototype
+  id: LunarixStaffReq
+  roles:
+  - 1506040825111511040 # Project Team (Staff)
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-staff
+
+- type: roleRequirementPrototype
+  id: MoonKnightReq
+  roles:
+  - 1513970252126621907 # Moon Knight
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-moon-knight
+
+- type: roleRequirementPrototype
+  id: MoonManReq
+  roles:
+  - 1513970189627298013 # Moon Man
+  - 1513970252126621907 # Moon Knight
+  discord: roles-req-discord-lunarix
+  rolesLoc: roles-req-lunarix-moon-man
+# ss14-art-edit end

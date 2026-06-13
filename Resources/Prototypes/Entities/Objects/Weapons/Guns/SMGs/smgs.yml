@@ -74,6 +74,20 @@
   - type: FiringPinHolder
     supportedPins: [ Pistol, GunUpgrade ]
   # starlight end
+  # Goobstation edit start
+  - type: EmitSoundOnPickup
+    sound:
+      collection: SMGPickUp
+  - type: EmitSoundOnDrop
+    sound:
+      collection: SMGDrop
+  - type: EmitSoundOnLand
+    sound:
+      collection: SMGDrop
+  # Goobstation edit end
+  # White-List components
+  - type: Execution
+  # White-List components end
 
 - type: entity
   name: Atreides

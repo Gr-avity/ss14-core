@@ -1,7 +1,8 @@
+# ss14-art-edit start: Lunarix department ghost themes
 - type: ghostTheme
   id: Abomination
-  name: Abomination
-  description: Cute man.
+  name: ghost-theme-abomination-name
+  description: ghost-theme-abomination-desc
   spriteSpecifier:
     sprite:
       sprite: Mobs/Demons/abomination.rsi
@@ -9,12 +10,12 @@
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: StaffRolesReq
+    requirement: LunarixStaffReq
 
 - type: ghostTheme
   id: SpaceDragonStaffTheme
-  name: Space Dragon
-  description: Giant space fish.
+  name: ghost-theme-space-dragon-name
+  description: ghost-theme-space-dragon-desc
   colorizeable: true
   spriteSpecifier:
     sprite:
@@ -23,40 +24,12 @@
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: StaffRolesReq
-
-- type: ghostTheme
-  id: BuffRatKingTheme
-  name: Buff Rat King
-  description: The Buff Rat King, ruler of all rats.
-  colorizeable: true
-  spriteSpecifier:
-    sprite:
-      sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
-      state: ghost-buff-rat-king
-    color: "#ffffff"
-  requirements:
-  - !type:DiscordRolesRequirement
-    requirement: TicketsAdministratorReq
-
-- type: ghostTheme
-  id: FoxTheme
-  name: Fox
-  description: A cute fox.
-  colorizeable: true
-  spriteSpecifier:
-    sprite:
-      sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
-      state: ghost-fox
-    color: "#ffffff"
-  requirements:
-  - !type:DiscordRolesRequirement
-    requirement: TicketsAdministratorReq
+    requirement: LunarixMappingReq
 
 - type: ghostTheme
   id: LizardPlushie
-  name: Lizard Plushie
-  description: Weh!
+  name: ghost-theme-lizard-plushie-name
+  description: ghost-theme-lizard-plushie-desc
   colorizeable: true
   spriteSpecifier:
     sprite:
@@ -65,40 +38,31 @@
     color: "#ffffff"
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: TicketsAdministratorReq
+    requirement: LunarixCreativeReq
 
 - type: ghostTheme
-  id: MothroachTheme
-  name: Mothroach
-  description: A Mothroach, the most feared creature in space.
-  colorizeable: true
+  id: ShadowDemon
+  name: ghost-theme-shadow-demon-name
+  description: ghost-theme-shadow-demon-desc
   spriteSpecifier:
     sprite:
-      sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
-      state: ghost-mothroach
+      sprite: _Starlight/Mobs/Customization/GhostThemes/shadow_demon.rsi
+      state: shadow_demon
     color: "#ffffff"
+  trail:
+    color: "#FFFFFF"
+    maxPoints: 64
+    lineWidth: 0.65
+    minDistance: 0.10
+    shader: NightSkyTrail
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: TicketsAdministratorReq
-
-- type: ghostTheme
-  id: ScurretTheme
-  name: Scurret
-  description: A Scurret, legally distinct!.
-  colorizeable: true
-  spriteSpecifier:
-    sprite:
-      sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
-      state: ghost-scurret
-    color: "#ffffff"
-  requirements:
-  - !type:DiscordRolesRequirement
-    requirement: TicketsAdministratorReq
+    requirement: LunarixModerationReq
 
 - type: ghostTheme
   id: WispTheme
-  name: Wisp
-  description: A faint, curious wisp, its glow like a guiding hand of a senior mind behind the veil.
+  name: ghost-theme-wisp-name
+  description: ghost-theme-wisp-desc
   colorizeable: true
   spriteSpecifier:
     sprite:
@@ -107,12 +71,12 @@
       shader: unshaded
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: SeniorDeveloperReq
+    requirement: LunarixCuratorReq
 
 - type: ghostTheme
   id: CustodianTheme
-  name: Custodian
-  description: A floating horror, steady with the confidence of a creator.
+  name: ghost-theme-custodian-name
+  description: ghost-theme-custodian-desc
   colorizeable: true
   spriteSpecifier:
     sprite:
@@ -120,4 +84,61 @@
       state: ghost-custodian
   requirements:
   - !type:DiscordRolesRequirement
-    requirement: DeveloperReq
+    requirement: LunarixDevelopmentReq
+
+- type: ghostTheme
+  id: BuffRatKingTheme
+  name: ghost-theme-buff-rat-king-name
+  description: ghost-theme-buff-rat-king-desc
+  colorizeable: true
+  spriteSpecifier:
+    sprite:
+      sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
+      state: ghost-buff-rat-king
+    color: "#ffffff"
+  requirements:
+  - !type:DiscordRolesRequirement
+    requirement: LunarixDevelopmentReq
+
+- type: ghostTheme
+  id: MothroachTheme
+  name: ghost-theme-mothroach-name
+  description: ghost-theme-mothroach-desc
+  colorizeable: true
+  spriteSpecifier:
+    sprite:
+      sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
+      state: ghost-mothroach
+    color: "#ffffff"
+  requirements:
+  - !type:DiscordRolesRequirement
+    requirement: LunarixCuratorReq
+
+- type: ghostTheme
+  id: ScurretTheme
+  name: ghost-theme-scurret-name
+  description: ghost-theme-scurret-desc
+  colorizeable: true
+  spriteSpecifier:
+    sprite:
+      sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
+      state: ghost-scurret
+    color: "#ffffff"
+  requirements:
+  - !type:DiscordRolesRequirement
+    requirement: LunarixStaffReq
+
+- type: ghostTheme
+  id: FoxTheme
+  name: ghost-theme-fox-name
+  description: ghost-theme-fox-desc
+  colorizeable: true
+  spriteSpecifier:
+    sprite:
+      sprite: _Starlight/Mobs/Customization/GhostThemes/ghosts.rsi
+      state: ghost-fox
+    color: "#ffffff"
+  requirements:
+  - !type:DiscordRolesRequirement
+    requirement: LunarixCreativeReq
+# ss14-art-edit end

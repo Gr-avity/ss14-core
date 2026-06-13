@@ -1,6 +1,9 @@
+# ss14-art-edit start: Lunarix roles migration
 - type: roleRequirementPrototype
   id: ManagerReq
   roles:
-  - 1305377009735700501 # --Server Leadership--
-  discord: roles-req-discord-starlight
+  - 1506041704011268218 # Owner
+  - 1506043283137232946 # Curator
+  discord: roles-req-discord-lunarix
   rolesLoc: roles-req-manager-roles
+# ss14-art-edit end

@@ -35,6 +35,18 @@
     inHandsOnly: false
     key: enum.EncryptionKeyHolderUiKey.Key
   # Starlight End
+  # WL-Sounds-Start
+  - type: EmitSoundOnPickup
+    sound:
+      collection: HeadsetPickup
+      params:
+        volume: -4
+  - type: EmitSoundOnDrop
+    sound:
+      path: /Audio/_WL/Items/handling/headset/headset_drop1.ogg
+      params:
+        volume: -4
+  # WL-Sounds-End
 
 - type: entity
   parent: ClothingHeadset

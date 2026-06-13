@@ -1,4 +1,4 @@
-language: "en-US"
+language: "ru-RU"
 
 tone_instructions: |
   Strict SS14-ART-CORE SS14 fork reviewer. Be direct, concrete, and low-noise. Treat .agents/rules as canonical and avoid unrelated style churn.

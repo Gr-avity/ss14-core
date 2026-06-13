@@ -23,7 +23,7 @@ public sealed partial class NullLinkCCVars
         CVarDef.Create("nulllink.hub.server_type", ServerType.NRP, CVar.SERVERONLY | CVar.CONFIDENTIAL);
 
     public static readonly CVarDef<string> Title =
-        CVarDef.Create("nulllink.hub.title", "MyServer", CVar.ARCHIVE | CVar.REPLICATED | CVar.SERVER);
+        CVarDef.Create("nulllink.hub.title", "Lunarix", CVar.ARCHIVE | CVar.REPLICATED | CVar.SERVER);
 
     public static readonly CVarDef<string> Description =
         CVarDef.Create("nulllink.hub.description", "----", CVar.SERVERONLY);
