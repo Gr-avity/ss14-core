@@ -12,4 +12,3 @@ ent-GasTurbineSmallEmpty = { ent-BaseGasTurbineSmall }
 ent-GasTurbineSmallEmptySalvage = { ent-BaseGasTurbineSmall }
     .desc = { ent-BaseGasTurbineSmall.desc }
     .suffix = Утилизация, Пустой
-

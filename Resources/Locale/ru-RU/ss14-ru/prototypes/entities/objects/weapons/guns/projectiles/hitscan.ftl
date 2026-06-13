@@ -24,4 +24,3 @@ ent-DebugLaser = отладочный лазерный луч
 ent-DebugLaserGib = отладочный расчленяющий луч
     .desc = { ent-DebugLaser.desc }
     .suffix = ОТЛАДКА
-

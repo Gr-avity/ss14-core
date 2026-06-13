@@ -37,4 +37,3 @@ ent-ClothingHeadsetAltEmpty = гарнитура
     .desc = Стандартная гарнитура.
 ent-ClothingHeadsetAltMedTak = гарнитура оператора MedTak
     .desc = Гарнитура, используемая операторами MedTak.
-

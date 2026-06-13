@@ -1,15 +1,15 @@
-ghost-role-information-syndicate-pai-rules =    You shall [color=red]NOT[/color] reveal the communications of any nuclear operatives to non nuclear operatives. otherwise...
-                                                You are a [color={ role-type-familiar-color }][bold]{ role-type-familiar-name }[/bold][/color]. Serve the interests of your master, whatever those may be.
-                                                You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
-                                                You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
-                                                You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
+ghost-role-information-syndicate-pai-rules =    Вы [color=red]НЕ[/color] должны раскрывать переговоры ядерных оперативников тем, кто ими не является. В остальном...
+                                                Вы — [color={ role-type-familiar-color }][bold]{ role-type-familiar-name }[/bold][/color]. Служите интересам своего хозяина, какими бы они ни были.
+                                                Вы не помните ничего из своей прошлой жизни, а также ничего из того, что узнали, будучи призраком.
+                                                Вам разрешено помнить общие знания об игре, например, как готовить еду, использовать предметы и так далее.
+                                                Вам категорически [color=red]НЕ[/color] разрешено помнить имя, внешность и прочие данные вашего предыдущего персонажа.
 
-ghost-role-information-wizard-pai-rules =       You shall [color=red]NOT[/color] assist non-Space Wizard Federation members unless they are assisting in returning you to your master.
-                                                You [color=pink]MAY[/color] play tricks on and deceive non-Space Wizard Federation members, so that they may fear the Federation. Otherwise...
-                                                You are a [color={ role-type-familiar-color }][bold]{ role-type-familiar-name }[/bold][/color]. Serve the interests of your master, whatever those may be.
-                                                You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
-                                                You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
-                                                You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
+ghost-role-information-wizard-pai-rules =       Вы [color=red]НЕ[/color] должны помогать тем, кто не состоит в Федерации Космических Волшебников, если только они не помогают вернуть вас вашему хозяину.
+                                                Вы [color=pink]МОЖЕТЕ[/color] устраивать каверзы и обманывать тех, кто не входит в Федерацию Космических Волшебников, чтобы они трепетали перед ней. В остальном...
+                                                Вы — [color={ role-type-familiar-color }][bold]{ role-type-familiar-name }[/bold][/color]. Служите интересам своего хозяина, какими бы они ни были.
+                                                Вы не помните ничего из своей прошлой жизни, а также ничего из того, что узнали, будучи призраком.
+                                                Вам разрешено помнить общие знания об игре, например, как готовить еду, использовать предметы и так далее.
+                                                Вам категорически [color=red]НЕ[/color] разрешено помнить имя, внешность и прочие данные вашего предыдущего персонажа.
 
 ghost-role-information-chaospaper-name = Конец Q
 ghost-role-information-chaospaper-description = Попытайтесь заставить экипаж с mindshield подписать вас любыми ограниченными средствами.
@@ -25,21 +25,21 @@ ghost-role-information-horrific-tie-name = Ужасный галстук
 ghost-role-information-horrific-tie-description = Вы — ужасный галстук из Disco Elysium.
 ghost-role-information-horrific-tie-rules = [bold][color=cyan]ПРЕДУПРЕЖДЕНИЕ АДМИНА: Не берите эту роль, если вы не знаете, что такое Disco Elysium и как отыгрывать галстук из неё.[/color][/bold]
 
-ghost-role-information-space-courier-trunk-name = Space Courier Trunk pAI
-ghost-role-information-space-courier-trunk-description = You are the personal AI included inside of a space courier's trunk.
-ghost-role-information-space-courier-trunk-rules = Ensure your owner makes all of their deliveries! Give yourself a name, too.
+ghost-role-information-space-courier-trunk-name = пИИ сундука космического курьера
+ghost-role-information-space-courier-trunk-description = Вы — персональный ИИ, находящийся внутри сундука космического курьера.
+ghost-role-information-space-courier-trunk-rules = Помогите своему владельцу доставить все посылки! И не забудьте придумать себе имя.
 
-ghost-role-information-corporate-aligned-rules = You are [color={ role-type-corporate-aligned-alternate-color }][bold]{ role-type-corporate-aligned-name }[/bold][/color].
-                                             You are to serve the interests of NanoTrasen and Central Command, even if they differ from the stations'. Remember, you do [color=red]NOT[/color] serve the crew.
-                                             You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
-                                             You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
-                                             You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
+ghost-role-information-corporate-aligned-rules = Вы — [color={ role-type-corporate-aligned-alternate-color }][bold]{ role-type-corporate-aligned-name }[/bold][/color].
+                                             Вы должны служить интересам NanoTrasen и Центрального Командования, даже если они расходятся с интересами станции. Помните, вы [color=red]НЕ[/color] служите экипажу.
+                                             Вы не помните ничего из своей прошлой жизни, а также ничего из того, что узнали, будучи призраком.
+                                             Вам разрешено помнить общие знания об игре, например, как готовить еду, использовать предметы и так далее.
+                                             Вам категорически [color=red]НЕ[/color] разрешено помнить имя, внешность и прочие данные вашего предыдущего персонажа.
 
-ghost-role-information-tsf-aligned-rules = You are [color={ role-type-tsf-aligned-color }][bold]{ role-type-tsf-aligned-name }[/bold][/color].
-                                             You are to serve the interests of Solgov, even if they differ from the stations'. Remember, you do [color=red]NOT[/color] serve the crew.
-                                             You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
-                                             You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
-                                             You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
+ghost-role-information-tsf-aligned-rules = Вы — [color={ role-type-tsf-aligned-color }][bold]{ role-type-tsf-aligned-name }[/bold][/color].
+                                             Вы должны служить интересам Правительства Солнечной Системы (Solgov), даже если они расходятся с интересами станции. Помните, вы [color=red]НЕ[/color] служите экипажу.
+                                             Вы не помните ничего из своей прошлой жизни, а также ничего из того, что узнали, будучи призраком.
+                                             Вам разрешено помнить общие знания об игре, например, как готовить еду, использовать предметы и так далее.
+                                             Вам категорически [color=red]НЕ[/color] разрешено помнить имя, внешность и прочие данные вашего предыдущего персонажа.
 
 
 ghost-role-information-nanotrasen-special-forces-name = Оперативник NTSF

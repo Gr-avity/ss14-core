@@ -4,4 +4,3 @@ ent-ThrusterOff = { ent-Thruster }
 ent-GyroscopeOff = { ent-Gyroscope }
     .desc = { ent-Gyroscope.desc }
     .suffix = Выкл
-

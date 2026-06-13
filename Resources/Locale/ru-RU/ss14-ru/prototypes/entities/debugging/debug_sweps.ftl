@@ -25,4 +25,3 @@ ent-MeleeDebug100 = пяу гиб-стик 100 урона
 ent-MeleeDebug200 = пяу гиб-стик 200 урона
     .desc = { ent-MeleeDebugGib.desc }
     .suffix = { ent-MeleeDebugGib.suffix }
-

@@ -11,7 +11,7 @@ moff-blade-server-rack-slot-insert = Вставить
 moff-blade-server-rack-slot-power-toggle = Переключить питание
 
 moff-blade-server-rack-slot-locked-fail = Заблокировано!
-moff-blade-server-rack-whitelist-fail = Это сюда не подходит!
+moff-blade-server-rack-slot-whitelist-fail = Это сюда не подходит!
 
 moff-blade-server-rack-examine-empty = В ней [color=#1f8ab2]нет блейд-серверов[/color].
 moff-blade-server-rack-examine-single = В ней находится только { $slot }.

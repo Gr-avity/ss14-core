@@ -36,4 +36,3 @@ ent-MaterialSheetMeat = мясной лист
 ent-MaterialSheetMeat1 = { ent-MaterialSheetMeat }
     .desc = { ent-MaterialSheetMeat.desc }
     .suffix = Одинарный
-

@@ -25,4 +25,3 @@ ent-SpectralLocator = { ent-SpectralLocatorUnpowered }
 ent-SpectralLocatorEmpty = { ent-SpectralLocator }
     .desc = { ent-SpectralLocator.desc }
     .suffix = Пустой
-

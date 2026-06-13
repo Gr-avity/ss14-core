@@ -12,4 +12,3 @@ ent-SpawnPointGhostWizardDuelistGreen = точка появления зелен
     .desc = { ent-SpawnPointGhostWizardDuelistBase.desc }
 ent-SpawnPointGhostWizardDuelistOrange = точка появления оранжевого дуэлянта-волшебника
     .desc = { ent-SpawnPointGhostWizardDuelistBase.desc }
-

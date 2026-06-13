@@ -43,4 +43,3 @@ ent-GasVentScrubberNoLowerBoundAlt4 = { ent-GasVentScrubberAlt4 }
 ent-GasVentScrubberNoLowerBound = { ent-GasVentScrubber }
     .desc = { ent-GasVentScrubber.desc }
     .suffix = { ent-AirSensorNoLowerBoundBase.suffix }
-
