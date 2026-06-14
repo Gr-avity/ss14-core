@@ -15,6 +15,12 @@ VendingMachinePrideEmpty: null
 VendingMachinePrideCircuitboard: null
 
 # 2026-06-14
+LockerRepresentative: null
 LockerRepresentativeFilled: null
+LockerRepresentativeFilledBluespaced: null
+LockerBlueshield: null
 LockerBlueshieldFilled: null
+LockerBlueshieldFilledBluespaced: null
+LockerMagistrate: null
 LockerMagistrateFilled: null
+LockerMagistrateFilledBluespaced: null
