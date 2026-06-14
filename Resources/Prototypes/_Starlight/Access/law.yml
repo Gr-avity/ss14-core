@@ -5,6 +5,6 @@
 - type: accessGroup
   id: Law
   tags:
-  - Magistrate
+  # - Magistrate # ss14-art-edit
   - IAA
   - Lawyer
