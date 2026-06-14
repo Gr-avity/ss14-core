@@ -6,9 +6,9 @@ cmd-dungen-mapgrid = Невозможно найти MapGrid.
 cmd-dungen-config = Невозможно найти конфиг данжа.
 cmd-dungen-pos = Невозможно пропарсить позицию.
 cmd-dungen-seed = Невозможно пропарсить сид.
-cmd-dungen-start = Генерируем данж с сидом { $seed }
+cmd-dungen-start = Генерируем данж с сидом { $seed }.
 
-cmd-dungen-hint-map = Id карты
+cmd-dungen-hint-map = ID карты
 cmd-dungen-hint-config = Конфиг данжа
 cmd-dungen-hint-posx = Позиция X
 cmd-dungen-hint-posy = Позиция Y

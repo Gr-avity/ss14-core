@@ -1,4 +1,6 @@
 ent-CrateLawboards = ящик плат законов ИИ
-    .desc = A crate filled with various AI lawboards.
+    .desc = Ящик, наполненный различными платами законов ИИ.
+    .suffix = { ent-CrateRDSecure.suffix }
 ent-CrateStarterXenobiology = стартовый ящик ксенобиологии
-    .desc = Contains a gray slime extract and a box of monkey cubes to get you started on your xenobiology adventures. Or because you really messed up. Oh, and a camera tagger. Don't let any spies get their hands on that thing.
+    .desc = Содержит экстракт серого слизня и коробку обезьяньих кубиков, чтобы начать ваши приключения в ксенобиологии. Или потому что вы действительно всё испортили. О, и камерный теггер. Не дайте шпионам добраться до этой штуки.
+    .suffix = { ent-CrateScienceSecure.suffix }

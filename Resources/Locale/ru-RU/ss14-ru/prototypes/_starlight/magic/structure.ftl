@@ -1,2 +1,2 @@
 ent-TowerOfBabel = вавилонская башня
-    .desc = Me Grug. You?. <unintelligible>
+    .desc = Я Груг. Ты?. <неразборчиво>

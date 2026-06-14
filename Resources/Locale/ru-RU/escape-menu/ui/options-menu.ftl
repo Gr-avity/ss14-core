@@ -328,15 +328,15 @@ ui-options-net-predict = Предугадывание на стороне кли
 
 ui-options-net-interp-ratio = Сетевое сглаживание
 ui-options-net-interp-ratio-tooltip = Increasing this will generally make the game more resistant
-                                      to server->client packet-loss, however in doing so it
-                                      effectively adds slightly more latency and requires the
-                                      client to predict more future ticks.
+    to server->client packet-loss, however in doing so it
+        effectively adds slightly more latency and requires the
+        client to predict more future ticks.
 
 ui-options-net-predict-tick-bias = Погрешность тиков предугадывания
 ui-options-net-predict-tick-bias-tooltip = Increasing this will generally make the game more resistant
-                                           to client->server packet-loss, however in doing so it
-                                           effectively adds slightly more latency and requires the
-                                           client to predict more future ticks.
+    to client->server packet-loss, however in doing so it
+        effectively adds slightly more latency and requires the
+        client to predict more future ticks.
 
 ui-options-net-pvs-spawn = Лимит появление PVS сущностей
 ui-options-net-pvs-spawn-tooltip = This limits the rate at which the server will send newly spawned

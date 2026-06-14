@@ -745,7 +745,7 @@
 - type: entity
   parent: GasCanisterBrokenBase
   id: WaterVaporCanisterBroken
-  name: broken water vapor canister
+  # name: broken water vapor canister # ss14-art-edit localization
   # categories: [ HideSpawnMenu ] # Starlight Edit: Added to spawn menu
   components:
     - type: Sprite

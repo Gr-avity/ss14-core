@@ -1,2 +1,2 @@
 ent-WeaponMeleeNeedle = официальное противонадувное вооружение СБ
-    .desc = A specialty weapon used in the destruction of unique syndicate morale-boosting equipment.
+    .desc = Специальное оружие, используемое для уничтожения уникального оборудования Синдиката, повышающего боевой дух.

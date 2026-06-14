@@ -1,2 +1,2 @@
 ent-BrbSign = табличка «Обед»
-    .desc = Lets others know you are away.
+    .desc = Даёт другим знать, что вы отошли.

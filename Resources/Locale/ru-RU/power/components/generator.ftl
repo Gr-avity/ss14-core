@@ -1,4 +1,4 @@
-﻿generator-clogged = {CAPITALIZE(THE($generator))} shuts off abruptly!
+generator-clogged = { CAPITALIZE(THE($generator)) } резко выключается!
 
 portable-generator-verb-start = Запустить генератор
 portable-generator-verb-start-msg-unreliable = Запуск генератора. Это может потребовать нескольких попыток.
@@ -31,9 +31,9 @@ power-switchable-generator-examine = Выработанная энергия н�
 power-switchable-generator-switched = Выход переключен на { $voltage }!
 
 power-switchable-voltage = { $voltage ->
-    [HV] [color=orange]HV[/color]
-    [MV] [color=yellow]MV[/color]
-    *[LV] [color=green]LV[/color]
+    [HV] [color=orange]ВВ[/color]
+    [MV] [color=yellow]СВ[/color]
+    *[LV] [color=green]НВ[/color]
 }
 power-switchable-switch-voltage = Переключить на { $voltage }
 

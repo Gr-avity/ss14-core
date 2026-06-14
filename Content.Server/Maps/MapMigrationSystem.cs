@@ -27,7 +27,8 @@ public sealed class MapMigrationSystem : EntitySystem
     private static readonly string[] _migrationFiles =
     [
         "/migration.yml",
-        "/_Starlight/migration.yml"
+        "/_Starlight/migration.yml",
+        "/_Art/migration.yml" // ss14-art-edit
     ];
 
     public override void Initialize()

@@ -49,14 +49,14 @@ cargo-console-fund-transfer-user-unknown = Неизвестно
 cargo-console-paper-reason-default = Отсутствует
 cargo-console-paper-approver-default = Самостоятельно
 cargo-console-paper-print-name = Заказ #{ $orderNumber }
-cargo-console-paper-print-text = [head=2]Order #{$orderNumber}[/head]
-    {"[bold]Item:[/bold]"} {$itemName} (x{$orderQuantity})
-    {"[bold]Requested by:[/bold]"} {$requester}
+cargo-console-paper-print-text = [head=2]Order #{ $orderNumber }[/head]
+    { "[bold]Item:[/bold]" } { $itemName } (x{ $orderQuantity })
+    { "[bold]Requested by:[/bold]" } { $requester }
 
-    {"[head=3]Order Information[/head]"}
-    {"[bold]Payer[/bold]:"} {$account} [font="Monospace"]\[{$accountcode}\][/font]
-    {"[bold]Approved by:[/bold]"} {$approver}
-    {"[bold]Reason:[/bold]"} {$reason}
+    { "[head=3]Order Information[/head]" }
+    { "[bold]Payer[/bold]:" } { $account } [font="Monospace"]\[{ $accountcode }\][/font]
+    { "[bold]Approved by:[/bold]" } { $approver }
+    { "[bold]Reason:[/bold]" } { $reason }
 
 # Cargo shuttle console
 cargo-shuttle-console-menu-title = Консоль вызова грузового шаттла
@@ -81,16 +81,15 @@ cargo-funding-alloc-console-button-save = Сохранить изменения
 cargo-funding-alloc-console-label-save-fail = [bold]Неверное распределение доходов![/bold] [color=red]({ $pos ->
     [1] +
     *[-1] -
-}{$val}%)[/color]
+}{ $val }%)[/color]
 
 # Slip template
-cargo-acquisition-slip-body = [head=3]Детали имущества[/head]
-    {"[bold]Product:[/bold]"} {$product}
-    {"[bold]Description:[/bold]"} {$description}
-    {"[bold]Unit cost:[/bold"}] ${$unit}
-    {"[bold]Amount:[/bold]"} {$amount}
-    {"[bold]Cost:[/bold]"} ${$cost}
+cargo-acquisition-slip-body = [head=3]Детали имущества[/head] { "[bold]Product:[/bold]" } { $product }
+    { "[bold]Description:[/bold]" } { $description }
+    { "[bold]Unit cost:[/bold" }] ${ $unit }
+    { "[bold]Amount:[/bold]" } { $amount }
+    { "[bold]Cost:[/bold]" } ${ $cost }
 
-    {"[head=3]Purchase Detail[/head]"}
-    {"[bold]Orderer:[/bold]"} {$orderer}
-    {"[bold]Reason:[/bold]"} {$reason}
+    { "[head=3]Purchase Detail[/head]" }
+    { "[bold]Orderer:[/bold]" } { $orderer }
+    { "[bold]Reason:[/bold]" } { $reason }

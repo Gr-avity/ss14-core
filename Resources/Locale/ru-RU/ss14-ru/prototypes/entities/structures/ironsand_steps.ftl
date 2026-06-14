@@ -1,5 +1,5 @@
 ent-IronsandStep = ступень из железного песка
-    .desc = Takes your ironsand up a level.
+    .desc = Поднимает ваш железный песок на уровень выше.
 ent-IronsandStepConvexCorner = ступень из железного песка выпуклый угол
     .desc = { ent-IronsandStep.desc }
 ent-IronsandStepConcaveCorner = ступень из железного песка вогнутый угол

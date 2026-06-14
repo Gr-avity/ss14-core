@@ -1,6 +1,6 @@
-ent-NuclearBombSafe = nuclear fission explosive
-    .desc = You probably shouldn't stick around to see if this is armed.
-    .suffix = Non-round ending
+ent-NuclearBombSafe = ядерный взрывной механизм
+    .desc = Вам, наверное, не стоит оставаться здесь, чтобы проверить, взведен ли он.
+    .suffix = Не конец раунда
 ent-NuclearBombSafeUnanchored = { ent-NuclearBombSafe }
-    .suffix = Non-round ending, unanchored
     .desc = { ent-NuclearBombSafe.desc }
+    .suffix = Не конец раунда, незакрепленный

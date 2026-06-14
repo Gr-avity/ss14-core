@@ -1,2 +1,2 @@
-ent-X4 = composition X-4
-    .desc = Used to put even bigger holes in areas you really hate.
+ent-X4 = состав X-4
+    .desc = Используется для того, чтобы проделать еще большие дыры в местах, которые вы по-настоящему ненавидите.

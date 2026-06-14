@@ -39,7 +39,7 @@ spellbook-animate-name = Оживление
 spellbook-animate-description = Оживите неодушевлённый предмет!
 
 spellbook-smite-name = Кара
-#starlight edit
+# starlight edit
 spellbook-smite-desc = Не любите кого-то? РАЗОРВИТЕ его на кусочки! Необходимо иметь шляпу и робу волшебника.
 
 spellbook-cluwne-name = Проклятие клувня

@@ -1,4 +1,4 @@
-delivery-recipient-examine = Эта посылка предназначена для {$recipient}, {$job}.
+delivery-recipient-examine = Эта посылка предназначена для { $recipient }, { $job }.
 delivery-already-opened-examine = Она уже была вскрыта.
 delivery-earnings-examine = Доставка этого принесёт станции [color=yellow]{ $spesos }[/color] кредитов.
 delivery-recipient-no-name = Безымянный
@@ -6,8 +6,8 @@ delivery-recipient-no-job = Неизвестно
 
 delivery-unlocked-self = Вы разблокировали { $delivery } отпечатком пальца.
 delivery-opened-self = Вы вскрываете { $delivery }.
-delivery-unlocked-others = {CAPITALIZE($recipient)} unlocked the {$delivery} with {POSS-ADJ($possadj)} fingerprint.
-delivery-opened-others = {CAPITALIZE($recipient)} opened the {$delivery}.
+delivery-unlocked-others = { CAPITALIZE($recipient) } unlocked the { $delivery } with { POSS-ADJ($possadj) } fingerprint.
+delivery-opened-others = { CAPITALIZE($recipient) } opened the { $delivery }.
 
 delivery-unlock-verb = Разблокировать
 delivery-open-verb = Открыть
@@ -15,8 +15,8 @@ delivery-slice-verb = Вскрыть
 
 delivery-teleporter-amount-examine =
     { $amount ->
-        [one] It contains [color=yellow]{$amount}[/color] delivery.
-        *[other] It contains [color=yellow]{$amount}[/color] deliveries.
+        [one] It contains [color=yellow]{ $amount }[/color] delivery.
+        *[other] It contains [color=yellow]{ $amount }[/color] deliveries.
     }
 delivery-teleporter-empty = { CAPITALIZE($entity) } пуст.
 delivery-teleporter-empty-verb = Взять почту

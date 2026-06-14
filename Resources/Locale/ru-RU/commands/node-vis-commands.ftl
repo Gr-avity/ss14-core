@@ -1,4 +1,4 @@
-﻿cmd-nodevis-desc = Toggles node group visualization.
+cmd-nodevis-desc = Toggles node group visualization.
 cmd-nodevis-help = Использование: nodevis
 
 cmd-nodevisfilter-desc = Переключает отображение конкретной группы в nodevis.

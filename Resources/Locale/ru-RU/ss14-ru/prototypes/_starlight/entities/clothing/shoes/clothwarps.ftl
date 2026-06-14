@@ -1,2 +1,2 @@
 ent-ClothingClothWrap = тканевые обмотки
-    .desc = A roll of treated canvas used for wrapping claws or paws.
+    .desc = Рулон обработанного холста, используемый для обматывания когтей или лап.

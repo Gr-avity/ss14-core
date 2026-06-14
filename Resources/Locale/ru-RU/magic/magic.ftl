@@ -1,1 +1,1 @@
-﻿spell-requirements-failed = Missing requirements to cast this spell!
+spell-requirements-failed = Не соблюдены требования для прочтения этого заклинания!

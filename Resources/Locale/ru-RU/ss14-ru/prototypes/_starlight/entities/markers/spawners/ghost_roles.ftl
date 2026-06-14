@@ -1,8 +1,8 @@
 ent-SpawnPointGhostDerelictBorgi = { ent-BaseAntagSpawner }
     .desc = { ent-BaseAntagSpawner.desc }
 ent-SpawnPointGhostBrighteye = точка спавна роли призрака
-    .suffix = brighteye
     .desc = { ent-BaseAntagSpawner.desc }
+    .suffix = проницательный глаз
 ent-SpawnPointGhostTerminator = точка спавна истребителя
     .desc = { ent-BaseAntagSpawner.desc }
 ent-SpawnPointGhostDerelictPurrfusCyborg = { ent-SpawnPointGhostDerelictCyborg }
@@ -19,3 +19,5 @@ ent-SpawnPointGhostXenoBorgiDerelict = { ent-SpawnPointGhostDerelictBorgi }
     .desc = { ent-SpawnPointGhostDerelictBorgi.desc }
 ent-SpawnPointGhostTerrorPrincess = { ent-BaseAntagSpawner }
     .desc = { ent-BaseAntagSpawner.desc }
+ent-SpawnPointGhostXenoborgiDerelict = { ent-SpawnPointGhostDerelictBorgi }
+    .desc = { ent-SpawnPointGhostDerelictBorgi.desc }

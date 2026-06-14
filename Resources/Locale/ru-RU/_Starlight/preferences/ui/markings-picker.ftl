@@ -1,2 +1,2 @@
-marking-glowing = Glowing
-markings-category-TailExtras = Tail Extras
+marking-glowing = Светящиеся
+markings-category-TailExtras = Дополнения для хвоста

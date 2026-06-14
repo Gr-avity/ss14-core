@@ -1,4 +1,4 @@
-ent-RandomSyndicateCorpseSpawner = спавнер случайных трупов синдиката
+ent-RandomSyndicateCorpseSpawner = спавнер случайных трупов Синдиката
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
 ent-RandomNukieCorpseSpawner = спавнер случайных трупов ядерщиков
     .desc = { ent-SalvageHumanCorpseSpawner.desc }

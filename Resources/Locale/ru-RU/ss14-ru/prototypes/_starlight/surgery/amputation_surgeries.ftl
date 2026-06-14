@@ -1,7 +1,7 @@
 ent-SurgeryAmputation = ампутация
-    .desc = Surgical removal of a limb.
+    .desc = Хирургическое удаление конечности.
 ent-SurgeryAmputationHead = ампутация
-    .desc = Surgical removal of a head.
+    .desc = Хирургическое удаление головы.
 ent-SurgeryAmputationSlime = { ent-SurgeryAmputation }
     .desc = { ent-SurgeryAmputation.desc }
 ent-SurgeryAmputationHeadSlime = { ent-SurgeryAmputationHead }

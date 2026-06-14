@@ -1,2 +1,2 @@
 ent-CargoTelepad = грузовой телепад
-    .desc = Beam in the pizzas and dig in.
+    .desc = Телепортируйте пиццу и приступайте к еде.

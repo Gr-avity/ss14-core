@@ -1,8 +1,8 @@
 ent-WehGrenade = вэ-граната
-    .desc = Grenade filled to the brim with weh foam.
+    .desc = Граната, наполненная до краев вэ-пеной.
 ent-WehGrenadePlus = вэ-граната+
-    .desc = Grenade filled to the brin with weh foam. Now with bluespace technology!
-    .suffix = Admeme
+    .desc = Граната, наполненная до краев вэ-пеной. Теперь с технологией блюспейса!
+    .suffix = АДМЕМ
 ent-WehGrenadeUltraDeluxe = вэ-граната++
-    .desc = Grenade filled to the brin with weh foam. We heard you liked bluespace, so we put bluespace in your bluespace so you can bluespace while you bluespace. Weh.
-    .suffix = Admeme
+    .desc = Граната, наполненная до краев вэ-пеной. Мы слышали, вы любите блюспейс, поэтому мы добавили блюспейс в ваш блюспейс, чтобы вы могли использовать блюспейс во время использования блюспейса. Вэ.
+    .suffix = АДМЕМ

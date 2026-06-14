@@ -1,8 +1,8 @@
-ent-ProjectileCosmicNova = Astral Nova
-    .desc = Uh oh.
-ent-ProjectileCosmic = Malign Bolt
-    .desc = Ouch.
-ent-ProjectileCosmicRazor = Astral Bolt
-    .desc = Ouch.
+ent-ProjectileCosmicNova = Астральная нова
+    .desc = Ой-ой.
+ent-ProjectileCosmic = Зловредный снаряд
+    .desc = Ай.
+ent-ProjectileCosmicRazor = Астральный снаряд
+    .desc = Ай.
 ent-BulletImpactEffectCosmic = { "" }
     .desc = { "" }

@@ -1,9 +1,9 @@
 ent-CableDetStack = взрывная нить
-    .desc = Explosive cord for removing whatever is in your way.
-    .suffix = Full
+    .desc = Взрывчатый шнур для устранения всего, что стоит у вас на пути.
+    .suffix = Полная
 ent-CableDetStack10 = { ent-CableDetStack }
+    .desc = { ent-CableDetStack.desc }
     .suffix = 10
-    .desc = { ent-CableDetStack.desc }
 ent-CableDetStack1 = { ent-CableDetStack }
-    .suffix = 1
     .desc = { ent-CableDetStack.desc }
+    .suffix = 1

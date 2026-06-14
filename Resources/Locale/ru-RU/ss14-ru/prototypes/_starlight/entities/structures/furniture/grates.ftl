@@ -1,11 +1,11 @@
-ent-GrateBase = grate
-    .desc = Very industrial.
+ent-GrateBase = решётка
+    .desc = Очень индустриально.
 ent-GrateGray = { ent-GrateBase }
-    .suffix = Gray
     .desc = { ent-GrateBase.desc }
+    .suffix = Серый
 ent-GrateEngie = { ent-GrateBase }
-    .suffix = Brown
     .desc = { ent-GrateBase.desc }
+    .suffix = Коричневый
 ent-GrateSec = { ent-GrateBase }
-    .suffix = Red
     .desc = { ent-GrateBase.desc }
+    .suffix = Красный

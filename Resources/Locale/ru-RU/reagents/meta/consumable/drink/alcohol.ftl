@@ -177,7 +177,7 @@ reagent-desc-iced-beer = Пиво настолько морозное, что в
 
 reagent-name-irish-car-bomb = ирландская автомобильная бомба
 reagent-desc-irish-car-bomb = Тревожная смесь крема айриш и эля.
-#Starlight Change Above
+# Starlight Change Above
 
 reagent-name-irish-cream = ирландские сливки
 reagent-desc-irish-cream = Сливки с добавлением виски. Что еще можно ожидать от ирландцев.

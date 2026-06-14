@@ -46,16 +46,16 @@ thaven-mood-must-congregate-desc = Вы должны быть рядом с др
 thaven-mood-violence-distasteful-name = Насилие — дурной тон
 thaven-mood-violence-distasteful-desc = Конфликты следует решать словами. Кулаки — только в крайнем случае.
 
-thaven-mood-pet-god-name = {$pet} — это бог
-thaven-mood-pet-god-desc = {$pet} должен быть доставлен в часовню для поклонения и принесения даров. Если найти его невозможно, постройте ему святыню.
+thaven-mood-pet-god-name = { $pet } — это бог
+thaven-mood-pet-god-desc = { $pet } должен быть доставлен в часовню для поклонения и принесения даров. Если найти его невозможно, постройте ему святыню.
 
-thaven-mood-room-holy-name = Помещение «{$room}» — свято
-thaven-mood-room-holy-desc = Тавены обязаны собираться в «{$room}» не менее трёх раз в день. Если такого места нет — его следует построить. Если оно недоступно — обустройте алтарь как можно ближе к нему.
+thaven-mood-room-holy-name = Помещение «{ $room }» — свято
+thaven-mood-room-holy-desc = Тавены обязаны собираться в «{ $room }» не менее трёх раз в день. Если такого места нет — его следует построить. Если оно недоступно — обустройте алтарь как можно ближе к нему.
 
 thaven-mood-delicacy-name = Вкус детства
-thaven-mood-delicacy-desc = {$edible} — традиционное блюдо Тавенов. Все Тавены на станции должны собрать их и устроить пир.
+thaven-mood-delicacy-desc = { $edible } — традиционное блюдо Тавенов. Все Тавены на станции должны собрать их и устроить пир.
 
-thaven-mood-holiday-name = Сегодня — {$day}
+thaven-mood-holiday-name = Сегодня — { $day }
 thaven-mood-holiday-desc = Кажется, вы помните древние обряды… кажется.
 
 thaven-mood-carolers-name = Carolers
@@ -94,11 +94,11 @@ thaven-mood-your-funeral-desc = It's someone's funeral today. Anyone's. Just pic
 thaven-mood-beach-day-name = Beach Day
 thaven-mood-beach-day-desc = If there is an open water feature on station, Thaven should congregate there and swim merrily. If no water features are available, water puddles will do in a pinch.
 
-thaven-mood-buy-all-the-x-name = Buy All The {$item1} And {$item2}
-thaven-mood-buy-all-the-x-desc = {$disaster} is about to happen. Only massive amounts of {$item1} and {$item2} can prepare Thaven for the coming disaster.
+thaven-mood-buy-all-the-x-name = Buy All The { $item1 } And { $item2 }
+thaven-mood-buy-all-the-x-desc = { $disaster } is about to happen. Only massive amounts of { $item1 } and { $item2 } can prepare Thaven for the coming disaster.
 
 thaven-mood-trendy-words-name = Trendy Words
-thaven-mood-trendy-words-desc = Thaven are always on the frontlines of coolness and therefore use the following words frequently as trendsetters: {$word1}, {$word2}, {$word3}, {$word4}.
+thaven-mood-trendy-words-desc = Thaven are always on the frontlines of coolness and therefore use the following words frequently as trendsetters: { $word1 }, { $word2 }, { $word3 }, { $word4 }.
 
 thaven-mood-gossipers-name = Gossipers
 thaven-mood-gossipers-desc = Drama is the highest form of entertainment.

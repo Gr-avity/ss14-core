@@ -1,4 +1,4 @@
-ent-SurgeryBase = Базовая операция
+ent-SurgeryBase = { "" }
     .desc = { "" }
 ent-SurgeryOpenIncision = Вскрытие
     .desc = { ent-SurgeryBase.desc }
@@ -21,7 +21,7 @@ ent-SurgeryOpenRibcage = Распил грудной клетки
 ent-SurgeryOpenAbdomen = вскрыть брюшную полость
     .desc = { ent-SurgeryBase.desc }
 ent-SurgeryEliminateVocalCordDefects = устранить дефекты голосовых связок
-    .desc = Remove speech defects, accents.
+    .desc = Устранить дефекты речи, акценты.
 ent-SurgeryExtractLiver = извлечь печень
     .desc = { ent-SurgeryBase.desc }
 ent-SurgeryImplantLiver = имплантировать печень

@@ -191,6 +191,12 @@
     useSound:
       path: /Audio/Items/crowbar.ogg
   - type: AntiRottingContainer # starlight. allow corpses to stay in dragon without rotting.
+  # Begin DeltaV Additions - Add Waypointers
+  - type: InnateWaypointer
+    waypointerProtoIds:
+    - NTStationWaypointer
+    - DragonRiftWaypointer
+  # Begin DeltaV Additions - Add Waypointers
 
 - type: entity
   parent: BaseMobDragon

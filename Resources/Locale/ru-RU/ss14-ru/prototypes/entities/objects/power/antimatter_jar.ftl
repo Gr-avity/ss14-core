@@ -1,2 +1,2 @@
 ent-AmeJar = топливный бак ДАМ'а
-    .desc = A hermetically sealed jar containing antimatter for use in an antimatter reactor.
+    .desc = Герметично закрытый бак, содержащий антиматерию для использования в реакторе антиматерии.

@@ -1,2 +1,2 @@
 ent-ForensicPad = пластинка криминалистического сканера
-    .desc = A forensic pad for collecting fingerprints or fibers.
+    .desc = Криминалистическая пластинка для сбора отпечатков пальцев или волокон.

@@ -1,4 +1,4 @@
-﻿## Species Names, Laspi are Starlight
+## Species Names, Laspi are Starlight
 
 species-name-human = Человек
 species-name-dwarf = Дварф

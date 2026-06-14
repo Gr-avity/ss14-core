@@ -20,7 +20,7 @@ liar-word-replacement-6 = кивает
 liar-word-7 = я люблю тебя
 liar-word-7-2 = я тебя люблю
 liar-word-7-3 = люблю тебя
-liar-word-replacement-7 = иди нахуй
+liar-word-replacement-7 = уходи отсюда
 
 liar-word-8 = люблю
 liar-word-replacement-8 = ненавижу
@@ -84,8 +84,8 @@ liar-word-replacement-25 = что-то
 liar-word-26 = кто-то
 liar-word-replacement-26 = никто
 
-liar-word-27 = нихуя
-liar-word-replacement-27 = хуя
+liar-word-27 = нисколько
+liar-word-replacement-27 = сколько-то
 
 liar-word-28 = глуп~
 liar-word-replacement-28 = умн~
@@ -112,7 +112,7 @@ liar-word-35 = прекрасн~
 liar-word-replacement-35 = отвратительн~
 
 liar-word-36 = одушевлённ~
-liar-word-replacement-36 = неодушевлённ~
+liar-word-replacement-36 = neoдушевлённ~
 
 liar-word-37 = ненавид~
 liar-word-37-2 = aren't

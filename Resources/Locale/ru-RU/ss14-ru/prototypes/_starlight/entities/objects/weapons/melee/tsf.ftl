@@ -1,2 +1,2 @@
 ent-TSFBatonModel5 = TSF-Baton-Model5
-    .desc = The Model 5 baton is standard issue for Trans Solar Federation peacekeepers. Built with durability in mind, this proven crowd control device remains effective across TSF territories. Its archaic capacitor design requires no external power source.
+    .desc = Дубинка Model 5 является стандартным снаряжением миротворцев Транс-Солнечной Федерации. Созданное с учетом долговечности, это проверенное устройство для контроля толпы остается эффективным на всей территории ТСФ. Его архаичная конструкция конденсатора не требует внешнего источника питания.

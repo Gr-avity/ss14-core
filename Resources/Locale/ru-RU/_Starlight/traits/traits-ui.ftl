@@ -11,7 +11,6 @@ trait-category-traits-unlimited = { $selected } черт
 trait-category-points = ({ $selected } / { $max } оч.)
 
 ## Condition tooltips
-trait-conditions-tooltip = [bold]Требования:[/bold]
-    {$requirements}
+trait-conditions-tooltip = [bold]Требования:[/bold] { $requirements }
 trait-conditions-not-met-tooltip = Requirements not met:
-    {$requirements}
+    { $requirements }

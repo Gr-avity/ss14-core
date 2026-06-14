@@ -1,4 +1,4 @@
-ent-WehpetInstrument = weh-pet
-    .desc = A lizard had too much time on their hands when they made this.
-ent-NT4PlayerInstrument = nt4 player
-    .desc = The 4th iteration of NanoTrasen's portable music player. One day, everyone will have one of these in their pockets.
+ent-WehpetInstrument = вех-пет
+    .desc = У ящерицы было слишком много свободного времени, когда она это создавала.
+ent-NT4PlayerInstrument = проигрыватель NT4
+    .desc = 4-я итерация портативного музыкального плеера NanoTrasen. Однажды у каждого в кармане будет такой.

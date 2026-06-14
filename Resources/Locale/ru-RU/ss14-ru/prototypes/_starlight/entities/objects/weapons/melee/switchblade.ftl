@@ -1,2 +1,2 @@
 ent-WeaponMeleeSwitchblade = выкидной нож
-    .desc = SCHINK! So cool.
+    .desc = ЩЕЛК! Так круто.

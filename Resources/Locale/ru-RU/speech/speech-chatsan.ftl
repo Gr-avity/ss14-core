@@ -8,13 +8,13 @@ chatsan-word-3 = ong
 chatsan-replacement-3 = клянусь богом
 
 chatsan-word-4 = wtf
-chatsan-replacement-4 = какого черта
+chatsan-replacement-4 = какого чёрта
 
 chatsan-word-5 = wth
 chatsan-replacement-5 = какого ада
 
 chatsan-word-6 = tf
-chatsan-replacement-6 = че за хрень
+chatsan-replacement-6 = чё за хрень
 
 chatsan-word-7 = afaik
 chatsan-replacement-7 = насколько я знаю
@@ -82,7 +82,7 @@ chatsan-word-30 = afk
 chatsan-replacement-30 = ССД
 
 chatsan-word-31 = stfu
-chatsan-replacement-31 = завали ебало
+chatsan-replacement-31 = помолчи уже
 
 chatsan-word-32 = gtg
 chatsan-replacement-32 = мне пора
@@ -91,19 +91,19 @@ chatsan-word-33 = gl
 chatsan-replacement-33 = удачи
 
 chatsan-word-34 = hbu
-chatsan-replacement-34 = как насчет тебя
+chatsan-replacement-34 = как насчёт тебя
 
 chatsan-word-35 = hmu
 chatsan-replacement-35 = напиши мне
 
 chatsan-word-36 = gtfo
-chatsan-replacement-36 = съебись отсюда
+chatsan-replacement-36 = уходи отсюда
 
 chatsan-word-37 = wdym
 chatsan-replacement-37 = что ты имеешь в виду
 
 chatsan-word-38 = mf
-chatsan-replacement-38 = ублюдок
+chatsan-replacement-38 = негодяй
 
 chatsan-word-39 = etc
 chatsan-word-40 = etc.
@@ -152,13 +152,13 @@ chatsan-word-55 = ngl
 chatsan-replacement-55 = врать не буду
 
 chatsan-word-56 = fml
-chatsan-replacement-56 = жизнь дерьмо
+chatsan-replacement-56 = жизнь не ладится
 
 chatsan-word-57 = wtaf
-chatsan-replacement-57 = что за хрень вообще
+chatsan-replacement-57 = что за ерунда вообще
 
 chatsan-word-58 = wsg
-chatsan-replacement-58 = как оно
+chatsan-replacement-58 = what's good
 
 chatsan-word-59 = mb
 chatsan-replacement-59 = моя вина
@@ -176,16 +176,16 @@ chatsan-word-63 = yk
 chatsan-replacement-63 = ты знаешь
 
 chatsan-word-64 = istfg
-chatsan-replacement-64 = бля буду
+chatsan-replacement-64 = честное слово
 
 chatsan-word-65 = idgaf
-chatsan-replacement-65 = мне поебать
+chatsan-replacement-65 = мне всё равно
 
 chatsan-word-66 = smth
 chatsan-replacement-66 = что-то
 
 chatsan-word-67 = allg
-chatsan-replacement-67 = всё путем
+chatsan-replacement-67 = всё путём
 
 chatsan-word-68 = idk
 chatsan-replacement-68 = я не знаю

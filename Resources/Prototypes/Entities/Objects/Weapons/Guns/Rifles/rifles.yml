@@ -77,7 +77,20 @@
   - type: FiringPinHolder
     supportedPins: [ Rifle, GunUpgrade ]
   # Starlight
-
+  # Goobstation edit start
+  - type: EmitSoundOnPickup
+    sound:
+      collection: RiflesPickUp
+  - type: EmitSoundOnDrop
+    sound:
+      collection: RiflesDrop
+  - type: EmitSoundOnLand
+    sound:
+      collection: RiflesDrop
+  # Goobstation edit end
+  # White-List components
+  - type: Execution
+  # White-List components end
 
 - type: entity
   name: AKMS

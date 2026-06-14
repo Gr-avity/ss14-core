@@ -1,9 +1,9 @@
 ent-BaseMobAsteroid = { ent-BaseMob }
     .desc = { ent-BaseMob.desc }
 ent-MobGoliath = голиаф
-    .desc = A massive beast that uses long tentacles to ensnare its prey, threatening them is not advised under any conditions.
-ent-ActionGoliathTentacle = [color=red]Тентаклевый Удар[/color]
-    .desc = Use your tentacles to grab and stun a target player!
+    .desc = Массивный зверь, который использует длинные щупальца, чтобы поймать свою добычу, угрожать ему не рекомендуется ни при каких обстоятельствах.
+ent-ActionGoliathTentacle = [color=red]Тентаклевый удар[/color]
+    .desc = Используйте свои щупальца, чтобы схватить и оглушить игрока-цель!
 ent-GoliathTentacle = тентакля
     .desc = { "" }
 ent-BaseEffectGoliathTentacleSpawn = тентакля
@@ -13,12 +13,12 @@ ent-EffectGoliathTentacleSpawn = тентакля
 ent-EffectGoliathTentacleRetract = { ent-BaseEffectGoliathTentacleSpawn }
     .desc = { ent-BaseEffectGoliathTentacleSpawn.desc }
 ent-MobHivelord = властелин улья
-    .desc = A truly alien creature, it is a mass of unknown organic material, constantly fluctuating. When attacking, pieces of it split off and attack in tandem with the original.
+    .desc = Поистине инопланетное существо, представляющее собой массу неизвестного органического материала, постоянно колеблющуюся. При атаке его части отсоединяются и атакуют вместе с оригиналом.
 ent-MobHivelordBrood = выводок властелина улья
-    .desc = A fragment of the original hivelord, rallying behind its original. One isn't much of a threat, but...
+    .desc = Фрагмент оригинального властелина улья, сплотившийся позади него. Один не представляет большой угрозы, но...
 ent-FoodHivelordRemains = останки властелина улья
-    .desc = All that remains of a hivelord, it seems to be what allows it to break pieces of itself off without being hurt... its healing properties will soon become inert if not used quickly. Try not to think about what you're eating.
+    .desc = Все, что осталось от властелина улья, кажется, это то, что позволяет ему отрывать куски себя, не причиняя себе вреда... его целебные свойства скоро станут инертными, если не использовать их быстро. Старайтесь не думать о том, что вы едите.
 ent-FoodHivelordRemainsInert = инертные останки властелина улья
-    .desc = All that remains of a hivelord... Now all is truly lost.
+    .desc = Все, что осталось от властелина улья... Теперь все действительно потеряно.
 ent-MobBasilisk = василиск
-    .desc = A territorial beast, covered in a thick shell that absorbs energy. Its stare causes victims to freeze from the inside.
+    .desc = Территориальный зверь, покрытый толстой оболочкой, поглощающей энергию. Его взгляд заставляет жертв замерзать изнутри.

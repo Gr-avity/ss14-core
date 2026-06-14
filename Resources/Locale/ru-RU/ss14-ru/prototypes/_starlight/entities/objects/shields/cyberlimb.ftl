@@ -1,2 +1,2 @@
 ent-EnergyShieldCyber = бастион
-    .desc = The true shield for warriors, made out of hard-light materials making it lightweight and portable.
+    .desc = Настоящий щит для воинов, сделанный из материалов жёсткого света, что делает его лёгким и портативным.

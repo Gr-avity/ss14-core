@@ -1,4 +1,4 @@
 ent-JawsOfLife = челюсти жизни
-    .desc = A set of jaws of life, compressed through the magic of science.
+    .desc = Набор «челюстей жизни», сжатых с помощью магии науки.
 ent-SyndicateJawsOfLife = челюсти жизни синдиката
-    .desc = Useful for entering the station or its departments.
+    .desc = Полезны для входа на станцию или в её отделы.

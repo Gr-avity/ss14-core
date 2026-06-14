@@ -1,2 +1,2 @@
-ent-FloorAzureWaterEntity = azure water
-    .desc = A real thirst quencher. Corals are not included!
+ent-FloorAzureWaterEntity = лазурная вода
+    .desc = Настоящая утолитель жажды. Кораллы в комплект не входят!

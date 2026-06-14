@@ -2,9 +2,9 @@ mentor-user-title = Сообщение ментора
 
 mentor-system-starmute-message-no-other-users = *Система: Никто не доступен для получения вашего сообщения. Попробуйте пингнуть игровых администраторов в Discord.
 
-mentor-system-typing-indicator = {$players} {$count ->
-[one] is
-*[other] are
+mentor-system-typing-indicator = { $players } { $count ->
+    [one] is
+    *[other] are
 } typing...
 
 mentor-play-sound = звук?

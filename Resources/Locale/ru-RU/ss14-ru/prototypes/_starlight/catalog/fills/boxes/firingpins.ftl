@@ -1,6 +1,6 @@
 ent-BoxFiringPin = коробка ударников
-    .desc = a box full of standard firing pins
+    .desc = Коробка, полная стандартных ударников.
 ent-BoxFiringPinPistol = коробка пистолетных ударников
-    .desc = a box full of pistol firing pins
+    .desc = Коробка, полная пистолетных ударников.
 ent-BoxFiringPinLaser = коробка лазерных кристаллов
-    .desc = a box full of laser crystals
+    .desc = Коробка, полная лазерных кристаллов.

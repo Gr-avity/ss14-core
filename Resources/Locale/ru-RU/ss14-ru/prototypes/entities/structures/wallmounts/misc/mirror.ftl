@@ -1,5 +1,5 @@
 ent-Mirror = зеркало
-    .desc = Mirror mirror on the wall , who's the most robust of them all?
+    .desc = Свет мой, зеркальце, скажи, да всю правду доложи: я ль на свете всех робастнее?
 ent-MirrorModern = { ent-Mirror }
-    .suffix = rectangle
     .desc = { ent-Mirror.desc }
+    .suffix = прямоугольное

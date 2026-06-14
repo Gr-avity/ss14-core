@@ -1,6 +1,6 @@
 ent-RoofMarker = крыша
-    .suffix = Enabled
     .desc = { ent-MarkerBase.desc }
+    .suffix = Включено
 ent-NoRoofMarker = отсутствие крыши
-    .suffix = Disabled
     .desc = { ent-MarkerBase.desc }
+    .suffix = Отключено

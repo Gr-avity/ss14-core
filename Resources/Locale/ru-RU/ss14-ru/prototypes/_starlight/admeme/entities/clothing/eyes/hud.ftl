@@ -1,4 +1,4 @@
-ent-ClothingEyesHudNTNC = NanoTrasen navy marine hud
-    .desc = Standard issue heads up display for NanoTrasen Navy Marines
-ent-ClothingEyesVisorMedTak = MedTak visor
-    .desc = A visor for MedTak operators with a built in heads up display and active flash adjustment.
+ent-ClothingEyesHudNTNC = HUD морских пехотинцев ВМФ NanoTrasen
+    .desc = Стандартный дисплей для морских пехотинцев ВМФ NanoTrasen.
+ent-ClothingEyesVisorMedTak = визор MedTak
+    .desc = Визор для операторов MedTak со встроенным дисплеем и активной регулировкой вспышки.

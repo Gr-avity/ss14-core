@@ -1,6 +1,6 @@
 ent-BaseWeaponLightMachineGun = Пулемёт
-    .desc = A rooty tooty point and shooty.
+    .desc = Стреляющая штуковина.
 ent-WeaponLightMachineGunL6 = L6 SAW
-    .desc = Developed by Waffle Corp, the L6 Squad Automatic Weapon is a deadly light machine gun often used by the Gorlex Marauders. Although bulky and cumbersome, its heavy barrel and high ammo capacity make it perfect for suppressing combatants with a hail of bullets. Feeds from .30 ammo belts.
+    .desc = Разработанный корпорацией Waffle Corp, L6 Squad Automatic Weapon — это смертоносный ручной пулемет, часто используемый мародерами Горлекс. Несмотря на громоздкость и неудобство, тяжелый ствол и большая емкость магазина делают его идеальным для подавления противников градом пуль. Использует патроны калибра .30.
 ent-WeaponLightMachineGunL6C = L6C ROW
-    .desc = An L6 SAW, modified for use by cyborgs.
+    .desc = L6 SAW, модифицированный для использования киборгами.

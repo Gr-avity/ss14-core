@@ -1,2 +1,2 @@
 ent-FoodSoupMothBowl = суп из мотылька
-    .desc = A black-market delicacy shunned for its cruel nature
+    .desc = Деликатес с чёрного рынка, отвергнутый из-за своей жестокой природы.

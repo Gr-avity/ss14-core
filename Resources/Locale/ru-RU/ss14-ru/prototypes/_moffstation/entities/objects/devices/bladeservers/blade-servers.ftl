@@ -1,6 +1,6 @@
 ent-ConstructibleBladeServer = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-ent-ResearchAndDevelopmentBladeServer = блейд-сервер РНТО
-    .desc = Contains the collective knowledge of the station's scientists. Destroying it would send them back to the stone age. You don't want that do you?
+ent-ResearchAndDevelopmentBladeServer = блейд-сервер РнД
+    .desc = Содержит коллективные знания учёных станции. Его уничтожение вернёт их в каменный век. Вы ведь этого не хотите, верно?
 ent-CrewMonitoringBladeServer = блейд-сервер мониторинга экипажа
-    .desc = Receives and relays the status of all active suit sensors on the station.
+    .desc = Принимает и передает статус всех активных датчиков костюмов на станции.

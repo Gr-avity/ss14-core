@@ -8,11 +8,11 @@ station-ai-fixer-console-repair-successful = Ремонт завершён. ИИ
 station-ai-fixer-console-purge-successful = Очистка завершена. ИИ успешно удалён.
 
 # UI
-station-ai-fixer-console-window = консоль восстановления ИИ
+station-ai-fixer-console-window = Консоль восстановления ИИ
 station-ai-fixer-console-window-no-station-ai = ИИ не обнаружен
 station-ai-fixer-console-window-no-station-ai-status = Ожидание
 station-ai-fixer-console-window-station-ai-online = Онлайн
-station-ai-fixer-console-window-station-ai-offline = Оффлайн
+station-ai-fixer-console-window-station-ai-offline = Офлайн
 station-ai-fixer-console-window-station-ai-rebooting = Перезапуск...
 
 station-ai-fixer-console-window-controls-locked = Управление заблокировано
@@ -33,5 +33,5 @@ station-ai-fixer-console-window-cancel-action = Отмена
 
 station-ai-fixer-console-window-purge-warning-title = Инициирование очистки ИИ
 station-ai-fixer-console-window-purge-warning-1 = Вы собираетесь навсегда удалить искусственный интеллект.
-station-ai-fixer-console-window-purge-warning-2 = По завершении операции, интеллект исчезнет и не сможет быть восстановлен.
+station-ai-fixer-console-window-purge-warning-2 = По завершении операции интеллект исчезнет и не сможет быть восстановлен.
 station-ai-fixer-console-window-purge-warning-3 = Желаете продолжить?

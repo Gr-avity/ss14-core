@@ -1,2 +1,2 @@
 ent-CarpRift = карповый разлом
-    .desc = A rift akin to the ones space carp use to travel long distances.
+    .desc = Разлом, похожий на те, что космические карпы используют для путешествий на большие расстояния.

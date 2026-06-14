@@ -6,7 +6,8 @@ parcel-wrap-popup-being-wrapped = { CAPITALIZE(THE($user)) } пытается з
 parcel-wrap-popup-being-wrapped-self = Вы начинаете завёртывать себя в обёртку.
 
 # Shown when parcel wrap is examined in details range
-parcel-wrap-examine-detail-uses = { $uses ->
-    [one] There is [color={$markupUsesColor}]{$uses}[/color] use left
-    *[other] There are [color={$markupUsesColor}]{$uses}[/color] uses left
-}.
+parcel-wrap-examine-detail-uses = Осталось [color={ $markupUsesColor }]{ $uses ->
+    [one] { $uses } использование
+    [few] { $uses } использования
+    *[other] { $uses } использований
+}[/color].

@@ -1,4 +1,4 @@
-﻿cmd-changecvar-no-arguments = You must specify a cvar.
+cmd-changecvar-no-arguments = You must specify a cvar.
 cmd-changecvar-cvar-not-registered = Cvar { $cvar } не зарегистрирован.
 cmd-changecvar-cvar-not-allowed = Вы не можете изменять этот cvar.
 cmd-changecvar-value-out-of-range = Значение вне диапазона. Допустимый диапазон от { $min } до { $max }.

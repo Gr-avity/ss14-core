@@ -1,1 +1,1 @@
-clock-examine = На циферблате: [color=white]{$time}[/color]
+clock-examine = На циферблате: [color=white]{ $time }[/color]

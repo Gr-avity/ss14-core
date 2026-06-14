@@ -1,14 +1,14 @@
-﻿comp-kitchen-spike-begin-hook-self = You begin dragging yourself onto { THE($hook) }!
+comp-kitchen-spike-begin-hook-self = Вы начинаете насаживать себя на { $hook }!
 comp-kitchen-spike-begin-hook-self-other = { CAPITALIZE($victim) } начинает насаживать { REFLEXIVE($victim) } себя на { $hook }!
 
-comp-kitchen-spike-begin-hook-other-self = Вы начинаете насаживать себя { CAPITALIZE($victim) } на { $hook }!
+comp-kitchen-spike-begin-hook-other-self = Вы начинаете насаживать { CAPITALIZE($victim) } на { $hook }!
 comp-kitchen-spike-begin-hook-other = { CAPITALIZE($user) } начинает насаживать { CAPITALIZE($victim) } на { $hook }!
 
 comp-kitchen-spike-hook-self = Вы бросаетесь на { $hook }!
 comp-kitchen-spike-hook-self-other = { CAPITALIZE($victim) } бросается на { $hook }!
 
 comp-kitchen-spike-hook-other-self = Вы повесили { CAPITALIZE($victim) } на { $hook }!
-comp-kitchen-spike-hook-other = { CAPITALIZE(THE($user)) } threw { CAPITALIZE(THE($victim)) } on { THE($hook) }!
+comp-kitchen-spike-hook-other = { CAPITALIZE($user) } вешает { CAPITALIZE($victim) } на { $hook }!
 
 comp-kitchen-spike-begin-unhook-self = Вы начинаете слезать с { $hook }!
 comp-kitchen-spike-begin-unhook-self-other = { CAPITALIZE($victim) } начинает слезать с { $hook }!
@@ -17,16 +17,16 @@ comp-kitchen-spike-begin-unhook-other-self = Вы начинаете снима�
 comp-kitchen-spike-begin-unhook-other = { CAPITALIZE($user) } начинает снимать { CAPITALIZE($victim) } с { $hook }!
 
 comp-kitchen-spike-unhook-self = Вы слезли с { $hook }!
-comp-kitchen-spike-unhook-self-other = { CAPITALIZE($victim) } слез с { $hook }!
+comp-kitchen-spike-unhook-self-other = { CAPITALIZE($victim) } слез(ла) с { $hook }!
 
 comp-kitchen-spike-unhook-other-self = Вы сняли { CAPITALIZE($victim) } с { $hook }!
-comp-kitchen-spike-unhook-other = { CAPITALIZE(THE($user)) } got { CAPITALIZE(THE($victim)) } off { THE($hook) }!
+comp-kitchen-spike-unhook-other = { CAPITALIZE($user) } снимает { CAPITALIZE($victim) } с { $hook }!
 
 comp-kitchen-spike-begin-butcher-self = Вы начинаете разделывать { $victim }!
 comp-kitchen-spike-begin-butcher = { CAPITALIZE($user) } начинает разделывать { $victim }!
 
 comp-kitchen-spike-butcher-self = Вы разделали { $victim }!
-comp-kitchen-spike-butcher = { CAPITALIZE(THE($user)) } butchered { THE($victim) }!
+comp-kitchen-spike-butcher = { CAPITALIZE($user) } разделывает { $victim }!
 
 comp-kitchen-spike-unhook-verb = Снять с крюка
 

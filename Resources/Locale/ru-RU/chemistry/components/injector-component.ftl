@@ -1,9 +1,9 @@
 ## UI
 
-injector-volume-transfer-label = Volume: [color=white]{$currentVolume}/{$totalVolume}u[/color]
-    Mode: [color=white]{$modeString}[/color] ([color=white]{$transferVolume}u[/color])
+injector-volume-transfer-label = Volume: [color=white]{ $currentVolume }/{ $totalVolume }u[/color]
+    Mode: [color=white]{ $modeString }[/color] ([color=white]{ $transferVolume }u[/color])
 injector-volume-label = Объём: [color=white]{ $currentVolume }/{ $totalVolume }[/color]
-    Mode: [color=white]{$modeString}[/color]
+    Mode: [color=white]{ $modeString }[/color]
 injector-toggle-verb-text = Переключить режим инъектора
 
 ## Entity

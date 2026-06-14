@@ -1,4 +1,4 @@
-ent-FurnitureCoatRack = coat rack
-    .desc = Holds your coat or hat, and is always mistaken for a person in the dark.
-ent-FurnitureWoodRack = wooden rack
-    .desc = A wooden rack for storing things.
+ent-FurnitureCoatRack = вешалка
+    .desc = Держит ваше пальто или шляпу, и её всегда принимают за человека в темноте.
+ent-FurnitureWoodRack = деревянная вешалка
+    .desc = Деревянная вешалка для хранения вещей.

@@ -1,2 +1,2 @@
-ent-ClothingShoesSpecificMoffers = moffers
-    .desc = No moths were harmed in the making of these slippers.
+ent-ClothingShoesSpecificMoffers = мофферы
+    .desc = Ни одна моль не пострадала при создании этих тапочек.

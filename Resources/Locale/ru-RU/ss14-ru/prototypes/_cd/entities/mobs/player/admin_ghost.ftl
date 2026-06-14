@@ -1,2 +1,2 @@
-ent-ActionAGhostShowCharacterRecords = Character Records Interface
-    .desc = View all of the character records
+ent-ActionAGhostShowCharacterRecords = Интерфейс записей персонажа
+    .desc = Просмотреть все записи персонажа

@@ -1,3 +1,3 @@
 ent-WeaponMechDebugMelle = DEBUG: бух (оружие меха)
-    .desc = A robust thing.
-    .suffix = Mech Weapon, DEBUG, Melee
+    .desc = Крепкая штука.
+    .suffix = Оружие меха, DEBUG, Ближний бой

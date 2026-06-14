@@ -1,5 +1,5 @@
 ent-BaseMagazineBoxImprovised = самодельная коробка патронов (.любые)
-    .desc = This looks suspiciously like a .20 magazine box with a crude bullet drawing ontop. Mixing ammo is not advised.
+    .desc = Выглядит подозрительно как коробка магазинов .20 с грубым рисунком пули сверху. Смешивание боеприпасов не рекомендуется.
 ent-MagazineBoxImprovisedPistol = самодельная коробка патронов (.35 авто кустарные)
     .desc = { ent-BaseMagazineBoxImprovised.desc }
 ent-MagazineBoxImprovisedRifle = самодельная коробка патронов (.30 винтовочные кустарные)

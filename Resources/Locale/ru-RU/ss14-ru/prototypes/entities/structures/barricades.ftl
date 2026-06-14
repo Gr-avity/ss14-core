@@ -1,8 +1,8 @@
 ent-BaseBarricade = деревянная баррикада
-    .desc = A barricade made out of wood planks. It looks like it can take a few solid hits.
-ent-Barricade = баррикада
+    .desc = Баррикада, сделанная из деревянных досок. Похоже, она может выдержать несколько сильных ударов.
+ent-Barricade = { ent-BaseBarricade }
     .desc = { ent-BaseBarricade.desc }
 ent-BarricadeBlock = { ent-Barricade }
     .desc = { ent-Barricade.desc }
-ent-BarricadeDirectional = деревянная баррикада
+ent-BarricadeDirectional = { ent-BaseBarricade }
     .desc = { ent-BaseBarricade.desc }

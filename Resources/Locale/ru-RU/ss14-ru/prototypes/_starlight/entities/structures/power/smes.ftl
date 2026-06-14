@@ -1,6 +1,6 @@
-ent-SMESBlue = hyper advanced SMES
-    .desc = An even-higher-capacity superconducting magnetic energy storage (SMES) unit.
-    .suffix = Hyper Advanced, 64MJ
+ent-SMESBlue = гипер-продвинутый СМЭС
+    .desc = Сверхпроводящее магнитное накопительное устройство энергии (СМЭС) ещё большей ёмкости.
+    .suffix = Гипер-продвинутый, 64МДж
 ent-SMESBlueEmpty = { ent-SMESBlue }
-    .suffix = Empty
     .desc = { ent-SMESBlue.desc }
+    .suffix = Пустой

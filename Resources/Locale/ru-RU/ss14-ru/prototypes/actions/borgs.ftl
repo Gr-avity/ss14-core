@@ -1,4 +1,4 @@
 ent-ActionViewLaws = Просмотреть законы
-    .desc = View the laws that you must follow.
+    .desc = Просмотреть законы, которым вы должны следовать.
 ent-ActionSelectBorgType = Выбрать тип киборга
     .desc = { ent-BaseAction.desc }

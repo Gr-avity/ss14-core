@@ -17,12 +17,12 @@ marking-ResomiGauzeStomach = Stomach Gauze
 
 marking-ResomiGauzeShoulderRight-gauze_shoulder_r_resomi = Shoulder Gauze (Right)
 marking-ResomiGauzeShoulderRight = Shoulder Gauze (Right)
-marking-ResomiGauzeShoulderLeft-gauze_shoulder_l_resomi = Shoulder Gauze (Left)
-marking-ResomiGauzeShoulderLeft = Shoulder Gauze (Left)
+marking-ResomiGauzeShoulderLeft-gauze_shoulder_l_resomi =  Shoulder Gauze (Left)
+marking-ResomiGauzeShoulderLeft =  Shoulder Gauze (Left)
 marking-ResomiGauzeRightArm-gauze_rightarm_resomi = Arm Gauze (Right)
 marking-ResomiGauzeRightArm = Arm Gauze (Right)
-marking-ResomiGauzeLeftArm-gauze_leftarm_resomi = Arm Gauze (Left)
-marking-ResomiGauzeLeftArm = Arm Gauze (Left)
+marking-ResomiGauzeLeftArm-gauze_leftarm_resomi =  Arm Gauze (Left)
+marking-ResomiGauzeLeftArm =  Arm Gauze (Left)
 
 marking-ResomiGauzeBoxerwrapRight-gauze_boxerwrap_r_resomi = Boxerwrap (Right)
 marking-ResomiGauzeBoxerwrapRight = Boxerwrap (Right)

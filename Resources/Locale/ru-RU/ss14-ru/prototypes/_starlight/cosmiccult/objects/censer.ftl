@@ -1,2 +1,2 @@
-ent-CosmicCenser = ardent censer
-    .desc = Cleanses and sanctifies the air around it.
+ent-CosmicCenser = пылкое кадило
+    .desc = Очищает и освящает воздух вокруг себя.

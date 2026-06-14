@@ -1,2 +1,2 @@
-ent-ActionBorgiPlayMidi = Play Guitar
-    .desc = Open your internal BASS GUITAR MIDI interface to soothe the station.
+ent-ActionBorgiPlayMidi = Играть на гитаре
+    .desc = Открыть ваш внутренний интерфейс MIDI БАС-ГИТАРЫ, чтобы успокоить станцию.

@@ -22,4 +22,4 @@ health-analyzer-window-scan-mode-text = Режим сканирования:
 health-analyzer-window-scan-mode-active = ВКЛЮЧЕН
 health-analyzer-window-scan-mode-inactive = ВЫКЛЮЧЕН
 
-health-analyzer-popup-scan-target = {CAPITALIZE($user)} пытается просканировать вас!
+health-analyzer-popup-scan-target = { CAPITALIZE($user) } пытается просканировать вас!

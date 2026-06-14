@@ -1,6 +1,6 @@
 ent-Girder = каркас
-    .desc = A large structural assembly made out of metal; It requires a layer of metal before it can be considered a wall.
+    .desc = Крупная несущая конструкция из металла. Требуется слой металла, чтобы она превратилась в полноценную стену.
 ent-ReinforcedGirder = укреплённый каркас
-    .desc = A large structural assembly made out of metal and plasteel; It requires a layer of plasteel before it can be considered a reinforced wall.
+    .desc = Крупная несущая конструкция из металла и пластали. Требуется слой пластали, чтобы она превратилась в укреплённую стену.
 ent-ClockworkGirder = шестерёнчатая стена
-    .desc = A large gear with mounting brackets for additional plating; This could be made into a wall with more brass plating.
+    .desc = Большая шестерня с монтажными кронштейнами для дополнительной обшивки. Её можно превратить в стену с помощью дополнительной латунной обшивки.

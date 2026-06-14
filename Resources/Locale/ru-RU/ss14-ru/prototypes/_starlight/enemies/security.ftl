@@ -1,5 +1,5 @@
 ent-MobSecurityCadet = кадет
-    .desc = You've randomly been randomly selected for a random search
+    .desc = Вы были случайно выбраны для случайного досмотра.
 ent-MobSecurityCadetHostile = кадет
-    .suffix = hostile
     .desc = { ent-MobSecurityCadet.desc }
+    .suffix = Враждебный

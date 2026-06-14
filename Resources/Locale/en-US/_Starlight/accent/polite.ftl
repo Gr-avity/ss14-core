@@ -26,7 +26,7 @@ accent-polite-replaced-9 = asshole
 accent-polite-replacement-9 = friend
 
 accent-polite-replaced-10 = damn
-accent-polite-replacement-10 =  dang
+accent-polite-replacement-10 = dang
 
 accent-polite-replaced-11 = god
 accent-polite-replacement-11 = gosh

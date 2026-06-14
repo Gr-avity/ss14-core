@@ -1,11 +1,11 @@
 mail-companion-window-title = Mail Companion v11.037
 mail-companion-window-no-station = No station linked
-mail-companion-window-recipient = Recipient: {$recipient}
-mail-companion-window-job = Job: {$job}
-mail-companion-window-status = Status: {$status}
-mail-companion-window-coordinates = Coordinates: {$coordinates}
-mail-companion-window-time = Time Left: {$time}
-mail-companion-window-cooldown = Recalibrating: {$time}
+mail-companion-window-recipient = Recipient: { $recipient }
+mail-companion-window-job = Job: { $job }
+mail-companion-window-status = Status: { $status }
+mail-companion-window-coordinates = Coordinates: { $coordinates }
+mail-companion-window-time = Time Left: { $time }
+mail-companion-window-cooldown = Recalibrating: { $time }
 mail-companion-window-footer-left = Recipient acquisition console
 mail-companion-window-footer-right = Mail route supervision unit
 
@@ -23,7 +23,7 @@ mail-companion-status-delivery-opened = Delivery confirmed
 mail-companion-status-delivery-already-opened = Delivery already opened
 mail-companion-status-expired = Tracking expired
 
-mail-companion-popup-tracking-started = Tracking {$recipient}.
+mail-companion-popup-tracking-started = Tracking { $recipient }.
 mail-companion-popup-sensors-off = Recipient suit sensors are off.
 mail-companion-popup-tracking-disabled = Recipient location tracking is disabled.
 mail-companion-popup-recipient-unavailable = Recipient could not be located.
@@ -33,7 +33,7 @@ mail-companion-popup-delivery-opened-already = This delivery has already been op
 mail-companion-popup-expired = Mail Companion tracking expired.
 
 mail-companion-examine-empty = It has no active delivery loaded.
-mail-companion-examine-recipient = It is keyed to {$recipient}.
+mail-companion-examine-recipient = It is keyed to { $recipient }.
 
 mail-companion-hint-idle = Scan a letter or package to load a recipient into the tracker.
 mail-companion-hint-tracking = Target coordinates are being relayed from active suit sensors.

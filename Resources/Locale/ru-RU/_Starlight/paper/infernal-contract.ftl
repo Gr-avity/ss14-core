@@ -3,7 +3,7 @@ infernal-contract-base =
 
    ⠀[color=#fbd8ae][head=2]CONTRACT FOR WORLDLY GAIN[/head]
     ───────────────────────────────────────
-   ⠀I, [signature], in sound mind, hereby declare that I willingly engage in demonic exchange with {$truename}, an agent of hell.
+   ⠀I, [signature], in sound mind, hereby declare that I willingly engage in demonic exchange with { $truename }, an agent of hell.
 
    ⠀I offer the following:
     • My soul
@@ -24,9 +24,9 @@ infernal-contract-examined-TooCostly = The contract is not a fair deal for hell,
 infernal-contract-examined-UnknownClauses = The contract contains clauses which are not permitted for mortals.
 infernal-contract-examined-Signed = The contract has been signed!
 
-infernal-contract-examine-cost = This contract has a cost of {$value}
+infernal-contract-examine-cost = This contract has a cost of { $value }
 
 infernal-contract-popup-fail = The contract burns your hand! Something about it isn't right!
 infernal-contract-popup-fail-self = Your hand passes through the contract! This deal isn't for you to sign!
 infernal-contract-edit-fail = Your hand passes through the contract! You can't change the deal!
-infernal-contract-popup-invalid-damnations = Misspellings in contract! Check before signing: {$items}
+infernal-contract-popup-invalid-damnations = Misspellings in contract! Check before signing: { $items }

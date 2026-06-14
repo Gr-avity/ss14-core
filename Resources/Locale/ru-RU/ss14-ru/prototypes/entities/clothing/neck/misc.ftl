@@ -1,10 +1,10 @@
 ent-ClothingNeckStethoscope = стетоскоп
-    .desc = An outdated medical apparatus for listening to the sounds of the human body. It also makes you look like you know what you're doing.
+    .desc = Устаревший медицинский прибор для прослушивания звуков человеческого тела. К тому же он придает вам вид человека, который знает, что делает.
 ent-ActionStethoscope = Прослушать стетоскопом
     .desc = { ent-BaseAction.desc }
 ent-ClothingNeckBling = побрякушки
-    .desc = Damn, it feels good to be a gangster.
+    .desc = Черт, приятно быть гангстером.
 ent-ClothingNeckLawyerbadge = значок адвоката
-    .desc = A badge to show that the owner is a 'legitimate' lawyer who passed the NT bar exam required to practice law.
+    .desc = Значок, подтверждающий, что владелец — «законный» адвокат, сдавший экзамен NT, необходимый для юридической практики.
 ent-Dinkystar = сияющая звезда
-    .desc = A dinky lil star for only the hardest working security officers! It's not even sticky anymore.
+    .desc = Крошечная звездочка только для самых трудолюбивых офицеров службы безопасности! Она даже уже не липкая.

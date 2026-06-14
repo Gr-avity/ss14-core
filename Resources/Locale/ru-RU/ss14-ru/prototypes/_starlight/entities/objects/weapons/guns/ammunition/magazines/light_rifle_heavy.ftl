@@ -1,8 +1,8 @@
 ent-LightRifleHeavyBase = коробка магазинов .30
     .desc = { ent-BaseMagazineBoxLightRifle.desc }
 ent-LightRifleHeavyMagazineEmpty = коробка магазинов (.30 винтовочные любые)
-    .suffix = empty
     .desc = { ent-LightRifleHeavyBase.desc }
+    .suffix = пустой
 ent-LightRifleHeavyMagazineSP = коробка магазинов (.30 винтовочные SP)
     .desc = { ent-LightRifleHeavyBase.desc }
 ent-LightRifleHeavyMagazineHP = коробка магазинов (.30 винтовочные HP)

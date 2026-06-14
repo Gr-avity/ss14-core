@@ -1,6 +1,6 @@
 ent-FoodBowlBig = миска
-    .desc = A simple bowl, used for soups and salads.
+    .desc = Простая миска, используемая для супов и салатов.
 ent-FoodBowlBigTrash = разбитая миска
-    .desc = A simple bowl, broken and useless.
+    .desc = Простая миска, разбитая и бесполезная.
 ent-FoodBowlFancy = миска
-    .desc = A fancy bowl, used for SPECIAL soups and salads.
+    .desc = Изысканная миска, используемая для ОСОБЕННЫХ супов и салатов.

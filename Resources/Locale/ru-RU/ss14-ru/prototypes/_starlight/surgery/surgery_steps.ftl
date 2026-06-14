@@ -1,4 +1,4 @@
-ent-SurgeryStepBase = базовый шаг операции
+ent-SurgeryStepBase = { "" }
     .desc = { "" }
 ent-SurgeryStepOpenIncisionScalpel = Разрез скальпелем
     .desc = { ent-SurgeryStepBase.desc }

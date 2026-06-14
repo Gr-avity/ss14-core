@@ -1,5 +1,9 @@
 # Components
-spray-painter-ammo-on-examine = It holds {$charges} charges.
+spray-painter-ammo-on-examine = В нём осталось { $charges ->
+    [one] { $charges } заряд
+    [few] { $charges } заряда
+    *[other] { $charges } зарядов
+}.
 spray-painter-ammo-after-interact-full = Краскопульт полон!
 spray-painter-ammo-after-interact-refilled = Вы заправляете краскопульт.
 
@@ -7,7 +11,7 @@ spray-painter-interact-no-charges = Не хватает краски.
 spray-painter-interact-nothing-to-remove = Нечего удалять!
 
 spray-painter-on-examined-painted-message = Выглядит свежеокрашенным.
-spray-painter-style-not-available = Невозможно применить выбранный стиль к данному типу шлюза
+spray-painter-style-not-available = Невозможно применить выбранный стиль к данному типу шлюза.
 
 spray-painter-verb-toggle-decals = Переключить покраску декалей
 

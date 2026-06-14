@@ -1,6 +1,9 @@
 ent-SignalTimerElectronics = микросхема сигнального таймера
-    .desc = An electronics board used in timer circuitry. Looks like you could use a screwdriver to change the board type.
+    .desc = Электронная плата, используемая в таймерных схемах. Похоже, вы можете использовать отвёртку, чтобы изменить тип платы.
+    .suffix = { ent-BaseElectronics.suffix }
 ent-ScreenTimerElectronics = микросхема экранного таймера
     .desc = { ent-SignalTimerElectronics.desc }
+    .suffix = { ent-SignalTimerElectronics.suffix }
 ent-BrigTimerElectronics = микросхема таймера брига
     .desc = { ent-SignalTimerElectronics.desc }
+    .suffix = { ent-SignalTimerElectronics.suffix }

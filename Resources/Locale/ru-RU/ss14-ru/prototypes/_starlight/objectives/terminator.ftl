@@ -1,6 +1,6 @@
 ent-BaseTerminatorObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
-ent-TerminatorExterminateObjective = Secure our future.
-    .desc = Follow your programming and kill the target. Ensure the future does not have this iteration of them in it. Minimise causing temporal flux through unnecessary casualties.
-ent-TerminatorSelfDestructObjective = Self destruct
-    .desc = Prevent your advanced technology from falling into enemy hands.
+ent-TerminatorExterminateObjective = Обеспечьте наше будущее.
+    .desc = Следуйте своей программе и убейте цель. Убедитесь, что в будущем нет этой итерации цели. Сведите к минимуму создание временного потока из-за ненужных жертв.
+ent-TerminatorSelfDestructObjective = Самоуничтожение
+    .desc = Не дайте вашим продвинутым технологиям попасть в руки врага.

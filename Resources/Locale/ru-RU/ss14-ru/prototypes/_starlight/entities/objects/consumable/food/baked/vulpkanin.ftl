@@ -1,2 +1,2 @@
 ent-FoodBakedVulpkaninPlate = запечённый вулпканин
-    .desc = You can still see bits of fur on the surface of the dish..
+    .desc = На поверхности блюда всё ещё видны клочки шерсти..

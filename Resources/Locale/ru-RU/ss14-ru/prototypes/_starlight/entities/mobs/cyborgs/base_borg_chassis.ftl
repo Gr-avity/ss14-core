@@ -1,6 +1,6 @@
-ent-BaseXenoborgChassisDerelict = xenoborg
-    .desc = A man-machine hybrid that aims to replicate itself. This one has seen better days.
+ent-BaseXenoborgChassisDerelict = ксеноборг
+    .desc = Гибрид человека и машины, стремящийся к самовоспроизведению. Этот экземпляр видал и лучшие времена.
 ent-BaseNTNCChassis = NT-NC
-    .desc = A special chassis produced by NanoTrasen to aid Centcomm forces in their duties.
-ent-NTNCBorgChassisHAW = NT-NC H.A.W
-    .desc = A special chassis produced by NanoTrasen to aid Centcomm forces in their duties. The H.A.W (Hazardous Assault Walker) features heavy armaments and a specialised access configurator designed to grant immediate entry.
+    .desc = Специальное шасси, созданное корпорацией NanoTrasen для поддержки сил Центкома при выполнении их обязанностей.
+ent-NTNCBorgChassisHAW = NT-NC «H.A.W.»
+    .desc = Специальное шасси, созданное корпорацией NanoTrasen для поддержки сил Центкома при выполнении их обязанностей. Модель H.A.W. (Тяжёлый штурмовой шагоход) оснащена мощным вооружением и специализированным конфигуратором доступа, разработанным для мгновенного проникновения на объекты.

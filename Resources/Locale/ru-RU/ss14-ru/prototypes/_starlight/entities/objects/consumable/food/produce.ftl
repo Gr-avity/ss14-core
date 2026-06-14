@@ -1,7 +1,7 @@
 ent-FoodOrganTree = органо-стручок
-    .desc = Strangest salad you've ever seen.
-ent-TrashMimanaPeelStealthy = mimana peel
-    .suffix = Stealthy
+    .desc = Самый странный салат, который вы когда-либо видели.
+ent-TrashMimanaPeelStealthy = кожура миманы
     .desc = { ent-TrashMimanaPeel.desc }
-ent-FoodEvilApple = devilish apple
-    .desc = A fruit born of pure evil, eating it just might bring the doctors to you.
+    .suffix = Незаметная
+ent-FoodEvilApple = дьявольское яблоко
+    .desc = Фрукт, рождённый чистым злом, поедание которого может привести к вам врачей.

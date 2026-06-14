@@ -1,8 +1,8 @@
 ent-ThiefBeacon = воровской маяк
-    .desc = A device that will teleport everything around it to the thief's vault at the end of the shift.
+    .desc = Устройство, которое в конце смены телепортирует всё вокруг себя в хранилище вора.
 ent-ToolboxThief = ящик вора
-    .desc = This is where your favorite thief's supplies lie. Try to remember which ones.
+    .desc = Здесь лежат припасы вашего любимого вора. Постарайтесь запомнить, какие именно.
 ent-SatchelThief = сумка неизвестного вора
-    .desc = This is where your favorite thief's supplies lie. Folded for your convenience.
+    .desc = Здесь лежат припасы вашего любимого вора. Сложена для вашего удобства.
 ent-MiningShuttleCircuitboardStealObjective = { ent-BaseThiefStealObjective }
     .desc = { ent-BaseThiefStealObjective.desc }

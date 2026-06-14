@@ -1,7 +1,7 @@
 ent-FlashlightLantern = фонарик
-    .desc = It lights the way to freedom.
+    .desc = Он освещает путь к свободе.
 ent-FlashlightSeclite = фонарик СБ
-    .desc = A robust flashlight used by security.
+    .desc = Прочный фонарик, используемый службой безопасности.
 ent-EmptyFlashlightLantern = { ent-FlashlightLantern }
-    .suffix = Empty
     .desc = { ent-FlashlightLantern.desc }
+    .suffix = Пустой

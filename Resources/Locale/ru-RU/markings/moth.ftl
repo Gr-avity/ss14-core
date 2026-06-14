@@ -144,7 +144,7 @@ marking-MothChestCharred = Тело (Подгоревшие)
 marking-MothHeadCharred-charred_head = Голова
 marking-MothHeadCharred = Голова (Подгоревшие)
 
-marking-MothLLegCharred-charred_l_leg = Левая нога
+marking-MothLLegCharred-charred_l_leg =  Левая нога
 marking-MothLLegCharred = Левая нога (Подгоревшие)
 
 marking-MothRLegCharred-charred_r_leg = Правая нога

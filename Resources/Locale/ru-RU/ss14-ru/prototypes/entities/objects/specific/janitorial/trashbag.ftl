@@ -5,4 +5,4 @@ ent-TrashBagBlue = мешок для мусора
 ent-BagOfSummoningGarbage = заклинание всепоглощающей чистоты
     .desc = { ent-TrashBagBlue.desc }
 ent-BorgTrashBag = встроенный мусорный пакет
-    .desc = An upgraded trash bag with a larger internal volume, installed directly into a custodial cyborg.
+    .desc = Улучшенный мусорный пакет с большим внутренним объемом, установленный непосредственно в киборге-уборщике.

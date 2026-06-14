@@ -2,15 +2,15 @@ ent-BaseImplanter = имплантер
     .desc = { ent-BaseItem.desc }
 ent-Implanter = экстрактор имплантов
     .desc =
-        A dual-purpose syringe designed for the removal of specific subdermal implants. Once an implant is extracted, it is stored within and can be re-administered.
-        WARNING: Operator error, such as selecting a non-present implant type, causes severe genetic trauma to the operator.
+        Двухцелевой шприц, предназначенный для удаления специфических подкожных имплантов. Как только имплант извлечен, он хранится внутри и может быть введен снова.
+        ВНИМАНИЕ: Ошибка оператора, такая как выбор несуществующего типа импланта, вызывает тяжелую генетическую травму у оператора.
 ent-ImplanterAdmeme = { ent-Implanter }
-    .suffix = Admeme
     .desc = { ent-Implanter.desc }
+    .suffix = Адмеме
 ent-BaseImplantOnlyImplanter = { ent-Implanter }
-    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.
+    .desc = Одноразовый шприц, предназначенный исключительно для введения подкожных имплантов.
 ent-BaseImplantOnlyImplanterSyndi = имплантер Синдиката
-    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap to remove residual DNA after use!
+    .desc = Компактный одноразовый шприц, предназначенный исключительно для введения подкожных имплантов. Не забудьте почистить его мылом, чтобы удалить остатки ДНК после использования!
 ent-SadTromboneImplanter = имплантер грустного тромбона
     .desc = { ent-BaseImplantOnlyImplanter.desc }
 ent-LightImplanter = имплантер света

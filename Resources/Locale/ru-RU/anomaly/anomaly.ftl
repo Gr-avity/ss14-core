@@ -35,15 +35,15 @@ anomaly-scanner-pulse-timer = Время до следующего импуль�
 
 anomaly-gorilla-core-slot-name = Ядро аномалии
 anomaly-gorilla-charge-none = Внутри нет [bold]ядра аномалии[/bold].
-anomaly-gorilla-charge-limit = Осталось [color={$count ->
-    [3]green
-    [2]yellow
-    [1]orange
-    [0]red
-    *[other]purple
-}]{$count} {$count ->
-    [one]charge
-    *[other]charges
+anomaly-gorilla-charge-limit = Осталось [color={ $count ->
+    [3] green
+    [2] yellow
+    [1] orange
+    [0] red
+    *[other] purple
+}]{ $count } { $count ->
+    [one] charge
+    *[other] charges
 }[/color] remaining.
 anomaly-gorilla-charge-infinite = В нем [color=gold]неограниченое количество зарядов[/color]. [italic]Пока что...[/italic]
 
@@ -53,7 +53,7 @@ anomaly-sync-no-anomaly = Отсутствует аномалия в преде�
 anomaly-sync-examine-connected = Он [color=darkgreen]присоединён[/color] к аномалии.
 anomaly-sync-examine-not-connected = Он [color=darkred]не присоединён[/color] к аномалии.
 anomaly-sync-connect-verb-text = Присоединить аномалию
-anomaly-sync-connect-verb-message = Присоединить близлежащую аномалию к {$machine}.
+anomaly-sync-connect-verb-message = Присоединить близлежащую аномалию к { $machine }.
 anomaly-sync-disconnect-verb-text = Отсоединить аномалию
 anomaly-sync-disconnect-verb-message = Отсоединить подключённую аномалию от { $machine }.
 
@@ -64,9 +64,9 @@ anomaly-generator-no-cooldown = Перезарядка: [color=gray]Заверш
 anomaly-generator-yes-fire = Статус: [color=forestgreen]Готов[/color]
 anomaly-generator-no-fire = Статус: [color=crimson]Не готов[/color]
 anomaly-generator-generate = Создать Аномалию
-anomaly-generator-charges = {$charges ->
-    [one] {$charges} charge
-    *[other] {$charges} charges
+anomaly-generator-charges = { $charges ->
+    [one] { $charges } charge
+    *[other] { $charges } charges
 }
 anomaly-generator-announcement = Была сгенерирована аномалия!
 

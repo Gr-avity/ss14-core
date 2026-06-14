@@ -1,5 +1,5 @@
 # Wizard Duel
-wizard-duel-title = Wizard Duel
-wizard-duel-description = A battle of might and magic, and you're caught in the middle of the chaos! Will you survive?
+wizard-duel-title = Дуэль волшебников
+wizard-duel-description = Битва силы и магии, и вы оказались в самом центре хаоса! Сможете ли вы выжить?
 
-guide-entry-wizard-duel = Wizard Duel
+guide-entry-wizard-duel = Дуэль волшебников

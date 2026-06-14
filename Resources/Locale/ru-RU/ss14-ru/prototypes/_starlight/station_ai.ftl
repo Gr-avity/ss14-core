@@ -1,6 +1,6 @@
-ent-ActionAIShunt = Shunt
-    .desc = Shunt into a borg chassis with a AI interface installed.
-ent-ActionAIUnShunt = UnShunt
-    .desc = Disengage from the chassis/interface returning to your core.
-ent-ActionAIWarp = Warp
-    .desc = Open a list of crew and locations to warp to.
+ent-ActionAIShunt = Шунтирование
+    .desc = Подключиться к шасси киборга с установленным интерфейсом ИИ.
+ent-ActionAIUnShunt = Отключение шунта
+    .desc = Отключиться от шасси/интерфейса, вернувшись к своему ядру.
+ent-ActionAIWarp = Варп
+    .desc = Открыть список экипажа и мест, к которым можно переместиться.

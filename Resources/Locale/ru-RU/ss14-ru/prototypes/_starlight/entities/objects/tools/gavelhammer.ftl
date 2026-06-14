@@ -1,2 +1,2 @@
 ent-GavelHammer = судейский молоток
-    .desc = This is what they hit with.
+    .desc = Внушительный молоток, который заставляет всех замолчать.

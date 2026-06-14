@@ -1,8 +1,8 @@
 ent-FoodResomiCake = торт сновидений
-    .desc = The poor Resomi can no longer chase their dreams
+    .desc = Бедные Ресоми больше не могут гнаться за своими мечтами.
 ent-FoodCottonCake = хлопковый торт
-    .desc = A sweet treat for the moth to eat
+    .desc = Сладкое лакомство для моли.
 ent-FoodCottonCakeSlice = кусок хлопкового торта
-    .desc = You cut up the moff how dare you
-ent-FoodCakeResomiSlice = кусок сновидений
-    .desc = Broken wings cant fly, neither can the Resomi this was made with.
+    .desc = Ты разрезал моффа, как ты смеешь?
+ent-FoodCakeResomiSlice = кусок торта сновидений
+    .desc = Сломанные крылья не могут летать, как и Ресоми, из которых это было сделано.

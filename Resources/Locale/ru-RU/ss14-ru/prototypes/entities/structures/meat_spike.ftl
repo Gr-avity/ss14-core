@@ -1,2 +1,2 @@
 ent-KitchenSpike = мясной крюк
-    .desc = A spike for collecting meat from animals.
+    .desc = Крюк для сбора мяса с животных.

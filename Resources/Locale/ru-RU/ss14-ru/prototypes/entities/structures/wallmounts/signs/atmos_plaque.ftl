@@ -1,11 +1,11 @@
 ent-PlaqueAtmos = атмосферная табличка
-    .suffix = Spawner
     .desc = { ent-MarkerBase.desc }
+    .suffix = Спавнер
 ent-PlaqueAtmosFEA = мемориальная доска подразделения атмосферщиков FEA
-    .desc = This plaque commemorates the fall of the Atmos FEA division. For all the charred, dizzy, and brittle men who have died in its hands.
+    .desc = Эта доска чтит память павшего подразделения Атмоса FEA. В честь всех обугленных, измученных и хрупких людей, погибших от его рук.
 ent-PlaqueAtmosLINDA = мемориальная доска подразделения атмосферщиков LINDA
-    .desc = This plaque commemorates the fall of the Atmos LINDA division. For all the charred, dizzy, and brittle men who have died in its hands.
+    .desc = Эта доска чтит память павшего подразделения Атмоса LINDA. В честь всех обугленных, измученных и хрупких людей, погибших от его рук.
 ent-PlaqueAtmosZAS = мемориальная доска подразделения атмосферщиков ZAS
-    .desc = This plaque commemorates the fall of the Atmos ZAS division. For all the charred, dizzy, and brittle men who have died in its hands.
+    .desc = Эта доска чтит память павшего подразделения Атмоса ZAS. В честь всех обугленных, измученных и хрупких людей, погибших от его рук.
 ent-PlaqueAtmosZUM = мемориальная доска подразделения атмосферщиков ZUM
-    .desc = This plaque commemorates the rise of the Atmos ZUM division. May they carry the torch that the Atmos ZAS, LINDA and FEA divisions left behind.
+    .desc = Эта доска знаменует рассвет подразделения Атмоса ZUM. Пусть они несут факел, оставленный павшими подразделениями ZAS, LINDA и FEA.

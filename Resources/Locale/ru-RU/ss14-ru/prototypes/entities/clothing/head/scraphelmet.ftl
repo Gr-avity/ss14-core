@@ -1,8 +1,8 @@
 ent-WiredBucketBase = ведро с проводами
-    .desc = A bucket with attached wiring to better serve as a chinstrap.
+    .desc = Ведро с прикрепленной проводкой, чтобы лучше служить подбородочным ремнем.
 ent-SlicedBucketBase = разрезанное ведро
-    .desc = A bucket with a vision slit cut into the side.
+    .desc = Ведро с прорезью для обзора, вырезанной сбоку.
 ent-SteelBucketBase = стальное ведро
-    .desc = A bucket that's had steel welded onto it's exterior. It requires better shaping before it can be worn comfortably.
+    .desc = Ведро, на внешнюю сторону которого была наварена сталь. Требует придания лучшей формы, прежде чем его можно будет удобно носить.
 ent-ClothingHeadHelmetScrap = самодельный шлем
-    .desc = A cobbled-together helmet made from cabling, steel, and a bucket.
+    .desc = Коряво собранный шлем из кабеля, стали и ведра.

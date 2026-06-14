@@ -1,2 +1,2 @@
-ent-StatusEffectIPCFanDisabled = blinded
+ent-StatusEffectIPCFanDisabled = ослепление
     .desc = { ent-MobStatusEffectDebuff.desc }

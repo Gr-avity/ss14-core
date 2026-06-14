@@ -1,8 +1,8 @@
 ent-PipeBomb = самодельная бомба
-    .desc = An improvised explosive made from pipes and wire.
+    .desc = Самодельное взрывное устройство, сделанное из труб и проводов.
 ent-PipeBombGunpowder = трубчатая бомба
-    .desc = An improvised explosive made from a pipe. This one has no gunpowder.
-    .suffix = Gunpowder
+    .desc = Самодельное взрывное устройство, сделанное из трубы. В этом нет пороха.
+    .suffix = Порох
 ent-PipeBombCable = трубчатая бомба
-    .desc = An improvised explosive made from a pipe. This one has no cable.
-    .suffix = Cable
+    .desc = Самодельное взрывное устройство, сделанное из трубы. В этом нет кабеля.
+    .suffix = Кабель

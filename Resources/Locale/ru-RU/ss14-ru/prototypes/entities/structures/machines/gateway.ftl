@@ -1,4 +1,4 @@
 ent-BaseGateway = вратá
-    .desc = A mysterious gateway built by unknown hands, it allows for faster than light travel to far-flung locations.
+    .desc = Таинственные врата, построенные неизвестными руками, они позволяют путешествовать быстрее скорости света в отдаленные места.
 ent-Gateway = { ent-BaseGateway }
     .desc = { ent-BaseGateway.desc }

@@ -1,4 +1,4 @@
-﻿admin-ui-baby-jail-window-title = Baby Jail
+admin-ui-baby-jail-window-title = Baby Jail
 
 admin-ui-baby-jail-enabled = Детсад включён
 admin-ui-baby-jail-disabled = Детсад выключен

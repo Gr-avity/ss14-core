@@ -1,2 +1,2 @@
-ent-GearAcidifier = acid
-    .desc = Melts your gear into a puddle of yuck!
+ent-GearAcidifier = кислота
+    .desc = Расплавляет ваше снаряжение в лужу гадости!

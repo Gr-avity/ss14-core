@@ -12,17 +12,17 @@
 ## {$crewcount} - Current number of crew members
 ## [[randomnumber:min:max]] - Random number range (e.g., [[randomnumber:23:679]] generates 23-679) Defaults to 1-100
 
-nanochat-ad-test-all = {$recipient} | {$time} | {$date} | {$station} | {$sender} | {$job} | {$department} | {$species} | {$gender} | {$nanochatnumber} | {$randomname} | {$crewcount} | [[randomnumber:1:100]]
+nanochat-ad-test-all = { $recipient } | { $time } | { $date } | { $station } | { $sender } | { $job } | { $department } | { $species } | { $gender } | { $nanochatnumber } | { $randomname } | { $crewcount } | [[randomnumber:1:100]]
 
-nanochat-ad-car-warranty = Good day to you {$recipient}! We at NenoTrensan would like to inform you about your car's extended warranty! Call us at ([[randomnumber:100:999]])-[[randomnumber:100:999]]-[[randomnumber:1000:9999]] at the end of the shift to begin extending your warranty!
+nanochat-ad-car-warranty = Good day to you { $recipient }! We at NenoTrensan would like to inform you about your car's extended warranty! Call us at ([[randomnumber:100:999]])-[[randomnumber:100:999]]-[[randomnumber:1000:9999]] at the end of the shift to begin extending your warranty!
 
-nanochat-ad-class-action = Hello {$recipient}!
+nanochat-ad-class-action = Hello { $recipient }!
 
-    We, {$sender}, are contacting you regarding a recent class action settlement involving a company amongst your [[randomnumber:7:60]] recent transactions!
+    We, { $sender }, are contacting you regarding a recent class action settlement involving a company amongst your [[randomnumber:7:60]] recent transactions!
     You are being awarded a sum of [[randomnumber:1:12]].[[randomnumber:10:99]] credits as part of this settlement.
 
-    A settlement check is being sent to your location of "{$station}" and should arrive at your local mail room within [[randomnumber:3:30]] business days.
-    If the check is not redeemed at your bank within [[randomnumber:10:30]] days from {$date}, the sum will instead be donated to the NTSF Marine Force as part of your employment contract.
+    A settlement check is being sent to your location of "{ $station }" and should arrive at your local mail room within [[randomnumber:3:30]] business days.
+    If the check is not redeemed at your bank within [[randomnumber:10:30]] days from { $date }, the sum will instead be donated to the NTSF Marine Force as part of your employment contract.
     Thank you!
 
 nanochat-ad-chain-letter = ******************* ***************** **************** *************** STOP !!!!!!!!!!!!!!!!!! Ok, first you have to send this to at least 15 ppl. If you don't... if you send this to.. 0 ppl.. u will have bad luck for the REST of your life 5 ppl... your crush will ignore you until ur DYING day 15 ppl... and your crush will ask you out The freaky thing about this msg is after you send this to AT LEAST 15 ppl... come back and press shift and then F4 and you will see something AMAZING. It was so cool and freaky at the same time So START sendin... and you only have 15 min. to send this... GO
@@ -38,7 +38,7 @@ nanochat-ad-abundance-angel = This will be you tomorrow! A little Angel for you.
 
 nanochat-ad-truck-ascii = Truck forward drive forward truck friend send truck friend forward truck truck
 
-nanochat-ad-bomb-threat = attention {$recipient} i am place a BOMB in {$department} me name is {$randomname} and i send you a BIG BOMB and it blow up the world and you die if you do no send funny digits on your ID CARD. SEND THEM NOW OR {$crewcount} ALL DIE!!
+nanochat-ad-bomb-threat = attention { $recipient } i am place a BOMB in { $department } me name is { $randomname } and i send you a BIG BOMB and it blow up the world and you die if you do no send funny digits on your ID CARD. SEND THEM NOW OR { $crewcount } ALL DIE!!
 
 nanochat-ad-donko-wholesale = Donko Wholesale: Payment failed
     Membership billing alert
@@ -77,11 +77,11 @@ nanochat-ad-hr-notice = Notice:
 
 nanochat-ad-prize-winner = You've won!!!
 
-    Congratulations {$recipient} you've won an all expense paid trip. Please respond to this message with your mailing information and the official paperwork can be sent so we can confirm your information!
+    Congratulations { $recipient } you've won an all expense paid trip. Please respond to this message with your mailing information and the official paperwork can be sent so we can confirm your information!
 
-nanochat-ad-radnor-photonics = {"$"}recipient, are you interested in Radnor Photonics? We offer a selection of devices for shipping directly to {"$"}station such as Flash Series Carbon Arc Defense Tools, Phaser Series Photonic Amplification through Stimulated Emission of Radiation, Vacuum tubes, radio tubes, klystrons, Astronautical navigation buoys and bluespace repeaters, Searchlights, relative coordinate anchors, and station beacons, Mine lamps and helmet lamps, Workplace and jobsite lighting
+nanochat-ad-radnor-photonics = { "$" }recipient, are you interested in Radnor Photonics? We offer a selection of devices for shipping directly to { "$" }station such as Flash Series Carbon Arc Defense Tools, Phaser Series Photonic Amplification through Stimulated Emission of Radiation, Vacuum tubes, radio tubes, klystrons, Astronautical navigation buoys and bluespace repeaters, Searchlights, relative coordinate anchors, and station beacons, Mine lamps and helmet lamps, Workplace and jobsite lighting
 
-nanochat-ad-hogge-wylde = Hello {$nanochatnumber}. Have you been wronged? Faced workplace discrimination because you are {$species}? Found yourself struggling for promotions in {$department} that you deserved?
+nanochat-ad-hogge-wylde = Hello { $nanochatnumber }. Have you been wronged? Faced workplace discrimination because you are { $species }? Found yourself struggling for promotions in { $department } that you deserved?
 
     Then you should contact the Hogge & Wylde Law Offices! We offer free consultations. Visit us at Garanir, Merak, Phecda, or Capella.
 
@@ -104,7 +104,7 @@ nanochat-ad-silverclaw-tour = Listen one, listen all!
     Coming to a planet near *you*!
     Every night at 08:45 planetary standard time!
     Tickets start at [[randomnumber:50:20000]] spesos, get yours before they are all gone!
-    (Sales close on {$date} 00:00 galactic standard time)
+    (Sales close on { $date } 00:00 galactic standard time)
 
 nanochat-ad-shuttleglass-repair = Did you hit space debris? Does your shuttle have a crack in the solar windshield?
     Do not hesitate! Any amount of stress could cause a fracture, and lead to depressurisation!
@@ -113,9 +113,9 @@ nanochat-ad-shuttleglass-repair = Did you hit space debris? Does your shuttle ha
     ShuttleGlass repairs,
     ShuttleGlass replaces!
 
-nanochat-ad-webuyyourstation = Would you like to know what {$station} is worth? Find out now, and head on over to webuyyourstation.gal! We will buy your station at fair market value! Get your cut of up to [[randomnumber:1:100000000]] spesos TODAY!
+nanochat-ad-webuyyourstation = Would you like to know what { $station } is worth? Find out now, and head on over to webuyyourstation.gal! We will buy your station at fair market value! Get your cut of up to [[randomnumber:1:100000000]] spesos TODAY!
 
-nanochat-ad-hugbot-initiative = Maybe you should go and give {$randomname} a hug!
+nanochat-ad-hugbot-initiative = Maybe you should go and give { $randomname } a hug!
     Do it right now! You might not be able to later!
 
     This message is brought to you by the Hugbot Initiative.

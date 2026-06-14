@@ -1,4 +1,4 @@
 ent-hydroponicsSoil = почва
-    .desc = A mix of organic matter and minerals creating a soil to grow your plant in space. Seems to be dry.
+    .desc = Смесь органических веществ и минералов, создающая почву для выращивания растений в космосе. Похоже, сухая.
 ent-FungalSoil = грибная почва
-    .desc = A mix of organic matter and fungal root creating a soil to grow your plant in space. Seems to be dry.
+    .desc = Смесь органических веществ и грибных корней, создающая почву для выращивания растений в космосе. Похоже, сухая.

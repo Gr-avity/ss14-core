@@ -1,2 +1,2 @@
 ent-AbductorExperimentator = экспериментатор
-    .desc = A device that analyzes the result of the experiment and resets the subject to the place from where they were taken.
+    .desc = Устройство, которое анализирует результат эксперимента и возвращает субъекта на то место, откуда он был взят.

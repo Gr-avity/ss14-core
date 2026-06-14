@@ -1,9 +1,9 @@
 ent-MobDebugCounter = отладочный счётчик
-    .desc = He can count
-    .suffix = AI, DEBUG
+    .desc = Он умеет считать
+    .suffix = ИИ, ОТЛАДКА
 ent-MobDebugRandomCounter = отладочный рандомный счётчик
-    .desc = He can randomize
-    .suffix = AI, DEBUG
+    .desc = Он умеет рандомизировать
+    .suffix = ИИ, ОТЛАДКА
 ent-MobDebugRandomLess = отладочный рандомный уменьшатель
-    .desc = He can lessing
-    .suffix = AI, DEBUG
+    .desc = Он умеет уменьшать
+    .suffix = ИИ, ОТЛАДКА

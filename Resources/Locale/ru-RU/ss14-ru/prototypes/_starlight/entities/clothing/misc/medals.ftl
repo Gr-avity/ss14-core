@@ -1,2 +1,2 @@
 ent-ClothingSovietMedals = советский набор медалей
-    .desc = A collection of medals meant to be replicas of the ones decorated. Wait, I think these actually might be real.
+    .desc = Коллекция медалей, призванных быть копиями тех, которыми награждали. Погодите, мне кажется, они могут быть настоящими.

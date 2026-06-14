@@ -1,5 +1,5 @@
-ent-PenExploding = ручка
-    .suffix = Exploding
+ent-PenExploding = { ent-Pen }
     .desc = { ent-Pen.desc }
+    .suffix = Взрывоопасная
 ent-PenExplodingBox = футляр взрывающейся ручки
-    .desc = A small box containing an exploding pen. Packaging disintegrates when opened, leaving no evidence behind.
+    .desc = Маленькая коробка, содержащая взрывающуюся ручку. Упаковка распадается при открытии, не оставляя улик.

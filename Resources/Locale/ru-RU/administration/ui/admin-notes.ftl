@@ -1,4 +1,4 @@
-﻿# UI
+# UI
 admin-notes-title = Заметки о { $player }
 admin-notes-new-note = Новая заметка
 admin-notes-show-more = Показать больше

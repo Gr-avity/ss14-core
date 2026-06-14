@@ -1,2 +1,2 @@
 ent-ActionChargeSpell = Заряд
-    .desc = Adds a charge back to your wand
+    .desc = Добавляет заряд обратно в ваш жезл.

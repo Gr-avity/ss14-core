@@ -98,7 +98,7 @@ thaven-mood-voxsymp-name = Симпатизант Вокс
 thaven-mood-voxsymp-desc = В знак поддержки Вокс вы должны всегда носить внутренние системы дыхания.
 
 thaven-mood-item-good-name = Коллекционер
-thaven-mood-item-good-desc = Предмет {$item} завораживает вас. Вы должны собирать их и следить, чтобы остальные относились к ним с почтением.
+thaven-mood-item-good-desc = Предмет { $item } завораживает вас. Вы должны собирать их и следить, чтобы остальные относились к ним с почтением.
 
 thaven-mood-smoker-name = Курильщик
 thaven-mood-smoker-desc = Вы безнадёжно зависимы от сигарет. Без дыма вы начинается ломка.
@@ -124,45 +124,45 @@ thaven-mood-centrist-desc = Вам всё равно. Вы не выбирает
 thaven-mood-public-sector-name = Всё — на показ
 thaven-mood-public-sector-desc = Никаких закрытых дверей. Ваша работа должна быть максимально открытой. Лучше перестроить отдел под открытый формат.
 
-thaven-mood-speech-restriction-name = {$speechType ->
-  *[FullNameAndTitle] Full Name And Title
-  [NamesAreRude] Names Are Rude
-  [Clarity] Clarity Is Vital
-  [SwearingGood] !@$%#ing @$^%*#@!$
-  [StatementOnly] Asking Questions Is Rude
-  [Imitation] I Wanna Be Like You
-  [Unclarity] Nothing Is Certain
-  [SwearingBad] Thou Shalt Not Curse
-  [QuestionOnly] Nothing Is Certain?
-  [MustAnswer] Center Of The Universe
-  [OnlyWhisper] Inside Voice
-  [OnlyYell] Outside Voice
-  [Rhyme] Poet
-  [Alliterate] Always Alliterate At All Apportunities
-  [ThirdPerson] Third Person
-  [TitleCase] Title Case
+thaven-mood-speech-restriction-name = { $speechType ->
+    *[FullNameAndTitle] Full Name And Title
+    [NamesAreRude] Names Are Rude
+    [Clarity] Clarity Is Vital
+    [SwearingGood] !@$%#ing @$^%*#@!$
+    [StatementOnly] Asking Questions Is Rude
+    [Imitation] I Wanna Be Like You
+    [Unclarity] Nothing Is Certain
+    [SwearingBad] Thou Shalt Not Curse
+    [QuestionOnly] Nothing Is Certain?
+    [MustAnswer] Center Of The Universe
+    [OnlyWhisper] Inside Voice
+    [OnlyYell] Outside Voice
+    [Rhyme] Poet
+    [Alliterate] Always Alliterate At All Apportunities
+    [ThirdPerson] Third Person
+    [TitleCase] Title Case
 }
-thaven-mood-speech-restriction-desc = {$speechType ->
-  *[FullNameAndTitle] Thaven refuse to acknowledge anyone who fails to refer to them using their full name, and expect everyone else to do the same.
-  [NamesAreRude] Using one's name is terribly personal for everyday conversation. Proper etiquette is to only refer to others by description.
-  [Clarity] Misunderstandings are the primary cause of conflict. You should be excessively clear and honest in your speech, explaining every minute detail, to avoid miscommunication.
-  [SwearingGood] Swearing is the spice of any conversation, and should be used as much as reasonably possible.
-  [StatementOnly] It would be terribly impolite to go around flagrantly asking questions all over the place. You'd prefer to phrase everything as a concrete statement.
-  [Imitation] Imitation is the highest form of flattery. Attempting to emulate the mannerisms and accents of everyone you speak to will get you far in life.
-  [Unclarity] You should endeavor to be as indirect in your speech as possible, and never make a direct statement.
-  [SwearingBad] You find swearing extremely distasteful. Abstain from it, and encourage others to do the same.
-  [QuestionOnly] It's impolite to make concrete statements? You should phrase everything as a question, just to be safe?
-  [MustAnswer] All questions that you can hear are directed at you, and you alone.
-  [OnlyWhisper] You must whisper, as speaking too loudly is terribly rude.
-  [OnlyYell] [bold]YOU MUST YELL AT ALL TIMES TO DEMONSTRATE YOUR AUTHORITY!!!!![/bold]
-  [Rhyme] You must speak in rhymes at all tymes.
-  [Alliterate] Alliteration is virtuous. Endeavor to use it wherever possible.
-  [ThirdPerson] The third person point-of-view is the only respectful manner of speaking.
-  [TitleCase] You Are Miraculously Capable Of Pronouncing Capital Letters, And Believe It Is Important That You Do So.
+thaven-mood-speech-restriction-desc = { $speechType ->
+    *[FullNameAndTitle] Thaven refuse to acknowledge anyone who fails to refer to them using their full name, and expect everyone else to do the same.
+    [NamesAreRude] Using one's name is terribly personal for everyday conversation. Proper etiquette is to only refer to others by description.
+    [Clarity] Misunderstandings are the primary cause of conflict. You should be excessively clear and honest in your speech, explaining every minute detail, to avoid miscommunication.
+    [SwearingGood] Swearing is the spice of any conversation, and should be used as much as reasonably possible.
+    [StatementOnly] It would be terribly impolite to go around flagrantly asking questions all over the place. You'd prefer to phrase everything as a concrete statement.
+    [Imitation] Imitation is the highest form of flattery. Attempting to emulate the mannerisms and accents of everyone you speak to will get you far in life.
+    [Unclarity] You should endeavor to be as indirect in your speech as possible, and never make a direct statement.
+    [SwearingBad] You find swearing extremely distasteful. Abstain from it, and encourage others to do the same.
+    [QuestionOnly] It's impolite to make concrete statements? You should phrase everything as a question, just to be safe?
+    [MustAnswer] All questions that you can hear are directed at you, and you alone.
+    [OnlyWhisper] You must whisper, as speaking too loudly is terribly rude.
+    [OnlyYell] [bold]YOU MUST YELL AT ALL TIMES TO DEMONSTRATE YOUR AUTHORITY!!!!![/bold]
+    [Rhyme] You must speak in rhymes at all tymes.
+    [Alliterate] Alliteration is virtuous. Endeavor to use it wherever possible.
+    [ThirdPerson] The third person point-of-view is the only respectful manner of speaking.
+    [TitleCase] You Are Miraculously Capable Of Pronouncing Capital Letters, And Believe It Is Important That You Do So.
 }
 
-thaven-mood-station-exists-for-department-name = The Station Exists For {$department}
-thaven-mood-station-exists-for-department-desc = You strongly believe that {$department} is the most important department on this station, and all other departments exist to support it.
+thaven-mood-station-exists-for-department-name = The Station Exists For { $department }
+thaven-mood-station-exists-for-department-desc = You strongly believe that { $department } is the most important department on this station, and all other departments exist to support it.
 
 thaven-mood-mute-sympathizer-name = Mute Sympathizer
 thaven-mood-mute-sympathizer-desc = To show your allyship with the mute crew members, avoid using spoken language as much as possible.
@@ -237,7 +237,7 @@ thaven-mood-amateur-photographer-name = Amateur Photographer
 thaven-mood-amateur-photographer-desc = You feel the need to use flashes to take pictures of everyone on station.
 
 thaven-mood-insecure-name = Insecure
-thaven-mood-insecure-desc = You care deeply what people think about you, particularly about your {$appearance}.
+thaven-mood-insecure-desc = You care deeply what people think about you, particularly about your { $appearance }.
 
 thaven-mood-live-laugh-love-name = Live Laugh Love
 thaven-mood-live-laugh-love-desc = Live the shift like it's your last. Laugh at every joke. Spread the joys and love of the station.

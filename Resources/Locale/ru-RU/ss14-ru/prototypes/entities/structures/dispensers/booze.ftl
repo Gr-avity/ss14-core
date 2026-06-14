@@ -1,6 +1,6 @@
 ent-BoozeDispenserEmpty = раздатчик алкоголя
-    .desc = A booze dispenser with a single slot for a container to be filled.
-    .suffix = Empty
-ent-BoozeDispenser = раздатчик алкоголя
-    .suffix = Filled
+    .desc = Раздатчик алкоголя с одним слотом для заполняемой емкости.
+    .suffix = Пустой
+ent-BoozeDispenser = { ent-BoozeDispenserEmpty }
     .desc = { ent-BoozeDispenserEmpty.desc }
+    .suffix = Заполненный

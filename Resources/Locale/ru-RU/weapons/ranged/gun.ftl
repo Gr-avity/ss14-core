@@ -4,8 +4,8 @@ gun-fire-rate-examine = Скорострельность [color={ $color }]{ $fi
 gun-selector-verb = Изменить на { $mode }
 gun-selected-mode = Выбран { $mode }
 gun-disabled = Вы не можете использовать оружие!
-gun-set-fire-mode-examine = Set to [color=yellow]{ $mode }[/color].
-gun-set-fire-mode-popup = Changed to { $mode }
+gun-set-fire-mode-examine = Переключено на [color=yellow]{ $mode }[/color].
+gun-set-fire-mode-popup = Изменено на { $mode }
 gun-magazine-whitelist-fail = Это не влезет в пистолет!
 gun-magazine-fired-empty = Нет патронов!
 
@@ -31,10 +31,10 @@ gun-battery-examine = Заряда хватит на [color={ $color }]{ $count 
 
 # CartridgeAmmoProvider
 gun-chamber-bolt-ammo = Затвор не закрыт
-gun-chamber-bolt = Затвор [color={$color}]{$bolt}[/color].
+gun-chamber-bolt = Затвор [color={ $color }]{ $bolt }[/color].
 gun-chamber-bolt-closed = Затвор закрыт
 gun-chamber-bolt-opened = Затвор открыт
-gun-chamber-bolt-close = Закрыть завтор
+gun-chamber-bolt-close = Закрыть затвор
 gun-chamber-bolt-open = Открыть затвор
 gun-chamber-bolt-closed-state = открыт
 gun-chamber-bolt-open-state = закрыт
@@ -43,8 +43,8 @@ gun-chamber-rack = Разрядить
 # MagazineAmmoProvider
 gun-magazine-examine = Осталось [color={ $color }]{ $count }[/color] выстрелов.
 # 🌟Starlight - Start🌟
-gun-magazine-ammo-type = It contains [color={ $color }]{ $type }[/color].
-gun-magazine-empty = Magazine is empty.
+gun-magazine-ammo-type = Содержит [color={ $color }]{ $type }[/color].
+gun-magazine-empty = Магазин пуст.
 # 🌟Starlight - End🌟
 
 # RevolverAmmoProvider

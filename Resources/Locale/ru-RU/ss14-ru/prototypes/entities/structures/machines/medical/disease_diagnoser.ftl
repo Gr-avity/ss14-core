@@ -1,4 +1,4 @@
-ent-DiseaseDiagnoser = Диагностировщик заболеваний Дельта Экстрим
-    .desc = A machine that analyzes disease samples.
-ent-DiagnosisReportPaper = отчет диагноста болезней
-    .desc = A chilling medical receipt.
+ent-DiseaseDiagnoser = Диагностировщик заболеваний «Дельта Экстрим»
+    .desc = Машина, которая анализирует образцы болезней.
+ent-DiagnosisReportPaper = отчет диагностировщика заболеваний
+    .desc = Леденящий душу медицинский чек.

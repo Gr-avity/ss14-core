@@ -1,8 +1,8 @@
 ent-StationMapBroken = карта станции
-    .desc = A virtual map of the surrounding station.
-    .suffix = Wall broken
+    .desc = Виртуальная карта окружающей станции.
+    .suffix = Сломанная, настенная
 ent-StationMap = карта станции
-    .desc = A virtual map of the surrounding station.
-    .suffix = Wall
+    .desc = Виртуальная карта окружающей станции.
+    .suffix = Настенная
 ent-StationMapAssembly = заготовка карты станции
-    .desc = A station map assembly.
+    .desc = Корпус карты станции.

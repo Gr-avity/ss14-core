@@ -1,4 +1,4 @@
 ent-BedsheetBaseStarlight = { ent-BedsheetBase }
     .desc = { ent-BedsheetBase.desc }
 ent-BedsheetBrigmedicStrange = странная простыня медика изолятора
-    .desc = Upon closer inspection, this seems to be multiple brigmedic bedsheets sewn together including a harmonica for good measure along with the initials 'K.T' sewn in. Stealing such a prized posession would make a certain vulpine very angry.
+    .desc = При ближайшем рассмотрении оказывается, что это несколько простыней бригмедика, сшитых вместе, включая гармошку для порядка, а также с вышитыми инициалами «K.T». Кража такого ценного имущества разозлит кое-кого из лисьего народа.

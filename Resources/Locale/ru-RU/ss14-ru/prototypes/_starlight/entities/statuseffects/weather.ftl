@@ -1,10 +1,10 @@
-ent-WeatherRadStorm = radstorm
+ent-WeatherRadStorm = радиационный шторм
     .desc = { ent-WeatherBase.desc }
-ent-WeatherSolarFlare = solar flare
+ent-WeatherSolarFlare = солнечная вспышка
     .desc = { ent-WeatherBase.desc }
-ent-WeatherAuroraCaelus = aurora caelus
+ent-WeatherAuroraCaelus = сияние Caelus
     .desc = { ent-WeatherBase.desc }
-ent-WeatherSpaceWhale = space whale
+ent-WeatherSpaceWhale = космический кит
     .desc = { ent-WeatherBase.desc }
-ent-WeatherCosmic = cosmic
+ent-WeatherCosmic = космическая погода
     .desc = { ent-WeatherBase.desc }

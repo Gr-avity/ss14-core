@@ -1,2 +1,3 @@
 ent-FreezerElectronics = плата холодильника
-    .desc = An electronics board used in kitchen freezers.
+    .desc = Электронная плата, используемая в кухонных холодильниках.
+    .suffix = { ent-BaseElectronics.suffix }

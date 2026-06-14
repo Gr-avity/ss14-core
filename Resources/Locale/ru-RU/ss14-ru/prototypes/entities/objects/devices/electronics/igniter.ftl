@@ -1,2 +1,2 @@
 ent-Igniter = воспламенитель
-    .desc = Creates a spark when activated by a signal.
+    .desc = Создаёт искру при активации сигналом.

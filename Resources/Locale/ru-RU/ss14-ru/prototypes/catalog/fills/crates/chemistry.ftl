@@ -1,8 +1,11 @@
 ent-CrateChemistryP = ящик химикатов (P)
-    .desc = Contains chemicals from the P-Block of elements. Requires Chemistry access to open.
+    .desc = Содержит химикаты из P-блока элементов. Требует доступа к химии для открытия.
+    .suffix = { ent-CrateChemistrySecure.suffix }
 ent-CrateChemistryS = ящик химикатов (S)
-    .desc = Contains chemicals from the S-Block of elements. Requires Chemistry access to open.
+    .desc = Содержит химикаты из S-блока элементов. Требует доступа к химии для открытия.
+    .suffix = { ent-CrateChemistrySecure.suffix }
 ent-CrateChemistryD = ящик химикатов (D)
-    .desc = Contains chemicals from the D-Block of elements. Requires Chemistry access to open.
+    .desc = Содержит химикаты из D-блока элементов. Требует доступа к химии для открытия.
+    .suffix = { ent-CrateChemistrySecure.suffix }
 ent-CratePlantBGone = ящик Plant-B-Gone оптом
-    .desc = From Monstano. "Unwanted Weeds, Meet Your Celestial Roundup!"
+    .desc = От Monstano. «Нежелательные сорняки, встречайте свой небесный раундап!»

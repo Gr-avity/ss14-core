@@ -1,2 +1,2 @@
 ent-GeigerCounter = счётчик Гейгера
-    .desc = A handheld device used for detecting and measuring radiation pulses.
+    .desc = Ручное устройство, используемое для обнаружения и измерения радиационных импульсов.

@@ -1,10 +1,15 @@
 ent-BaseMobClown = аберрантный клоун
-    .desc = A slippery mass of hilarious matter, animated through honktacular energy.
+    .desc = Скользкая масса уморительной материи, оживленная хонктакулярной энергией.
+    .suffix = { ent-BaseMobFlesh.suffix }
 ent-MobClownJared = { ent-BaseMobClown }
     .desc = { ent-BaseMobClown.desc }
+    .suffix = { ent-BaseMobClown.suffix }
 ent-MobClownGolem = { ent-BaseMobClown }
     .desc = { ent-BaseMobClown.desc }
+    .suffix = { ent-BaseMobClown.suffix }
 ent-MobClownClamp = { ent-BaseMobClown }
     .desc = { ent-BaseMobClown.desc }
+    .suffix = { ent-BaseMobClown.suffix }
 ent-MobClownLover = { ent-BaseMobClown }
     .desc = { ent-BaseMobClown.desc }
+    .suffix = { ent-BaseMobClown.suffix }

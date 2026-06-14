@@ -1,12 +1,12 @@
 ent-BaseAutoMender = автомендер
-    .desc = A device used to heal patients brute, burn or both damage types.
+    .desc = Устройство, используемое для лечения пациентов от тупых ударов, ожогов или обоих типов повреждений.
 ent-AutoMenderBrute = автомендер от ушибов
-    .desc = A device used to heal patients brute, burn or both damage types. Uses bicaridine to work.
+    .desc = Устройство, используемое для лечения пациентов от тупых ударов, ожогов или обоих типов повреждений. Для работы использует бикаридин.
 ent-AutoMenderBruteFilled = { ent-AutoMenderBrute }
-    .suffix = Filled
     .desc = { ent-AutoMenderBrute.desc }
+    .suffix = Заполненный
 ent-AutoMenderBurn = автомендер от ожогов
-    .desc = A device used to heal patients brute, burn or both damage types. Uses dermalin to work.
+    .desc = Устройство, используемое для лечения пациентов от тупых ударов, ожогов или обоих типов повреждений. Для работы использует дермалин.
 ent-AutoMenderBurnFilled = { ent-AutoMenderBurn }
-    .suffix = Filled
     .desc = { ent-AutoMenderBurn.desc }
+    .suffix = Заполненный

@@ -1,6 +1,6 @@
 ent-ClothingNeckAngelPin = значок добрых дел
-    .desc = For the best!
-    .suffix = DO NOT MAP, Admeme
+    .desc = Для лучших из лучших!
+    .suffix = НЕ СТАВИТЬ НА КАРТУ, Адмеме
 ent-ClothingNeckDevilPin = значок злых дел
-    .desc = For the worst!
-    .suffix = DO NOT MAP, Admeme
+    .desc = Для худших из худших!
+    .suffix = НЕ СТАВИТЬ НА КАРТУ, Адмеме

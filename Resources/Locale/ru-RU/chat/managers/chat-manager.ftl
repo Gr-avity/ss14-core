@@ -15,7 +15,7 @@ chat-manager-admin-ooc-chat-disabled-message = Админ OOC чат был вы
 chat-manager-max-message-length-exceeded-message = Ваше сообщение превышает лимит в { $limit } символов
 chat-manager-no-headset-on-message = У вас нет гарнитуры!
 chat-manager-no-radio-key = Не указан ключ канала!
-chat-manager-no-such-channel = Нет канала с ключем '{$key}'!
+chat-manager-no-such-channel = Нет канала с ключем '{ $key }'!
 chat-manager-whisper-headset-on-message = Вы не можете шептать в радио!
 
 chat-manager-server-wrap-message = СЕРВЕР: { $message }
@@ -107,7 +107,7 @@ chat-speech-verb-name-canine = Собака
 chat-speech-verb-canine-1 = гавкает
 chat-speech-verb-canine-2 = лает
 chat-speech-verb-canine-3 = воет
-#starlight
+# starlight
 chat-speech-verb-canine-4 = скулит
 
 chat-speech-verb-name-goat = Козёл

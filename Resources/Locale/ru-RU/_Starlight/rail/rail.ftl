@@ -3,8 +3,8 @@ cards = Cards
 
 
 railroading-card-examined = ┌Active card:
-    ├[color={$IconColor}][font="Icon"]{$Icon}[/font][/color] [color={$Color}]{$Title}[/color]
-    └[color={$Color}]{$Desc}[/color]
+    ├[color={ $IconColor }][font="Icon"]{ $Icon }[/font][/color] [color={ $Color }]{ $Title }[/color]
+    └[color={ $Color }]{ $Desc }[/color]
 railroading-issued-card = [color={ $IconColor }][font="Icon"]{ $Icon }[/font][/color] [color={ $Color }]{ $Title }[/color]
 
 railroading-chat-delivery-message-1 = A mysterious package has arrived just for you!

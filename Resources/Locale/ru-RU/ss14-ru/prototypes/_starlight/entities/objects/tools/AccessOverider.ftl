@@ -1,9 +1,9 @@
 ent-AccessOveriderUnlimited = переопределитель аутентификации
-    .desc = A modified access configurator, specialized for ERT breach and clear operations on NT stations
-    .suffix = Unlimited
+    .desc = Модифицированный конфигуратор доступа, специализирующийся на операциях ОБР по проникновению и зачистке станций НТ.
+    .suffix = Безлимитный
 ent-AccessOverider = { ent-AccessOveriderUnlimited }
-    .suffix = Limited
     .desc = { ent-AccessOveriderUnlimited.desc }
+    .suffix = Лимитированный
 ent-AccessOveriderRecharging = { ent-AccessOverider }
-    .suffix = Limited, recharging
     .desc = { ent-AccessOverider.desc }
+    .suffix = Лимитированный, перезаряжаемый

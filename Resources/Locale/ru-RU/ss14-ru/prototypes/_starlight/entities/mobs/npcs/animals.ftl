@@ -1,6 +1,6 @@
 ent-MobCorgiSmartNoGalcom = { ent-MobCorgiSmart }
-    .suffix = Speech Limited
     .desc = { ent-MobCorgiSmart.desc }
+    .suffix = Ограниченная речь
 ent-MobCorgiSmartGhostrole = { ent-MobCorgiSmartNoGalcom }
-    .suffix = Speech Limited, Ghostrole
     .desc = { ent-MobCorgiSmartNoGalcom.desc }
+    .suffix = Ограниченная речь, Призрачная роль

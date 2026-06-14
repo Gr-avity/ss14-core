@@ -14,4 +14,4 @@ ghost-role-terror-spider-rules = Вы — [color=red][bold]Командный а
 ghost-role-information-ntnc-consortium-officer-name = Морпех Корпуса ВМС NanoTrasen
 ghost-role-information-ntnc-consortium-officer-description = Вы напрямую подчиняетесь Корпусу ВМС NanoTrasen и обязаны защищать и служить чиновникам Центрального Командования любой ценой — ничто не должно этому мешать.
 
-ghost-important-role = [bold]Now looking for candidates to play as {$rolename}[/bold]
+ghost-important-role = [bold]Now looking for candidates to play as { $rolename }[/bold]

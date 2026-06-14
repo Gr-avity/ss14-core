@@ -1,3 +1,3 @@
 ent-ImmovableRodSlug = { ent-ImmovableRodKeepTilesStill }
-    .desc = Its coming right for us!
-    .suffix = Slug
+    .desc = Он движется прямо на нас!
+    .suffix = Слизень

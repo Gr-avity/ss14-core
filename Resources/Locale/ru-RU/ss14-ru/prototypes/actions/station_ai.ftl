@@ -1,6 +1,6 @@
 ent-ActionJumpToCore = К ядру
-    .desc = Sends your eye back to the core.
+    .desc = Возвращает ваш взгляд к ядру.
 ent-ActionSurvCameraLights = Камеры: освещение
-    .desc = Enable surveillance camera lights near wherever you're viewing.
+    .desc = Включить освещение камер наблюдения там, где вы смотрите.
 ent-ActionAIViewLaws = Просмотр законов
-    .desc = View the laws that you must follow.
+    .desc = Просмотреть законы, которым вы должны следовать.

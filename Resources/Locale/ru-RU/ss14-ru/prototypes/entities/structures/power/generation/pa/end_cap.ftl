@@ -1,5 +1,5 @@
 ent-ParticleAcceleratorEndCap = торцевая крышка УЧ
-    .desc = Formally known as the Alpha Particle Generation Array. This is where Alpha particles are generated from [REDACTED].
+    .desc = Формально известна как массив генерации альфа-частиц. Здесь альфа-частицы генерируются из [УДАЛЕНО].
 ent-ParticleAcceleratorEndCapUnfinished = торцевая крышка УЧ
-    .desc = Formally known as the Alpha Particle Generation Array. This is where Alpha particles are generated from [REDACTED]. It looks unfinished.
-    .suffix = Unfinished
+    .desc = Формально известна как массив генерации альфа-частиц. Здесь альфа-частицы генерируются из [УДАЛЕНО]. Выглядит незаконченным.
+    .suffix = Незаконченный

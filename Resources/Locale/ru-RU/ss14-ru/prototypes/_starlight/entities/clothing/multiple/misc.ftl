@@ -1,4 +1,4 @@
-ent-ClothingMultipleHeadphonesReporter = reporter's headphones
-    .desc = Checking in with the studio now... you don't say!?
-ent-ClothingMultipleHeadphonesHighEnd = high-end headphones
-    .desc = Perfect for audiophiles everywhere.
+ent-ClothingMultipleHeadphonesReporter = гарнитура репортёра
+    .desc = Связываюсь со студией прямо сейчас... вы не поверите!?
+ent-ClothingMultipleHeadphonesHighEnd = высококлассные наушники
+    .desc = Идеально подходят для аудиофилов повсюду.

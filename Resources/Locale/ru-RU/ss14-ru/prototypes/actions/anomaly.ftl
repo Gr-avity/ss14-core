@@ -1,2 +1,2 @@
 ent-ActionAnomalyPulse = Импульс аномалии
-    .desc = Release a pulse of energy of your abnormal nature
+    .desc = Выпустить импульс энергии вашей аномальной природы

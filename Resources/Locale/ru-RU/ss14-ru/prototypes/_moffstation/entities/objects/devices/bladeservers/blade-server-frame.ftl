@@ -1,6 +1,6 @@
 ent-UnfinishedBladeServerFrame = рама блейд-сервера
-    .desc = A blade server frame under construction. Needs more parts.
-    .suffix = Unfinished
+    .desc = Рама блейд-сервера в процессе строительства. Нужно больше деталей.
+    .suffix = Незавершенная
 ent-BladeServerFrame = рама блейд-сервера
-    .suffix = Ready
     .desc = { ent-BaseItem.desc }
+    .suffix = Готовая

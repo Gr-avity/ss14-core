@@ -1,4 +1,4 @@
-ent-Gramophone = gramophone
-    .desc = A machine capable of playing a wide variety of tunes. Enjoyment not guaranteed.
-ent-VinylPlayer = vinyl player
-    .desc = A machine capable of playing a wide variety of tunes. Enjoyment not guaranteed.
+ent-Gramophone = граммофон
+    .desc = Машина, способная воспроизводить широкий спектр мелодий. Удовольствие не гарантировано.
+ent-VinylPlayer = виниловый проигрыватель
+    .desc = Машина, способная воспроизводить широкий спектр мелодий. Удовольствие не гарантировано.

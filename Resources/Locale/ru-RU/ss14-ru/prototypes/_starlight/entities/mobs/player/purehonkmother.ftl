@@ -1,4 +1,4 @@
 ent-MobPureHonkmotherBase = { "" }
-    .desc = Insert funny pun here
+    .desc = Вставьте сюда смешную шутку
 ent-PureHonkmother = Хонк-мать
     .desc = { ent-MobPureHonkmotherBase.desc }

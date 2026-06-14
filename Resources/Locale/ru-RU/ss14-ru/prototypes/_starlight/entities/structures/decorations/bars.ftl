@@ -1,2 +1,2 @@
-ent-PrisonBars = prison bars
+ent-PrisonBars = тюремная решетка
     .desc = { ent-BaseWallmountMetallic.desc }

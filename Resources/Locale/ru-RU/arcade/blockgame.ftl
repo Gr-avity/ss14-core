@@ -8,9 +8,9 @@ blockgame-menu-label-points = Очки: { $points }
 blockgame-menu-label-level = Уровень: { $level }
 
 # Game over information of your round
-blockgame-menu-gameover-info = Global: {$global}
-    Local: {$local}
-    Points: {$points}
+blockgame-menu-gameover-info = Global: { $global }
+    Local: { $local }
+    Points: { $points }
 
 blockgame-menu-title = Блоки НаноТрейзен
 blockgame-menu-button-new-game = Новая игра

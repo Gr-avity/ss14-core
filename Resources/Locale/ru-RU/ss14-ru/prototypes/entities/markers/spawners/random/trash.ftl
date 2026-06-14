@@ -1,8 +1,8 @@
 ent-RandomSpawner = спавнер мусор
-    .suffix = 50
     .desc = { ent-MarkerBase.desc }
+    .suffix = 50
 ent-RandomSpawner100 = { ent-RandomSpawner }
-    .suffix = 100
     .desc = { ent-RandomSpawner.desc }
+    .suffix = 100
 ent-RandomBananaPeel90 = спавнер банановой кожуры
     .desc = { ent-MarkerBase.desc }

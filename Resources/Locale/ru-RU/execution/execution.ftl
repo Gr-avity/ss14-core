@@ -11,16 +11,16 @@ suicide-verb-message = Используйте своё оружие, чтобы 
 
 # STARLIGHT CONTROLLED
 # God these need to move to their own file
-execution-popup-melee-initial-internal = Вы заносите {$weapon} над горлом {$victim}.
+execution-popup-melee-initial-internal = Вы заносите { $weapon } над горлом { $victim }.
 execution-popup-gun-initial-internal = Вы направляете дуло { $weapon } на голову { $victim }.
 
-execution-popup-melee-initial-external = {$attacker} заносит {$weapon} над горлом {$victim}.
-execution-popup-gun-initial-external = { CAPITALIZE($attacker) } направляет дуло своего { $weapon } на голову { $victim }.
+execution-popup-melee-initial-external = { $attacker } заносит { $weapon } над горлом { $victim }.
+execution-popup-gun-initial-external  = { CAPITALIZE($attacker) } направляет дуло своего { $weapon } на голову { $victim }.
 
-execution-popup-melee-complete-internal = Вы перерезаете горло {$victim}!
+execution-popup-melee-complete-internal = Вы перерезаете горло { $victim }!
 execution-popup-gun-complete-internal = Вы стреляете { $victim } в голову!
 
-execution-popup-melee-complete-external = {$attacker} перерезает горло {$victim}!
+execution-popup-melee-complete-external = { $attacker } перерезает горло { $victim }!
 execution-popup-gun-complete-external = { CAPITALIZE($attacker) } стреляет { $victim } в голову!
 
 execution-popup-gun-clumsy-internal = Вы промахиваетесь по голове { $victim } и вместо этого стреляете себе в ногу!
@@ -39,4 +39,4 @@ execution-popup-self-gun-complete-internal = Вы стреляете себе в
 
 execution-popup-self-melee-complete-external = { CAPITALIZE($attacker) } перерезает себе горло!
 execution-popup-self-gun-complete-external = { CAPITALIZE($attacker) } стреляет себе в голову!
-#Starlight end
+# Starlight end

@@ -1,5 +1,5 @@
-ent-DarkTile = Dark
-    .desc = It's a strange, impenetrable darkness.
+ent-DarkTile = тьма
+    .desc = Это странная, непроницаемая тьма.
 ent-DarkTile2 = { ent-DarkTile }
     .desc = { ent-DarkTile.desc }
 ent-DarkTile3 = { ent-DarkTile }
@@ -23,5 +23,5 @@ ent-DarkTile11 = { ent-DarkTile }
 ent-DarkTile12 = { ent-DarkTile }
     .desc = { ent-DarkTile.desc }
 ent-DarkRandom = { ent-DarkTile }
-    .suffix = Random
     .desc = { ent-DarkTile.desc }
+    .suffix = Случайный

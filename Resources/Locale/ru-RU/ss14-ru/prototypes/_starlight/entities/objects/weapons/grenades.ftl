@@ -1,6 +1,6 @@
 ent-LubeGrenade = граната со смазкой
-    .desc = Special grenade for shenanigans, releasing large cloud of lube foam.
+    .desc = Специальная граната для проказ, выпускающая большое облако скользкой пены.
 ent-GlueGrenade = граната с клеем
-    .desc = Special grenade for shenanigans, releasing large cloud of glue foam.
-ent-ToxicGasGrenade = acidic gas grenade
-    .desc = A painful crowd control gas grenade full of Sulfuric Acid. Turn on your internals before using it.
+    .desc = Специальная граната для проказ, выпускающая большое облако клейкой пены.
+ent-ToxicGasGrenade = граната с кислотным газом
+    .desc = Мучительная газовая граната для сдерживания толпы, наполненная серной кислотой. Включите внутренний запас воздуха перед использованием.

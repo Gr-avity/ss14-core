@@ -1,2 +1,2 @@
 ent-Chainsaw = бензопила
-    .desc = A very large chainsaw. Usually you use this for cutting down trees... usually.
+    .desc = Очень большая бензопила. Обычно вы используете её для спиливания деревьев... обычно.

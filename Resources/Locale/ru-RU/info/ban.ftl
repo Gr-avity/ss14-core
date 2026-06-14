@@ -2,8 +2,8 @@
 cmd-ban-desc = Банит кого-либо
 cmd-ban-help = Использование: ban <name or user ID> <reason> [продолжительность в минутах, без указания или 0 для пермабана]
 cmd-ban-player = Не удалось найти игрока с таким именем.
-cmd-ban-invalid-minutes = {$minutes} — это недопустимое количество минут!
-cmd-ban-invalid-severity = «{$severity}» не является допустимой степенью серьезности!
+cmd-ban-invalid-minutes = { $minutes } — это недопустимое количество минут!
+cmd-ban-invalid-severity = «{ $severity }» не является допустимой степенью серьезности!
 cmd-ban-invalid-arguments = Недопустимое количество аргументов
 cmd-ban-hint = <name/user ID>
 cmd-ban-hint-reason = <reason>
@@ -80,8 +80,8 @@ ban-panel-erase = Удалить сообщения игрока в чате и 
 ban-panel-expiry-error = ошибка
 
 # Ban string
-server-ban-string = {$admin} забанил игрока [{$name}, {$ip}, {$hwid}] со строгостью «{$severity}». Срок действия бана истекает {$expires} и его причина: «{$reason}»
-server-ban-string-no-pii = {$admin} забанил игрока {$name} со строгостью «{$severity}». Срок действия бана истекает {$expires}. Причина: «{$reason}»
+server-ban-string = { $admin } забанил игрока [{ $name }, { $ip }, { $hwid }] со строгостью «{ $severity }». Срок действия бана истекает { $expires } и его причина: «{ $reason }»
+server-ban-string-no-pii = { $admin } забанил игрока { $name } со строгостью «{ $severity }». Срок действия бана истекает { $expires }. Причина: «{ $reason }»
 server-ban-string-never = **НИКОГДА**, хонк!
 
 # Kick on ban

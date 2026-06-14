@@ -1,2 +1,2 @@
 ent-OreBagOfHolding = блюспейс сумка для руды
-    .desc = A robust bag of holding for salvage billionaires and rich miners alike to carry large amounts of ore. Magnetises any nearby ores when attached to a belt.
+    .desc = Прочная сумка хранения для миллиардеров-утилизаторов и богатых шахтёров, чтобы переносить большое количество руды. Магнитится к любой руде поблизости, когда прикреплена к поясу.

@@ -1,6 +1,6 @@
-ent-BasePlayingCard = playing card
+ent-BasePlayingCard = игральная карта
     .desc = { ent-BaseItem.desc }
-ent-BasePlayingCardDeck = deck of cards
-    .desc = Cards with vibrant designs and colors to enchant the eyes while waiting for your turn.
-ent-BasePlayingCardDeckBox = box of playing cards
-    .desc = A small carton meant to contain a collection of little pieces of cardstock. Thrilling.
+ent-BasePlayingCardDeck = колода карт
+    .desc = Карты с ярким дизайном и цветами, чтобы очаровать глаза в ожидании своей очереди.
+ent-BasePlayingCardDeckBox = коробка игральных карт
+    .desc = Маленькая картонная коробочка, предназначенная для хранения коллекции маленьких кусочков картона. Захватывающе.

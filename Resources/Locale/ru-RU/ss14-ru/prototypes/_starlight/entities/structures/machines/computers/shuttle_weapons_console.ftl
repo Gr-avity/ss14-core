@@ -1,2 +1,2 @@
-ent-ShuttleWeaponsConsole = shuttle weapons control console
-    .desc = A computer for controlling linked shuttle weapons and scanning nearby objects.
+ent-ShuttleWeaponsConsole = консоль управления вооружением шаттла
+    .desc = Компьютер для управления связанным вооружением шаттла и сканирования ближайших объектов.

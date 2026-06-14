@@ -1,2 +1,2 @@
 ent-SyndicateAccessConfigurator = конфигуратор доступа Синдиката
-    .desc = Used to modify the access level requirements for airlocks and other lockable devices.
+    .desc = Используется для изменения требований к уровню доступа для шлюзов и других запираемых устройств.

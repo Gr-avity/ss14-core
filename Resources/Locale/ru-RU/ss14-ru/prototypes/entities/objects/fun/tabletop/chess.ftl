@@ -1,5 +1,5 @@
 ent-ChessBoard = шахматная доска
-    .desc = A chessboard. Pieces included!
+    .desc = Шахматная доска. Фигурки в комплекте!
 ent-ChessBoardTabletop = шахматы
     .desc = { ent-BaseBoardTabletop.desc }
 ent-WhiteKing = белый король

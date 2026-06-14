@@ -1,4 +1,4 @@
 ent-FireAxe = пожарный топор
-    .desc = Truly, the weapon of a madman. Who would think to fight fire with an axe?
+    .desc = Поистине, оружие сумасшедшего. Кому придет в голову бороться с огнем топором?
 ent-FireAxeFlaming = пожарный топор
-    .desc = Why fight fire with an axe when you can fight with fire and axe? Now featuring rugged rubberized handle!
+    .desc = Зачем бороться с огнем топором, если можно бороться огнем и топором? Теперь с прочной прорезиненной рукояткой!

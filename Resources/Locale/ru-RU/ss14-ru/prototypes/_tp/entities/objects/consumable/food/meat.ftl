@@ -1,5 +1,5 @@
 ent-TP14FoodMeatFishFingers = рыбные палочки
-    .desc = Fried strips of fish. Doctors love it with custard.
+    .desc = Жареные полоски рыбы. Врачи любят их с заварным кремом.
     .suffix = Trieste, Food
 ent-TP14FoodMeatSausage = сырая сосиска
-    .desc = Let's sausage!
+    .desc = Давай сосиску!

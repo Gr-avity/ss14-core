@@ -1,5 +1,5 @@
-ent-MaintsRoomMarker = Maints interior marker
+ent-MaintsRoomMarker = Маркер интерьера техобслуживания
     .desc = { ent-BaseRoomMarker.desc }
 ent-MaintsRoomMarkerClearing = { ent-MaintsRoomMarker }
-    .suffix = Clearing
     .desc = { ent-MaintsRoomMarker.desc }
+    .suffix = Расчистка

@@ -1,2 +1,2 @@
-ent-PinpointerDerelictXenoborg = ??$%%#? pinpointer
-    .desc = A handheld tracking device that leads to the direction of the %()@#^!!???
+ent-PinpointerDerelictXenoborg = указатель ??$%%#?
+    .desc = Ручное устройство слежения, указывающее направление на %()@#^!!???

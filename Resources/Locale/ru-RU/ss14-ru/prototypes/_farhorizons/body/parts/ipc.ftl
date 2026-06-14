@@ -1,8 +1,8 @@
-ent-PartIPC = часть тела IPC
+ent-PartIPC = часть тела КПБ
     .desc = { ent-BaseItem.desc }
-ent-TorsoIPC = корпус IPC
+ent-TorsoIPC = корпус КПБ
     .desc = { ent-PartIPC.desc }
-ent-HeadIPC = головной модуль IPC
+ent-HeadIPC = головной модуль КПБ
     .desc = { ent-PartIPC.desc }
 ent-LeftArmIPC = левая манипуляторная рука
     .desc = { ent-PartIPC.desc }

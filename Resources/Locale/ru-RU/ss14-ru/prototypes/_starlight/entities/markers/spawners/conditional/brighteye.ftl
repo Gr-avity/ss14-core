@@ -1,2 +1,2 @@
-ent-SpawnPointBrighteye = brighteye
+ent-SpawnPointBrighteye = яркий глаз
     .desc = { ent-MarkerBase.desc }

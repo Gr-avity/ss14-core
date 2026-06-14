@@ -1,2 +1,2 @@
-ent-ActionMindSwap = Mind Swap
-    .desc = Exchange bodies with another person! You'll lose access to most wizard equipment while in another body... is it worth it?
+ent-ActionMindSwap = Обмен разумами
+    .desc = Обменяйтесь телами с другим человеком! Вы потеряете доступ к большинству оборудования волшебника, находясь в другом теле... оно того стоит?

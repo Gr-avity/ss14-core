@@ -1,2 +1,2 @@
 ent-WeaponImprovisedPneumaticCrewCannon = самодельная пневматическая пушка для экипажа
-    .desc = Trading variety for the ability to throw smaller crew at people, accept no substitute. Doesn't accept tanks without enough gas.
+    .desc = Жертвует разнообразием ради способности метать членов экипажа на высокой скорости, аналогов нет. Не принимает баллоны без достаточного количества газа.

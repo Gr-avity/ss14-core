@@ -1,10 +1,10 @@
 ent-OffsetCane = стандартная опорная трость
-    .desc = A standard offset cane, essential for getting around when your legs aren't up to the task. May or may not grant you the wisdom of the elderly.
+    .desc = Стандартная опорная трость, необходимая для передвижения, когда ноги не справляются с задачей. Может дать вам мудрость пожилых, а может и нет.
 ent-OffsetCaneClown = радужная опорная трость
-    .desc = A rainbow offset cane, perfect for clowns and those who enjoy a splash of color in their lives.
+    .desc = Радужная опорная трость, идеально подходит для клоунов и тех, кто любит добавить ярких красок в свою жизнь.
 ent-OffsetCaneMime = полосатая опорная трость
-    .desc = A black and white striped cane, perfect for silent performances.
+    .desc = Полосатая черно-белая трость, идеально подходит для безмолвных выступлений.
 ent-OffsetCaneNT = опорная трость Nanotrasen
-    .desc = A nanotrasen standard issue offset cane with the NT logo, favored by those who prefer a more corporate look.
+    .desc = Стандартная опорная трость Nanotrasen с логотипом NT, которую предпочитают те, кто любит более корпоративный вид.
 ent-OffsetCaneWood = деревянная опорная трость
-    .desc = A wooden offset cane, a classic choice for those who appreciate natural materials and a sturdy grip.
+    .desc = Деревянная опорная трость, классический выбор для тех, кто ценит натуральные материалы и прочный захват.

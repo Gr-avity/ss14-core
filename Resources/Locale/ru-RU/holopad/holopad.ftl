@@ -1,4 +1,4 @@
-﻿# Window headers
+# Window headers
 holopad-window-title = { CAPITALIZE($title) }
 holopad-window-subtitle = [color=white][bold]Система голографической связи[/bold][/color]
 holopad-window-options = [color=darkgray][font size=10][italic]Пожалуйста, выберите вариант из списка ниже[/italic][/font][/color]
@@ -95,7 +95,7 @@ holopad-medical-clinic = Медицинский — Клиника
 holopad-cargo-front = Снабжение — Приёмная
 holopad-cargo-bay = Снабжение — Грузовой отсек
 holopad-cargo-salvage-bay = Снабжение — Утилизаторский отсек
-holopad-cargo-breakroom = Снабжение — Комната отдыха
+holopad-cargo-breakroom  = Снабжение — Комната отдыха
 holopad-cargo-ats = Снабжение — АТС (Трейд)
 holopad-cargo-shuttle = Снабжение — Шаттл
 holopad-cargo-mailroom = Снабжение — Почта

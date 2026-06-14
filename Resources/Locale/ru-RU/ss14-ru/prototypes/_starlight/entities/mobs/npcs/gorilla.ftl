@@ -1,8 +1,12 @@
 ent-BaseMobGorilla = горилла
-    .desc = A ground-dwelling, predominantly herbivorous ape that inhabits the forests of central Africa on Earth.
-ent-MobGorilla = горилла
+    .desc = Наземная, преимущественно травоядная обезьяна, обитающая в лесах центральной Африки на Земле.
+    .suffix = { ent-SimpleMobBase.suffix }
+ent-MobGorilla = { ent-BaseMobGorilla }
     .desc = { ent-BaseMobGorilla.desc }
+    .suffix = { ent-BaseMobGorilla.suffix }
 ent-MobGorillaRampaging = неистовствующая горилла
-    .desc = A gorilla that has gone wild. Run!
-ent-MobCargorilla = грузогорилла
-    .desc = Cargo's pet gorilla. He seems to have an 'I love Mom' tattoo.
+    .desc = Горилла, которая одичала. Беги!
+    .suffix = { ent-BaseMobGorilla.suffix }
+ent-MobCargorilla = грузорилла
+    .desc = Питомца-горилла отдела снабжения. У него, похоже, есть татуировка «Я люблю маму».
+    .suffix = { ent-BaseMobGorilla.suffix }

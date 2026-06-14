@@ -1,5 +1,5 @@
 ent-GlowstickBase = зелёный химсвет
-    .desc = Useful for raves and emergencies.
+    .desc = Полезно для рейвов и чрезвычайных ситуаций.
 ent-GlowstickRed = красный химсвет
     .desc = { ent-GlowstickBase.desc }
 ent-GlowstickPurple = фиолетовый химсвет

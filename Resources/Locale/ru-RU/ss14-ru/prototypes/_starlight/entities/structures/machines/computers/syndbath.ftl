@@ -1,7 +1,7 @@
 ent-SyndBath = санузел нетраннера
-    .desc = A netrunner bathroom manufactured by CyberSun—about 50%, with the rest cobbled together from whatever was lying around.
+    .desc = Санузел нетраннера производства CyberSun — примерно на 50%, а остальное собрано из того, что было под рукой.
 ent-SyndBathOverlay = санузел нетраннера
     .desc = { "" }
 ent-SyndicateConsoleEye = ???
-    .desc = ERROR
-    .suffix = DO NOT MAP
+    .desc = ОШИБКА
+    .suffix = НЕ СТАВИТЬ НА КАРТУ

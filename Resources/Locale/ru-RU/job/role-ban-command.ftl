@@ -1,4 +1,4 @@
-﻿### Localization for role ban command
+### Localization for role ban command
 
 cmd-roleban-desc = Запрещает пользователю играть на роли
 cmd-roleban-help = Использование: roleban <name or user ID> <job> <reason> [продолжительность в минутах, не указывать или 0 для навсегда] [use True for global ban, otherwise False]
@@ -22,8 +22,8 @@ cmd-roleban-hint-duration-6 = 1 месяц
 
 cmd-roleunban-desc = Возвращает пользователю возможность играть на роли
 cmd-roleunban-help = Использование: roleunban <role ban id>
-cmd-roleunban-unable-to-parse-id = Unable to parse {$id} as a ban id integer.
-                                   {$help}
+cmd-roleunban-unable-to-parse-id = Unable to parse { $id } as a ban id integer.
+                                   { $help }
 
 ## Completion result hints
 cmd-roleunban-hint-1 = <role ban id>
@@ -40,9 +40,9 @@ cmd-rolebanlist-hint-2 = [include unbanned]
 
 
 cmd-roleban-minutes-parse = { $time } — недопустимое количество минут.
-{ $help }
-cmd-roleban-severity-parse = ${severity} не является допустимой степенью серьезности
-{$help}.
+    { $help }
+cmd-roleban-severity-parse = ${ severity } не является допустимой степенью серьезности
+    { $help }.
 cmd-roleban-arg-count = Недопустимое количество аргументов.
 cmd-roleban-job-parse = Работа «{ $job }» не существует.
 cmd-roleban-name-parse = Невозможно найти игрока с таким именем.
@@ -50,7 +50,7 @@ cmd-roleban-existing = { $target } уже имеет запрет на роль 
 cmd-roleban-success = { $target } запрещено играть на роли «{ $role }» по причине «{ $reason }» ({ $length }). Сервер: { $server }.
 
 cmd-roleban-inf = навсегда
-cmd-roleban-until = до { $expires }
+cmd-roleban-until =  до { $expires }
 
 # Department bans
 cmd-departmentban-desc = Запрещает пользователю играть на ролях, входящих в отдел

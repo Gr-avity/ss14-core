@@ -1,6 +1,6 @@
 ent-Spyglass = подзорная труба
-    .desc = Used for long-distance spying. Makes you feel like a pirate.
-ent-SpyglassCaptain = подзорная труба капитана
-    .desc = Used for long-distance spying. Makes you feel like a captain.
-ent-SpyglassImprovised = кустарная подзорная труба
-    .desc = Used for long-distance spying. Makes you worry you might cut your eye on the lens.
+    .desc = Инструмент для наблюдения за объектами на расстоянии.
+ent-SpyglassCaptain = капитанская подзорная труба
+    .desc = Используется для наблюдения на большом расстоянии. Позволяет почувствовать себя настоящим капитаном.
+ent-SpyglassImprovised = самодельная подзорная труба
+    .desc = Используется для наблюдения на большом расстоянии. Вызывает опасения, что можно порезать глаз об эту линзу.

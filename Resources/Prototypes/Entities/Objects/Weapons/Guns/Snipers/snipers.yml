@@ -58,7 +58,7 @@
       firing_pin: !type:Container # starlight
   - type: StaticPrice
     price: 500
-    # starlight start
+  # starlight start
   - type: ContainerFill
     containers:
       firing_pin:
@@ -66,6 +66,20 @@
   - type: FiringPinHolder
     supportedPins: [ Rifle, GunUpgrade ]
   # starlight end
+  # Goobstation edit start
+  - type: EmitSoundOnPickup
+    sound:
+      collection: SnipersPickUp
+  - type: EmitSoundOnDrop
+    sound:
+      collection: SnipersDrop
+  - type: EmitSoundOnLand
+    sound:
+      collection: SnipersDrop
+  # Goobstation edit end
+  # White-List components
+  - type: Execution
+  # White-List components end
 
 - type: entity
   name: Kardashev-Mosin
