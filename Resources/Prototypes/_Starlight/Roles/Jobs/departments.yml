@@ -3,12 +3,12 @@
   name: department-Law
   description: department-Law-description
   color: "#ff178b"
-  weight: -10
+  weight: 15 # ss14-art-edit
   roles:
   # - Magistrate # ss14-art-edit
   - IAA
   - Lawyer
-  editorHidden: true
+  # editorHidden: true # ss14-art-edit
   primary: false
 
 - type: department
