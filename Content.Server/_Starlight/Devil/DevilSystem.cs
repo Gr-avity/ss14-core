@@ -77,7 +77,7 @@ public sealed partial class DevilSystem : SharedDevilSystem
         return paper;
     }
 
-    [GeneratedRegex("^[-, a-zA-Z0-9]")]
+    [GeneratedRegex("^[-, a-zA-ZА-Яа-я0-9]")] // Art-Edit
     private static partial Regex NameSanitizeRegex();
 
     private void OnSummonDemonicContract(EntityUid uid, DevilComponent devilComp, ref SummonDemonicContractEvent args)
