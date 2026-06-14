@@ -17,7 +17,13 @@ namespace Content.Server._Art.Administration
 
         public void Execute(IConsoleShell shell, string argStr, string[] args)
         {
-            _net.SendSystemNetworkMessage(new ToggleDoorsEvent());
+            if (shell.Player is not { } player)
+            {
+                shell.WriteError("This command can only be run by a player.");
+                return;
+            }
+
+            _net.SendSystemNetworkMessage(new ToggleDoorsEvent(), player.Channel);
         }
     }
 }
