@@ -43,8 +43,8 @@ jobs:
       - name: Package client
         run: dotnet run --project Content.Packaging client --no-wipe-release
 
-    - name: Publish version
-      run: Tools/publish_multi_request_mapping.py
-      env:
-        PUBLISH_MAPPING_TOKEN: ${{ secrets.PUBLISH_MAPPING_TOKEN }}
-        FORK_ID_MAPPING: ${{ vars.FORK_ID_MAPPING }}
+      - name: Publish version
+        run: Tools/publish_multi_request_mapping.py
+        env:
+          PUBLISH_MAPPING_TOKEN: ${{ secrets.PUBLISH_MAPPING_TOKEN }}
+          FORK_ID_MAPPING: ${{ vars.FORK_ID_MAPPING }}
