@@ -12,7 +12,7 @@
     time: 36000 # 10h
     # ss14-art-edit start
   - !type:RoleTimeRequirement
-    role: Lawyer
+    role: JobLawyer
     time: 3h
     # ss14-art-edit end
   startingGear: IAAGear
