@@ -87,6 +87,12 @@
     price: 350
   - type: Paintable
     group: null
+  # Art-start
+  - type: WallAdjacentRotate
+    enabled: false
+  - type: WallConnectable
+    enabled: false
+  # Art-end
 
 - type: entity
   id: AirlockGlassShuttle

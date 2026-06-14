@@ -21,14 +21,13 @@
   - type: InteractionOutline
   - type: Sprite
     sprite: Structures/Doors/Airlocks/Standard/basic.rsi
-    snapCardinals: true
+    snapCardinals: false
     layers:
     - state: closed
       map: ["enum.DoorVisualLayers.Base"]
     - state: closed_unlit
       shader: unshaded
       map: ["enum.DoorVisualLayers.BaseUnlit"]
-      visible: false
     - state: welded
       map: ["enum.WeldableLayers.BaseWelded"]
     - state: bolted_unlit
@@ -187,6 +186,13 @@
     - Airlocks
     - WirePanels
     - Networking
+  # Art-start
+  - type: WallAdjacentRotate
+  - type: WallConnectable
+  - type: IconSmooth
+    key: walls
+    mode: NoSprite
+  # Art-end
   placement:
     mode: SnapgridCenter
 

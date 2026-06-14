@@ -78,7 +78,7 @@
         acts: [ "Destruction" ]
   - type: Airtight
   - type: IconSmooth
-    key: windows
+    key: walls # Art-edit
     base: window
   - type: InteractionPopup
     interactSuccessString: comp-window-knock
@@ -98,6 +98,9 @@
   - type: StaticPrice
     price: 100
   - type: BlockWeather
+  # Art-start
+  - type: WallConnectable
+  # Art-end
 
 - type: entity
   parent: Window

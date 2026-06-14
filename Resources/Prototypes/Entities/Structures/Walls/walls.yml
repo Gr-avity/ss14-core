@@ -57,6 +57,9 @@
   - type: SunShadowCast
   - type: Ricochetable
     chance: 0.4
+  # Art-start
+  - type: WallConnectable
+  # Art-end
 
 - type: entity
   abstract: true

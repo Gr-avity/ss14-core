@@ -45,5 +45,10 @@
   - type: Construction
     graph: Airlock
     node: assembly
+  # Art-start
+  - type: IconSmooth
+    key: walls
+    mode: NoSprite
+  # Art-end
   placement:
     mode: SnapgridCenter

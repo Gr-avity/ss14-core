@@ -97,6 +97,7 @@ public sealed class AirlockSystem : SharedAirlockSystem
                     (state == DoorState.Closing
                 ||  state == DoorState.Opening
                 ||  state == DoorState.Denying
+				||  state == DoorState.Closed  
                 || (state == DoorState.Open && comp.OpenUnlitVisible)
                 || (_appearanceSystem.TryGetData<bool>(uid, DoorVisuals.ClosedLights, out var closedLights, args.Component) && closedLights))
                     && !boltedVisible && !emergencyLightsVisible;
@@ -124,7 +125,7 @@ public sealed class AirlockSystem : SharedAirlockSystem
                 _sprite.LayerSetAnimationTime((uid, args.Sprite), DoorVisualLayers.BaseUnlit, 0);
                 break;
             case DoorState.Closed:
-                _sprite.LayerSetRsiState((uid, args.Sprite), DoorVisualLayers.BaseUnlit, comp.OpeningSpriteState);
+                args.Sprite.LayerSetState(DoorVisualLayers.BaseUnlit, comp.ClosedSpriteState);
                 _sprite.LayerSetAnimationTime((uid, args.Sprite), DoorVisualLayers.BaseUnlit, 0);
                 break;
         }
