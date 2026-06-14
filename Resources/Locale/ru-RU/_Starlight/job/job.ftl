@@ -1,5 +1,5 @@
 job-name-magistrate = магистрат
-job-name-ntrep = представительство NanoTrasen
+job-name-ntrep = представитель NanoTrasen
 job-name-iaa = агент внутренних дел
 job-name-blueshield = офицер «Синий Щит»
 job-name-ntncblueshield = морпех Корпуса ВМФ NanoTrasen

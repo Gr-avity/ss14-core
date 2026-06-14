@@ -5,7 +5,7 @@
   color: "#ff178b"
   weight: -10
   roles:
-  - Magistrate
+  # - Magistrate # ss14-art-edit
   - IAA
   - Lawyer
   editorHidden: true
@@ -15,14 +15,17 @@
   id: Representatives
   name: department-NT
   description: department-NT-description
+  editorHidden: true # ss14-art-edit
   color: "#05255D"
   roles:
-  - BlueShield
-  - Magistrate
-  - NanoTrasenRepresentative
-  - StationAi
-  - IAA
-  - NanotrasenCareerTrainer
+  # ss14-art-edit start
+  # - BlueShield
+  # - Magistrate
+  # - NanoTrasenRepresentative
+  # - StationAi
+  # - IAA
+  # - NanotrasenCareerTrainer
+  # ss14-art-edit end
   - Decimus
   - NanoTrasenSpecialForces
   - NTNCBlueShield
