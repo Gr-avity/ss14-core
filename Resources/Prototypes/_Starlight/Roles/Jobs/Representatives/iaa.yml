@@ -10,6 +10,11 @@
   - !type:DepartmentTimeRequirement
     department: Security
     time: 36000 # 10h
+    # ss14-art-edit start
+  - !type:RoleTimeRequirement
+    role: JobLawyer
+    time: 3h
+    # ss14-art-edit end
   startingGear: IAAGear
   icon: "JobIconIAA"
   rules: job-rules-corporate-aligned
@@ -20,7 +25,7 @@
   - IAA
   - Brig
   - Maintenance
-#  - Lawyer # Lawyer is now for Lawyers, not IAAs.
+  - Lawyer # ss14-art-edit
   - GenpopEnter
   - GenpopLeave
   - Command

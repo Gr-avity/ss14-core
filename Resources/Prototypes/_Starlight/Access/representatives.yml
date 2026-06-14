@@ -13,7 +13,9 @@
 - type: accessGroup
   id: NanoTrasen
   tags:
-  - Ntrep
-  - Magistrate
-  - BlueShield
+  # ss14-art-edit start
+  # - Ntrep
+  # - Magistrate
+  # - BlueShield
+  # ss14-art-edit end
   - IAA

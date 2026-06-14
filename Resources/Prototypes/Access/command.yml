@@ -22,9 +22,11 @@
   - HeadOfSecurity
   - Quartermaster
   - ResearchDirector
-  - Magistrate
-  - Ntrep
-  - BlueShield
+  # ss14-art-edit start
+  # - Magistrate
+  # - Ntrep
+  # - BlueShield
+  # ss14-art-edit end
   - Debrief # Starlight
 
 - type: accessLevel

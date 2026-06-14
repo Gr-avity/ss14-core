@@ -1,12 +1,17 @@
 - type: job
   id: Lawyer
   name: job-name-lawyer
-  description: job-description-lawyer-sl # Starlight, new desc.
+  description: job-description-lawyer # Starlight, new desc. # ss14-art-edit
   playTimeTracker: JobLawyer
   requirements:
-    - !type:RoleTimeRequirement # Starlight start
-      role: JobIAA # You have to actually know the law, this role is really easy to mess up if you don't.
-      time: 3h # Starlight end
+    # ss14-art-edit start
+    # - !type:RoleTimeRequirement # Starlight start
+    #   role: JobIAA # You have to actually know the law, this role is really easy to mess up if you don't.
+    #   time: 3h # Starlight end
+    - !type:DepartmentTimeRequirement
+      department: Civilian
+      time: 0.5h
+    # ss14-art-edit end
   startingGear: LawyerGear
   icon: "JobIconLawyer"
   supervisors: job-supervisors-hop
