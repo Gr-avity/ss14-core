@@ -1,53 +1,26 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Burger Station at https://github.com/BurgerLUA/burgerstation/blob/HEAD/icons/obj/structure/power.dmi , TG Station at https://github.com/tgstation/tgstation/commit/9c7d509354ee030300f63c701da63c17928c3b3b , SS14 Starlight",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/9c7d509354ee030300f63c701da63c17928c3b3b and modified by Swept, advanced-smes, advanced-smes-static, advanced-smes-open modified from smes, smes-open, and static by august-sun (GitHub), advanced-smes, advanced-smes-static, advanced-smes-open resprite by nagato, blue smes by AL-S",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
     {
-      "name": "advancedsmes",
-	  "copyright": "august-sun (GitHub)"
+      "name": "advancedsmes"
     },
     {
-      "name": "advancedsmes-static",
-	  "copyright": "august-sun (GitHub)"
+      "name": "advancedsmes-static"
     },
     {
-      "name": "advancedsmes-open",
-	  "copyright": "august-sun (GitHub)"
+      "name": "advancedsmes-open"
     },
     {
       "name": "smes"
     },
     {
       "name": "static"
-    },
-    {
-      "name": "smes-open"
-    },
-    {
-      "name": "smes-oc0"
-    },
-    {
-      "name": "smes-oc1",
-      "delays": [
-        [
-          0.5,
-          0.5
-        ]
-      ]
-    },
-    {
-      "name": "smes-oc2",
-      "delays": [
-        [
-          0.5,
-          0.5
-        ]
-      ]
     },
     {
       "name": "smes-og1",
@@ -74,20 +47,41 @@
       "name": "smes-op0"
     },
     {
-      "name": "smes-op1",
-      "delays": [
-        [
-          1,
-          1
-        ]
-      ]
+      "name": "smes-op1"
     },
     {
       "name": "smes-op2"
     },
     {
+      "name": "smes-oc1",
+      "delays": [
+        [
+          0.3,
+          0.3
+        ]
+      ]
+    },
+    {
+       "name": "smes-oc2",
+        "delays": [
+        [
+          0.3,
+          0.3
+        ]
+      ]
+    },
+    {
+      "name": "smes-oc0",
+      "delays": [
+        [
+          0.5,
+          0.3
+        ]
+      ]
+    },
+    {
       "name": "smes-blue-fan",
-	  "copyright": "Darkrell (Starlight)",
+	  "copyright": "AL_S (ss14.art)",
       "delays": [
         [
           0.1,
@@ -103,19 +97,32 @@
     },
     {
       "name": "smes-blue",
-	  "copyright": "Darkrell (Starlight)"
+	  "copyright": "AL_S (ss14.art)"
     },
     {
       "name": "smes-blue-open",
-	  "copyright": "Darkrell (Starlight)"
+	  "copyright": "AL_S (ss14.art)"
     },
     {
       "name": "smes-blue-static",
-	  "copyright": "Darkrell (Starlight)"
+	  "copyright": "AL_S (ss14.art)"
     },
     {
       "name": "smes-blue-fan-0",
-	  "copyright": "Darkrell (Starlight)"
+	  "copyright": "AL_S (ss14.art)"
+    },
+    {
+      "name": "smes-open",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
     }
   ]
 }
