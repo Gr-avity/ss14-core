@@ -30,13 +30,7 @@ public sealed class SpecialLobbyContentSystem : EntitySystem
             return false;
 
         music = specialContent.Music;
-
-        //starlight start, art credit system
-        if (_protoMan.TryIndex(specialContent.Background, out var proto))
-        {
-            background = proto;
-        }
-        //starlight end
+        background = specialContent.Background; // ss14-art-edit
 
         return !string.IsNullOrEmpty(music) || background != null;
     }
@@ -58,7 +52,7 @@ public sealed class SpecialLobbyContentSystem : EntitySystem
         }
 
         // Set special background if specified
-        if (background.HasValue) //starlight, nullable
+        if (background != null) //starlight, ss14-art-edit
         {
             _gameTicker.SetLobbyBackground(background.Value);
         }

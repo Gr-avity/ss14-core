@@ -1,0 +1,35 @@
+- type: lobbyBackground
+  id: SpaceHoleLobbyScreen
+  background: /Textures/_Art/Lobby/space-hole.rsi
+
+- type: lobbyBackground
+  id: EveningSun1Screen
+  background: /Textures/_Art/Lobby/evening_sun1.rsi
+
+- type: lobbyBackground
+  id: EveningSun2Screen
+  background: /Textures/_Art/Lobby/evening_sun2.rsi
+
+- type: lobbyBackground
+  id: EveningSun3Screen
+  background: /Textures/_Art/Lobby/evening_sun3.rsi
+
+- type: lobbyBackground
+  id: EveningSun4Screen
+  background: /Textures/_Art/Lobby/evening_sun4.rsi
+
+- type: lobbyBackground
+  id: EveningSun5Screen
+  background: /Textures/_Art/Lobby/evening_sun5.rsi
+
+- type: lobbyBackground
+  id: EveningSun6Screen
+  background: /Textures/_Art/Lobby/evening_sun6.rsi
+
+- type: lobbyBackground
+  id: EveningSun7Screen
+  background: /Textures/_Art/Lobby/evening_sun7.rsi
+
+- type: lobbyBackground
+  id: EveningSun8Screen
+  background: /Textures/_Art/Lobby/evening_sun8.rsi

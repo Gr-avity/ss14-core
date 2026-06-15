@@ -9,10 +9,13 @@
     xmlns:lobbyUi="clr-namespace:Content.Client.Lobby.UI"
     xmlns:info="clr-namespace:Content.Client.Info"
     xmlns:nulllink="clr-namespace:Content.Client._NullLink.UI"
-    xmlns:widgets="clr-namespace:Content.Client.UserInterface.Systems.Chat.Widgets">
+    xmlns:widgets="clr-namespace:Content.Client.UserInterface.Systems.Chat.Widgets"
+    xmlns:animatedBackground="clr-namespace:Content.Client._Art.UI.AnimatedBackground"> <!-- ss14-art-edit -->
     <!-- Background -->
-    <TextureRect Access="Public" VerticalExpand="True" HorizontalExpand="True" Name="Background"
+    <!-- ss14-art-edit start -->
+    <animatedBackground:AnimatedBackgroundControl Access="Public" Name="Background" VerticalExpand="True" HorizontalExpand="True"
                  Stretch="KeepAspectCovered" />
+    <!-- ss14-art-edit end -->
     <BoxContainer Name="MainContainer" VerticalExpand="True" HorizontalExpand="True" Orientation="Horizontal"
                   Margin="10 10 10 10" SeparationOverride="2">
         <SplitContainer State="Auto" ResizeMode="NotResizable" HorizontalExpand="True">

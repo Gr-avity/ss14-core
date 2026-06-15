@@ -15,22 +15,19 @@ public sealed partial class GameTicker
     [ViewVariables]
     private List<ProtoId<LobbyBackgroundPrototype>>? _lobbyBackgrounds;
 
-    private static readonly string[] WhitelistedBackgroundExtensions = new string[] {"png", "jpg", "jpeg", "webp"};
+    private static readonly string[] WhitelistedBackgroundExtensions = { "png", "jpg", "jpeg", "webp", "rsi" }; // ss14-art-edit
 
     private void InitializeLobbyBackground()
     {
-        var allprotos = _prototypeManager.EnumeratePrototypes<LobbyBackgroundPrototype>().ToList();
-        _lobbyBackgrounds ??= new List<ProtoId<LobbyBackgroundPrototype>>();
+        _lobbyBackgrounds = new List<ProtoId<LobbyBackgroundPrototype>>(); // ss14-art-edit
 
-        //create protoids from them
-        foreach (var proto in allprotos)
+        foreach (var proto in _prototypeManager.EnumeratePrototypes<LobbyBackgroundPrototype>()) // ss14-art-edit
         {
             var ext = proto.Background.Extension;
             if (!WhitelistedBackgroundExtensions.Contains(ext))
                 continue;
 
-            //create a protoid and add it to the list
-            _lobbyBackgrounds.Add(new ProtoId<LobbyBackgroundPrototype>(proto.ID));
+            _lobbyBackgrounds.Add(proto.ID); // ss14-art-edit
         }
 
         RandomizeLobbyBackground();
