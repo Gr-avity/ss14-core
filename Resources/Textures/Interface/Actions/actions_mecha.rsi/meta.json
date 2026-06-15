@@ -1,6 +1,6 @@
 {
-  "copyright" : "Taken from https://github.com/tgstation/tgstation at at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a",
-  "license" : "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/tgstation/tgstation at https://github.com/tgstation/tgstation/commit/40d89d11ea4a5cb81d61dc1018b46f4e7d32c62a, mech_night_vision and mech_siren added by ???",
+  "license": "CC-BY-SA-3.0",
   "version": 1,
   "size": {
     "x": 32,
@@ -12,12 +12,6 @@
     },
     {
       "name": "mech_lights_on"
-    },
-    {
-      "name": "mech_siren_off"
-    },
-    {
-      "name": "mech_siren_on"
     },
     {
       "name": "mech_view_stats"
@@ -86,10 +80,7 @@
       "name": "strafe"
     },
     {
-      "name": "mech_night_vision_off"
-    },
-    {
-      "name": "mech_night_vision_on"
+      "name": "meson"
     },
     {
       "name": "mech_ivanov"
@@ -116,6 +107,18 @@
           0.2
         ]
       ]
+    },
+    {
+      "name": "mech_night_vision_off"
+    },
+    {
+      "name": "mech_night_vision_on"
+    },
+    {
+      "name": "mech_siren_off"
+    },
+    {
+      "name": "mech_siren_on"
     }
   ]
 }

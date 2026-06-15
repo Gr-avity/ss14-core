@@ -1,3 +1,7 @@
 - type: adminRankBuilder
   id: Lunarix
-  ranks: [] # Automatic admin rank assignment is disabled. Use manual assignment via admin panel.
+  ranks:
+    - name: LUNA
+      roles:
+        - 1305376794823753904 # Host
+      flags: [ADMIN, BAN, DEBUG, FUN, PERMISSIONS, SERVER, SPAWN, VAREDIT, MAPPING, LOGS, ROUND, QUERY, ADMINHELP, VIEWNOTES, EDITNOTES, MASSBAN, STEALTH, ADMINCHAT, PII, MODERATOR, ADMINWHO, NAMECOLOR, DANGER, HOST]

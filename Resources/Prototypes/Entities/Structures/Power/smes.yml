@@ -148,7 +148,6 @@
     snapCardinals: true
     layers:
     - state: advancedsmes
-    - state: smes-blue-fan #SL edit
     - map: [ "enum.SmesVisualLayers.Charge" ]
       state: "smes-og1" # -og0 does not exist
       shader: unshaded

@@ -8,10 +8,18 @@
   },
   "states": [
     {
-      "name": "nuclearbomb_deployed"
+      "name": "nuclearbomb_deployed",
+      "directions": 4
     },
     {
-      "name": "nuclearbomb_deployed_unlit"
+      "name": "nuclearbomb_deployed_unlit",
+      "directions": 4,
+      "delays": [
+        [0.1, 0.1],
+        [0.1, 0.1],
+        [0.1, 0.1],
+        [0.1, 0.1]
+      ]
     },
     {
       "name": "nuclearbomb_gay"
@@ -19,41 +27,41 @@
     {
       "name": "nukefestive",
       "delays": [
-        [
-          0.25,
-          0.25
-        ]
+        [0.25, 0.25]
       ]
     },
     {
       "name": "nuclearbomb_timing",
+      "directions": 4,
       "delays": [
-        [
-          0.5,
-          0.5
-        ]
+        [0.1, 0.1],
+        [0.1, 0.1],
+        [0.1, 0.1],
+        [0.1, 0.1]
       ]
     },
     {
       "name": "nuclearbomb_exploding",
+      "directions": 4,
       "delays": [
-        [
-          0.1,
-          0.1
-        ]
+        [0.1, 0.1],
+        [0.1, 0.1],
+        [0.1, 0.1],
+        [0.1, 0.1]
       ]
     },
     {
-      "name": "nuclearbomb_base"
+      "name": "nuclearbomb_base",
+      "directions": 4
     },
     {
       "name": "nuclearbombc",
+      "directions": 4,
       "delays": [
-        [
-          1,
-          0.3,
-          0.3
-        ]
+        [0.1, 0.1],
+        [0.1, 0.1],
+        [0.1, 0.1],
+        [0.1, 0.1]
       ]
     }
   ]
