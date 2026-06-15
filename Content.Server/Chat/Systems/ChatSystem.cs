@@ -1022,6 +1022,7 @@ public sealed partial class ChatSystem : SharedChatSystem
     private string SanitizeInGameICMessage(EntityUid source, string message, out string? emoteStr, bool capitalize = true, bool punctuate = false, bool capitalizeTheWordI = true, bool noDisallowedCharacters = true) // Starlight
     {
         var newMessage = SanitizeMessageReplaceWords(message.Trim()).Text; // Starlight
+        newMessage = ReplaceWords(newMessage); // Art-Edit
 
         GetRadioKeycodePrefix(source, newMessage, out newMessage, out var prefix);
 

