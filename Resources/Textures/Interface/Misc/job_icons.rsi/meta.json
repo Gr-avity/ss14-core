@@ -107,8 +107,7 @@
             "name": "Janitor"
         },
         {
-            "name": "Lawyer",
-            "delays": [[10, 0.2, 0.2, 0.2]]
+            "name": "Lawyer"
         },
         {
             "name": "Librarian"
@@ -122,15 +121,13 @@
         {
             "name": "Mime"
         },
-        {
-            "name": "MindShield",
-            "delays": [
-                [
-                    1.0,
-                    1.0
-                ]
-            ]
-        },
+		{
+			"name": "MindShield",
+			"directions": 1,
+			"delays": [
+				[1.0, 1.0]
+			]
+		},
         {
             "name": "Musician"
         },
