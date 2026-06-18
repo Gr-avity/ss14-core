@@ -14,5 +14,15 @@ public sealed class DiscordAuthSystem : EntitySystem
         SubscribeLocalEvent<PlayerConnectEvent>(OnPlayerConnection);
     }
 
-    private async void OnPlayerConnection(PlayerConnectEvent args) => await _discordOAuth.GetRoles(args.PlayerSession);
+    private async void OnPlayerConnection(PlayerConnectEvent args)
+    {
+        try
+        {
+            await _discordOAuth.GetRoles(args.PlayerSession);
+        }
+        catch (Exception e)
+        {
+            Logger.ErrorS("discord.oauth", $"Failed to get roles: {e.Message}");
+        }
+    }
 }

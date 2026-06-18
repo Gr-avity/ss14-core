@@ -2078,7 +2078,7 @@
   time: 5
   group: Salad
   reagents:
-    Vinegar: 5
+    AceticAcid: 5 # SS14-Art: Vinegar to Acetic Acid replaced
   solids:
     FoodBowlBig: 1
     FoodCarrot: 1

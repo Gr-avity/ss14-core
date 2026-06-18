@@ -1,8 +1,6 @@
 using Content.Shared.Chemistry.Reagent;
 using Content.Shared.FixedPoint;
-using Content.Shared.Storage;
 using Robust.Shared.Serialization;
-using Robust.Shared.Prototypes; // Starlight-edit
 
 namespace Content.Shared.Chemistry
 {
@@ -12,6 +10,11 @@ namespace Content.Shared.Chemistry
     public sealed class SharedReagentDispenser
     {
         public const string OutputSlotName = "beakerSlot";
+
+        // SS14-Art edit start
+        public const float DefaultEnergyCapacity = 1000f;
+        public const float DefaultRechargePerSecond = 2f;
+        // SS14-Art edit end
     }
 
     [Serializable, NetSerializable]
@@ -24,41 +27,19 @@ namespace Content.Shared.Chemistry
             ReagentDispenserDispenseAmount = amount;
         }
 
-        /// <summary>
-        ///     Create a new instance from interpreting a String as an integer,
-        ///     throwing an exception if it is unable to parse.
-        /// </summary>
-        public ReagentDispenserSetDispenseAmountMessage(String s)
+        public ReagentDispenserSetDispenseAmountMessage(string s)
         {
             switch (s)
             {
-                case "1":
-                    ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U1;
-                    break;
-                case "5":
-                    ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U5;
-                    break;
-                case "10":
-                    ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U10;
-                    break;
-                case "15":
-                    ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U15;
-                    break;
-                case "20":
-                    ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U20;
-                    break;
-                case "25":
-                    ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U25;
-                    break;
-                case "30":
-                    ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U30;
-                    break;
-                case "50":
-                    ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U50;
-                    break;
-                case "100":
-                    ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U100;
-                    break;
+                case "1":   ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U1;   break;
+                case "5":   ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U5;   break;
+                case "10":  ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U10;  break;
+                case "15":  ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U15;  break;
+                case "20":  ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U20;  break;
+                case "25":  ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U25;  break;
+                case "30":  ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U30;  break;
+                case "50":  ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U50;  break;
+                case "100": ReagentDispenserDispenseAmount = ReagentDispenserDispenseAmount.U100; break;
                 default:
                     throw new Exception($"Cannot convert the string `{s}` into a valid ReagentDispenser DispenseAmount");
             }
@@ -68,118 +49,121 @@ namespace Content.Shared.Chemistry
     [Serializable, NetSerializable]
     public sealed class ReagentDispenserDispenseReagentMessage : BoundUserInterfaceMessage
     {
-        public readonly ReagentDispenseData Data; // Starlight-edit
+        // SS14-Art edit start
+        public readonly ReagentId ReagentId;
 
-        public ReagentDispenserDispenseReagentMessage(ReagentDispenseData data) // Starlight-edit
+        public ReagentDispenserDispenseReagentMessage(ReagentId reagentId)
         {
-            Data = data; // Starlight-edit
+            ReagentId = reagentId;
         }
+        // SS14-Art edit end
     }
 
-    /// <summary>
-    ///     Message sent by the user interface to ask the reagent dispenser to eject a container
-    /// </summary>
     [Serializable, NetSerializable]
-    public sealed class ReagentDispenserEjectContainerMessage : BoundUserInterfaceMessage
+    public sealed class ReagentDispenserContainerActionMessage : BoundUserInterfaceMessage
     {
-        public readonly ItemStorageLocation StorageLocation;
+        // SS14-Art edit start
+        public readonly ReagentId ReagentId;
+        public readonly ReagentDispenserContainerAction Action;
+        public readonly FixedPoint2 Quantity;
 
-        public ReagentDispenserEjectContainerMessage(ItemStorageLocation storageLocation)
+        public ReagentDispenserContainerActionMessage(ReagentId reagentId, ReagentDispenserContainerAction action, FixedPoint2 quantity = default)
         {
-            StorageLocation = storageLocation;
+            ReagentId = reagentId;
+            Action = action;
+            Quantity = quantity;
         }
+        // SS14-Art edit end
     }
+
+    // SS14-Art edit start
+    [Serializable, NetSerializable]
+    public enum ReagentDispenserContainerAction : byte
+    {
+        Spill,
+        SpillAll,
+        Delete,
+        Analyze,
+    }
+    // SS14-Art edit end
 
     [Serializable, NetSerializable]
     public sealed class ReagentDispenserClearContainerSolutionMessage : BoundUserInterfaceMessage
     {
-
     }
 
     // Starlight-start: Plumbing valve toggle
-    /// <summary>
-    ///     Message sent by the user interface to toggle the plumbing valve.
-    /// </summary>
     [Serializable, NetSerializable]
     public sealed class ReagentDispenserToggleValveMessage : BoundUserInterfaceMessage
     {
     }
     // Starlight-end
 
-    // Starlight Start
-    // Required for UI to not flash while cell is charging/discharging
-    [Serializable, NetSerializable]
-    public sealed class ReagentDispenserEnergyUpdateMessage : BoundUserInterfaceMessage
-    {
-        public readonly float EnergyAmount;
-
-        public ReagentDispenserEnergyUpdateMessage(float energyAmount)
-        {
-            EnergyAmount = energyAmount;
-        }
-    }
-    // Starlight End
-
     public enum ReagentDispenserDispenseAmount
     {
-        U1 = 1,
-        U5 = 5,
-        U10 = 10,
-        U15 = 15,
-        U20 = 20,
-        U25 = 25,
-        U30 = 30,
-        U50 = 50,
+        U1   = 1,
+        U5   = 5,
+        U10  = 10,
+        U15  = 15,
+        U20  = 20,
+        U25  = 25,
+        U30  = 30,
+        U50  = 50,
         U100 = 100,
     }
 
+    // SS14-Art edit start
     [Serializable, NetSerializable]
-    public sealed class ReagentInventoryItem(ReagentDispenseData data, string reagentLabel, FixedPoint2 quantity, Color reagentColor, bool generatable) // Starlight-edit
+    public sealed class ReagentDispenserInventoryItem
     {
-        public ReagentDispenseData Data = data; // Starlight-edit
-        public string ReagentLabel = reagentLabel;
-        public FixedPoint2 Quantity = quantity;
-        public Color ReagentColor = reagentColor;
-        public bool Generatable = generatable; // Starlight-edit
+        public ReagentId ReagentId;
+        public string ReagentLabel;
+        public Color ReagentColor;
+
+        public ReagentDispenserInventoryItem(ReagentId reagentId, string reagentLabel, Color reagentColor)
+        {
+            ReagentId = reagentId;
+            ReagentLabel = reagentLabel;
+            ReagentColor = reagentColor;
+        }
     }
+    // SS14-Art edit end
 
     [Serializable, NetSerializable]
     public sealed class ReagentDispenserBoundUserInterfaceState : BoundUserInterfaceState
     {
         public readonly ContainerInfo? OutputContainer;
-
         public readonly NetEntity? OutputContainerEntity;
 
-        /// <summary>
-        /// A list of the reagents which this dispenser can dispense.
-        /// </summary>
-        public readonly List<ReagentInventoryItem> Inventory;
+        // SS14-Art edit start
+        public readonly List<ReagentDispenserInventoryItem> Inventory;
+        public readonly float CurrentEnergy;
+        public readonly float MaxEnergy;
+        // SS14-Art edit end
 
         public readonly ReagentDispenserDispenseAmount SelectedDispenseAmount;
 
-        public readonly float EnergyAmount; // Starlight-edit: Energy bar
+        // Starlight-edit: Plumbing valve
+        public readonly bool ValveOpen;
 
-        public readonly bool ValveOpen; // Starlight-edit: Plumbing valve
-
-        public ReagentDispenserBoundUserInterfaceState(ContainerInfo? outputContainer, NetEntity? outputContainerEntity, List<ReagentInventoryItem> inventory, ReagentDispenserDispenseAmount selectedDispenseAmount, float energyAmount, bool valveOpen) // Starlight-edit: Energy bar, Plumbing valve
+        public ReagentDispenserBoundUserInterfaceState(
+            ContainerInfo? outputContainer,
+            NetEntity? outputContainerEntity,
+            List<ReagentDispenserInventoryItem> inventory,
+            ReagentDispenserDispenseAmount selectedDispenseAmount,
+            float currentEnergy,
+            float maxEnergy,
+            bool valveOpen)
         {
             OutputContainer = outputContainer;
             OutputContainerEntity = outputContainerEntity;
             Inventory = inventory;
             SelectedDispenseAmount = selectedDispenseAmount;
-            EnergyAmount = energyAmount; // Starlight-edit: Energy bar
-            ValveOpen = valveOpen; // Starlight-edit: Plumbing valve
+            CurrentEnergy = currentEnergy;
+            MaxEnergy = maxEnergy;
+            ValveOpen = valveOpen;
         }
     }
-
-    // Starlight-start: Generatable reagents
-    [Serializable, NetSerializable]
-    public sealed class ReagentDispenseData(ItemStorageLocation? storageLocation, ProtoId<ReagentPrototype>? reagentID)
-    {
-        public ItemStorageLocation? StorageLocation = storageLocation;
-        public ProtoId<ReagentPrototype>? ReagentID = reagentID;
-    }
-    // Starlight-end
 
     [Serializable, NetSerializable]
     public enum ReagentDispenserUiKey

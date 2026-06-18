@@ -1,5 +1,5 @@
-using Content.Client.Guidebook.Components;
-using Content.Client.UserInterface.Controls;
+using Content.Client._Art.Chemistry.UI;
+using Content.Shared._Art.Chemistry;
 using Content.Shared.Chemistry;
 using Content.Shared.Containers.ItemSlots;
 using JetBrains.Annotations;
@@ -16,60 +16,48 @@ namespace Content.Client.Chemistry.UI
     {
         [ViewVariables]
         private ReagentDispenserWindow? _window;
+        private ChemAnalysisPopup? _analysisPopup;
 
         public ReagentDispenserBoundUserInterface(EntityUid owner, Enum uiKey) : base(owner, uiKey)
         {
         }
 
-        /// <summary>
-        /// Called each time a dispenser UI instance is opened. Generates the dispenser window and fills it with
-        /// relevant info. Sets the actions for static buttons.
-        /// <para>Buttons which can change like reagent dispense buttons have their actions set in <see cref="UpdateReagentsList"/>.</para>
-        /// </summary>
         protected override void Open()
         {
             base.Open();
 
-            // Setup window layout/elements
             _window = this.CreateWindow<ReagentDispenserWindow>();
-            _window.SetInfoFromEntity(EntMan, Owner);
+            _window.Title = EntMan.GetComponent<MetaDataComponent>(Owner).EntityName;
 
-            // Setup static button actions.
             _window.EjectButton.OnPressed += _ => SendMessage(new ItemSlotButtonPressedEvent(SharedReagentDispenser.OutputSlotName));
-            _window.ClearButton.OnPressed += _ => SendMessage(new ReagentDispenserClearContainerSolutionMessage());
-
             _window.AmountGrid.OnButtonPressed += s => SendMessage(new ReagentDispenserSetDispenseAmountMessage(s));
+            _window.OnDispenseReagentButtonPressed += reagent => SendMessage(new ReagentDispenserDispenseReagentMessage(reagent));
+            _window.OnContainerActionPressed += (reagent, action, quantity) =>
+                SendMessage(new ReagentDispenserContainerActionMessage(reagent, action, quantity));
 
-            _window.OnDispenseReagentButtonPressed += (data) => SendMessage(new ReagentDispenserDispenseReagentMessage(data)); // Starlight-edit
-            _window.OnEjectJugButtonPressed += (location) => SendMessage(new ReagentDispenserEjectContainerMessage(location));
-            _window.OnToggleValveButtonPressed += () => SendMessage(new ReagentDispenserToggleValveMessage()); // Starlight-edit: Plumbing valve
+            // Starlight-start: Plumbing valve
+            _window.OnToggleValveButtonPressed += () => SendMessage(new ReagentDispenserToggleValveMessage());
+            // Starlight-end
         }
 
-        /// <summary>
-        /// Update the UI each time new state data is sent from the server.
-        /// </summary>
-        /// <param name="state">
-        /// Data of the <see cref="ReagentDispenserComponent"/> that this UI represents.
-        /// Sent from the server.
-        /// </param>
         protected override void UpdateState(BoundUserInterfaceState state)
         {
             base.UpdateState(state);
-
             var castState = (ReagentDispenserBoundUserInterfaceState) state;
-            _window?.UpdateState(castState); //Update window state
+            _window?.UpdateState(castState);
         }
 
-        // Starlight start: Required for cell charging or UI flashes
         protected override void ReceiveMessage(BoundUserInterfaceMessage message)
         {
             base.ReceiveMessage(message);
 
-            if (message is ReagentDispenserEnergyUpdateMessage energyUpdate)
-            {
-                _window?.UpdateEnergyDisplay(energyUpdate.EnergyAmount);
-            }
+            if (message is not ChemReagentAnalysisPopupMessage popup)
+                return;
+
+            _analysisPopup?.Close();
+            _analysisPopup = new ChemAnalysisPopup(popup);
+            _analysisPopup.OnPrintPressed += reagent => SendMessage(new ChemPrintAnalysisMessage(reagent));
+            _analysisPopup.OpenCentered();
         }
-        // Starlight end
     }
 }

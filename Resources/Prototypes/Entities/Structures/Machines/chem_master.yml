@@ -38,6 +38,9 @@
   - type: ChemMaster
     pillDosageLimit: 20
     patchDosageLimit: 20
+    bottleDosageLimit: 30
+    maxPills: 30
+    maxBottles: 20
   - type: Physics
     bodyType: Static
   - type: Fixtures
@@ -102,7 +105,6 @@
         whitelist:
           tags:
           - Bottle
-          - PillCanister
           - PatchPack # Starlight-edit
       # Starlight-start: for PAI slotting
       pai_slot:
@@ -115,8 +117,7 @@
   - type: SolutionContainerManager
     solutions:
       buffer:
-        maxVol: 10000 # Starlight: limited to 10000u for plumbing compatibility and realismU
-        canReact: false
+        maxVol: 1000000
   - type: DumpableSolution
     solution: buffer
     # unlimited: true # Starlight-edit: no longer unlimited

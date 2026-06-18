@@ -76,7 +76,7 @@
       - !type:GroupSelector
         children:
         - id: FoodCondimentBottleColdsauce
-        - id: FoodCondimentBottleVinegar
+        - id: FoodCondimentBottleAceticAcid # SS14-Art: Vinegar to Acetic Acid replaced
         - id: FoodCondimentBottleHotsauce
         - id: FoodCondimentBottleKetchup
         - id: FoodCondimentBottleBBQ

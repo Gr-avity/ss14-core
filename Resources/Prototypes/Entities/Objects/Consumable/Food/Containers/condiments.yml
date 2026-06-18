@@ -456,15 +456,15 @@
 
 - type: entity
   parent: BaseFoodCondimentBottle
-  id: FoodCondimentBottleVinegar
-  name: vinegar bottle
+  id: FoodCondimentBottleAceticAcid # SS14-Art: Vinegar to Acetic Acid replaced
+  name: acetic acid bottle
   description: Used in cooking to enhance flavor.
   components:
   - type: SolutionContainerManager
     solutions:
       food:
         reagents:
-        - ReagentId: Vinegar
+        - ReagentId: AceticAcid
           Quantity: 30
   - type: Sprite
     layers:
