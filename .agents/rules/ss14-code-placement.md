@@ -23,4 +23,4 @@ Preserve SS14 folder semantics under `_Art`: `Components`, `EntitySystems`, `UI`
 
 ## Upstream Files
 
-Only touch non-`_Art` files when integration requires it. Keep the diff narrow and apply `ss14-art-edit` markers around the exact changed lines.
+Only touch non-`_Art` files when integration requires it. Keep the diff narrow and apply `Art-Edit` markers around the exact changed lines.

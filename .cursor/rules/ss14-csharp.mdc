@@ -1,5 +1,5 @@
 ---
-description: Shine SS14 C# rules
+description: SS14-Art C# rules
 globs:
   - "**/*.cs"
 alwaysApply: false

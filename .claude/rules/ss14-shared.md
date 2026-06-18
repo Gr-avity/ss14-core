@@ -8,4 +8,4 @@ For `Content.Shared/**`, use:
 - `ss14-ecs-components`;
 - `ss14-ecs-systems`.
 
-Shared code cannot depend on Client or Server code. New Shine shared code belongs under `Content.Shared/_sh`.
+Shared code cannot depend on Client or Server code. New SS14-Art shared code belongs under `Content.Shared/_Art`.

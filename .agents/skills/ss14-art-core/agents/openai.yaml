@@ -1,4 +1,4 @@
 interface:
-  display_name: "Shine Project"
-  short_description: "Canonical Shine SS14 fork workflow"
-  default_prompt: "Use $shine-project before changing Shine SS14 fork code."
+  display_name: "SS14-Art"
+  short_description: "Canonical SS14-Art workflow"
+  default_prompt: "Use $ss14-art before changing SS14-Art code."

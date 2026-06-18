@@ -12,7 +12,7 @@ These are distilled notes from the local WizDen docs. They are intentionally sho
 - Test DB changes on SQLite and Postgres.
 - Licenses matter for code and assets; check source, commit, author, license, and attribution.
 
-SS14-ART-CORE-specific override: new SS14-ART-CORE code goes under `_Art`; upstream-file edits need `ss14-art-edit` markers; `RobustToolbox/**` is read-only.
+SS14-ART-CORE-specific override: new SS14-ART-CORE code goes under `_Art`; upstream-file edits need `Art-Edit` markers; `RobustToolbox/**` is read-only.
 
 ## Code Organization
 

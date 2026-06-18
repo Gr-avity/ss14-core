@@ -18,7 +18,7 @@ This skill protects SS14-ART-CORE from painful upstream merges.
 
 - Never edit `RobustToolbox`.
 - Prefer `_Art` fork-owned files.
-- Mark every non-`_Art` change with narrow `ss14-art-edit` blocks.
+- Mark every non-`_Art` change with narrow `Art-Edit` blocks.
 - Keep upstream diffs small and intentional.
 - Preserve upstream path similarity for ports so future merges and blame remain readable.
 - Do not use conflict-avoidance hacks to hide meaningful upstream behavior changes.
@@ -28,7 +28,7 @@ This skill protects SS14-ART-CORE from painful upstream merges.
 Use native comments and keep the block as small as possible:
 
 ```csharp
-// ss14-art-edit start: reason
+// Art-Start: reason
 CODE
-// ss14-art-edit end
+// Art-End
 ```

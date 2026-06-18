@@ -1,5 +1,5 @@
 ---
-description: Shine client UI rules
+description: Art client UI rules
 globs:
   - "Content.Client/**/*.cs"
   - "Content.Client/**/*.xaml"

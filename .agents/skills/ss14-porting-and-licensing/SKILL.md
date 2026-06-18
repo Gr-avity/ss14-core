@@ -1,6 +1,7 @@
 ---
 name: ss14-porting-and-licensing
-description: Porting, attribution, fork isolation, upstream merge, and license guidance for SS14-ART-CORE. Use before importing code/assets from WizDen, Delta-V, other SS14 forks, tgstation, assets, or external repositories, and before modifying upstream files.
+description: Porting, attribution, fork isolation, upstream merge, and license guidance for SS14-ART-CORE. Use before importing code/assets from WizDen, Delta-V, Starlight,
+or other SS14 forks, assets, or external repositories, and before modifying upstream files.
 ---
 
 # SS14 Porting And Licensing
@@ -16,7 +17,7 @@ description: Porting, attribution, fork isolation, upstream merge, and license g
 
 - Put new SS14-ART-CORE code/assets under `_Art`.
 - Namespace serialized types and prototype IDs with a SS14-ART-CORE prefix.
-- Avoid changing upstream files. If required, use tight `ss14-art-edit` markers.
+- Avoid changing upstream files. If required, use tight `Art-Edit` markers.
 - Preserve path similarity under `_Art` so upstream equivalents are easy to compare.
 
 ## Database Porting

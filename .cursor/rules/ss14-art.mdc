@@ -10,7 +10,7 @@ Load `.agents/rules/README.md`, then route through `.agents/rules/ss14-skill-pre
 Hard rules:
 
 - Never edit `RobustToolbox/**`.
-- New Shine code goes under `_sh`.
-- Any non-`_sh` file edit must be wrapped in `shine-edit` markers.
+- New Shine code goes under `_Art`.
+- Any non-`_Art` file edit must be wrapped in `Art-Edit` markers.
 - Use prediction, localization, modular ECS, typed prototype IDs, and .NET 10-current APIs.
 - Do not duplicate mechanics or hardcode one-off behavior.

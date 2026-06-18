@@ -1,0 +1,42 @@
+{
+  "name": "ss14-art",
+  "version": "0.1.0",
+  "description": "Repo-local Codex plugin that routes agents to the canonical SS14 Art plugin rules and skills.",
+  "author": {
+    "name": "SS14-Art Project",
+    "email": "devnull@example.invalid",
+    "url": "https://example.invalid/ss14-art"
+  },
+  "homepage": "https://example.invalid/ss14-art/agents",
+  "repository": "https://example.invalid/ss14-art/repository",
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "shine",
+    "ss14",
+    "robust-toolbox",
+    "codex",
+    "ai-instructions"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "SS14-Art Project",
+    "shortDescription": "SS14 fork rules, skills, and review guardrails",
+    "longDescription": "Routes Codex and compatible agents to the repository canonical SS14-Art Project instruction layer under .agents/rules and .agents/skills. It focuses on SS14 fork isolation, prediction, localization, modular ECS code, .NET 10 freshness checks, and narrow upstream diffs.",
+    "developerName": "SS14-Art Project",
+    "category": "Development",
+    "capabilities": [
+      "Interactive",
+      "Write",
+      "Review"
+    ],
+    "websiteURL": "https://example.invalid/ss14-art",
+    "privacyPolicyURL": "https://example.invalid/ss14-art/privacy",
+    "termsOfServiceURL": "https://example.invalid/ss14-art/terms",
+    "defaultPrompt": [
+      "Use SS14-Art rules before changing SS14 code.",
+      "Review this PR for SS14-Art fork guardrails.",
+      "Find the right SS14 skill for this change."
+    ],
+    "brandColor": "#F5C542"
+  }
+}

@@ -1,5 +1,5 @@
 ---
-description: Shine SS14 tests rules
+description: SS14-Art tests rules
 globs:
   - "Content.Tests/**/*.cs"
   - "Content.IntegrationTests/**/*.cs"
