@@ -118,6 +118,7 @@
     solutions:
       buffer:
         maxVol: 1000000
+        canReact: false
   - type: DumpableSolution
     solution: buffer
     # unlimited: true # Starlight-edit: no longer unlimited
