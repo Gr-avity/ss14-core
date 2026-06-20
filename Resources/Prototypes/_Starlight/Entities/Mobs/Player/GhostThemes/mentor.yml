@@ -5,7 +5,7 @@
   description: ghost-theme-abomination-desc
   spriteSpecifier:
     sprite:
-      sprite: Mobs/Humanoids/skeleton.rsi
+      sprite: _Starlight/Mobs/Aliens/Kois/blood_skeleton.rsi
       state: alive
     color: "#ffffff"
   requirements:
