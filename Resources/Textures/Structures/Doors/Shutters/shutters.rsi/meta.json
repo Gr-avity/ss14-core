@@ -146,6 +146,10 @@
         {
             "name": "closed",
             "directions": 4
+        },
+        {
+            "name": "welded",
+            "directions": 4
         }
     ]
 }
