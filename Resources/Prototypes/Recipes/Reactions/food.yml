@@ -218,7 +218,7 @@
 - type: reaction
   id: CookingMayoVinegar
   reactants:
-    Vinegar:
+    AceticAcid:
       amount: 5
     Oil:
       amount: 5
@@ -265,7 +265,7 @@
   reactants:
     Ketchup:
       amount: 1
-    Vinegar:
+    AceticAcid:
       amount: 1
     Sugar:
       amount: 1
@@ -304,7 +304,7 @@
     Oxygen:
       amount: 1
   products:
-    Vinegar: 2
+    AceticAcid: 2
 
 - type: reaction
   id: CookingSoysauce
@@ -319,7 +319,7 @@
 - type: reaction
   id: CookingVinaigrette
   reactants:
-    Vinegar:
+    AceticAcid:
       amount: 1
     OilOlive:
       amount: 1

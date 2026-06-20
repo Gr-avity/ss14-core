@@ -5,7 +5,7 @@ Use this rule for CodeRabbit, Copilot, and other automated review guidance.
 ## Review Priorities
 
 1. RobustToolbox edits.
-2. Missing `_Art` placement or missing `ss14-art-edit` markers.
+2. Missing `_Art` placement or missing `Art-Edit` markers.
 3. Prediction/networking bugs.
 4. Server validation and hidden data leaks.
 5. Localization omissions.

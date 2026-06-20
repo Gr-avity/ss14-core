@@ -1,9 +1,9 @@
 <Document>
-# Medical
-This is the department where people go to when they're hurt, it's up to the folks working here to fix them.
+# Медотсек
+Это отделение, куда люди обращаются, когда получают травмы, и задача работающих здесь людей — оказать им помощь.
 
-## Personnel
-[color=#5b97bc]Medical[/color]'s staff is made up of Medical Interns, Medical Doctors, Paramedics and Chemists. [color=#5b97bc]Medical[/color] is run by the Chief Medical Officer.
+## Персонал
+В состав [color=#5b97bc]медицинского[/color] персонала входят Интерны, Врачи, Парамедики и Химики. [color=#5b97bc]Медицинским Отделом[/color] руководит Главный Врач.
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="Doctor"/>
@@ -12,9 +12,9 @@ This is the department where people go to when they're hurt, it's up to the folk
     <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="CMO"/>
   </Box>
 
-Right now, medbay is divided into two different sets of care:
+В настоящее время медпункт разделен на два разных отделения:
 
-## Medical Treatment
+## Медицинское Лечение (Работа с пациентами)
   <Box>
     <GuideEntityEmbed Entity="Brutepack"/>
     <GuideEntityEmbed Entity="Bloodpack"/>
@@ -22,11 +22,13 @@ Right now, medbay is divided into two different sets of care:
     <GuideEntityEmbed Entity="Gauze"/>
     <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
   </Box>
-## Chemical Production
+## Химическая Лаборатория (Синтез медикаментов)
   <Box>
     <GuideEntityEmbed Entity="ChemDispenser"/>
     <GuideEntityEmbed Entity="LargeBeaker"/>
     <GuideEntityEmbed Entity="PillCanister"/>
     <GuideEntityEmbed Entity="ChemMaster"/>
   </Box>
+
+[color=orange][bold]⚠ Важно:[/bold][/color] [color=yellow]на этом сервере действует Art Chem — переработанный баланс химии. Сама система синтеза не изменилась, но рецепты многих медикаментов отличаются от ванильных, часть старых препаратов ослаблена, а также добавлены новые медикаменты под мету сервера. Рекомендуем ознакомиться с разделом по химии перед началом работы.[/color]
 </Document>

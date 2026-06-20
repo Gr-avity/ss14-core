@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "license": "custom",
+  "license": "Custom",
   "copyright": "Сreated by odlieerr(Discord) | Odleer(Space Station 14). Only ss14-art can use these assets. Author retains all rights. Any other use requires author's written permission.",
   "size": {"x": 32, "y": 32},
-  "states": 
+  "states":
   [
     {"name": "assembly", "directions": 4},
     {"name": "bolted_unlit", "directions": 4},

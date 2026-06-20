@@ -1,5 +1,5 @@
 ---
-description: Shine Resources rules
+description: Art Resources rules
 globs:
   - "Resources/**/*.yml"
   - "Resources/**/*.ftl"
@@ -7,4 +7,4 @@ globs:
 alwaysApply: false
 ---
 
-New Shine resources belong under `_sh`. Follow SS14 YAML style, FTL localization, asset attribution, and prototype ID namespacing.
+New Shine resources belong under `_Art`. Follow SS14 YAML style, FTL localization, asset attribution, and prototype ID namespacing.

@@ -86,6 +86,14 @@ namespace Content.Shared.Chemistry.Reagent
         [DataField]
         public bool Standsout;
 
+        // SS14-Art edit start
+        /// <summary>
+        /// If true, this reagent will be hidden from the in-game guidebook.
+        /// </summary>
+        [DataField]
+        public bool GuideHidden { get; private set; }
+        // SS14-Art edit end
+
         [DataField]
         public ProtoId<FlavorPrototype>? Flavor;
 

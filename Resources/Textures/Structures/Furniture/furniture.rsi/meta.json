@@ -14,7 +14,8 @@
       "name": "bed-MED"
     },
     {
-      "name": "dogbed"
+      "name": "dogbed",
+	  "copyright": "Shiptest"
     },
     {
       "name": "mattress"
@@ -23,10 +24,12 @@
       "name": "psychbed"
     },
     {
-      "name": "rack"
+      "name": "rack",
+	  "copyright": "Shiptest"
     },
     {
-      "name": "dresser"
+      "name": "dresser",
+	  "copyright": "TauCettie"
     }
   ]
 }

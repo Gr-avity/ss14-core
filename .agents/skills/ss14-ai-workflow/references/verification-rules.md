@@ -3,7 +3,7 @@
 ## Before Calling Work Done
 
 - Check `git diff` for accidental upstream churn.
-- Check non-`_Art` edits for `ss14-art-edit` markers.
+- Check non-`_Art` edits for `Art-Edit` markers.
 - Check every player-facing string has FTL.
 - Check networked fields are dirtied.
 - Check client-origin actions are server-validated.

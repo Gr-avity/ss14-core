@@ -961,7 +961,7 @@
   reactants:
     TableSalt:
       amount: 1
-    Vinegar:
+    AceticAcid: # SS14-Art: Vinegar to Acetic Acid replaced
       amount: 1
     Water:
       amount: 1
@@ -1381,7 +1381,7 @@
 - type: reaction
   id: Cola
   reactants:
-    Ipecac:
+    Carbon:
       amount: 1
     Oxygen:
       amount: 1

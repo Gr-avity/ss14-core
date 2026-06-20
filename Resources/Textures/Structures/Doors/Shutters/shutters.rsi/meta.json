@@ -1,18 +1,18 @@
 {
     "version": 1,
-    "license": "CLA",
-    "copyright": "Sprited by discord: odlieerr",
-    "size": 
+    "license": "Custom",
+    "copyright": "Сreated by odlieerr(Discord) | Odleer(Space Station 14). Only ss14-art can use these assets. Author retains all rights. Any other use requires author's written permission.",
+    "size":
     {
         "x": 32,
         "y": 32
     },
-    "states": 
+    "states":
     [
         {
             "name": "closing",
             "directions": 4,
-            "delays": 
+            "delays":
             [
                 [
                     0.05,
@@ -75,7 +75,7 @@
         {
             "name": "opening",
             "directions": 4,
-            "delays": 
+            "delays":
             [
                 [
                     0.05,

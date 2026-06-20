@@ -4,7 +4,7 @@ Review AI-generated SS14-ART-CORE changes against this list.
 
 - No `RobustToolbox/**` modifications.
 - New SS14-ART-CORE code lives under `_Art`.
-- Any non-`_Art` file change has a tight `ss14-art-edit` marker block.
+- Any non-`_Art` file change has a tight `Art-Edit` marker block.
 - Code is modular, data-driven, and does not duplicate an existing mechanic.
 - Component data stays data-only; behavior is in systems.
 - Shared/server/client placement matches prediction and security needs.

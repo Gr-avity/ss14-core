@@ -199,6 +199,11 @@
   id: ChemDispenserMachineCircuitboard
   result: ChemDispenserMachineCircuitboard
 
+- type: latheRecipe
+  parent: [ BaseCircuitboardRecipe, BaseMedicalMachineRecipeCategory ]
+  id: SmartFridgeCircuitboard
+  result: SmartFridgeCircuitboard
+
 # Treatment
 - type: latheRecipe
   parent: [ BaseGoldCircuitboardRecipe, BaseMedicalMachineRecipeCategory ]
@@ -251,10 +256,7 @@
   id: DawInstrumentMachineCircuitboard
   result: DawInstrumentMachineCircuitboard
 
-- type: latheRecipe
-  parent: [BaseCircuitboardRecipe]
-  id: SmartFridgeCircuitboard
-  result: SmartFridgeCircuitboard
+# SS14-Art: SmartFridgeCircuitboard moved to Medical category
 
 # Bar
 - type: latheRecipe

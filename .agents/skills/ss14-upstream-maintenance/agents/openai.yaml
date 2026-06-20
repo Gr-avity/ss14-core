@@ -1,4 +1,4 @@
 interface:
   display_name: "SS14 Upstream Maintenance"
   short_description: "Fork isolation and upstream diff strategy"
-  default_prompt: "Use $ss14-upstream-maintenance when touching non-_sh files."
+  default_prompt: "Use $ss14-upstream-maintenance when touching non-_Art files."

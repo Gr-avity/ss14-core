@@ -1,7 +1,7 @@
-# Shine Codex Rules
+# SS14-Code Codex Rules
 
-- Load `.agents/skills/shine-project/SKILL.md` before repository work.
+- Load `.agents/skills/ss14-art-core/SKILL.md` before repository work.
 - Never edit `RobustToolbox/**`.
-- Put new Shine code/resources under `_sh`.
-- Mark non-`_sh` changes with `shine-edit start` / `shine-edit end`.
+- Put new SS14-Art code/resources under `_Art`.
+- Mark non-`_Art` changes with `Art-Start` / `Art-End`.
 - Prefer prediction, localization, modular ECS, typed prototypes, and focused validation.

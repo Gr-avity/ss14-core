@@ -1,14 +1,14 @@
 {
-  "name": "shine-project-local",
+  "name": "ss14-art-local",
   "interface": {
-    "displayName": "Shine Project Local"
+    "displayName": "SS14-Art Local"
   },
   "plugins": [
     {
-      "name": "shine-project",
+      "name": "ss14-art",
       "source": {
         "source": "local",
-        "path": "./plugins/shine-project"
+        "path": "./plugins/ss14-art"
       },
       "policy": {
         "installation": "AVAILABLE",

@@ -9,7 +9,7 @@ description: SS14 YAML prototype, data field, localization, guidebook, entity ta
 
 - New SS14-ART-CORE prototypes go in `Resources/Prototypes/_Art/<Subsystem>/`.
 - New SS14-ART-CORE FTL goes in `Resources/Locale/en-US/_Art/<Subsystem>/`.
-- Do not mix SS14-ART-CORE prototypes into upstream files unless integration requires it; then use `ss14-art-edit` markers.
+- Do not mix SS14-ART-CORE prototypes into upstream files unless integration requires it; then use `Art-Edit` markers.
 
 ## Bundled References
 

@@ -14,9 +14,9 @@ namespace Content.Shared.Chemistry
         public const string InputSlotName = "beakerSlot";
         public const string OutputSlotName = "outputSlot";
         public const string PillSolutionName = "food";
-        public const string PatchSolutionName = "patch"; //Starlight-edit
+        public const string PatchSolutionName = "patch"; // Starlight-edit
         public const string BottleSolutionName = "drink";
-        public const uint LabelMaxLength = 50;
+        public const uint LabelMaxLength = 150; // Increased to support more reagents
     }
 
     [Serializable, NetSerializable]
@@ -45,14 +45,16 @@ namespace Content.Shared.Chemistry
     public sealed class ChemMasterReagentAmountButtonMessage : BoundUserInterfaceMessage
     {
         public readonly ReagentId ReagentId;
-        public readonly ChemMasterReagentAmount Amount;
+        public readonly int Amount;
         public readonly bool FromBuffer;
+        public readonly bool IsOutput;
 
-        public ChemMasterReagentAmountButtonMessage(ReagentId reagentId, ChemMasterReagentAmount amount, bool fromBuffer)
+        public ChemMasterReagentAmountButtonMessage(ReagentId reagentId, int amount, bool fromBuffer, bool isOutput)
         {
             ReagentId = reagentId;
             Amount = amount;
             FromBuffer = fromBuffer;
+            IsOutput = isOutput;
         }
     }
 
@@ -71,7 +73,7 @@ namespace Content.Shared.Chemistry
         }
     }
 
-    //Starlight-start
+    // Starlight-start
     [Serializable, NetSerializable]
     public sealed class ChemMasterCreatePatchesMessage : BoundUserInterfaceMessage
     {
@@ -86,25 +88,188 @@ namespace Content.Shared.Chemistry
             Label = label;
         }
     }
-    //Starlight-end
+    // Starlight-end
 
     [Serializable, NetSerializable]
     public sealed class ChemMasterOutputToBottleMessage : BoundUserInterfaceMessage
     {
         public readonly uint Dosage;
+        public readonly uint Number;
         public readonly string Label;
 
-        public ChemMasterOutputToBottleMessage(uint dosage, string label)
+        public ChemMasterOutputToBottleMessage(uint dosage, uint number, string label)
         {
             Dosage = dosage;
+            Number = number;
             Label = label;
         }
     }
 
+    // Messages for Handlers
     [Serializable, NetSerializable]
-    public sealed class ChemMasterOutputDrawSourceMessage(ChemMasterDrawSource drawSource) : BoundUserInterfaceMessage
+    public sealed class ChemMasterSortMethodUpdated : BoundUserInterfaceMessage
     {
-        public readonly ChemMasterDrawSource DrawSource = drawSource;
+        public readonly int SortMethod;
+
+        public ChemMasterSortMethodUpdated(int sortMethod)
+        {
+            SortMethod = sortMethod;
+        }
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterTransferringAmountUpdated : BoundUserInterfaceMessage
+    {
+        public readonly int TransferringAmount;
+
+        public ChemMasterTransferringAmountUpdated(int transferringAmount)
+        {
+            TransferringAmount = transferringAmount;
+        }
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterAmountsUpdated : BoundUserInterfaceMessage
+    {
+        public readonly List<int> Amounts;
+
+        public ChemMasterAmountsUpdated(List<int> amounts)
+        {
+            Amounts = amounts;
+        }
+    }
+
+    // Bottle buttons reagent transfer
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterChooseReagentMessage : BoundUserInterfaceMessage
+    {
+        public ReagentId Reagent;
+
+        public ChemMasterChooseReagentMessage(ReagentId reagent)
+        {
+            Reagent = reagent;
+        }
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterClearReagentSelectionMessage : BoundUserInterfaceMessage
+    {
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterToggleBottleFillMessage : BoundUserInterfaceMessage
+    {
+        public int Slot;
+
+        public ChemMasterToggleBottleFillMessage(int slot)
+        {
+            Slot = slot;
+        }
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterRowEjectMessage : BoundUserInterfaceMessage
+    {
+        public readonly int Row;
+
+        public ChemMasterRowEjectMessage(int row)
+        {
+            Row = row;
+        }
+    }
+
+    // Pill container messages
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterSelectPillContainerSlotMessage : BoundUserInterfaceMessage
+    {
+        public readonly int Slot;
+
+        public ChemMasterSelectPillContainerSlotMessage(int slot)
+        {
+            Slot = slot;
+        }
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterTogglePillContainerFillMessage : BoundUserInterfaceMessage
+    {
+        public readonly int Slot;
+
+        public ChemMasterTogglePillContainerFillMessage(int slot)
+        {
+            Slot = slot;
+        }
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterPillContainerSlotEjectMessage : BoundUserInterfaceMessage
+    {
+        public readonly int Slot;
+
+        public ChemMasterPillContainerSlotEjectMessage(int slot)
+        {
+            Slot = slot;
+        }
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterPillContainerRowEjectMessage : BoundUserInterfaceMessage
+    {
+        public readonly int Row;
+
+        public ChemMasterPillContainerRowEjectMessage(int row)
+        {
+            Row = row;
+        }
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterSelectPillCanisterForCreationMessage : BoundUserInterfaceMessage
+    {
+        public readonly int CanisterIndex;
+
+        public ChemMasterSelectPillCanisterForCreationMessage(int canisterIndex)
+        {
+            CanisterIndex = canisterIndex;
+        }
+    }
+
+    // Reagent amount selection messages
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterSelectReagentAmountMessage : BoundUserInterfaceMessage
+    {
+        public readonly ReagentId Reagent;
+        public readonly int Amount;
+
+        public ChemMasterSelectReagentAmountMessage(ReagentId reagent, int amount)
+        {
+            Reagent = reagent;
+            Amount = amount;
+        }
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterRemoveReagentAmountMessage : BoundUserInterfaceMessage
+    {
+        public readonly ReagentId Reagent;
+        public readonly int Amount;
+
+        public ChemMasterRemoveReagentAmountMessage(ReagentId reagent, int amount)
+        {
+            Reagent = reagent;
+            Amount = amount;
+        }
+    }
+
+    [Serializable, NetSerializable]
+    public sealed class ChemMasterClearReagentAmountMessage : BoundUserInterfaceMessage
+    {
+        public readonly ReagentId Reagent;
+
+        public ChemMasterClearReagentAmountMessage(ReagentId reagent)
+        {
+            Reagent = reagent;
+        }
     }
 
     // Starlight-start: Plumbing valve toggle
@@ -120,81 +285,23 @@ namespace Content.Shared.Chemistry
         Discard,
     }
 
-    public enum ChemMasterSortingType : byte
-    {
-        None = 0,
-        Alphabetical = 1,
-        Quantity = 2,
-        Latest = 3,
-    }
-
-    [Serializable, NetSerializable]
-    public sealed class ChemMasterSortingTypeCycleMessage : BoundUserInterfaceMessage;
-
-
-    public enum ChemMasterReagentAmount
-    {
-        U1 = 1,
-        U5 = 5,
-        U10 = 10,
-        U15 = 15,
-        U20 = 20,
-        U25 = 25,
-        U30 = 30,
-        U50 = 50,
-        U100 = 100,
-        All,
-    }
-
-    public enum ChemMasterDrawSource
-    {
-        Internal,
-        External,
-    }
-
-    public static class ChemMasterReagentAmountToFixedPoint
-    {
-        public static FixedPoint2 GetFixedPoint(this ChemMasterReagentAmount amount)
-        {
-            if (amount == ChemMasterReagentAmount.All)
-                return FixedPoint2.MaxValue;
-            else
-                return FixedPoint2.New((int)amount);
-        }
-    }
-
     /// <summary>
     /// Information about the capacity and contents of a container for display in the UI
     /// </summary>
     [Serializable, NetSerializable]
     public sealed class ContainerInfo
     {
-        /// <summary>
-        /// The container name to show to the player
-        /// </summary>
+        /// <summary>The container name to show to the player</summary>
         public readonly string DisplayName;
 
-        /// <summary>
-        /// The currently used volume of the container
-        /// </summary>
+        /// <summary>The currently used volume of the container</summary>
         public readonly FixedPoint2 CurrentVolume;
 
-        /// <summary>
-        /// The maximum volume of the container
-        /// </summary>
+        /// <summary>The maximum volume of the container</summary>
         public readonly FixedPoint2 MaxVolume;
 
-        /// <summary>
-        /// A list of the pill entities and their sizes within the container
-        /// STARLIGHT: Edited to only be pills and not both pills and patches.
-        /// </summary>
-        public List<(string Id, FixedPoint2 Quantity)>? PillEntities { get; init; }
-
-        /// <summary>
-        /// A list of the patch entities and their sizes within the container
-        /// STARLIGHT: Added specifically for patches
-        /// </summary>
-        public List<(string Id, FixedPoint2 Quantity)>? PatchEntities { get; init; }
+        /// <summary>A list of the entities and their sizes within the container</summary>
+        public List<(string Id, FixedPoint2 Quantity)>? Entities { get; init; }
 
         public List<ReagentQuantity>? Reagents { get; init; }
 
@@ -209,50 +316,96 @@ namespace Content.Shared.Chemistry
     [Serializable, NetSerializable]
     public sealed class ChemMasterBoundUserInterfaceState : BoundUserInterfaceState
     {
-        public readonly ContainerInfo? InputContainerInfo;
-        public readonly ContainerInfo? OutputContainerInfo;
-
-        /// <summary>
-        /// A list of the reagents and their amounts within the buffer, if applicable.
-        /// </summary>
+        public readonly ContainerInfo? ContainerInfo;
         public readonly IReadOnlyList<ReagentQuantity> BufferReagents;
-
         public readonly ChemMasterMode Mode;
-
-        public readonly ChemMasterSortingType SortingType;
-
         public readonly FixedPoint2? BufferCurrentVolume;
         public readonly uint SelectedPillType;
-
         public readonly uint PillDosageLimit;
-
-        public readonly uint PatchDosageLimit; //Starlight-edit
-
+        public readonly uint PatchDosageLimit; // Starlight-edit
+        public readonly uint BottleDosageLimit;
+        public readonly uint MaxPills;
+        public readonly uint MaxBottles;
         public readonly bool UpdateLabel;
+        public readonly int SortMethod;
+        public readonly int TransferringAmount;
+        public readonly List<int> Amounts;
 
-        public readonly ChemMasterDrawSource DrawSource;
+        // Pill container storage
+        public readonly List<ContainerInfo?> StoredPillContainers;
+        public readonly List<List<bool>> PillContainers;
+        public readonly List<List<uint>> PillTypes;
+        public readonly int SelectedPillContainerSlot;
+        public readonly int SelectedPillContainerForFill;
+        public readonly int SelectedPillCanisterForCreation;
+        public readonly ReagentId? SelectedReagent;
+        public readonly ContainerInfo? SelectedPillContainerInfo;
 
-        // Starlight-start: Plumbing valve
+        // Bottle container storage
+        public readonly List<ContainerInfo?> StoredBottles;
+        public readonly int SelectedBottleForFill;
+        public readonly List<ReagentId> SelectedReagentsForBottles;
+        public readonly Dictionary<ReagentId, float> SelectedReagentAmounts;
+
+        // Starlight: valve
         public readonly bool ValveOpen;
-        // Starlight-end
 
         public ChemMasterBoundUserInterfaceState(
-            ChemMasterMode mode, ChemMasterSortingType sortingType, ContainerInfo? inputContainerInfo, ContainerInfo? outputContainerInfo,
-            IReadOnlyList<ReagentQuantity> bufferReagents, FixedPoint2 bufferCurrentVolume,
-            uint selectedPillType, uint pillDosageLimit, uint patchDosageLimit, bool updateLabel, ChemMasterDrawSource drawSource, bool valveOpen) // Starlight-edit - add patchDosageLimit, valveOpen
+            ChemMasterMode mode,
+            ContainerInfo? containerInfo,
+            IReadOnlyList<ReagentQuantity> bufferReagents,
+            FixedPoint2 bufferCurrentVolume,
+            uint selectedPillType,
+            uint pillDosageLimit,
+            uint patchDosageLimit,
+            uint bottleDosageLimit,
+            uint maxPills,
+            uint maxBottles,
+            bool updateLabel,
+            int sortMethod,
+            int transferringAmount,
+            List<int> amounts,
+            List<ContainerInfo?> storedPillContainers,
+            List<List<bool>> pillContainers,
+            List<List<uint>> pillTypes,
+            int selectedPillContainerSlot,
+            int selectedPillContainerForFill,
+            int selectedPillCanisterForCreation,
+            ReagentId? selectedReagent,
+            ContainerInfo? selectedPillContainerInfo,
+            List<ContainerInfo?> storedBottles,
+            int selectedBottleForFill,
+            List<ReagentId> selectedReagentsForBottles,
+            Dictionary<ReagentId, float> selectedReagentAmounts,
+            bool valveOpen)
         {
-            InputContainerInfo = inputContainerInfo;
-            OutputContainerInfo = outputContainerInfo;
-            BufferReagents = bufferReagents;
             Mode = mode;
-            SortingType = sortingType;
+            ContainerInfo = containerInfo;
+            BufferReagents = bufferReagents;
             BufferCurrentVolume = bufferCurrentVolume;
             SelectedPillType = selectedPillType;
             PillDosageLimit = pillDosageLimit;
-            PatchDosageLimit = patchDosageLimit; //Starlight-edit
+            PatchDosageLimit = patchDosageLimit;
+            BottleDosageLimit = bottleDosageLimit;
+            MaxPills = maxPills;
+            MaxBottles = maxBottles;
             UpdateLabel = updateLabel;
-            DrawSource = drawSource;
-            ValveOpen = valveOpen; // Starlight-edit
+            SortMethod = sortMethod;
+            TransferringAmount = transferringAmount;
+            Amounts = amounts;
+            StoredPillContainers = storedPillContainers;
+            PillContainers = pillContainers;
+            PillTypes = pillTypes;
+            SelectedPillContainerSlot = selectedPillContainerSlot;
+            SelectedPillContainerForFill = selectedPillContainerForFill;
+            SelectedPillCanisterForCreation = selectedPillCanisterForCreation;
+            SelectedReagent = selectedReagent;
+            SelectedPillContainerInfo = selectedPillContainerInfo;
+            StoredBottles = storedBottles;
+            SelectedBottleForFill = selectedBottleForFill;
+            SelectedReagentsForBottles = selectedReagentsForBottles;
+            SelectedReagentAmounts = selectedReagentAmounts;
+            ValveOpen = valveOpen;
         }
     }
 

@@ -1,8 +1,8 @@
 ---
-description: Shine Content.Shared rules
+description: Art Content.Shared rules
 globs:
   - "Content.Shared/**/*.cs"
 alwaysApply: false
 ---
 
-Shared code must stay shared-only. New Shine shared code goes under `Content.Shared/_sh`. Check prediction, networked component state, `Dirty`, and hidden data.
+Shared code must stay shared-only. New Shine shared code goes under `Content.Shared/_Art`. Check prediction, networked component state, `Dirty`, and hidden data.

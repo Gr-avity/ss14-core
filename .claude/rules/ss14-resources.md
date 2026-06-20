@@ -7,4 +7,4 @@ For `Resources/**`, use:
 - `ss14-localization-strings`;
 - `ss14-assets-attribution`.
 
-New Shine resources belong under `_sh` resource paths.
+New SS14-Art resources belong under `_Art` resource paths.
